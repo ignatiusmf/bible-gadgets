@@ -1,12 +1,3 @@
-"""
-Bible Hub Verse Scraper
-
-Scrapes verse data from BibleHub.com including:
-- Multiple Bible translations (NIV, NLT, ESV, NKJV)
-- Greek lexicon with Strong's numbers
-- Cross-references with verse text
-"""
-
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -67,7 +58,23 @@ class VerseData:
 # =============================================================================
 
 TARGET_VERSIONS = {"NIV", "NLT", "ESV", "NKJV"}
-
+BIBLE_BOOKS = [
+    "genesis", "exodus", "leviticus", "numbers", "deuteronomy",
+    "joshua", "judges", "ruth", "1_samuel", "2_samuel",
+    "1_kings", "2_kings", "1_chronicles", "2_chronicles",
+    "ezra", "nehemiah", "esther", "job", "psalms", "proverbs",
+    "ecclesiastes", "songs", "isaiah", "jeremiah", "lamentations",
+    "ezekiel", "daniel", "hosea", "joel", "amos", "obadiah",
+    "jonah", "micah", "nahum", "habakkuk", "zephaniah",
+    "haggai", "zechariah", "malachi",
+    "matthew", "mark", "luke", "john", "acts",
+    "romans", "1_corinthians", "2_corinthians", "galatians",
+    "ephesians", "philippians", "colossians",
+    "1_thessalonians", "2_thessalonians",
+    "1_timothy", "2_timothy", "titus", "philemon",
+    "hebrews", "james", "1_peter", "2_peter",
+    "1_john", "2_john", "3_john", "jude", "revelation"
+]
 
 # =============================================================================
 # Extraction Functions
@@ -279,55 +286,19 @@ def extract_cross_references(soup: BeautifulSoup) -> list[CrossReference]:
 # =============================================================================
 
 def parse_verse_reference(url: str) -> tuple[str, str, int, int]:
-    """Parse book, chapter, verse from a BibleHub URL.
-
-    Example: https://biblehub.com/1_peter/1-1.htm -> ("1 Peter 1:1", "1 Peter", 1, 1)
-    """
-    # Extract book and chapter-verse from URL
     match = re.search(r'/([a-z0-9_]+)/(\d+)-(\d+)\.htm', url.lower())
     if not match:
         return ("", "", 0, 0)
 
     book_slug = match.group(1)
+
     chapter = int(match.group(2))
     verse = int(match.group(3))
-
-    # Convert slug to proper book name
-    # e.g., "1_peter" -> "1 Peter"
     book = book_slug.replace("_", " ").title()
 
-    # Format reference
     reference = f"{book} {chapter}:{verse}"
 
     return (reference, book, chapter, verse)
-
-
-# =============================================================================
-# Bible Books (in BibleHub URL format)
-# =============================================================================
-
-BIBLE_BOOKS = [
-    "genesis", "exodus", "leviticus", "numbers", "deuteronomy",
-    "joshua", "judges", "ruth", "1_samuel", "2_samuel",
-    "1_kings", "2_kings", "1_chronicles", "2_chronicles",
-    "ezra", "nehemiah", "esther", "job", "psalms", "proverbs",
-    "ecclesiastes", "songs", "isaiah", "jeremiah", "lamentations",
-    "ezekiel", "daniel", "hosea", "joel", "amos", "obadiah",
-    "jonah", "micah", "nahum", "habakkuk", "zephaniah",
-    "haggai", "zechariah", "malachi",
-    "matthew", "mark", "luke", "john", "acts",
-    "romans", "1_corinthians", "2_corinthians", "galatians",
-    "ephesians", "philippians", "colossians",
-    "1_thessalonians", "2_thessalonians",
-    "1_timothy", "2_timothy", "titus", "philemon",
-    "hebrews", "james", "1_peter", "2_peter",
-    "1_john", "2_john", "3_john", "jude", "revelation"
-]
-
-
-# =============================================================================
-# Main Scraper Function
-# =============================================================================
 
 def verse_exists(book: str, chapter: int, verse: int) -> bool:
     """Check if a verse exists on BibleHub (returns False for 404)."""
@@ -372,16 +343,6 @@ def scrape_verse_safe(book: str, chapter: int, verse: int) -> Optional[VerseData
 
 
 def scrape_chapter(book: str, chapter: int, callback=None) -> list[VerseData]:
-    """Scrape all verses in a chapter.
-    
-    Args:
-        book: Book name in BibleHub format (e.g., "1_peter")
-        chapter: Chapter number
-        callback: Optional function called with (verse_data) after each verse
-        
-    Returns:
-        List of VerseData for all verses in the chapter
-    """
     verses = []
     verse_num = 1
     
@@ -399,15 +360,6 @@ def scrape_chapter(book: str, chapter: int, callback=None) -> list[VerseData]:
 
 
 def scrape_book(book: str, callback=None) -> list[VerseData]:
-    """Scrape all verses in a book.
-    
-    Args:
-        book: Book name in BibleHub format (e.g., "1_peter")
-        callback: Optional function called with (verse_data) after each verse
-        
-    Returns:
-        List of VerseData for all verses in the book
-    """
     all_verses = []
     chapter_num = 1
     
@@ -421,115 +373,3 @@ def scrape_book(book: str, callback=None) -> list[VerseData]:
     
     return all_verses
 
-
-def scrape_bible(books: Optional[list[str]] = None, callback=None, progress_callback=None) -> dict[str, list[VerseData]]:
-    """Scrape the entire Bible or a subset of books.
-    
-    Args:
-        books: List of book names in BibleHub format. If None, scrapes all 66 books.
-        callback: Optional function called with (verse_data) after each verse
-        progress_callback: Optional function called with (book, chapter, verse, total_verses) for progress
-        
-    Returns:
-        Dictionary mapping book names to lists of VerseData
-    """
-    if books is None:
-        books = BIBLE_BOOKS
-    
-    bible_data = {}
-    total_verses = 0
-    
-    for book in books:
-        if progress_callback:
-            progress_callback(book, 0, 0, total_verses)
-        
-        book_verses = scrape_book(book, callback)
-        bible_data[book] = book_verses
-        total_verses += len(book_verses)
-        
-        if progress_callback:
-            progress_callback(book, -1, -1, total_verses)  # -1 signals book complete
-    
-    return bible_data
-
-
-def scrape_verse(url: str) -> VerseData:
-    """Scrape all data for a Bible verse from BibleHub.
-
-    Args:
-        url: BibleHub verse URL (e.g., "https://biblehub.com/1_peter/1-1.htm")
-
-    Returns:
-        VerseData object containing translations, Greek words, and cross-references
-    """
-    # Fetch the page
-    response = requests.get(url)
-    response.raise_for_status()
-
-    soup = BeautifulSoup(response.text, "html.parser")
-
-    # Parse the reference
-    reference, book, chapter, verse = parse_verse_reference(url)
-
-    # Extract all the data
-    translations = extract_translations(soup)
-    greek_words = extract_greek_words(soup)
-    cross_refs = extract_cross_references(soup)
-
-    return VerseData(
-        reference=reference,
-        book=book,
-        chapter=chapter,
-        verse=verse,
-        translations=translations,
-        greek_words=greek_words,
-        cross_references=cross_refs
-    )
-
-
-# =============================================================================
-# CLI Entry Point
-# =============================================================================
-
-if __name__ == "__main__":
-    import sys
-
-    if len(sys.argv) > 1:
-        url = sys.argv[1]
-    else:
-        url = "https://biblehub.com/1_peter/1-1.htm"
-
-    print(f"Scraping: {url}\n")
-
-    verse_data = scrape_verse(url)
-
-    print(f"Reference: {verse_data.reference}")
-    print(f"Book: {verse_data.book}, Chapter: {verse_data.chapter}, Verse: {verse_data.verse}")
-    print()
-
-    print("=" * 60)
-    print("TRANSLATIONS")
-    print("=" * 60)
-    for t in verse_data.translations:
-        print(f"\n[{t.version}]")
-        print(t.text)
-
-    print()
-    print("=" * 60)
-    print("GREEK WORDS")
-    print("=" * 60)
-    for g in verse_data.greek_words:
-        print(f"\n'{g.english_word}' -> {g.word} ({g.transliteration}) - Strong's {g.strongs_number}")
-        if g.part_of_speech:
-            print(f"  Part of Speech: {g.part_of_speech}")
-        if g.definition:
-            print(f"  Definition: {g.definition}")
-
-    print()
-    print("=" * 60)
-    print(f"CROSS REFERENCES ({len(verse_data.cross_references)} total)")
-    print("=" * 60)
-    for cr in verse_data.cross_references:
-        print(f"\n{cr.reference}")
-        if cr.text:
-            print(f"  {cr.text}")
