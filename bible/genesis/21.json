@@ -1,0 +1,2842 @@
+{
+  "book": "genesis",
+  "chapter": 21,
+  "verses": [
+    {
+      "reference": "Genesis 21:1",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 1,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "Now the LORD was gracious to Sarah as he had said, and the LORD did for Sarah what he had promised."
+        },
+        {
+          "version": "NLT",
+          "text": "The LORD kept his word and did for Sarah exactly what he had promised."
+        },
+        {
+          "version": "ESV",
+          "text": "The LORD visited Sarah as he had said, and the LORD did to Sarah as he had promised."
+        },
+        {
+          "version": "NKJV",
+          "text": "And the LORD visited Sarah as He had said, and the LORD did for Sarah as He had spoken."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 18:10",
+          "text": "Then the LORD said, “I will surely return to you at this time next year, and your wife Sarah will have a son!” Now Sarah was behind him, listening at the entrance to the tent."
+        },
+        {
+          "reference": "Genesis 17:19",
+          "text": "But God replied, “Your wife Sarah will indeed bear you a son, and you are to name him Isaac. I will establish My covenant with him as an everlasting covenant for his descendants after him."
+        },
+        {
+          "reference": "Hebrews 11:11",
+          "text": "By faith Sarah, even though she was barren and beyond the proper age, was enabled to conceive a child, because she considered Him faithful who had promised."
+        },
+        {
+          "reference": "Romans 9:9",
+          "text": "For this is what the promise stated: “At the appointed time I will return, and Sarah will have a son.”"
+        },
+        {
+          "reference": "Genesis 18:14",
+          "text": "Is anything too difficult for the LORD? At the appointed time I will return to you—in about a year—and Sarah will have a son.”"
+        },
+        {
+          "reference": "Luke 1:36-37",
+          "text": "Look, even Elizabeth your relative has conceived a son in her old age, and she who was called barren is in her sixth month. / For no word from God will ever fail.”"
+        },
+        {
+          "reference": "Galatians 4:23",
+          "text": "His son by the slave woman was born according to the flesh, but his son by the free woman was born through the promise."
+        },
+        {
+          "reference": "Genesis 15:4",
+          "text": "Then the word of the LORD came to Abram, saying, “This one will not be your heir, but one who comes from your own body will be your heir.”"
+        },
+        {
+          "reference": "Genesis 30:22",
+          "text": "Then God remembered Rachel. He listened to her and opened her womb,"
+        },
+        {
+          "reference": "1 Samuel 1:19-20",
+          "text": "The next morning they got up early to bow in worship before the LORD, and then they returned home to Ramah. And Elkanah had relations with his wife Hannah, and the LORD remembered her. / So in the course of time, Hannah conceived and gave birth to a son. She named him Samuel, saying, “Because I have asked for him from the LORD.”"
+        },
+        {
+          "reference": "Luke 1:13",
+          "text": "But the angel said to him, “Do not be afraid, Zechariah, because your prayer has been heard. Your wife Elizabeth will bear you a son, and you are to give him the name John."
+        },
+        {
+          "reference": "Genesis 17:21",
+          "text": "But I will establish My covenant with Isaac, whom Sarah will bear to you at this time next year.”"
+        },
+        {
+          "reference": "Genesis 25:21",
+          "text": "Later, Isaac prayed to the LORD on behalf of his wife, because she was barren. And the LORD heard his prayer, and his wife Rebekah conceived."
+        },
+        {
+          "reference": "Romans 4:19-21",
+          "text": "Without weakening in his faith, he acknowledged the decrepitness of his body (since he was about a hundred years old) and the lifelessness of Sarah’s womb. / Yet he did not waver through disbelief in the promise of God, but was strengthened in his faith and gave glory to God, / being fully persuaded that God was able to do what He had promised."
+        },
+        {
+          "reference": "2 Kings 4:16-17",
+          "text": "And Elisha declared, “At this time next year, you will hold a son in your arms.” “No, my lord,” she said. “Do not lie to your maidservant, O man of God.” / But the woman did conceive, and at that time the next year she gave birth to a son, just as Elisha had told her."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:2",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 2,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "Sarah became pregnant and bore a son to Abraham in his old age, at the very time God had promised him."
+        },
+        {
+          "version": "NLT",
+          "text": "She became pregnant, and she gave birth to a son for Abraham in his old age. This happened at just the time God had said it would."
+        },
+        {
+          "version": "ESV",
+          "text": "And Sarah conceived and bore Abraham a son in his old age at the time of which God had spoken to him."
+        },
+        {
+          "version": "NKJV",
+          "text": "For Sarah conceived and bore Abraham a son in his old age, at the set time of which God had spoken to him."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 17:19",
+          "text": "But God replied, “Your wife Sarah will indeed bear you a son, and you are to name him Isaac. I will establish My covenant with him as an everlasting covenant for his descendants after him."
+        },
+        {
+          "reference": "Genesis 18:10",
+          "text": "Then the LORD said, “I will surely return to you at this time next year, and your wife Sarah will have a son!” Now Sarah was behind him, listening at the entrance to the tent."
+        },
+        {
+          "reference": "Genesis 18:14",
+          "text": "Is anything too difficult for the LORD? At the appointed time I will return to you—in about a year—and Sarah will have a son.”"
+        },
+        {
+          "reference": "Hebrews 11:11",
+          "text": "By faith Sarah, even though she was barren and beyond the proper age, was enabled to conceive a child, because she considered Him faithful who had promised."
+        },
+        {
+          "reference": "Romans 9:9",
+          "text": "For this is what the promise stated: “At the appointed time I will return, and Sarah will have a son.”"
+        },
+        {
+          "reference": "Galatians 4:22-23",
+          "text": "For it is written that Abraham had two sons, one by the slave woman and the other by the free woman. / His son by the slave woman was born according to the flesh, but his son by the free woman was born through the promise."
+        },
+        {
+          "reference": "Genesis 15:4",
+          "text": "Then the word of the LORD came to Abram, saying, “This one will not be your heir, but one who comes from your own body will be your heir.”"
+        },
+        {
+          "reference": "Genesis 17:16",
+          "text": "And I will bless her and will surely give you a son by her. I will bless her, and she will be the mother of nations; kings of peoples will descend from her.”"
+        },
+        {
+          "reference": "Genesis 30:22",
+          "text": "Then God remembered Rachel. He listened to her and opened her womb,"
+        },
+        {
+          "reference": "Luke 1:36-37",
+          "text": "Look, even Elizabeth your relative has conceived a son in her old age, and she who was called barren is in her sixth month. / For no word from God will ever fail.”"
+        },
+        {
+          "reference": "Romans 4:19-21",
+          "text": "Without weakening in his faith, he acknowledged the decrepitness of his body (since he was about a hundred years old) and the lifelessness of Sarah’s womb. / Yet he did not waver through disbelief in the promise of God, but was strengthened in his faith and gave glory to God, / being fully persuaded that God was able to do what He had promised."
+        },
+        {
+          "reference": "Genesis 25:21",
+          "text": "Later, Isaac prayed to the LORD on behalf of his wife, because she was barren. And the LORD heard his prayer, and his wife Rebekah conceived."
+        },
+        {
+          "reference": "Genesis 29:31",
+          "text": "When the LORD saw that Leah was unloved, He opened her womb; but Rachel was barren."
+        },
+        {
+          "reference": "1 Samuel 1:19-20",
+          "text": "The next morning they got up early to bow in worship before the LORD, and then they returned home to Ramah. And Elkanah had relations with his wife Hannah, and the LORD remembered her. / So in the course of time, Hannah conceived and gave birth to a son. She named him Samuel, saying, “Because I have asked for him from the LORD.”"
+        },
+        {
+          "reference": "2 Kings 4:16-17",
+          "text": "And Elisha declared, “At this time next year, you will hold a son in your arms.” “No, my lord,” she said. “Do not lie to your maidservant, O man of God.” / But the woman did conceive, and at that time the next year she gave birth to a son, just as Elisha had told her."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:3",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 3,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "Abraham gave the name Isaac to the son Sarah bore him."
+        },
+        {
+          "version": "NLT",
+          "text": "And Abraham named their son Isaac."
+        },
+        {
+          "version": "ESV",
+          "text": "Abraham called the name of his son who was born to him, whom Sarah bore him, Isaac."
+        },
+        {
+          "version": "NKJV",
+          "text": "And Abraham called the name of his son who was born to him—whom Sarah bore to him—Isaac."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 17:19",
+          "text": "But God replied, “Your wife Sarah will indeed bear you a son, and you are to name him Isaac. I will establish My covenant with him as an everlasting covenant for his descendants after him."
+        },
+        {
+          "reference": "Genesis 18:10",
+          "text": "Then the LORD said, “I will surely return to you at this time next year, and your wife Sarah will have a son!” Now Sarah was behind him, listening at the entrance to the tent."
+        },
+        {
+          "reference": "Genesis 18:14",
+          "text": "Is anything too difficult for the LORD? At the appointed time I will return to you—in about a year—and Sarah will have a son.”"
+        },
+        {
+          "reference": "Hebrews 11:11",
+          "text": "By faith Sarah, even though she was barren and beyond the proper age, was enabled to conceive a child, because she considered Him faithful who had promised."
+        },
+        {
+          "reference": "Romans 9:7-9",
+          "text": "Nor because they are Abraham’s descendants are they all his children. On the contrary, “Through Isaac your offspring will be reckoned.” / So it is not the children of the flesh who are God’s children, but it is the children of the promise who are regarded as offspring. / For this is what the promise stated: “At the appointed time I will return, and Sarah will have a son.”"
+        },
+        {
+          "reference": "Galatians 4:22-23",
+          "text": "For it is written that Abraham had two sons, one by the slave woman and the other by the free woman. / His son by the slave woman was born according to the flesh, but his son by the free woman was born through the promise."
+        },
+        {
+          "reference": "Genesis 15:4",
+          "text": "Then the word of the LORD came to Abram, saying, “This one will not be your heir, but one who comes from your own body will be your heir.”"
+        },
+        {
+          "reference": "Genesis 22:2",
+          "text": "“Take your son,” God said, “your only son Isaac, whom you love, and go to the land of Moriah. Offer him there as a burnt offering on one of the mountains, which I will show you.”"
+        },
+        {
+          "reference": "Genesis 25:19",
+          "text": "This is the account of Abraham’s son Isaac. Abraham became the father of Isaac,"
+        },
+        {
+          "reference": "Genesis 30:22-24",
+          "text": "Then God remembered Rachel. He listened to her and opened her womb, / and she conceived and gave birth to a son. “God has taken away my shame,” she said. / She named him Joseph, and said, “May the LORD add to me another son.”"
+        },
+        {
+          "reference": "Genesis 35:23",
+          "text": "The sons of Leah were Reuben the firstborn of Jacob, Simeon, Levi, Judah, Issachar, and Zebulun."
+        },
+        {
+          "reference": "Genesis 46:19",
+          "text": "The sons of Jacob’s wife Rachel: Joseph and Benjamin."
+        },
+        {
+          "reference": "Genesis 48:5",
+          "text": "And now your two sons born to you in Egypt before I came to you here shall be reckoned as mine; Ephraim and Manasseh shall be mine, just as Reuben and Simeon are mine."
+        },
+        {
+          "reference": "Genesis 49:3",
+          "text": "Reuben, you are my firstborn, my might, and the beginning of my strength, excelling in honor, excelling in power."
+        },
+        {
+          "reference": "1 Samuel 1:20",
+          "text": "So in the course of time, Hannah conceived and gave birth to a son. She named him Samuel, saying, “Because I have asked for him from the LORD.”"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:4",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 4,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "When his son Isaac was eight days old, Abraham circumcised him, as God commanded him."
+        },
+        {
+          "version": "NLT",
+          "text": "Eight days after Isaac was born, Abraham circumcised him as God had commanded."
+        },
+        {
+          "version": "ESV",
+          "text": "And Abraham circumcised his son Isaac when he was eight days old, as God had commanded him."
+        },
+        {
+          "version": "NKJV",
+          "text": "Then Abraham circumcised his son Isaac when he was eight days old, as God had commanded him."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 17:10-12",
+          "text": "This is My covenant with you and your descendants after you, which you are to keep: Every male among you must be circumcised. / You are to circumcise the flesh of your foreskin, and this will be a sign of the covenant between Me and you. / Generation after generation, every male must be circumcised when he is eight days old, including those born in your household and those purchased from a foreigner—even those who are not your offspring."
+        },
+        {
+          "reference": "Genesis 17:23-27",
+          "text": "On that very day Abraham took his son Ishmael and all those born in his household or purchased with his money—every male among the members of Abraham’s household—and he circumcised them, just as God had told him. / So Abraham was ninety-nine years old when he was circumcised, / and his son Ishmael was thirteen; ..."
+        },
+        {
+          "reference": "Leviticus 12:3",
+          "text": "And on the eighth day the flesh of the boy’s foreskin is to be circumcised."
+        },
+        {
+          "reference": "Acts 7:8",
+          "text": "Then God gave Abraham the covenant of circumcision, and Abraham became the father of Isaac and circumcised him on the eighth day. And Isaac became the father of Jacob, and Jacob of the twelve patriarchs."
+        },
+        {
+          "reference": "Romans 4:11",
+          "text": "And he received the sign of circumcision as a seal of the righteousness that he had by faith while he was still uncircumcised. So then, he is the father of all who believe but are not circumcised, in order that righteousness might be credited to them."
+        },
+        {
+          "reference": "Galatians 5:3",
+          "text": "Again I testify to every man who gets himself circumcised that he is obligated to obey the whole law."
+        },
+        {
+          "reference": "Philippians 3:5",
+          "text": "circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin; a Hebrew of Hebrews; as to the law, a Pharisee;"
+        },
+        {
+          "reference": "Luke 1:59",
+          "text": "On the eighth day, when they came to circumcise the child, they were going to name him after his father Zechariah."
+        },
+        {
+          "reference": "Luke 2:21",
+          "text": "When the eight days before His circumcision had passed, He was named Jesus, the name the angel had given Him before He was conceived."
+        },
+        {
+          "reference": "John 7:22-23",
+          "text": "But because Moses gave you circumcision, you circumcise a boy on the Sabbath (not that it is from Moses, but from the patriarchs.) / If a boy can be circumcised on the Sabbath so that the law of Moses will not be broken, why are you angry with Me for making the whole man well on the Sabbath?"
+        },
+        {
+          "reference": "Joshua 5:2-9",
+          "text": "At that time the LORD said to Joshua, “Make flint knives and circumcise the sons of Israel once again.” / So Joshua made flint knives and circumcised the sons of Israel at Gibeath-haaraloth. / Now this is why Joshua circumcised them: All those who came out of Egypt—all the men of war—had died on the journey in the wilderness after they had left Egypt. ..."
+        },
+        {
+          "reference": "Exodus 4:25-26",
+          "text": "But Zipporah took a flint knife, cut off her son’s foreskin, and touched it to Moses’ feet. “Surely you are a bridegroom of blood to me,” she said. / So the LORD let him alone. (When she said, “bridegroom of blood,” she was referring to the circumcision.)"
+        },
+        {
+          "reference": "Deuteronomy 10:16",
+          "text": "Circumcise your hearts, therefore, and stiffen your necks no more."
+        },
+        {
+          "reference": "Jeremiah 4:4",
+          "text": "Circumcise yourselves to the LORD, and remove the foreskins of your hearts, O men of Judah and people of Jerusalem. Otherwise, My wrath will break out like fire and burn with no one to extinguish it, because of your evil deeds.”"
+        },
+        {
+          "reference": "Colossians 2:11-12",
+          "text": "In Him you were also circumcised, in the putting off of your sinful nature, with the circumcision performed by Christ and not by human hands. / And having been buried with Him in baptism, you were raised with Him through your faith in the power of God, who raised Him from the dead."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:5",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 5,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "Abraham was a hundred years old when his son Isaac was born to him."
+        },
+        {
+          "version": "NLT",
+          "text": "Abraham was 100 years old when Isaac was born."
+        },
+        {
+          "version": "ESV",
+          "text": "Abraham was a hundred years old when his son Isaac was born to him."
+        },
+        {
+          "version": "NKJV",
+          "text": "Now Abraham was one hundred years old when his son Isaac was born to him."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Romans 4:19",
+          "text": "Without weakening in his faith, he acknowledged the decrepitness of his body (since he was about a hundred years old) and the lifelessness of Sarah’s womb."
+        },
+        {
+          "reference": "Hebrews 11:11-12",
+          "text": "By faith Sarah, even though she was barren and beyond the proper age, was enabled to conceive a child, because she considered Him faithful who had promised. / And so from one man, and he as good as dead, came descendants as numerous as the stars in the sky and as countless as the sand on the seashore."
+        },
+        {
+          "reference": "Genesis 17:17",
+          "text": "Abraham fell facedown. Then he laughed and said to himself, “Can a child be born to a man who is a hundred years old? Can Sarah give birth at the age of ninety?”"
+        },
+        {
+          "reference": "Genesis 18:11-14",
+          "text": "And Abraham and Sarah were already old and well along in years; Sarah had passed the age of childbearing. / So she laughed to herself, saying, “After I am worn out and my master is old, will I now have this pleasure?” / And the LORD asked Abraham, “Why did Sarah laugh and say, ‘Can I really bear a child when I am old?’ ..."
+        },
+        {
+          "reference": "Romans 9:9",
+          "text": "For this is what the promise stated: “At the appointed time I will return, and Sarah will have a son.”"
+        },
+        {
+          "reference": "Galatians 4:22-23",
+          "text": "For it is written that Abraham had two sons, one by the slave woman and the other by the free woman. / His son by the slave woman was born according to the flesh, but his son by the free woman was born through the promise."
+        },
+        {
+          "reference": "Genesis 12:4",
+          "text": "So Abram departed, as the LORD had directed him, and Lot went with him. Abram was seventy-five years old when he left Haran."
+        },
+        {
+          "reference": "Genesis 15:4-6",
+          "text": "Then the word of the LORD came to Abram, saying, “This one will not be your heir, but one who comes from your own body will be your heir.” / And the LORD took him outside and said, “Now look to the heavens and count the stars, if you are able.” Then He told him, “So shall your offspring be.” / Abram believed the LORD, and it was credited to him as righteousness."
+        },
+        {
+          "reference": "Genesis 25:7",
+          "text": "Abraham lived a total of 175 years."
+        },
+        {
+          "reference": "Genesis 25:19-21",
+          "text": "This is the account of Abraham’s son Isaac. Abraham became the father of Isaac, / and Isaac was forty years old when he married Rebekah, the daughter of Bethuel the Aramean from Paddan-aram and the sister of Laban the Aramean. / Later, Isaac prayed to the LORD on behalf of his wife, because she was barren. And the LORD heard his prayer, and his wife Rebekah conceived."
+        },
+        {
+          "reference": "Luke 1:36-37",
+          "text": "Look, even Elizabeth your relative has conceived a son in her old age, and she who was called barren is in her sixth month. / For no word from God will ever fail.”"
+        },
+        {
+          "reference": "Genesis 22:1-2",
+          "text": "Some time later God tested Abraham and said to him, “Abraham!” “Here I am,” he answered. / “Take your son,” God said, “your only son Isaac, whom you love, and go to the land of Moriah. Offer him there as a burnt offering on one of the mountains, which I will show you.”"
+        },
+        {
+          "reference": "Genesis 30:22-24",
+          "text": "Then God remembered Rachel. He listened to her and opened her womb, / and she conceived and gave birth to a son. “God has taken away my shame,” she said. / She named him Joseph, and said, “May the LORD add to me another son.”"
+        },
+        {
+          "reference": "Genesis 35:28-29",
+          "text": "And Isaac lived 180 years. / Then he breathed his last and died and was gathered to his people, old and full of years. And his sons Esau and Jacob buried him."
+        },
+        {
+          "reference": "Genesis 50:22-23",
+          "text": "Now Joseph and his father’s household remained in Egypt, and Joseph lived to the age of 110. / He saw Ephraim’s sons to the third generation, and indeed the sons of Machir son of Manasseh were brought up on Joseph’s knees."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:6",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 6,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "Sarah said, “God has brought me laughter, and everyone who hears about this will laugh with me.”"
+        },
+        {
+          "version": "NLT",
+          "text": "And Sarah declared, “God has brought me laughter. All who hear about this will laugh with me."
+        },
+        {
+          "version": "ESV",
+          "text": "And Sarah said, “God has made laughter for me; everyone who hears will laugh over me.”"
+        },
+        {
+          "version": "NKJV",
+          "text": "And Sarah said, “God has made me laugh, and all who hear will laugh with me.”"
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 18:12-15",
+          "text": "So she laughed to herself, saying, “After I am worn out and my master is old, will I now have this pleasure?” / And the LORD asked Abraham, “Why did Sarah laugh and say, ‘Can I really bear a child when I am old?’ / Is anything too difficult for the LORD? At the appointed time I will return to you—in about a year—and Sarah will have a son.” ..."
+        },
+        {
+          "reference": "Luke 1:58",
+          "text": "Her neighbors and relatives heard that the Lord had shown her great mercy, and they rejoiced with her."
+        },
+        {
+          "reference": "Hebrews 11:11",
+          "text": "By faith Sarah, even though she was barren and beyond the proper age, was enabled to conceive a child, because she considered Him faithful who had promised."
+        },
+        {
+          "reference": "Psalm 126:2",
+          "text": "Then our mouths were filled with laughter, our tongues with shouts of joy. Then it was said among the nations, “The LORD has done great things for them.”"
+        },
+        {
+          "reference": "Romans 4:19-21",
+          "text": "Without weakening in his faith, he acknowledged the decrepitness of his body (since he was about a hundred years old) and the lifelessness of Sarah’s womb. / Yet he did not waver through disbelief in the promise of God, but was strengthened in his faith and gave glory to God, / being fully persuaded that God was able to do what He had promised."
+        },
+        {
+          "reference": "Galatians 4:27",
+          "text": "For it is written: “Rejoice, O barren woman, who bears no children; break forth and cry aloud, you who have never travailed; because more are the children of the desolate woman than of her who has a husband.”"
+        },
+        {
+          "reference": "Isaiah 54:1",
+          "text": "“Shout for joy, O barren woman, who bears no children; break forth in song and cry aloud, you who have never travailed; because more are the children of the desolate woman than of her who has a husband,” says the LORD."
+        },
+        {
+          "reference": "Luke 1:14",
+          "text": "He will be a joy and delight to you, and many will rejoice at his birth,"
+        },
+        {
+          "reference": "John 16:21",
+          "text": "A woman has pain in childbirth because her time has come; but when she brings forth her child, she forgets her anguish because of her joy that a child has been born into the world."
+        },
+        {
+          "reference": "Job 8:21",
+          "text": "He will yet fill your mouth with laughter, and your lips with a shout of joy."
+        },
+        {
+          "reference": "Romans 9:9",
+          "text": "For this is what the promise stated: “At the appointed time I will return, and Sarah will have a son.”"
+        },
+        {
+          "reference": "1 Samuel 2:1",
+          "text": "At that time Hannah prayed: “My heart rejoices in the LORD; my horn is exalted in the LORD. My mouth speaks boldly against my enemies, for I rejoice in Your salvation."
+        },
+        {
+          "reference": "Luke 6:21",
+          "text": "Blessed are you who hunger now, for you will be filled. Blessed are you who weep now, for you will laugh."
+        },
+        {
+          "reference": "Psalm 113:9",
+          "text": "He settles the barren woman in her home as a joyful mother to her children. Hallelujah!"
+        },
+        {
+          "reference": "1 Peter 1:6-8",
+          "text": "In this you greatly rejoice, though now for a little while you may have had to suffer grief in various trials / so that the proven character of your faith—more precious than gold, which perishes even though refined by fire—may result in praise, glory, and honor at the revelation of Jesus Christ. / Though you have not seen Him, you love Him; and though you do not see Him now, you believe in Him and rejoice with an inexpressible and glorious joy,"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:7",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 7,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "And she added, “Who would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age.”"
+        },
+        {
+          "version": "NLT",
+          "text": "Who would have said to Abraham that Sarah would nurse a baby? Yet I have given Abraham a son in his old age!”"
+        },
+        {
+          "version": "ESV",
+          "text": "And she said, “Who would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age.”"
+        },
+        {
+          "version": "NKJV",
+          "text": "She also said, “Who would have said to Abraham that Sarah would nurse children? For I have borne him a son in his old age.”"
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 18:12-14",
+          "text": "So she laughed to herself, saying, “After I am worn out and my master is old, will I now have this pleasure?” / And the LORD asked Abraham, “Why did Sarah laugh and say, ‘Can I really bear a child when I am old?’ / Is anything too difficult for the LORD? At the appointed time I will return to you—in about a year—and Sarah will have a son.”"
+        },
+        {
+          "reference": "Hebrews 11:11-12",
+          "text": "By faith Sarah, even though she was barren and beyond the proper age, was enabled to conceive a child, because she considered Him faithful who had promised. / And so from one man, and he as good as dead, came descendants as numerous as the stars in the sky and as countless as the sand on the seashore."
+        },
+        {
+          "reference": "Romans 4:19-21",
+          "text": "Without weakening in his faith, he acknowledged the decrepitness of his body (since he was about a hundred years old) and the lifelessness of Sarah’s womb. / Yet he did not waver through disbelief in the promise of God, but was strengthened in his faith and gave glory to God, / being fully persuaded that God was able to do what He had promised."
+        },
+        {
+          "reference": "Luke 1:36-37",
+          "text": "Look, even Elizabeth your relative has conceived a son in her old age, and she who was called barren is in her sixth month. / For no word from God will ever fail.”"
+        },
+        {
+          "reference": "Genesis 17:17",
+          "text": "Abraham fell facedown. Then he laughed and said to himself, “Can a child be born to a man who is a hundred years old? Can Sarah give birth at the age of ninety?”"
+        },
+        {
+          "reference": "Romans 9:9",
+          "text": "For this is what the promise stated: “At the appointed time I will return, and Sarah will have a son.”"
+        },
+        {
+          "reference": "Galatians 4:22-23",
+          "text": "For it is written that Abraham had two sons, one by the slave woman and the other by the free woman. / His son by the slave woman was born according to the flesh, but his son by the free woman was born through the promise."
+        },
+        {
+          "reference": "Genesis 15:4-6",
+          "text": "Then the word of the LORD came to Abram, saying, “This one will not be your heir, but one who comes from your own body will be your heir.” / And the LORD took him outside and said, “Now look to the heavens and count the stars, if you are able.” Then He told him, “So shall your offspring be.” / Abram believed the LORD, and it was credited to him as righteousness."
+        },
+        {
+          "reference": "Genesis 12:2",
+          "text": "I will make you into a great nation, and I will bless you; I will make your name great, so that you will be a blessing."
+        },
+        {
+          "reference": "Genesis 22:1-2",
+          "text": "Some time later God tested Abraham and said to him, “Abraham!” “Here I am,” he answered. / “Take your son,” God said, “your only son Isaac, whom you love, and go to the land of Moriah. Offer him there as a burnt offering on one of the mountains, which I will show you.”"
+        },
+        {
+          "reference": "Genesis 30:22-24",
+          "text": "Then God remembered Rachel. He listened to her and opened her womb, / and she conceived and gave birth to a son. “God has taken away my shame,” she said. / She named him Joseph, and said, “May the LORD add to me another son.”"
+        },
+        {
+          "reference": "1 Samuel 1:19-20",
+          "text": "The next morning they got up early to bow in worship before the LORD, and then they returned home to Ramah. And Elkanah had relations with his wife Hannah, and the LORD remembered her. / So in the course of time, Hannah conceived and gave birth to a son. She named him Samuel, saying, “Because I have asked for him from the LORD.”"
+        },
+        {
+          "reference": "Psalm 113:9",
+          "text": "He settles the barren woman in her home as a joyful mother to her children. Hallelujah!"
+        },
+        {
+          "reference": "Isaiah 54:1",
+          "text": "“Shout for joy, O barren woman, who bears no children; break forth in song and cry aloud, you who have never travailed; because more are the children of the desolate woman than of her who has a husband,” says the LORD."
+        },
+        {
+          "reference": "Luke 1:57-58",
+          "text": "When the time came for Elizabeth to have her child, she gave birth to a son. / Her neighbors and relatives heard that the Lord had shown her great mercy, and they rejoiced with her."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:8",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 8,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "The child grew and was weaned, and on the day Isaac was weaned Abraham held a great feast."
+        },
+        {
+          "version": "NLT",
+          "text": "When Isaac grew up and was about to be weaned, Abraham prepared a huge feast to celebrate the occasion."
+        },
+        {
+          "version": "ESV",
+          "text": "And the child grew and was weaned. And Abraham made a great feast on the day that Isaac was weaned."
+        },
+        {
+          "version": "NKJV",
+          "text": "So the child grew and was weaned. And Abraham made a great feast on the same day that Isaac was weaned."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Galatians 4:28-31",
+          "text": "Now you, brothers, like Isaac, are children of promise. / At that time, however, the son born by the flesh persecuted the son born by the Spirit. It is the same now. / But what does the Scripture say? “Expel the slave woman and her son, for the slave woman’s son will never share in the inheritance with the free woman’s son.” ..."
+        },
+        {
+          "reference": "Hebrews 11:11-12",
+          "text": "By faith Sarah, even though she was barren and beyond the proper age, was enabled to conceive a child, because she considered Him faithful who had promised. / And so from one man, and he as good as dead, came descendants as numerous as the stars in the sky and as countless as the sand on the seashore."
+        },
+        {
+          "reference": "Romans 9:7-9",
+          "text": "Nor because they are Abraham’s descendants are they all his children. On the contrary, “Through Isaac your offspring will be reckoned.” / So it is not the children of the flesh who are God’s children, but it is the children of the promise who are regarded as offspring. / For this is what the promise stated: “At the appointed time I will return, and Sarah will have a son.”"
+        },
+        {
+          "reference": "Galatians 4:22-23",
+          "text": "For it is written that Abraham had two sons, one by the slave woman and the other by the free woman. / His son by the slave woman was born according to the flesh, but his son by the free woman was born through the promise."
+        },
+        {
+          "reference": "Genesis 17:19",
+          "text": "But God replied, “Your wife Sarah will indeed bear you a son, and you are to name him Isaac. I will establish My covenant with him as an everlasting covenant for his descendants after him."
+        },
+        {
+          "reference": "Genesis 18:10-14",
+          "text": "Then the LORD said, “I will surely return to you at this time next year, and your wife Sarah will have a son!” Now Sarah was behind him, listening at the entrance to the tent. / And Abraham and Sarah were already old and well along in years; Sarah had passed the age of childbearing. / So she laughed to herself, saying, “After I am worn out and my master is old, will I now have this pleasure?” ..."
+        },
+        {
+          "reference": "Genesis 15:4-5",
+          "text": "Then the word of the LORD came to Abram, saying, “This one will not be your heir, but one who comes from your own body will be your heir.” / And the LORD took him outside and said, “Now look to the heavens and count the stars, if you are able.” Then He told him, “So shall your offspring be.”"
+        },
+        {
+          "reference": "Genesis 22:2",
+          "text": "“Take your son,” God said, “your only son Isaac, whom you love, and go to the land of Moriah. Offer him there as a burnt offering on one of the mountains, which I will show you.”"
+        },
+        {
+          "reference": "Genesis 25:1-2",
+          "text": "Now Abraham had taken another wife, named Keturah, / and she bore him Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah."
+        },
+        {
+          "reference": "Genesis 30:1-2",
+          "text": "When Rachel saw that she was not bearing any children for Jacob, she envied her sister. “Give me children, or I will die!” she said to Jacob. / Jacob became angry with Rachel and said, “Am I in the place of God, who has withheld children from you?”"
+        },
+        {
+          "reference": "Genesis 16:15-16",
+          "text": "And Hagar bore Abram a son, and Abram gave the name Ishmael to the son she had borne. / Abram was eighty-six years old when Hagar bore Ishmael to him."
+        },
+        {
+          "reference": "Genesis 24:36",
+          "text": "My master’s wife Sarah has borne him a son in her old age, and my master has given him everything he owns."
+        },
+        {
+          "reference": "Genesis 26:3-5",
+          "text": "Stay in this land as a foreigner, and I will be with you and bless you. For I will give all these lands to you and your offspring, and I will confirm the oath that I swore to your father Abraham. / I will make your descendants as numerous as the stars in the sky, and I will give them all these lands, and through your offspring all nations of the earth will be blessed, / because Abraham listened to My voice and kept My charge, My commandments, My statutes, and My laws.”"
+        },
+        {
+          "reference": "Genesis 28:14",
+          "text": "Your descendants will be like the dust of the earth, and you will spread out to the west and east and north and south. All the families of the earth will be blessed through you and your offspring."
+        },
+        {
+          "reference": "Genesis 35:12",
+          "text": "The land that I gave to Abraham and Isaac I will give to you, and I will give this land to your descendants after you.”"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:9",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 9,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "But Sarah saw that the son whom Hagar the Egyptian had borne to Abraham was mocking,"
+        },
+        {
+          "version": "NLT",
+          "text": "But Sarah saw Ishmael—the son of Abraham and her Egyptian servant Hagar—making fun of her son, Isaac."
+        },
+        {
+          "version": "ESV",
+          "text": "But Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham, laughing."
+        },
+        {
+          "version": "NKJV",
+          "text": "And Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham, scoffing."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Galatians 4:29",
+          "text": "At that time, however, the son born by the flesh persecuted the son born by the Spirit. It is the same now."
+        },
+        {
+          "reference": "Genesis 16:4-5",
+          "text": "And he slept with Hagar, and she conceived. But when Hagar realized that she was pregnant, she began to despise her mistress. / Then Sarai said to Abram, “May the wrong done to me be upon you! I delivered my servant into your arms, and ever since she saw that she was pregnant, she has treated me with contempt. May the LORD judge between you and me.”"
+        },
+        {
+          "reference": "Genesis 16:15",
+          "text": "And Hagar bore Abram a son, and Abram gave the name Ishmael to the son she had borne."
+        },
+        {
+          "reference": "Genesis 17:19-21",
+          "text": "But God replied, “Your wife Sarah will indeed bear you a son, and you are to name him Isaac. I will establish My covenant with him as an everlasting covenant for his descendants after him. / As for Ishmael, I have heard you, and I will surely bless him; I will make him fruitful and multiply him greatly. He will become the father of twelve rulers, and I will make him into a great nation. / But I will establish My covenant with Isaac, whom Sarah will bear to you at this time next year.”"
+        },
+        {
+          "reference": "Genesis 25:6",
+          "text": "But while he was still alive, Abraham gave gifts to the sons of his concubines and sent them away from his son Isaac to the land of the east."
+        },
+        {
+          "reference": "Genesis 37:4",
+          "text": "When Joseph’s brothers saw that their father loved him more than any of them, they hated him and could not speak a kind word to him."
+        },
+        {
+          "reference": "Exodus 1:10",
+          "text": "Come, let us deal shrewdly with them, or they will increase even more; and if a war breaks out, they may join our enemies, fight against us, and leave the country.”"
+        },
+        {
+          "reference": "1 Samuel 1:6",
+          "text": "Because the LORD had closed Hannah’s womb, her rival would provoke her viciously to taunt her."
+        },
+        {
+          "reference": "1 Samuel 18:9",
+          "text": "And from that day forward Saul kept a jealous eye on David."
+        },
+        {
+          "reference": "2 Samuel 2:14-16",
+          "text": "Then Abner said to Joab, “Let us have the young men get up and compete before us.” “Let them get up,” Joab replied. / So they got up and were counted off—twelve for Benjamin and Ish-bosheth son of Saul, and twelve for David. / Then each man grabbed his opponent by the head and thrust his sword into his opponent’s side, and they all fell together. So this place, which is in Gibeon, is called Helkath-hazzurim."
+        },
+        {
+          "reference": "Psalm 35:19",
+          "text": "Let not my enemies gloat over me without cause, nor those who hate me without reason wink in malice."
+        },
+        {
+          "reference": "Psalm 69:4",
+          "text": "Those who hate me without cause outnumber the hairs of my head; many are those who would destroy me—my enemies for no reason. Though I did not steal, I must repay."
+        },
+        {
+          "reference": "Psalm 106:16",
+          "text": "In the camp they envied Moses, as well as Aaron, the holy one of the LORD."
+        },
+        {
+          "reference": "Proverbs 22:10",
+          "text": "Drive out the mocker, and conflict will depart; even quarreling and insults will cease."
+        },
+        {
+          "reference": "Isaiah 11:13",
+          "text": "Then the jealousy of Ephraim will depart, and the adversaries of Judah will be cut off. Ephraim will no longer envy Judah, nor will Judah harass Ephraim."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:10",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 10,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "and she said to Abraham, “Get rid of that slave woman and her son, for that woman’s son will never share in the inheritance with my son Isaac.”"
+        },
+        {
+          "version": "NLT",
+          "text": "So she turned to Abraham and demanded, “Get rid of that slave woman and her son. He is not going to share the inheritance with my son, Isaac. I won’t have it!”"
+        },
+        {
+          "version": "ESV",
+          "text": "So she said to Abraham, “Cast out this slave woman with her son, for the son of this slave woman shall not be heir with my son Isaac.”"
+        },
+        {
+          "version": "NKJV",
+          "text": "Therefore she said to Abraham, “Cast out this bondwoman and her son; for the son of this bondwoman shall not be heir with my son, namely with Isaac.”"
+        }
+      ],
+      "greek_words": [],
+      "cross_references": []
+    },
+    {
+      "reference": "Genesis 21:11",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 11,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "The matter distressed Abraham greatly because it concerned his son."
+        },
+        {
+          "version": "NLT",
+          "text": "This upset Abraham very much because Ishmael was his son."
+        },
+        {
+          "version": "ESV",
+          "text": "And the thing was very displeasing to Abraham on account of his son."
+        },
+        {
+          "version": "NKJV",
+          "text": "And the matter was very displeasing in Abraham’s sight because of his son."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 17:18-20",
+          "text": "And Abraham said to God, “O that Ishmael might live under Your blessing!” / But God replied, “Your wife Sarah will indeed bear you a son, and you are to name him Isaac. I will establish My covenant with him as an everlasting covenant for his descendants after him. / As for Ishmael, I have heard you, and I will surely bless him; I will make him fruitful and multiply him greatly. He will become the father of twelve rulers, and I will make him into a great nation."
+        },
+        {
+          "reference": "Genesis 16:11-12",
+          "text": "The angel of the LORD proceeded: “Behold, you have conceived and will bear a son. And you shall name him Ishmael, for the LORD has heard your cry of affliction. / He will be a wild donkey of a man, and his hand will be against everyone, and everyone’s hand against him; he will live in hostility toward all his brothers.”"
+        },
+        {
+          "reference": "Genesis 25:12-18",
+          "text": "This is the account of Abraham’s son Ishmael, whom Hagar the Egyptian, Sarah’s maidservant, bore to Abraham. / These are the names of the sons of Ishmael in the order of their birth: Nebaioth the firstborn of Ishmael, then Kedar, Adbeel, Mibsam, / Mishma, Dumah, Massa, ..."
+        },
+        {
+          "reference": "Genesis 22:2",
+          "text": "“Take your son,” God said, “your only son Isaac, whom you love, and go to the land of Moriah. Offer him there as a burnt offering on one of the mountains, which I will show you.”"
+        },
+        {
+          "reference": "Genesis 28:8-9",
+          "text": "And seeing that his father Isaac disapproved of the Canaanite women, / Esau went to Ishmael and married Mahalath, the sister of Nebaioth and daughter of Abraham’s son Ishmael, in addition to the wives he already had."
+        },
+        {
+          "reference": "Genesis 30:1-2",
+          "text": "When Rachel saw that she was not bearing any children for Jacob, she envied her sister. “Give me children, or I will die!” she said to Jacob. / Jacob became angry with Rachel and said, “Am I in the place of God, who has withheld children from you?”"
+        },
+        {
+          "reference": "Genesis 37:35",
+          "text": "All his sons and daughters tried to comfort him, but he refused to be comforted. “No,” he said. “I will go down to Sheol mourning for my son.” So his father wept for him."
+        },
+        {
+          "reference": "Exodus 2:24",
+          "text": "So God heard their groaning, and He remembered His covenant with Abraham, Isaac, and Jacob."
+        },
+        {
+          "reference": "Deuteronomy 21:15-17",
+          "text": "If a man has two wives, one beloved and the other unloved, and both bear him sons, but the unloved wife has the firstborn son, / when that man assigns his inheritance to his sons he must not appoint the son of the beloved wife as the firstborn over the son of the unloved wife. / Instead, he must acknowledge the firstborn, the son of his unloved wife, by giving him a double portion of all that he has. For that son is the firstfruits of his father’s strength; the right of the firstborn belongs to him."
+        },
+        {
+          "reference": "1 Samuel 1:8",
+          "text": "“Hannah, why are you crying?” her husband Elkanah asked. “Why won’t you eat? Why is your heart so grieved? Am I not better to you than ten sons?”"
+        },
+        {
+          "reference": "1 Samuel 8:6",
+          "text": "But when they said, “Give us a king to judge us,” their demand was displeasing in the sight of Samuel; so he prayed to the LORD."
+        },
+        {
+          "reference": "2 Samuel 18:33",
+          "text": "The king was shaken and went up to the chamber over the gate and wept. And as he walked, he cried out, “O my son Absalom! My son, my son Absalom! If only I had died instead of you, O Absalom, my son, my son!”"
+        },
+        {
+          "reference": "1 Kings 2:24-25",
+          "text": "And now, as surely as the LORD lives—the One who established me, who set me on the throne of my father David, and who founded for me a dynasty as He promised—surely Adonijah shall be put to death today!” / So King Solomon gave orders to Benaiah son of Jehoiada, and he struck down Adonijah and he died."
+        },
+        {
+          "reference": "Psalm 127:3-5",
+          "text": "Children are indeed a heritage from the LORD, and the fruit of the womb is His reward. / Like arrows in the hand of a warrior, so are children born in one’s youth. / Blessed is the man whose quiver is full of them. He will not be put to shame when he confronts the enemies at the gate."
+        },
+        {
+          "reference": "Proverbs 10:1",
+          "text": "The proverbs of Solomon: A wise son brings joy to his father, but a foolish son grief to his mother."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:12",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 12,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "But God said to him, &#8220Do not be so distressed about the boy and your slave woman. Listen to whatever Sarah tells you, because it is through Isaac that your offspring will be reckoned."
+        },
+        {
+          "version": "NLT",
+          "text": "But God told Abraham, “Do not be upset over the boy and your servant. Do whatever Sarah tells you, for Isaac is the son through whom your descendants will be counted."
+        },
+        {
+          "version": "ESV",
+          "text": "But God said to Abraham, “Be not displeased because of the boy and because of your slave woman. Whatever Sarah says to you, do as she tells you, for through Isaac shall your offspring be named."
+        },
+        {
+          "version": "NKJV",
+          "text": "But God said to Abraham, “Do not let it be displeasing in your sight because of the lad or because of your bondwoman. Whatever Sarah has said to you, listen to her voice; for in Isaac your seed shall be called."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": []
+    },
+    {
+      "reference": "Genesis 21:13",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 13,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "I will make the son of the slave into a nation also, because he is your offspring.”"
+        },
+        {
+          "version": "NLT",
+          "text": "But I will also make a nation of the descendants of Hagar’s son because he is your son, too.”"
+        },
+        {
+          "version": "ESV",
+          "text": "And I will make a nation of the son of the slave woman also, because he is your offspring.”"
+        },
+        {
+          "version": "NKJV",
+          "text": "Yet I will also make a nation of the son of the bondwoman, because he is your seed.”"
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 17:20",
+          "text": "As for Ishmael, I have heard you, and I will surely bless him; I will make him fruitful and multiply him greatly. He will become the father of twelve rulers, and I will make him into a great nation."
+        },
+        {
+          "reference": "Genesis 16:10",
+          "text": "Then the angel added, “I will greatly multiply your offspring so that they will be too numerous to count.”"
+        },
+        {
+          "reference": "Genesis 25:12-18",
+          "text": "This is the account of Abraham’s son Ishmael, whom Hagar the Egyptian, Sarah’s maidservant, bore to Abraham. / These are the names of the sons of Ishmael in the order of their birth: Nebaioth the firstborn of Ishmael, then Kedar, Adbeel, Mibsam, / Mishma, Dumah, Massa, ..."
+        },
+        {
+          "reference": "Genesis 28:14",
+          "text": "Your descendants will be like the dust of the earth, and you will spread out to the west and east and north and south. All the families of the earth will be blessed through you and your offspring."
+        },
+        {
+          "reference": "Genesis 12:2",
+          "text": "I will make you into a great nation, and I will bless you; I will make your name great, so that you will be a blessing."
+        },
+        {
+          "reference": "Genesis 13:16",
+          "text": "I will make your offspring like the dust of the earth, so that if one could count the dust of the earth, then your offspring could be counted."
+        },
+        {
+          "reference": "Genesis 15:5",
+          "text": "And the LORD took him outside and said, “Now look to the heavens and count the stars, if you are able.” Then He told him, “So shall your offspring be.”"
+        },
+        {
+          "reference": "Genesis 22:17",
+          "text": "I will surely bless you, and I will multiply your descendants like the stars in the sky and the sand on the seashore. Your descendants will possess the gates of their enemies."
+        },
+        {
+          "reference": "Genesis 26:4",
+          "text": "I will make your descendants as numerous as the stars in the sky, and I will give them all these lands, and through your offspring all nations of the earth will be blessed,"
+        },
+        {
+          "reference": "Genesis 35:11",
+          "text": "And God told him, “I am God Almighty. Be fruitful and multiply. A nation—even a company of nations—shall come from you, and kings shall descend from you."
+        },
+        {
+          "reference": "Genesis 46:3",
+          "text": "“I am God,” He said, “the God of your father. Do not be afraid to go down to Egypt, for I will make you into a great nation there."
+        },
+        {
+          "reference": "Romans 9:7-8",
+          "text": "Nor because they are Abraham’s descendants are they all his children. On the contrary, “Through Isaac your offspring will be reckoned.” / So it is not the children of the flesh who are God’s children, but it is the children of the promise who are regarded as offspring."
+        },
+        {
+          "reference": "Galatians 4:22-31",
+          "text": "For it is written that Abraham had two sons, one by the slave woman and the other by the free woman. / His son by the slave woman was born according to the flesh, but his son by the free woman was born through the promise. / These things serve as illustrations, for the women represent two covenants. One covenant is from Mount Sinai and bears children into slavery: This is Hagar. ..."
+        },
+        {
+          "reference": "Hebrews 11:18",
+          "text": "even though God had said to him, “Through Isaac your offspring will be reckoned.”"
+        },
+        {
+          "reference": "Romans 4:18",
+          "text": "Against all hope, Abraham in hope believed and so became the father of many nations, just as he had been told, “So shall your offspring be.”"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:14",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 14,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "Early the next morning Abraham took some food and a skin of water and gave them to Hagar. He set them on her shoulders and then sent her off with the boy. She went on her way and wandered in the Desert of Beersheba."
+        },
+        {
+          "version": "NLT",
+          "text": "So Abraham got up early the next morning, prepared food and a container of water, and strapped them on Hagar’s shoulders. Then he sent her away with their son, and she wandered aimlessly in the wilderness of Beersheba."
+        },
+        {
+          "version": "ESV",
+          "text": "So Abraham rose early in the morning and took bread and a skin of water and gave it to Hagar, putting it on her shoulder, along with the child, and sent her away. And she departed and wandered in the wilderness of Beersheba."
+        },
+        {
+          "version": "NKJV",
+          "text": "So Abraham rose early in the morning, and took bread and a skin of water; and putting it on her shoulder, he gave it and the boy to Hagar, and sent her away. Then she departed and wandered in the Wilderness of Beersheba."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 16:6-10",
+          "text": "“Here,” said Abram, “your servant is in your hands. Do whatever you want with her.” Then Sarai treated Hagar so harshly that she fled from her. / Now the angel of the LORD found Hagar by a spring of water in the desert—the spring along the road to Shur. / “Hagar, servant of Sarai,” he said, “where have you come from, and where are you going?” “I am running away from my mistress Sarai,” she replied. ..."
+        },
+        {
+          "reference": "Genesis 25:6",
+          "text": "But while he was still alive, Abraham gave gifts to the sons of his concubines and sent them away from his son Isaac to the land of the east."
+        },
+        {
+          "reference": "Exodus 2:15-22",
+          "text": "When Pharaoh heard about this matter, he sought to kill Moses. But Moses fled from Pharaoh and settled in the land of Midian, where he sat down beside a well. / Now the priest of Midian had seven daughters, and they came to draw water and fill the troughs to water their father’s flock. / And when some shepherds came along and drove them away, Moses rose up to help them and watered their flock. ..."
+        },
+        {
+          "reference": "Deuteronomy 8:2-4",
+          "text": "Remember that these forty years the LORD your God led you all the way in the wilderness, so that He might humble you and test you in order to know what was in your heart, whether or not you would keep His commandments. / He humbled you, and in your hunger He gave you manna to eat, which neither you nor your fathers had known, so that you might understand that man does not live on bread alone, but on every word that comes from the mouth of the LORD. / Your clothing did not wear out and your feet did not swell during these forty years."
+        },
+        {
+          "reference": "1 Kings 19:3-8",
+          "text": "And Elijah was afraid and ran for his life. When he came to Beersheba in Judah, he left his servant there, / while he himself went a day’s journey into the wilderness. He sat down under a broom tree and prayed that he might die. “I have had enough, LORD,” he said. “Take my life, for I am no better than my fathers.” / Then he lay down under the broom tree and fell asleep. Suddenly an angel touched him and said, “Get up and eat.” ..."
+        },
+        {
+          "reference": "Psalm 107:4-9",
+          "text": "Some wandered in desert wastelands, finding no path to a city in which to dwell. / They were hungry and thirsty; their soul fainted within them. / Then they cried out to the LORD in their trouble, and He delivered them from their distress. ..."
+        },
+        {
+          "reference": "Isaiah 41:17-18",
+          "text": "The poor and needy seek water, but there is none; their tongues are parched with thirst. I, the LORD, will answer them; I, the God of Israel, will not forsake them. / I will open rivers on the barren heights, and fountains in the middle of the valleys. I will turn the desert into a pool of water, and the dry land into flowing springs."
+        },
+        {
+          "reference": "Isaiah 49:10",
+          "text": "They will not hunger or thirst, nor will scorching heat or sun beat down on them. For He who has compassion on them will guide them and lead them beside springs of water."
+        },
+        {
+          "reference": "Jeremiah 2:6",
+          "text": "They did not ask, ‘Where is the LORD who brought us up from the land of Egypt, who led us through the wilderness, through a land of deserts and pits, a land of drought and darkness, a land where no one travels and no one lives?’"
+        },
+        {
+          "reference": "Hosea 2:14",
+          "text": "“Therefore, behold, I will allure her and lead her to the wilderness, and speak to her tenderly."
+        },
+        {
+          "reference": "Matthew 2:13-15",
+          "text": "When the Magi had gone, an angel of the Lord appeared to Joseph in a dream. “Get up!” he said. “Take the Child and His mother and flee to Egypt. Stay there until I tell you, for Herod is going to search for the Child to kill Him.” / So he got up, took the Child and His mother by night, and withdrew to Egypt, / where he stayed until the death of Herod. This fulfilled what the Lord had spoken through the prophet: “Out of Egypt I called My Son.”"
+        },
+        {
+          "reference": "Matthew 4:1-2",
+          "text": "Then Jesus was led by the Spirit into the wilderness to be tempted by the devil. / After fasting forty days and forty nights, He was hungry."
+        },
+        {
+          "reference": "Luke 1:80",
+          "text": "And the child grew and became strong in spirit; and he lived in the wilderness until the time of his public appearance to Israel."
+        },
+        {
+          "reference": "Luke 4:1-2",
+          "text": "Then Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit into the wilderness, / where for forty days He was tempted by the devil. He ate nothing during those days, and when they had ended, He was hungry."
+        },
+        {
+          "reference": "John 4:6-14",
+          "text": "Since Jacob’s well was there, Jesus, weary from His journey, sat down by the well. It was about the sixth hour. / When a Samaritan woman came to draw water, Jesus said to her, “Give Me a drink.” / (His disciples had gone into the town to buy food.) ..."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:15",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 15,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "When the water in the skin was gone, she put the boy under one of the bushes."
+        },
+        {
+          "version": "NLT",
+          "text": "When the water was gone, she put the boy in the shade of a bush."
+        },
+        {
+          "version": "ESV",
+          "text": "When the water in the skin was gone, she put the child under one of the bushes."
+        },
+        {
+          "version": "NKJV",
+          "text": "And the water in the skin was used up, and she placed the boy under one of the shrubs."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Exodus 17:3",
+          "text": "But the people thirsted for water there, and they grumbled against Moses: “Why have you brought us out of Egypt—to make us and our children and livestock die of thirst?”"
+        },
+        {
+          "reference": "Numbers 20:2-5",
+          "text": "Now there was no water for the congregation, so they gathered against Moses and Aaron. / The people quarreled with Moses and said, “If only we had perished with our brothers before the LORD! / Why have you brought the LORD’s assembly into this wilderness for us and our livestock to die here? ..."
+        },
+        {
+          "reference": "Deuteronomy 8:15",
+          "text": "He led you through the vast and terrifying wilderness with its venomous snakes and scorpions, a thirsty and waterless land. He brought you water from the rock of flint."
+        },
+        {
+          "reference": "Psalm 63:1",
+          "text": "A Psalm of David, when he was in the Wilderness of Judah. O God, You are my God. Earnestly I seek You; my soul thirsts for You. My body yearns for You in a dry and weary land without water."
+        },
+        {
+          "reference": "Isaiah 41:17",
+          "text": "The poor and needy seek water, but there is none; their tongues are parched with thirst. I, the LORD, will answer them; I, the God of Israel, will not forsake them."
+        },
+        {
+          "reference": "Jeremiah 14:3",
+          "text": "The nobles send their servants for water; they go to the cisterns, but find no water; their jars return empty. They are ashamed and humiliated; they cover their heads."
+        },
+        {
+          "reference": "Lamentations 4:4",
+          "text": "The nursing infant’s tongue clings in thirst to the roof of his mouth. Little children beg for bread, but no one gives them any."
+        },
+        {
+          "reference": "Hosea 2:3",
+          "text": "Otherwise, I will strip her naked and expose her like the day of her birth. I will make her like a desert and turn her into a parched land, and I will let her die of thirst."
+        },
+        {
+          "reference": "Matthew 4:2",
+          "text": "After fasting forty days and forty nights, He was hungry."
+        },
+        {
+          "reference": "Matthew 15:32",
+          "text": "Then Jesus called His disciples to Him and said, “I have compassion for this crowd, because they have already been with Me three days and have nothing to eat. I do not want to send them away hungry, or they may faint along the way.”"
+        },
+        {
+          "reference": "Mark 8:2-3",
+          "text": "“I have compassion for this crowd, because they have already been with Me three days and have nothing to eat. / If I send them home hungry, they will faint along the way. For some of them have come a great distance.”"
+        },
+        {
+          "reference": "Luke 4:2",
+          "text": "where for forty days He was tempted by the devil. He ate nothing during those days, and when they had ended, He was hungry."
+        },
+        {
+          "reference": "John 4:13-14",
+          "text": "Jesus said to her, “Everyone who drinks this water will be thirsty again. / But whoever drinks the water I give him will never thirst. Indeed, the water I give him will become in him a fount of water springing up to eternal life.”"
+        },
+        {
+          "reference": "John 7:37-38",
+          "text": "On the last and greatest day of the feast, Jesus stood up and called out in a loud voice, “If anyone is thirsty, let him come to Me and drink. / Whoever believes in Me, as the Scripture has said: ‘Streams of living water will flow from within him.’”"
+        },
+        {
+          "reference": "Romans 8:35",
+          "text": "Who shall separate us from the love of Christ? Shall trouble or distress or persecution or famine or nakedness or danger or sword?"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:16",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 16,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "Then she went off and sat down about a bowshot away, for she thought, “I cannot watch the boy die.” And as she sat there, she began to sob."
+        },
+        {
+          "version": "NLT",
+          "text": "Then she went and sat down by herself about a hundred yards away. “I don’t want to watch the boy die,” she said, as she burst into tears."
+        },
+        {
+          "version": "ESV",
+          "text": "Then she went and sat down opposite him a good way off, about the distance of a bowshot, for she said, “Let me not look on the death of the child.” And as she sat opposite him, she lifted up her voice and wept."
+        },
+        {
+          "version": "NKJV",
+          "text": "Then she went and sat down across from him at a distance of about a bowshot; for she said to herself, “Let me not see the death of the boy.” So she sat opposite him, and lifted her voice and wept."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Exodus 2:3-6",
+          "text": "But when she could no longer hide him, she got him a papyrus basket and coated it with tar and pitch. Then she placed the child in the basket and set it among the reeds along the bank of the Nile. / And his sister stood at a distance to see what would happen to him. / Soon the daughter of Pharaoh went down to bathe in the Nile, and her attendants were walking along the riverbank. And when she saw the basket among the reeds, she sent her maidservant to retrieve it. ..."
+        },
+        {
+          "reference": "1 Kings 17:20-22",
+          "text": "Then he cried out to the LORD, “O LORD my God, have You also brought tragedy on this widow who has opened her home to me, by causing her son to die?” / Then he stretched himself out over the child three times and cried out to the LORD, “O LORD my God, please let this boy’s life return to him!” / And the LORD listened to the voice of Elijah, and the child’s life returned to him, and he lived."
+        },
+        {
+          "reference": "2 Kings 4:32-35",
+          "text": "When Elisha reached the house, there was the boy lying dead on his bed. / So he went in, closed the door behind the two of them, and prayed to the LORD. / Then Elisha got on the bed and lay on the boy, mouth to mouth, eye to eye, and hand to hand. As he stretched himself out over him, the boy’s body became warm. ..."
+        },
+        {
+          "reference": "Psalm 34:17-18",
+          "text": "The righteous cry out, and the LORD hears; He delivers them from all their troubles. / The LORD is near to the brokenhearted; He saves the contrite in spirit."
+        },
+        {
+          "reference": "Psalm 56:8",
+          "text": "You have taken account of my wanderings. Put my tears in Your bottle—are they not in Your book?"
+        },
+        {
+          "reference": "Psalm 116:1-2",
+          "text": "I love the LORD, for He has heard my voice—my appeal for mercy. / Because He has inclined His ear to me, I will call on Him as long as I live."
+        },
+        {
+          "reference": "Isaiah 25:8",
+          "text": "He will swallow up death forever. The Lord GOD will wipe away the tears from every face and remove the disgrace of His people from the whole earth. For the LORD has spoken."
+        },
+        {
+          "reference": "Isaiah 49:15",
+          "text": "“Can a woman forget her nursing child, or lack compassion for the son of her womb? Even if she could forget, I will not forget you!"
+        },
+        {
+          "reference": "Jeremiah 31:15-17",
+          "text": "This is what the LORD says: “A voice is heard in Ramah, mourning and great weeping, Rachel weeping for her children and refusing to be comforted, because they are no more.” / This is what the LORD says: “Keep your voice from weeping and your eyes from tears, for the reward for your work will come, declares the LORD. Then your children will return from the land of the enemy. / So there is hope for your future, declares the LORD, and your children will return to their own land."
+        },
+        {
+          "reference": "Lamentations 3:49-50",
+          "text": "My eyes overflow unceasingly, without relief, / until the LORD looks down from heaven and sees."
+        },
+        {
+          "reference": "Matthew 15:22-28",
+          "text": "And a Canaanite woman from that region came to Him, crying out, “Lord, Son of David, have mercy on me! My daughter is miserably possessed by a demon.” / But Jesus did not answer a word. So His disciples came and urged Him, “Send her away, for she keeps crying out after us.” / He answered, “I was sent only to the lost sheep of the house of Israel.” ..."
+        },
+        {
+          "reference": "Matthew 26:39",
+          "text": "Going a little farther, He fell facedown and prayed, “My Father, if it is possible, let this cup pass from Me. Yet not as I will, but as You will.”"
+        },
+        {
+          "reference": "Mark 5:22-24",
+          "text": "A synagogue leader named Jairus arrived, and seeing Jesus, he fell at His feet / and pleaded with Him urgently, “My little daughter is near death. Please come and place Your hands on her, so that she will be healed and live.” / So Jesus went with him, and a large crowd followed and pressed around Him."
+        },
+        {
+          "reference": "Luke 7:12-15",
+          "text": "As He approached the town gate, He saw a dead man being carried out, the only son of his mother, and she was a widow. And a large crowd from the town was with her. / When the Lord saw her, He had compassion on her and said, “Do not weep.” / Then He went up and touched the coffin, and those carrying it stood still. “Young man,” He said, “I tell you, get up!” ..."
+        },
+        {
+          "reference": "Luke 18:1-8",
+          "text": "Then Jesus told them a parable about their need to pray at all times and not lose heart: / “In a certain town there was a judge who neither feared God nor respected men. / And there was a widow in that town who kept appealing to him, ‘Give me justice against my adversary.’ ..."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:17",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 17,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "God heard the boy crying, and the angel of God called to Hagar from heaven and said to her, “What is the matter, Hagar? Do not be afraid; God has heard the boy crying as he lies there."
+        },
+        {
+          "version": "NLT",
+          "text": "But God heard the boy crying, and the angel of God called to Hagar from heaven, “Hagar, what’s wrong? Do not be afraid! God has heard the boy crying as he lies there."
+        },
+        {
+          "version": "ESV",
+          "text": "And God heard the voice of the boy, and the angel of God called to Hagar from heaven and said to her, “What troubles you, Hagar? Fear not, for God has heard the voice of the boy where he is."
+        },
+        {
+          "version": "NKJV",
+          "text": "And God heard the voice of the lad. Then the angel of God called to Hagar out of heaven, and said to her, “What ails you, Hagar? Fear not, for God has heard the voice of the lad where he is."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Exodus 3:7",
+          "text": "The LORD said, “I have indeed seen the affliction of My people in Egypt. I have heard them crying out because of their oppressors, and I am aware of their sufferings."
+        },
+        {
+          "reference": "Psalm 34:15",
+          "text": "The eyes of the LORD are on the righteous, and His ears are inclined to their cry."
+        },
+        {
+          "reference": "Psalm 145:19",
+          "text": "He fulfills the desires of those who fear Him; He hears their cry and saves them."
+        },
+        {
+          "reference": "Psalm 18:6",
+          "text": "In my distress I called upon the LORD; I cried to my God for help. From His temple He heard my voice, and my cry for His help reached His ears."
+        },
+        {
+          "reference": "Psalm 50:15",
+          "text": "Call upon Me in the day of trouble; I will deliver you, and you will honor Me.”"
+        },
+        {
+          "reference": "Psalm 91:15",
+          "text": "When he calls out to Me, I will answer him; I will be with him in trouble. I will deliver him and honor him."
+        },
+        {
+          "reference": "Isaiah 65:24",
+          "text": "Even before they call, I will answer, and while they are still speaking, I will hear."
+        },
+        {
+          "reference": "Jeremiah 33:3",
+          "text": "Call to Me, and I will answer and show you great and unsearchable things you do not know."
+        },
+        {
+          "reference": "2 Kings 20:5",
+          "text": "“Go back and tell Hezekiah the leader of My people that this is what the LORD, the God of your father David, says: ‘I have heard your prayer; I have seen your tears. I will surely heal you. On the third day from now you will go up to the house of the LORD."
+        },
+        {
+          "reference": "1 Samuel 1:20",
+          "text": "So in the course of time, Hannah conceived and gave birth to a son. She named him Samuel, saying, “Because I have asked for him from the LORD.”"
+        },
+        {
+          "reference": "1 Kings 17:22",
+          "text": "And the LORD listened to the voice of Elijah, and the child’s life returned to him, and he lived."
+        },
+        {
+          "reference": "Matthew 7:7-8",
+          "text": "Ask, and it will be given to you; seek, and you will find; knock, and the door will be opened to you. / For everyone who asks receives; he who seeks finds; and to him who knocks, the door will be opened."
+        },
+        {
+          "reference": "Matthew 18:19",
+          "text": "Again, I tell you truly that if two of you on the earth agree about anything you ask for, it will be done for you by My Father in heaven."
+        },
+        {
+          "reference": "Luke 1:13",
+          "text": "But the angel said to him, “Do not be afraid, Zechariah, because your prayer has been heard. Your wife Elizabeth will bear you a son, and you are to give him the name John."
+        },
+        {
+          "reference": "Luke 18:7-8",
+          "text": "Will not God bring about justice for His elect who cry out to Him day and night? Will He delay in helping them? / I tell you, He will promptly carry out justice on their behalf. Nevertheless, when the Son of Man comes, will He find faith on earth?”"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:18",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 18,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "Lift the boy up and take him by the hand, for I will make him into a great nation.”"
+        },
+        {
+          "version": "NLT",
+          "text": "Go to him and comfort him, for I will make a great nation from his descendants.”"
+        },
+        {
+          "version": "ESV",
+          "text": "Up! Lift up the boy, and hold him fast with your hand, for I will make him into a great nation.”"
+        },
+        {
+          "version": "NKJV",
+          "text": "Arise, lift up the lad and hold him with your hand, for I will make him a great nation.”"
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 16:10",
+          "text": "Then the angel added, “I will greatly multiply your offspring so that they will be too numerous to count.”"
+        },
+        {
+          "reference": "Genesis 17:20",
+          "text": "As for Ishmael, I have heard you, and I will surely bless him; I will make him fruitful and multiply him greatly. He will become the father of twelve rulers, and I will make him into a great nation."
+        },
+        {
+          "reference": "Genesis 25:12-18",
+          "text": "This is the account of Abraham’s son Ishmael, whom Hagar the Egyptian, Sarah’s maidservant, bore to Abraham. / These are the names of the sons of Ishmael in the order of their birth: Nebaioth the firstborn of Ishmael, then Kedar, Adbeel, Mibsam, / Mishma, Dumah, Massa, ..."
+        },
+        {
+          "reference": "Exodus 3:7-8",
+          "text": "The LORD said, “I have indeed seen the affliction of My people in Egypt. I have heard them crying out because of their oppressors, and I am aware of their sufferings. / I have come down to rescue them from the hand of the Egyptians and to bring them up out of that land to a good and spacious land, a land flowing with milk and honey—the home of the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites."
+        },
+        {
+          "reference": "Deuteronomy 1:31",
+          "text": "and in the wilderness, where the LORD your God carried you, as a man carries his son, all the way by which you traveled until you reached this place.”"
+        },
+        {
+          "reference": "Deuteronomy 32:10-12",
+          "text": "He found him in a desert land, in a barren, howling wilderness; He surrounded him, He instructed him, He guarded him as the apple of His eye. / As an eagle stirs up its nest and hovers over its young, He spread His wings to catch them and carried them on His pinions. / The LORD alone led him, and no foreign god was with him."
+        },
+        {
+          "reference": "2 Kings 13:23",
+          "text": "But the LORD was gracious to Israel and had compassion on them, and He turned toward them because of His covenant with Abraham, Isaac, and Jacob. And to this day, the LORD has been unwilling to destroy them or cast them from His presence."
+        },
+        {
+          "reference": "Psalm 34:17-19",
+          "text": "The righteous cry out, and the LORD hears; He delivers them from all their troubles. / The LORD is near to the brokenhearted; He saves the contrite in spirit. / Many are the afflictions of the righteous, but the LORD delivers him from them all."
+        },
+        {
+          "reference": "Psalm 37:23-24",
+          "text": "The steps of a man are ordered by the LORD who takes delight in his journey. / Though he falls, he will not be overwhelmed, for the LORD is holding his hand."
+        },
+        {
+          "reference": "Psalm 91:11-12",
+          "text": "For He will command His angels concerning you to guard you in all your ways. / They will lift you up in their hands, so that you will not strike your foot against a stone."
+        },
+        {
+          "reference": "Isaiah 41:10",
+          "text": "Do not fear, for I am with you; do not be afraid, for I am your God. I will strengthen you; I will surely help you; I will uphold you with My righteous right hand."
+        },
+        {
+          "reference": "Isaiah 49:15-16",
+          "text": "“Can a woman forget her nursing child, or lack compassion for the son of her womb? Even if she could forget, I will not forget you! / Behold, I have inscribed you on the palms of My hands; your walls are ever before Me."
+        },
+        {
+          "reference": "Jeremiah 31:9",
+          "text": "They will come with weeping, and by their supplication I will lead them; I will make them walk beside streams of waters, on a level path where they will not stumble. For I am Israel’s Father, and Ephraim is My firstborn.”"
+        },
+        {
+          "reference": "Matthew 10:29-31",
+          "text": "Are not two sparrows sold for a penny? Yet not one of them will fall to the ground apart from the will of your Father. / And even the very hairs of your head are all numbered. / So do not be afraid; you are worth more than many sparrows."
+        },
+        {
+          "reference": "Matthew 18:12-14",
+          "text": "What do you think? If a man has a hundred sheep and one of them goes astray, will he not leave the ninety-nine on the hills and go out to search for the one that is lost? / And if he finds it, truly I tell you, he rejoices more over that one sheep than over the ninety-nine that did not go astray. / In the same way, your Father in heaven is not willing that any of these little ones should perish."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:19",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 19,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "Then God opened her eyes and she saw a well of water. So she went and filled the skin with water and gave the boy a drink."
+        },
+        {
+          "version": "NLT",
+          "text": "Then God opened Hagar’s eyes, and she saw a well full of water. She quickly filled her water container and gave the boy a drink."
+        },
+        {
+          "version": "ESV",
+          "text": "Then God opened her eyes, and she saw a well of water. And she went and filled the skin with water and gave the boy a drink."
+        },
+        {
+          "version": "NKJV",
+          "text": "Then God opened her eyes, and she saw a well of water. And she went and filled the skin with water, and gave the lad a drink."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Exodus 17:6",
+          "text": "Behold, I will stand there before you by the rock at Horeb. And when you strike the rock, water will come out of it for the people to drink.” So Moses did this in the sight of the elders of Israel."
+        },
+        {
+          "reference": "Numbers 20:11",
+          "text": "Then Moses raised his hand and struck the rock twice with his staff, so that a great amount of water gushed out, and the congregation and their livestock were able to drink."
+        },
+        {
+          "reference": "Isaiah 41:17-18",
+          "text": "The poor and needy seek water, but there is none; their tongues are parched with thirst. I, the LORD, will answer them; I, the God of Israel, will not forsake them. / I will open rivers on the barren heights, and fountains in the middle of the valleys. I will turn the desert into a pool of water, and the dry land into flowing springs."
+        },
+        {
+          "reference": "Psalm 107:35",
+          "text": "He turns a desert into pools of water and a dry land into flowing springs."
+        },
+        {
+          "reference": "Psalm 114:8",
+          "text": "who turned the rock into a pool, the flint into a fountain of water!"
+        },
+        {
+          "reference": "Isaiah 12:3",
+          "text": "With joy you will draw water from the springs of salvation,"
+        },
+        {
+          "reference": "John 4:10-14",
+          "text": "Jesus answered, “If you knew the gift of God and who is asking you for a drink, you would have asked Him, and He would have given you living water.” / “Sir,” the woman replied, “You have nothing to draw with and the well is deep. Where then will You get this living water? / Are You greater than our father Jacob, who gave us this well and drank from it himself, as did his sons and his livestock?” ..."
+        },
+        {
+          "reference": "John 7:37-38",
+          "text": "On the last and greatest day of the feast, Jesus stood up and called out in a loud voice, “If anyone is thirsty, let him come to Me and drink. / Whoever believes in Me, as the Scripture has said: ‘Streams of living water will flow from within him.’”"
+        },
+        {
+          "reference": "Revelation 7:17",
+          "text": "For the Lamb in the center of the throne will be their shepherd. ‘He will lead them to springs of living water,’ and ‘God will wipe away every tear from their eyes.’”"
+        },
+        {
+          "reference": "Revelation 21:6",
+          "text": "And He told me, “It is done! I am the Alpha and the Omega, the Beginning and the End. To the thirsty I will give freely from the spring of the water of life."
+        },
+        {
+          "reference": "Revelation 22:1",
+          "text": "Then the angel showed me a river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb"
+        },
+        {
+          "reference": "Revelation 22:17",
+          "text": "The Spirit and the bride say, “Come!” Let the one who hears say, “Come!” And let the one who is thirsty come, and the one who desires the water of life drink freely."
+        },
+        {
+          "reference": "2 Kings 3:16-20",
+          "text": "and he said, “This is what the LORD says: ‘Dig this valley full of ditches.’ / For the LORD says, ‘You will not see wind or rain, but the valley will be filled with water, and you will drink—you and your cattle and your animals.’ / This is a simple matter in the sight of the LORD, and He will also deliver the Moabites into your hand. ..."
+        },
+        {
+          "reference": "Isaiah 35:6-7",
+          "text": "Then the lame will leap like a deer and the mute tongue will shout for joy. For waters will gush forth in the wilderness, and streams in the desert. / The parched ground will become a pool, the thirsty land springs of water. In the haunt where jackals once lay, there will be grass and reeds and papyrus."
+        },
+        {
+          "reference": "Isaiah 43:19-20",
+          "text": "Behold, I am about to do something new; even now it is coming. Do you not see it? Indeed, I will make a way in the wilderness and streams in the desert. / The beasts of the field will honor Me, the jackals and the ostriches, because I provide water in the wilderness and rivers in the desert, to give drink to My chosen people."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:20",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 20,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "God was with the boy as he grew up. He lived in the desert and became an archer."
+        },
+        {
+          "version": "NLT",
+          "text": "And God was with the boy as he grew up in the wilderness. He became a skillful archer,"
+        },
+        {
+          "version": "ESV",
+          "text": "And God was with the boy, and he grew up. He lived in the wilderness and became an expert with the bow."
+        },
+        {
+          "version": "NKJV",
+          "text": "So God was with the lad; and he grew and dwelt in the wilderness, and became an archer."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 16:10-12",
+          "text": "Then the angel added, “I will greatly multiply your offspring so that they will be too numerous to count.” / The angel of the LORD proceeded: “Behold, you have conceived and will bear a son. And you shall name him Ishmael, for the LORD has heard your cry of affliction. / He will be a wild donkey of a man, and his hand will be against everyone, and everyone’s hand against him; he will live in hostility toward all his brothers.”"
+        },
+        {
+          "reference": "Genesis 17:20",
+          "text": "As for Ishmael, I have heard you, and I will surely bless him; I will make him fruitful and multiply him greatly. He will become the father of twelve rulers, and I will make him into a great nation."
+        },
+        {
+          "reference": "Genesis 25:12-18",
+          "text": "This is the account of Abraham’s son Ishmael, whom Hagar the Egyptian, Sarah’s maidservant, bore to Abraham. / These are the names of the sons of Ishmael in the order of their birth: Nebaioth the firstborn of Ishmael, then Kedar, Adbeel, Mibsam, / Mishma, Dumah, Massa, ..."
+        },
+        {
+          "reference": "Genesis 28:3-4",
+          "text": "May God Almighty bless you and make you fruitful and multiply you, so that you may become a company of peoples. / And may He give the blessing of Abraham to you and your descendants, so that you may possess the land where you dwell as a foreigner, the land God gave to Abraham.”"
+        },
+        {
+          "reference": "Genesis 39:2-3",
+          "text": "And the LORD was with Joseph, and he became a successful man, serving in the household of his Egyptian master. / When his master saw that the LORD was with him and made him prosper in all he did,"
+        },
+        {
+          "reference": "Exodus 1:20-21",
+          "text": "So God was good to the midwives, and the people multiplied and became even more numerous. / And because the midwives feared God, He gave them families of their own."
+        },
+        {
+          "reference": "Deuteronomy 2:9",
+          "text": "Then the LORD said to me, “Do not harass the Moabites or provoke them to war, for I will not give you any of their land, because I have given Ar to the descendants of Lot as their possession.”"
+        },
+        {
+          "reference": "Judges 6:12",
+          "text": "And the angel of the LORD appeared to Gideon and said, “The LORD is with you, O mighty man of valor.”"
+        },
+        {
+          "reference": "1 Samuel 2:21",
+          "text": "So the LORD attended to Hannah, and she conceived and gave birth to three sons and two daughters. Meanwhile, the boy Samuel grew up in the presence of the LORD."
+        },
+        {
+          "reference": "1 Chronicles 1:28-31",
+          "text": "The sons of Abraham were Isaac and Ishmael. / These are their genealogies: Nebaioth the firstborn of Ishmael, then Kedar, Adbeel, Mibsam, / Mishma, Dumah, Massa, Hadad, Tema, ..."
+        },
+        {
+          "reference": "Psalm 18:32-34",
+          "text": "It is God who arms me with strength and makes my way clear. / He makes my feet like those of a deer and stations me upon the heights. / He trains my hands for battle; my arms can bend a bow of bronze."
+        },
+        {
+          "reference": "Isaiah 41:10",
+          "text": "Do not fear, for I am with you; do not be afraid, for I am your God. I will strengthen you; I will surely help you; I will uphold you with My righteous right hand."
+        },
+        {
+          "reference": "Isaiah 54:17",
+          "text": "No weapon formed against you shall prosper, and you will refute every tongue that accuses you. This is the heritage of the servants of the LORD, and their vindication is from Me,” declares the LORD."
+        },
+        {
+          "reference": "Jeremiah 1:8",
+          "text": "Do not be afraid of them, for I am with you to deliver you,” declares the LORD."
+        },
+        {
+          "reference": "Matthew 28:20",
+          "text": "and teaching them to obey all that I have commanded you. And surely I am with you always, even to the end of the age.”"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:21",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 21,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "While he was living in the Desert of Paran, his mother got a wife for him from Egypt."
+        },
+        {
+          "version": "NLT",
+          "text": "and he settled in the wilderness of Paran. His mother arranged for him to marry a woman from the land of Egypt."
+        },
+        {
+          "version": "ESV",
+          "text": "He lived in the wilderness of Paran, and his mother took a wife for him from the land of Egypt."
+        },
+        {
+          "version": "NKJV",
+          "text": "He dwelt in the Wilderness of Paran; and his mother took a wife for him from the land of Egypt."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 16:10-12",
+          "text": "Then the angel added, “I will greatly multiply your offspring so that they will be too numerous to count.” / The angel of the LORD proceeded: “Behold, you have conceived and will bear a son. And you shall name him Ishmael, for the LORD has heard your cry of affliction. / He will be a wild donkey of a man, and his hand will be against everyone, and everyone’s hand against him; he will live in hostility toward all his brothers.”"
+        },
+        {
+          "reference": "Genesis 25:12-18",
+          "text": "This is the account of Abraham’s son Ishmael, whom Hagar the Egyptian, Sarah’s maidservant, bore to Abraham. / These are the names of the sons of Ishmael in the order of their birth: Nebaioth the firstborn of Ishmael, then Kedar, Adbeel, Mibsam, / Mishma, Dumah, Massa, ..."
+        },
+        {
+          "reference": "Genesis 28:9",
+          "text": "Esau went to Ishmael and married Mahalath, the sister of Nebaioth and daughter of Abraham’s son Ishmael, in addition to the wives he already had."
+        },
+        {
+          "reference": "Genesis 37:25-28",
+          "text": "And as they sat down to eat a meal, they looked up and saw a caravan of Ishmaelites coming from Gilead. Their camels were carrying spices, balm, and myrrh on their way down to Egypt. / Then Judah said to his brothers, “What profit will we gain if we kill our brother and cover up his blood? / Come, let us sell him to the Ishmaelites and not lay a hand on him; for he is our brother, our own flesh.” And they agreed. ..."
+        },
+        {
+          "reference": "Judges 8:24",
+          "text": "Then he added, “Let me make a request of you, that each of you give me an earring from his plunder.” (For the enemies had gold earrings because they were Ishmaelites.)"
+        },
+        {
+          "reference": "1 Chronicles 1:28-31",
+          "text": "The sons of Abraham were Isaac and Ishmael. / These are their genealogies: Nebaioth the firstborn of Ishmael, then Kedar, Adbeel, Mibsam, / Mishma, Dumah, Massa, Hadad, Tema, ..."
+        },
+        {
+          "reference": "Isaiah 60:6-7",
+          "text": "Caravans of camels will cover your land, young camels of Midian and Ephah, and all from Sheba will come, bearing gold and frankincense and proclaiming the praises of the LORD. / All the flocks of Kedar will be gathered to you; the rams of Nebaioth will serve you and go up on My altar with acceptance; I will adorn My glorious house."
+        },
+        {
+          "reference": "Jeremiah 49:28-33",
+          "text": "Concerning Kedar and the kingdoms of Hazor, which Nebuchadnezzar king of Babylon defeated, this is what the LORD says: “Rise up, advance against Kedar, and destroy the people of the east! / They will take their tents and flocks, their tent curtains and all their goods. They will take their camels for themselves. They will shout to them: ‘Terror is on every side!’ / Run! Escape quickly! Lie low, O residents of Hazor,” declares the LORD, “for Nebuchadnezzar king of Babylon has drawn up a plan against you; he has devised a strategy against you. ..."
+        },
+        {
+          "reference": "Ezekiel 27:21",
+          "text": "Arabia and all the princes of Kedar were your customers, trading in lambs, rams, and goats."
+        },
+        {
+          "reference": "Psalm 83:6",
+          "text": "the tents of Edom and the Ishmaelites, of Moab and the Hagrites,"
+        },
+        {
+          "reference": "Acts 7:8",
+          "text": "Then God gave Abraham the covenant of circumcision, and Abraham became the father of Isaac and circumcised him on the eighth day. And Isaac became the father of Jacob, and Jacob of the twelve patriarchs."
+        },
+        {
+          "reference": "Romans 9:7-9",
+          "text": "Nor because they are Abraham’s descendants are they all his children. On the contrary, “Through Isaac your offspring will be reckoned.” / So it is not the children of the flesh who are God’s children, but it is the children of the promise who are regarded as offspring. / For this is what the promise stated: “At the appointed time I will return, and Sarah will have a son.”"
+        },
+        {
+          "reference": "Galatians 4:22-31",
+          "text": "For it is written that Abraham had two sons, one by the slave woman and the other by the free woman. / His son by the slave woman was born according to the flesh, but his son by the free woman was born through the promise. / These things serve as illustrations, for the women represent two covenants. One covenant is from Mount Sinai and bears children into slavery: This is Hagar. ..."
+        },
+        {
+          "reference": "Hebrews 11:18",
+          "text": "even though God had said to him, “Through Isaac your offspring will be reckoned.”"
+        },
+        {
+          "reference": "Romans 4:18-22",
+          "text": "Against all hope, Abraham in hope believed and so became the father of many nations, just as he had been told, “So shall your offspring be.” / Without weakening in his faith, he acknowledged the decrepitness of his body (since he was about a hundred years old) and the lifelessness of Sarah’s womb. / Yet he did not waver through disbelief in the promise of God, but was strengthened in his faith and gave glory to God, ..."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:22",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 22,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "At that time Abimelek and Phicol the commander of his forces said to Abraham, “God is with you in everything you do."
+        },
+        {
+          "version": "NLT",
+          "text": "About this time, Abimelech came with Phicol, his army commander, to visit Abraham. “God is obviously with you, helping you in everything you do,” Abimelech said."
+        },
+        {
+          "version": "ESV",
+          "text": "At that time Abimelech and Phicol the commander of his army said to Abraham, “God is with you in all that you do."
+        },
+        {
+          "version": "NKJV",
+          "text": "And it came to pass at that time that Abimelech and Phichol, the commander of his army, spoke to Abraham, saying, “God is with you in all that you do."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 26:26-31",
+          "text": "Later, Abimelech came to Isaac from Gerar, with Ahuzzath his adviser and Phicol the commander of his army. / “Why have you come to me?” Isaac asked them. “You hated me and sent me away.” / “We can plainly see that the LORD has been with you,” they replied. “We recommend that there should now be an oath between us and you. Let us make a covenant with you ..."
+        },
+        {
+          "reference": "Genesis 20:1-18",
+          "text": "Now Abraham journeyed from there to the region of the Negev and settled between Kadesh and Shur. While he was staying in Gerar, / Abraham said of his wife Sarah, “She is my sister.” So Abimelech king of Gerar had Sarah brought to him. / One night, however, God came to Abimelech in a dream and told him, “You are as good as dead because of the woman you have taken, for she is a married woman.” ..."
+        },
+        {
+          "reference": "Genesis 12:10-20",
+          "text": "Now there was a famine in the land. So Abram went down to Egypt to live there for a while because the famine was severe. / As he was about to enter Egypt, he said to his wife Sarai, “Look, I know that you are a beautiful woman, / and when the Egyptians see you, they will say, ‘This is his wife.’ Then they will kill me but will let you live. ..."
+        },
+        {
+          "reference": "Genesis 31:44-54",
+          "text": "Come now, let us make a covenant, you and I, and let it serve as a witness between you and me.” / So Jacob picked out a stone and set it up as a pillar, / and he said to his relatives, “Gather some stones.” So they took stones and made a mound, and there by the mound they ate. ..."
+        },
+        {
+          "reference": "Exodus 23:32",
+          "text": "You shall make no covenant with them or with their gods."
+        },
+        {
+          "reference": "Joshua 9:15-21",
+          "text": "And Joshua made a treaty of peace with them to let them live, and the leaders of the congregation swore an oath to them. / Three days after they had made the treaty with the Gibeonites, the Israelites learned that they were neighbors, living among them. / So the Israelites set out and on the third day arrived at their cities—Gibeon, Chephirah, Beeroth, and Kiriath-jearim. ..."
+        },
+        {
+          "reference": "1 Samuel 18:3",
+          "text": "Then Jonathan made a covenant with David because he loved him as himself."
+        },
+        {
+          "reference": "1 Kings 5:12",
+          "text": "And the LORD gave Solomon wisdom, as He had promised him. There was peace between Hiram and Solomon, and the two of them made a treaty."
+        },
+        {
+          "reference": "2 Chronicles 16:3",
+          "text": "“Let there be a treaty between me and you as there was between my father and your father. See, I have sent you silver and gold. Now go and break your treaty with Baasha king of Israel, so that he will withdraw from me.”"
+        },
+        {
+          "reference": "Psalm 105:14-15",
+          "text": "He let no man oppress them; He rebuked kings on their behalf: / “Do not touch My anointed ones! Do no harm to My prophets!”"
+        },
+        {
+          "reference": "Isaiah 33:8",
+          "text": "The highways are deserted; travel has ceased. The treaty has been broken, the witnesses are despised, and human life is disregarded."
+        },
+        {
+          "reference": "Matthew 5:9",
+          "text": "Blessed are the peacemakers, for they will be called sons of God."
+        },
+        {
+          "reference": "Matthew 5:37",
+          "text": "Simply let your ‘Yes’ be ‘Yes,’ and your ‘No,’ ‘No.’ Anything more comes from the evil one."
+        },
+        {
+          "reference": "Luke 6:31",
+          "text": "Do to others as you would have them do to you."
+        },
+        {
+          "reference": "John 14:27",
+          "text": "Peace I leave with you; My peace I give to you. I do not give to you as the world gives. Do not let your hearts be troubled; do not be afraid."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:23",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 23,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "Now swear to me here before God that you will not deal falsely with me or my children or my descendants. Show to me and the country where you now reside as a foreigner the same kindness I have shown to you.”"
+        },
+        {
+          "version": "NLT",
+          "text": "“Swear to me in God’s name that you will never deceive me, my children, or any of my descendants. I have been loyal to you, so now swear that you will be loyal to me and to this country where you are living as a foreigner.”"
+        },
+        {
+          "version": "ESV",
+          "text": "Now therefore swear to me here by God that you will not deal falsely with me or with my descendants or with my posterity, but as I have dealt kindly with you, so you will deal with me and with the land where you have sojourned.”"
+        },
+        {
+          "version": "NKJV",
+          "text": "Now therefore, swear to me by God that you will not deal falsely with me, with my offspring, or with my posterity; but that according to the kindness that I have done to you, you will do to me and to the land in which you have dwelt.”"
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 26:28-31",
+          "text": "“We can plainly see that the LORD has been with you,” they replied. “We recommend that there should now be an oath between us and you. Let us make a covenant with you / that you will not harm us, just as we have not harmed you but have done only good to you, sending you on your way in peace. And now you are blessed by the LORD.” / So Isaac prepared a feast for them, and they ate and drank. ..."
+        },
+        {
+          "reference": "Joshua 2:12-14",
+          "text": "Now therefore, please swear to me by the LORD that you will indeed show kindness to my family, because I showed kindness to you. Give me a sure sign / that you will spare the lives of my father and mother, my brothers and sisters, and all who belong to them, and that you will deliver us from death.” / “Our lives for your lives!” the men agreed. “If you do not report our mission, we will show you kindness and faithfulness when the LORD gives us the land.”"
+        },
+        {
+          "reference": "1 Samuel 20:14-17",
+          "text": "And as long as I live, treat me with the LORD’s loving devotion, that I may not die, / and do not ever cut off your loving devotion from my household—not even when the LORD cuts off every one of David’s enemies from the face of the earth.” / So Jonathan made a covenant with the house of David, saying, “May the LORD hold David’s enemies accountable.” ..."
+        },
+        {
+          "reference": "1 Samuel 24:21-22",
+          "text": "So now, swear to me by the LORD that you will not cut off my descendants or wipe out my name from my father’s house.” / So David gave his oath to Saul. Then Saul returned home, but David and his men went up to the stronghold."
+        },
+        {
+          "reference": "2 Samuel 21:7",
+          "text": "Now the king spared Mephibosheth son of Jonathan, the son of Saul, because of the oath before the LORD between David and Jonathan son of Saul."
+        },
+        {
+          "reference": "2 Kings 11:4",
+          "text": "Then in the seventh year, Jehoiada sent for the commanders of hundreds, the Carites, and the guards, and had them brought into the house of the LORD. There he made a covenant with them and put them under oath. He showed them the king’s son"
+        },
+        {
+          "reference": "Psalm 15:4",
+          "text": "who despises the vile but honors those who fear the LORD, who does not revise a costly oath,"
+        },
+        {
+          "reference": "Psalm 89:34",
+          "text": "I will not violate My covenant or alter the utterance of My lips."
+        },
+        {
+          "reference": "Proverbs 11:21",
+          "text": "Be assured that the wicked will not go unpunished, but the offspring of the righteous will escape."
+        },
+        {
+          "reference": "Isaiah 33:15-16",
+          "text": "He who walks righteously and speaks with sincerity, who refuses gain from extortion, whose hand never takes a bribe, who stops his ears against murderous plots and shuts his eyes tightly against evil— / he will dwell on the heights; the mountain fortress will be his refuge; his food will be provided and his water assured."
+        },
+        {
+          "reference": "Jeremiah 42:5",
+          "text": "Then they said to Jeremiah, “May the LORD be a true and faithful witness against us if we do not act upon every word that the LORD your God sends you to tell us."
+        },
+        {
+          "reference": "Matthew 5:37",
+          "text": "Simply let your ‘Yes’ be ‘Yes,’ and your ‘No,’ ‘No.’ Anything more comes from the evil one."
+        },
+        {
+          "reference": "Matthew 26:72-74",
+          "text": "And again he denied it with an oath: “I do not know the man!” / After a little while, those standing nearby came up to Peter. “Surely you are one of them,” they said, “for your accent gives you away.” / At that he began to curse and swear to them, “I do not know the man!” And immediately a rooster crowed."
+        },
+        {
+          "reference": "Luke 1:72-73",
+          "text": "to show mercy to our fathers and to remember His holy covenant, / the oath He swore to our father Abraham, to grant us"
+        },
+        {
+          "reference": "John 8:58",
+          "text": "“Truly, truly, I tell you,” Jesus declared, “before Abraham was born, I am!”"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:24",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 24,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "Abraham said, “I swear it.”"
+        },
+        {
+          "version": "NLT",
+          "text": "Abraham replied, “Yes, I swear to it!”"
+        },
+        {
+          "version": "ESV",
+          "text": "And Abraham said, “I will swear.”"
+        },
+        {
+          "version": "NKJV",
+          "text": "And Abraham said, “I will swear.”"
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 26:31",
+          "text": "And they got up early the next morning and swore an oath to each other. Then Isaac sent them on their way, and they left him in peace."
+        },
+        {
+          "reference": "Genesis 31:44-53",
+          "text": "Come now, let us make a covenant, you and I, and let it serve as a witness between you and me.” / So Jacob picked out a stone and set it up as a pillar, / and he said to his relatives, “Gather some stones.” So they took stones and made a mound, and there by the mound they ate. ..."
+        },
+        {
+          "reference": "Joshua 9:15",
+          "text": "And Joshua made a treaty of peace with them to let them live, and the leaders of the congregation swore an oath to them."
+        },
+        {
+          "reference": "1 Samuel 20:16-17",
+          "text": "So Jonathan made a covenant with the house of David, saying, “May the LORD hold David’s enemies accountable.” / And Jonathan had David reaffirm his vow out of love for him, for Jonathan loved David as he loved himself."
+        },
+        {
+          "reference": "1 Samuel 24:21-22",
+          "text": "So now, swear to me by the LORD that you will not cut off my descendants or wipe out my name from my father’s house.” / So David gave his oath to Saul. Then Saul returned home, but David and his men went up to the stronghold."
+        },
+        {
+          "reference": "1 Samuel 30:15",
+          "text": "“Will you lead me to these raiders?” David asked. And the man replied, “Swear to me by God that you will not kill me or deliver me into the hand of my master, and I will lead you to them.”"
+        },
+        {
+          "reference": "2 Samuel 21:2",
+          "text": "At this, David summoned the Gibeonites and spoke to them. (Now the Gibeonites were not Israelites, but a remnant of the Amorites. The Israelites had taken an oath concerning them, but in his zeal for Israel and Judah, Saul had sought to kill them.)"
+        },
+        {
+          "reference": "1 Kings 5:12",
+          "text": "And the LORD gave Solomon wisdom, as He had promised him. There was peace between Hiram and Solomon, and the two of them made a treaty."
+        },
+        {
+          "reference": "2 Kings 11:4",
+          "text": "Then in the seventh year, Jehoiada sent for the commanders of hundreds, the Carites, and the guards, and had them brought into the house of the LORD. There he made a covenant with them and put them under oath. He showed them the king’s son"
+        },
+        {
+          "reference": "Psalm 15:4",
+          "text": "who despises the vile but honors those who fear the LORD, who does not revise a costly oath,"
+        },
+        {
+          "reference": "Psalm 24:4",
+          "text": "He who has clean hands and a pure heart, who does not lift up his soul to an idol or swear deceitfully."
+        },
+        {
+          "reference": "Proverbs 12:22",
+          "text": "Lying lips are detestable to the LORD, but those who deal faithfully are His delight."
+        },
+        {
+          "reference": "Proverbs 20:25",
+          "text": "It is a trap for a man to dedicate something rashly, only later to reconsider his vows."
+        },
+        {
+          "reference": "Matthew 5:37",
+          "text": "Simply let your ‘Yes’ be ‘Yes,’ and your ‘No,’ ‘No.’ Anything more comes from the evil one."
+        },
+        {
+          "reference": "Matthew 26:72-74",
+          "text": "And again he denied it with an oath: “I do not know the man!” / After a little while, those standing nearby came up to Peter. “Surely you are one of them,” they said, “for your accent gives you away.” / At that he began to curse and swear to them, “I do not know the man!” And immediately a rooster crowed."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:25",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 25,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "Then Abraham complained to Abimelek about a well of water that Abimelek’s servants had seized."
+        },
+        {
+          "version": "NLT",
+          "text": "Then Abraham complained to Abimelech about a well that Abimelech’s servants had taken by force from Abraham’s servants."
+        },
+        {
+          "version": "ESV",
+          "text": "When Abraham reproved Abimelech about a well of water that Abimelech’s servants had seized,"
+        },
+        {
+          "version": "NKJV",
+          "text": "Then Abraham rebuked Abimelech because of a well of water which Abimelech’s servants had seized."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 26:15-22",
+          "text": "So the Philistines took dirt and stopped up all the wells that his father’s servants had dug in the days of his father Abraham. / Then Abimelech said to Isaac, “Depart from us, for you are much too powerful for us.” / So Isaac left that place and encamped in the Valley of Gerar and settled there. ..."
+        },
+        {
+          "reference": "Genesis 31:25-30",
+          "text": "Now Jacob had pitched his tent in the hill country of Gilead when Laban overtook him, and Laban and his relatives camped there as well. / Then Laban said to Jacob, “What have you done? You have deceived me and carried off my daughters like captives of war! / Why did you run away secretly and deceive me, without even telling me? I would have sent you away with joy and singing, with tambourines and harps. ..."
+        },
+        {
+          "reference": "Genesis 13:7-9",
+          "text": "And there was discord between the herdsmen of Abram and the herdsmen of Lot. At that time the Canaanites and the Perizzites were also living in the land. / So Abram said to Lot, “Please let there be no contention between you and me, or between your herdsmen and my herdsmen. After all, we are kinsmen. / Is not the whole land before you? Now separate yourself from me. If you go to the left, I will go to the right; if you go to the right, I will go to the left.”"
+        },
+        {
+          "reference": "Genesis 34:30",
+          "text": "Then Jacob said to Simeon and Levi, “You have brought trouble upon me by making me a stench to the Canaanites and Perizzites, the people of this land. We are few in number; if they unite against me and attack me, I and my household will be destroyed.”"
+        },
+        {
+          "reference": "Exodus 2:17",
+          "text": "And when some shepherds came along and drove them away, Moses rose up to help them and watered their flock."
+        },
+        {
+          "reference": "Exodus 21:33-34",
+          "text": "If a man opens or digs a pit and fails to cover it, and an ox or a donkey falls into it, / the owner of the pit shall make restitution; he must pay its owner, and the dead animal will be his."
+        },
+        {
+          "reference": "Numbers 20:19",
+          "text": "“We will stay on the main road,” the Israelites replied, “and if we or our herds drink your water, we will pay for it. There will be no problem; only let us pass through on foot.”"
+        },
+        {
+          "reference": "1 Samuel 25:15-16",
+          "text": "Yet these men were very good to us. When we were in the field, we were not harassed, and nothing of ours went missing the whole time we lived among them. / They were a wall around us, both day and night, the whole time we were herding our sheep near them."
+        },
+        {
+          "reference": "1 Kings 21:3",
+          "text": "But Naboth replied, “The LORD forbid that I should give you the inheritance of my fathers.”"
+        },
+        {
+          "reference": "2 Kings 3:25",
+          "text": "They destroyed the cities, and each man threw stones on every good field until it was covered. They stopped up every spring and cut down every good tree. Only Kir-haraseth was left with stones in place, but men with slings surrounded it and attacked it as well."
+        },
+        {
+          "reference": "Proverbs 25:8-10",
+          "text": "do not bring hastily to court. Otherwise, what will you do in the end when your neighbor puts you to shame? / Argue your case with your neighbor without betraying another’s confidence, / lest the one who hears may disgrace you, and your infamy never go away."
+        },
+        {
+          "reference": "Isaiah 5:7",
+          "text": "For the vineyard of the LORD of Hosts is the house of Israel, and the men of Judah are the plant of His delight. He looked for justice, but saw bloodshed; for righteousness, but heard a cry of distress."
+        },
+        {
+          "reference": "Matthew 5:25-26",
+          "text": "Reconcile quickly with your adversary, while you are still on the way to court. Otherwise, he may hand you over to the judge, and the judge may hand you over to the officer, and you may be thrown into prison. / Truly I tell you, you will not get out until you have paid the last penny."
+        },
+        {
+          "reference": "Matthew 18:15-17",
+          "text": "If your brother sins against you, go and confront him privately. If he listens to you, you have won your brother over. / But if he will not listen, take one or two others along, so that ‘every matter may be established by the testimony of two or three witnesses.’ / If he refuses to listen to them, tell it to the church. And if he refuses to listen even to the church, regard him as you would a pagan or a tax collector."
+        },
+        {
+          "reference": "Luke 12:58-59",
+          "text": "Make every effort to reconcile with your adversary while you are on your way to the magistrate. Otherwise, he may drag you off to the judge, and the judge may hand you over to the officer, and the officer may throw you into prison. / I tell you, you will not get out until you have paid the very last penny.”"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:26",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 26,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "But Abimelek said, “I don’t know who has done this. You did not tell me, and I heard about it only today.”"
+        },
+        {
+          "version": "NLT",
+          "text": "“This is the first I’ve heard of it,” Abimelech answered. “I have no idea who is responsible. You have never complained about this before.”"
+        },
+        {
+          "version": "ESV",
+          "text": "Abimelech said, “I do not know who has done this thing; you did not tell me, and I have not heard of it until today.”"
+        },
+        {
+          "version": "NKJV",
+          "text": "And Abimelech said, “I do not know who has done this thing; you did not tell me, nor had I heard of it until today.”"
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 20:9-10",
+          "text": "Then Abimelech called Abraham and asked, “What have you done to us? How have I sinned against you, that you have brought such tremendous guilt upon me and my kingdom? You have done things to me that should not be done.” / Abimelech also asked Abraham, “What prompted you to do such a thing?”"
+        },
+        {
+          "reference": "Genesis 26:15-22",
+          "text": "So the Philistines took dirt and stopped up all the wells that his father’s servants had dug in the days of his father Abraham. / Then Abimelech said to Isaac, “Depart from us, for you are much too powerful for us.” / So Isaac left that place and encamped in the Valley of Gerar and settled there. ..."
+        },
+        {
+          "reference": "Genesis 31:36-42",
+          "text": "Then Jacob became incensed and challenged Laban. “What is my crime?” he said. “For what sin of mine have you so hotly pursued me? / You have searched all my goods! Have you found anything that belongs to you? Put it here before my brothers and yours, that they may judge between the two of us. / I have been with you for twenty years now. Your sheep and goats have not miscarried, nor have I eaten the rams of your flock. ..."
+        },
+        {
+          "reference": "Genesis 34:30",
+          "text": "Then Jacob said to Simeon and Levi, “You have brought trouble upon me by making me a stench to the Canaanites and Perizzites, the people of this land. We are few in number; if they unite against me and attack me, I and my household will be destroyed.”"
+        },
+        {
+          "reference": "Genesis 39:8-9",
+          "text": "But he refused. “Look,” he said to his master’s wife, “with me here, my master does not concern himself with anything in his house, and he has entrusted everything he owns to my care. / No one in this house is greater than I am. He has withheld nothing from me except you, because you are his wife. So how could I do such a great evil and sin against God?”"
+        },
+        {
+          "reference": "Exodus 5:2",
+          "text": "But Pharaoh replied, “Who is the LORD that I should obey His voice and let Israel go? I do not know the LORD, and I will not let Israel go.”"
+        },
+        {
+          "reference": "Exodus 32:21-24",
+          "text": "“What did this people do to you,” Moses asked Aaron, “that you have led them into so great a sin?” / “Do not be enraged, my lord,” Aaron replied. “You yourself know that the people are intent on evil. / They told me, ‘Make us gods who will go before us. As for this Moses who brought us up out of the land of Egypt, we do not know what has happened to him!’ ..."
+        },
+        {
+          "reference": "Numbers 22:34",
+          "text": "“I have sinned,” Balaam said to the angel of the LORD, “for I did not realize that you were standing in the road to confront me. And now, if this is displeasing in your sight, I will go back home.”"
+        },
+        {
+          "reference": "Joshua 7:19-21",
+          "text": "So Joshua said to Achan, “My son, give glory to the LORD, the God of Israel, and make a confession to Him. I urge you to tell me what you have done; do not hide it from me.” / “It is true,” Achan replied, “I have sinned against the LORD, the God of Israel. This is what I did: / When I saw among the spoils a beautiful cloak from Shinar, two hundred shekels of silver, and a bar of gold weighing fifty shekels, I coveted them and took them. They are hidden in the ground inside my tent, with the silver underneath.”"
+        },
+        {
+          "reference": "1 Samuel 12:3-5",
+          "text": "Here I am. Bear witness against me before the LORD and before His anointed: Whose ox or donkey have I taken? Whom have I cheated or oppressed? From whose hand have I accepted a bribe and closed my eyes? Tell me, and I will restore it to you.” / “You have not cheated us or oppressed us,” they replied, “nor have you taken anything from the hand of man.” / Samuel said to them, “The LORD is a witness against you, and His anointed is a witness today, that you have not found anything in my hand.” “He is a witness,” they replied."
+        },
+        {
+          "reference": "2 Samuel 12:5-7",
+          "text": "David burned with anger against the man and said to Nathan: “As surely as the LORD lives, the man who did this deserves to die! / Because he has done this thing and has shown no pity, he must pay for the lamb four times over.” / Then Nathan said to David, “You are that man! This is what the LORD, the God of Israel, says: ‘I anointed you king over Israel, and I delivered you from the hand of Saul."
+        },
+        {
+          "reference": "2 Kings 5:25-27",
+          "text": "When Gehazi went in and stood before his master, Elisha asked him, “Gehazi, where have you been?” “Your servant did not go anywhere,” he replied. / But Elisha questioned him, “Did not my spirit go with you when the man got down from his chariot to meet you? Is this the time to accept money and clothing, olive groves and vineyards, sheep and oxen, menservants and maidservants? / Therefore, the leprosy of Naaman will cling to you and your descendants forever!” And as Gehazi left his presence, he was leprous—as white as snow."
+        },
+        {
+          "reference": "Job 31:5-8",
+          "text": "If I have walked in falsehood or my foot has rushed to deceit, / let God weigh me with honest scales, that He may know my integrity. / If my steps have turned from the path, if my heart has followed my eyes, or if impurity has stuck to my hands, ..."
+        },
+        {
+          "reference": "Psalm 15:1-5",
+          "text": "A Psalm of David. O LORD, who may abide in Your tent? Who may dwell on Your holy mountain? / He who walks with integrity and practices righteousness, who speaks the truth from his heart, / who has no slander on his tongue, who does no harm to his neighbor, who casts no scorn on his friend, ..."
+        },
+        {
+          "reference": "Proverbs 28:13",
+          "text": "He who conceals his sins will not prosper, but whoever confesses and renounces them will find mercy."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:27",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 27,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "So Abraham brought sheep and cattle and gave them to Abimelek, and the two men made a treaty."
+        },
+        {
+          "version": "NLT",
+          "text": "Abraham then gave some of his sheep, goats, and cattle to Abimelech, and they made a treaty."
+        },
+        {
+          "version": "ESV",
+          "text": "So Abraham took sheep and oxen and gave them to Abimelech, and the two men made a covenant."
+        },
+        {
+          "version": "NKJV",
+          "text": "So Abraham took sheep and oxen and gave them to Abimelech, and the two of them made a covenant."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 26:28-31",
+          "text": "“We can plainly see that the LORD has been with you,” they replied. “We recommend that there should now be an oath between us and you. Let us make a covenant with you / that you will not harm us, just as we have not harmed you but have done only good to you, sending you on your way in peace. And now you are blessed by the LORD.” / So Isaac prepared a feast for them, and they ate and drank. ..."
+        },
+        {
+          "reference": "Genesis 31:44-54",
+          "text": "Come now, let us make a covenant, you and I, and let it serve as a witness between you and me.” / So Jacob picked out a stone and set it up as a pillar, / and he said to his relatives, “Gather some stones.” So they took stones and made a mound, and there by the mound they ate. ..."
+        },
+        {
+          "reference": "Genesis 23:16-20",
+          "text": "Abraham agreed to Ephron’s terms and weighed out for him the price he had named in the hearing of the Hittites: four hundred shekels of silver, according to the standard of the merchants. / So Ephron’s field at Machpelah near Mamre, the cave that was in it, and all the trees within the boundaries of the field were deeded over / to Abraham’s possession in the presence of all the Hittites who had come to the gate of his city. ..."
+        },
+        {
+          "reference": "Genesis 14:13",
+          "text": "Then an escapee came and reported this to Abram the Hebrew. Now Abram was living near the Oaks of Mamre the Amorite, a brother of Eshcol and Aner, all of whom were bound by treaty to Abram."
+        },
+        {
+          "reference": "Genesis 34:8-10",
+          "text": "But Hamor said to them, “My son Shechem longs for your daughter. Please give her to him as his wife. / Intermarry with us; give us your daughters and take our daughters for yourselves. / You may settle among us, and the land will be open to you. Live here, move about freely, and acquire your own property.”"
+        },
+        {
+          "reference": "Exodus 23:32",
+          "text": "You shall make no covenant with them or with their gods."
+        },
+        {
+          "reference": "Joshua 9:15",
+          "text": "And Joshua made a treaty of peace with them to let them live, and the leaders of the congregation swore an oath to them."
+        },
+        {
+          "reference": "1 Samuel 18:3",
+          "text": "Then Jonathan made a covenant with David because he loved him as himself."
+        },
+        {
+          "reference": "1 Kings 5:12",
+          "text": "And the LORD gave Solomon wisdom, as He had promised him. There was peace between Hiram and Solomon, and the two of them made a treaty."
+        },
+        {
+          "reference": "2 Chronicles 16:3",
+          "text": "“Let there be a treaty between me and you as there was between my father and your father. See, I have sent you silver and gold. Now go and break your treaty with Baasha king of Israel, so that he will withdraw from me.”"
+        },
+        {
+          "reference": "Psalm 15:4",
+          "text": "who despises the vile but honors those who fear the LORD, who does not revise a costly oath,"
+        },
+        {
+          "reference": "Isaiah 33:8",
+          "text": "The highways are deserted; travel has ceased. The treaty has been broken, the witnesses are despised, and human life is disregarded."
+        },
+        {
+          "reference": "Jeremiah 34:18",
+          "text": "And those who have transgressed My covenant and have not fulfilled the terms of the covenant they made before Me, I will treat like the calf they cut in two in order to pass between its pieces."
+        },
+        {
+          "reference": "Ezekiel 17:13-16",
+          "text": "He took a member of the royal family and made a covenant with him, putting him under oath. Then he carried away the leading men of the land, / so that the kingdom would be brought low, unable to lift itself up, surviving only by keeping his covenant. / But this king rebelled against Babylon by sending his envoys to Egypt to ask for horses and a large army. Will he flourish? Will the one who does such things escape? Can he break a covenant and yet escape?’ ..."
+        },
+        {
+          "reference": "Matthew 5:37",
+          "text": "Simply let your ‘Yes’ be ‘Yes,’ and your ‘No,’ ‘No.’ Anything more comes from the evil one."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:28",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 28,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "Abraham set apart seven ewe lambs from the flock,"
+        },
+        {
+          "version": "NLT",
+          "text": "But Abraham also took seven additional female lambs and set them off by themselves."
+        },
+        {
+          "version": "ESV",
+          "text": "Abraham set seven ewe lambs of the flock apart."
+        },
+        {
+          "version": "NKJV",
+          "text": "And Abraham set seven ewe lambs of the flock by themselves."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 15:9-10",
+          "text": "And the LORD said to him, “Bring Me a heifer, a goat, and a ram, each three years old, along with a turtledove and a young pigeon.” / So Abram brought all these to Him, split each of them down the middle, and laid the halves opposite each other. The birds, however, he did not cut in half."
+        },
+        {
+          "reference": "Genesis 31:44-54",
+          "text": "Come now, let us make a covenant, you and I, and let it serve as a witness between you and me.” / So Jacob picked out a stone and set it up as a pillar, / and he said to his relatives, “Gather some stones.” So they took stones and made a mound, and there by the mound they ate. ..."
+        },
+        {
+          "reference": "Exodus 12:3-5",
+          "text": "Tell the whole congregation of Israel that on the tenth day of this month each man must select a lamb for his family, one per household. / If the household is too small for a whole lamb, they are to share with the nearest neighbor based on the number of people, and apportion the lamb accordingly. / Your lamb must be an unblemished year-old male, and you may take it from the sheep or the goats."
+        },
+        {
+          "reference": "Leviticus 1:10",
+          "text": "If, however, one’s offering is a burnt offering from the flock—from the sheep or goats—he is to present an unblemished male."
+        },
+        {
+          "reference": "Deuteronomy 17:1",
+          "text": "You shall not sacrifice to the LORD your God an ox or a sheep with any defect or serious flaw, for that is detestable to the LORD your God."
+        },
+        {
+          "reference": "1 Samuel 18:4",
+          "text": "And Jonathan removed the robe he was wearing and gave it to David, along with his tunic, his sword, his bow, and his belt."
+        },
+        {
+          "reference": "2 Samuel 24:24",
+          "text": "“No,” replied the king, “I insist on paying a price, for I will not offer to the LORD my God burnt offerings that cost me nothing.” So David bought the threshing floor and the oxen for fifty shekels of silver."
+        },
+        {
+          "reference": "1 Kings 8:63",
+          "text": "And Solomon offered as peace offerings to the LORD 22,000 oxen and 120,000 sheep. So the king and all the Israelites dedicated the house of the LORD."
+        },
+        {
+          "reference": "2 Chronicles 7:5",
+          "text": "And King Solomon offered a sacrifice of 22,000 oxen and 120,000 sheep. So the king and all the people dedicated the house of God."
+        },
+        {
+          "reference": "Isaiah 53:7",
+          "text": "He was oppressed and afflicted, yet He did not open His mouth. He was led like a lamb to the slaughter, and as a sheep before her shearers is silent, so He did not open His mouth."
+        },
+        {
+          "reference": "Jeremiah 34:18-19",
+          "text": "And those who have transgressed My covenant and have not fulfilled the terms of the covenant they made before Me, I will treat like the calf they cut in two in order to pass between its pieces. / The officials of Judah and Jerusalem, the court officials, the priests, and all the people of the land who passed between the pieces of the calf,"
+        },
+        {
+          "reference": "Ezekiel 45:15",
+          "text": "And one sheep shall be given from each flock of two hundred from the well-watered pastures of Israel. These are for the grain offerings, burnt offerings, and peace offerings, to make atonement for the people, declares the Lord GOD."
+        },
+        {
+          "reference": "Hosea 6:6",
+          "text": "For I desire mercy, not sacrifice, and the knowledge of God rather than burnt offerings."
+        },
+        {
+          "reference": "Matthew 5:23-24",
+          "text": "So if you are offering your gift at the altar and there remember that your brother has something against you, / leave your gift there before the altar. First go and be reconciled to your brother; then come and offer your gift."
+        },
+        {
+          "reference": "Matthew 26:28",
+          "text": "This is My blood of the covenant, which is poured out for many for the forgiveness of sins."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:29",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 29,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "and Abimelek asked Abraham, “What is the meaning of these seven ewe lambs you have set apart by themselves?”"
+        },
+        {
+          "version": "NLT",
+          "text": "Abimelech asked, “Why have you set these seven apart from the others?”"
+        },
+        {
+          "version": "ESV",
+          "text": "And Abimelech said to Abraham, “What is the meaning of these seven ewe lambs that you have set apart?”"
+        },
+        {
+          "version": "NKJV",
+          "text": "Then Abimelech asked Abraham, “What is the meaning of these seven ewe lambs which you have set by themselves?”"
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 26:15-18",
+          "text": "So the Philistines took dirt and stopped up all the wells that his father’s servants had dug in the days of his father Abraham. / Then Abimelech said to Isaac, “Depart from us, for you are much too powerful for us.” / So Isaac left that place and encamped in the Valley of Gerar and settled there. ..."
+        },
+        {
+          "reference": "Genesis 31:44-54",
+          "text": "Come now, let us make a covenant, you and I, and let it serve as a witness between you and me.” / So Jacob picked out a stone and set it up as a pillar, / and he said to his relatives, “Gather some stones.” So they took stones and made a mound, and there by the mound they ate. ..."
+        },
+        {
+          "reference": "Genesis 33:8-11",
+          "text": "“What do you mean by sending this whole company to meet me?” asked Esau. “To find favor in your sight, my lord,” Jacob answered. / “I already have plenty, my brother,” Esau replied. “Keep what belongs to you.” / But Jacob insisted, “No, please! If I have found favor in your sight, then receive this gift from my hand. For indeed, I have seen your face, and it is like seeing the face of God, since you have received me favorably. ..."
+        },
+        {
+          "reference": "Genesis 34:20-24",
+          "text": "So Hamor and his son Shechem went to the gate of their city and addressed the men of their city: / “These men are at peace with us. Let them live and trade in our land; indeed, it is large enough for them. Let us take their daughters in marriage and give our daughters to them. / But only on this condition will the men agree to dwell with us and be one people: if all our men are circumcised as they are. ..."
+        },
+        {
+          "reference": "Genesis 47:27",
+          "text": "Now the Israelites settled in the land of Egypt, in the region of Goshen. They acquired property there and became fruitful and increased greatly in number."
+        },
+        {
+          "reference": "Exodus 12:32",
+          "text": "Take your flocks and herds as well, just as you have said, and depart! And bless me also.”"
+        },
+        {
+          "reference": "Exodus 23:31",
+          "text": "And I will establish your borders from the Red Sea to the Sea of the Philistines, and from the desert to the Euphrates. For I will deliver the inhabitants into your hand, and you will drive them out before you."
+        },
+        {
+          "reference": "Joshua 21:43-45",
+          "text": "Thus the LORD gave Israel all the land He had sworn to give their fathers, and they took possession of it and settled in it. / And the LORD gave them rest on every side, just as He had sworn to their fathers. None of their enemies could stand against them, for the LORD delivered all their enemies into their hand. / Not one of all the LORD’s good promises to the house of Israel had failed; everything was fulfilled."
+        },
+        {
+          "reference": "1 Samuel 7:12",
+          "text": "Afterward, Samuel took a stone and set it up between Mizpah and Shen. He named it Ebenezer, saying, “Thus far the LORD has helped us.”"
+        },
+        {
+          "reference": "2 Samuel 24:24",
+          "text": "“No,” replied the king, “I insist on paying a price, for I will not offer to the LORD my God burnt offerings that cost me nothing.” So David bought the threshing floor and the oxen for fifty shekels of silver."
+        },
+        {
+          "reference": "1 Kings 21:2",
+          "text": "So Ahab said to Naboth, “Give me your vineyard to use as a vegetable garden, since it is next to my palace. I will give you a better vineyard in its place—or if you prefer, I will give you its value in silver.”"
+        },
+        {
+          "reference": "2 Kings 3:4",
+          "text": "Now Mesha king of Moab was a sheep breeder, and he would render to the king of Israel a hundred thousand lambs and the wool of a hundred thousand rams."
+        },
+        {
+          "reference": "Nehemiah 9:8",
+          "text": "You found his heart faithful before You, and made a covenant with him to give the land of the Canaanites and Hittites, of the Amorites and Perizzites, of the Jebusites and Girgashites—to give it to his descendants. You have kept Your promise, because You are righteous."
+        },
+        {
+          "reference": "Psalm 105:9-11",
+          "text": "the covenant He made with Abraham, and the oath He swore to Isaac. / He confirmed it to Jacob as a decree, to Israel as an everlasting covenant: / “I will give you the land of Canaan as the portion of your inheritance.”"
+        },
+        {
+          "reference": "Isaiah 51:2",
+          "text": "Look to Abraham your father, and to Sarah who gave you birth. When I called him, he was but one; then I blessed him and multiplied him."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:30",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 30,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "He replied, &#8220Accept these seven lambs from my hand as a witness that I dug this well.”"
+        },
+        {
+          "version": "NLT",
+          "text": "Abraham replied, “Please accept these seven lambs to show your agreement that I dug this well.”"
+        },
+        {
+          "version": "ESV",
+          "text": "He said, “These seven ewe lambs you will take from my hand, that this may be a witness for me that I dug this well.”"
+        },
+        {
+          "version": "NKJV",
+          "text": "And he said, “You will take these seven ewe lambs from my hand, that they may be my witness that I have dug this well.”"
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 26:28-31",
+          "text": "“We can plainly see that the LORD has been with you,” they replied. “We recommend that there should now be an oath between us and you. Let us make a covenant with you / that you will not harm us, just as we have not harmed you but have done only good to you, sending you on your way in peace. And now you are blessed by the LORD.” / So Isaac prepared a feast for them, and they ate and drank. ..."
+        },
+        {
+          "reference": "Genesis 31:44-54",
+          "text": "Come now, let us make a covenant, you and I, and let it serve as a witness between you and me.” / So Jacob picked out a stone and set it up as a pillar, / and he said to his relatives, “Gather some stones.” So they took stones and made a mound, and there by the mound they ate. ..."
+        },
+        {
+          "reference": "Joshua 24:27",
+          "text": "And Joshua said to all the people, “You see this stone. It will be a witness against us, for it has heard all the words the LORD has spoken to us, and it will be a witness against you if you ever deny your God.”"
+        },
+        {
+          "reference": "Exodus 24:8",
+          "text": "So Moses took the blood, splattered it on the people, and said, “This is the blood of the covenant that the LORD has made with you in accordance with all these words.”"
+        },
+        {
+          "reference": "1 Samuel 18:3-4",
+          "text": "Then Jonathan made a covenant with David because he loved him as himself. / And Jonathan removed the robe he was wearing and gave it to David, along with his tunic, his sword, his bow, and his belt."
+        },
+        {
+          "reference": "1 Samuel 20:16-17",
+          "text": "So Jonathan made a covenant with the house of David, saying, “May the LORD hold David’s enemies accountable.” / And Jonathan had David reaffirm his vow out of love for him, for Jonathan loved David as he loved himself."
+        },
+        {
+          "reference": "2 Samuel 21:7",
+          "text": "Now the king spared Mephibosheth son of Jonathan, the son of Saul, because of the oath before the LORD between David and Jonathan son of Saul."
+        },
+        {
+          "reference": "2 Kings 11:4",
+          "text": "Then in the seventh year, Jehoiada sent for the commanders of hundreds, the Carites, and the guards, and had them brought into the house of the LORD. There he made a covenant with them and put them under oath. He showed them the king’s son"
+        },
+        {
+          "reference": "Psalm 50:5",
+          "text": "“Gather to Me My saints, who made a covenant with Me by sacrifice.”"
+        },
+        {
+          "reference": "Isaiah 55:3",
+          "text": "Incline your ear and come to Me; listen, so that your soul may live. I will make with you an everlasting covenant—My loving devotion promised to David."
+        },
+        {
+          "reference": "Jeremiah 34:18-19",
+          "text": "And those who have transgressed My covenant and have not fulfilled the terms of the covenant they made before Me, I will treat like the calf they cut in two in order to pass between its pieces. / The officials of Judah and Jerusalem, the court officials, the priests, and all the people of the land who passed between the pieces of the calf,"
+        },
+        {
+          "reference": "Ezekiel 17:13-19",
+          "text": "He took a member of the royal family and made a covenant with him, putting him under oath. Then he carried away the leading men of the land, / so that the kingdom would be brought low, unable to lift itself up, surviving only by keeping his covenant. / But this king rebelled against Babylon by sending his envoys to Egypt to ask for horses and a large army. Will he flourish? Will the one who does such things escape? Can he break a covenant and yet escape?’ ..."
+        },
+        {
+          "reference": "Matthew 26:28",
+          "text": "This is My blood of the covenant, which is poured out for many for the forgiveness of sins."
+        },
+        {
+          "reference": "Luke 22:20",
+          "text": "In the same way, after supper He took the cup, saying, “This cup is the new covenant in My blood, which is poured out for you."
+        },
+        {
+          "reference": "John 6:53-56",
+          "text": "So Jesus said to them, “Truly, truly, I tell you, unless you eat the flesh and drink the blood of the Son of Man, you have no life in you. / Whoever eats My flesh and drinks My blood has eternal life, and I will raise him up at the last day. / For My flesh is real food, and My blood is real drink. ..."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:31",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 31,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "So that place was called Beersheba, because the two men swore an oath there."
+        },
+        {
+          "version": "NLT",
+          "text": "Then he named the place Beersheba (which means “well of the oath”), because that was where they had sworn the oath."
+        },
+        {
+          "version": "ESV",
+          "text": "Therefore that place was called Beersheba, because there both of them swore an oath."
+        },
+        {
+          "version": "NKJV",
+          "text": "Therefore he called that place Beersheba, because the two of them swore an oath there."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 26:33",
+          "text": "So he called it Shibah, and to this day the name of the city is Beersheba."
+        },
+        {
+          "reference": "Genesis 26:20-22",
+          "text": "But the herdsmen of Gerar quarreled with Isaac’s herdsmen and said, “The water is ours!” So he named the well Esek, because they contended with him. / Then they dug another well and quarreled over that one also; so he named it Sitnah. / He moved on from there and dug another well, and they did not quarrel over it. He named it Rehoboth and said, “At last the LORD has made room for us, and we will be fruitful in the land.”"
+        },
+        {
+          "reference": "Genesis 16:14",
+          "text": "Therefore the well was called Beer-lahai-roi. It is located between Kadesh and Bered."
+        },
+        {
+          "reference": "Genesis 28:10",
+          "text": "Meanwhile Jacob left Beersheba and set out for Haran."
+        },
+        {
+          "reference": "Genesis 12:8",
+          "text": "From there Abram moved on to the hill country east of Bethel and pitched his tent, with Bethel to the west and Ai to the east. There he built an altar to the LORD, and he called on the name of the LORD."
+        },
+        {
+          "reference": "Genesis 13:3",
+          "text": "From the Negev he journeyed from place to place toward Bethel, until he came to the place between Bethel and Ai where his tent had formerly been pitched,"
+        },
+        {
+          "reference": "Genesis 22:19",
+          "text": "Abraham went back to his servants, and they got up and set out together for Beersheba. And Abraham settled in Beersheba."
+        },
+        {
+          "reference": "Genesis 24:62",
+          "text": "Now Isaac had just returned from Beer-lahai-roi, for he was living in the Negev."
+        },
+        {
+          "reference": "Genesis 31:47-48",
+          "text": "Laban called it Jegar-sahadutha, and Jacob called it Galeed. / Then Laban declared, “This mound is a witness between you and me this day.” Therefore the place was called Galeed."
+        },
+        {
+          "reference": "Genesis 33:17",
+          "text": "but Jacob went on to Succoth, where he built a house for himself and shelters for his livestock; that is why the place was called Succoth."
+        },
+        {
+          "reference": "Genesis 35:7",
+          "text": "There Jacob built an altar, and he called that place El-bethel, because it was there that God had revealed Himself to Jacob as he fled from his brother."
+        },
+        {
+          "reference": "Genesis 46:1",
+          "text": "So Israel set out with all that he had, and when he came to Beersheba, he offered sacrifices to the God of his father Isaac."
+        },
+        {
+          "reference": "Exodus 17:7",
+          "text": "He named the place Massah and Meribah because the Israelites quarreled, and because they tested the LORD, saying, “Is the LORD among us or not?”"
+        },
+        {
+          "reference": "Joshua 5:9",
+          "text": "Then the LORD said to Joshua, “Today I have rolled away the reproach of Egypt from you.” So that place has been called Gilgal to this day."
+        },
+        {
+          "reference": "1 Samuel 7:12",
+          "text": "Afterward, Samuel took a stone and set it up between Mizpah and Shen. He named it Ebenezer, saying, “Thus far the LORD has helped us.”"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:32",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 32,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "After the treaty had been made at Beersheba, Abimelek and Phicol the commander of his forces returned to the land of the Philistines."
+        },
+        {
+          "version": "NLT",
+          "text": "After making their covenant at Beersheba, Abimelech left with Phicol, the commander of his army, and they returned home to the land of the Philistines."
+        },
+        {
+          "version": "ESV",
+          "text": "So they made a covenant at Beersheba. Then Abimelech and Phicol the commander of his army rose up and returned to the land of the Philistines."
+        },
+        {
+          "version": "NKJV",
+          "text": "Thus they made a covenant at Beersheba. So Abimelech rose with Phichol, the commander of his army, and they returned to the land of the Philistines."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 26:26-31",
+          "text": "Later, Abimelech came to Isaac from Gerar, with Ahuzzath his adviser and Phicol the commander of his army. / “Why have you come to me?” Isaac asked them. “You hated me and sent me away.” / “We can plainly see that the LORD has been with you,” they replied. “We recommend that there should now be an oath between us and you. Let us make a covenant with you ..."
+        },
+        {
+          "reference": "Genesis 31:44-54",
+          "text": "Come now, let us make a covenant, you and I, and let it serve as a witness between you and me.” / So Jacob picked out a stone and set it up as a pillar, / and he said to his relatives, “Gather some stones.” So they took stones and made a mound, and there by the mound they ate. ..."
+        },
+        {
+          "reference": "Joshua 9:15",
+          "text": "And Joshua made a treaty of peace with them to let them live, and the leaders of the congregation swore an oath to them."
+        },
+        {
+          "reference": "1 Samuel 20:42",
+          "text": "And Jonathan said to David, “Go in peace, for the two of us have sworn in the name of the LORD, saying, ‘May the LORD be a witness between you and me, and between your descendants and mine forever.’” Then David got up and departed, and Jonathan went back into the city."
+        },
+        {
+          "reference": "1 Kings 5:12",
+          "text": "And the LORD gave Solomon wisdom, as He had promised him. There was peace between Hiram and Solomon, and the two of them made a treaty."
+        },
+        {
+          "reference": "2 Samuel 21:2",
+          "text": "At this, David summoned the Gibeonites and spoke to them. (Now the Gibeonites were not Israelites, but a remnant of the Amorites. The Israelites had taken an oath concerning them, but in his zeal for Israel and Judah, Saul had sought to kill them.)"
+        },
+        {
+          "reference": "Judges 2:2",
+          "text": "and you are not to make a covenant with the people of this land, but you shall tear down their altars.’ Yet you have not obeyed My voice. What is this you have done?"
+        },
+        {
+          "reference": "Exodus 23:32",
+          "text": "You shall make no covenant with them or with their gods."
+        },
+        {
+          "reference": "Deuteronomy 7:2",
+          "text": "and when the LORD your God has delivered them over to you to defeat them, then you must devote them to complete destruction. Make no treaty with them and show them no mercy."
+        },
+        {
+          "reference": "Psalm 105:8-10",
+          "text": "He remembers His covenant forever, the word He ordained for a thousand generations— / the covenant He made with Abraham, and the oath He swore to Isaac. / He confirmed it to Jacob as a decree, to Israel as an everlasting covenant:"
+        },
+        {
+          "reference": "Isaiah 33:8",
+          "text": "The highways are deserted; travel has ceased. The treaty has been broken, the witnesses are despised, and human life is disregarded."
+        },
+        {
+          "reference": "Ezekiel 17:13-16",
+          "text": "He took a member of the royal family and made a covenant with him, putting him under oath. Then he carried away the leading men of the land, / so that the kingdom would be brought low, unable to lift itself up, surviving only by keeping his covenant. / But this king rebelled against Babylon by sending his envoys to Egypt to ask for horses and a large army. Will he flourish? Will the one who does such things escape? Can he break a covenant and yet escape?’ ..."
+        },
+        {
+          "reference": "Matthew 5:37",
+          "text": "Simply let your ‘Yes’ be ‘Yes,’ and your ‘No,’ ‘No.’ Anything more comes from the evil one."
+        },
+        {
+          "reference": "Hebrews 6:16",
+          "text": "Men swear by someone greater than themselves, and their oath serves as a confirmation to end all argument."
+        },
+        {
+          "reference": "Galatians 3:15",
+          "text": "Brothers, let me put this in human terms. Even a human covenant, once it is ratified, cannot be canceled or amended."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:33",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 33,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "Abraham planted a tamarisk tree in Beersheba, and there he called on the name of the LORD, the Eternal God."
+        },
+        {
+          "version": "NLT",
+          "text": "Then Abraham planted a tamarisk tree at Beersheba, and there he worshiped the LORD, the Eternal God."
+        },
+        {
+          "version": "ESV",
+          "text": "Abraham planted a tamarisk tree in Beersheba and called there on the name of the LORD, the Everlasting God."
+        },
+        {
+          "version": "NKJV",
+          "text": "Then Abraham planted a tamarisk tree in Beersheba, and there called on the name of the LORD, the Everlasting God."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Isaiah 40:28",
+          "text": "Do you not know? Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary; His understanding is beyond searching out."
+        },
+        {
+          "reference": "Psalm 90:2",
+          "text": "Before the mountains were born or You brought forth the earth and the world, from everlasting to everlasting You are God."
+        },
+        {
+          "reference": "Deuteronomy 33:27",
+          "text": "The eternal God is your dwelling place, and underneath are the everlasting arms. He drives out the enemy before you, giving the command, ‘Destroy him!’"
+        },
+        {
+          "reference": "Jeremiah 10:10",
+          "text": "But the LORD is the true God; He is the living God and eternal King. The earth quakes at His wrath, and the nations cannot endure His indignation."
+        },
+        {
+          "reference": "Psalm 93:2",
+          "text": "Your throne was established long ago; You are from all eternity."
+        },
+        {
+          "reference": "Revelation 1:8",
+          "text": "“I am the Alpha and the Omega,” says the Lord God, who is and was and is to come—the Almighty."
+        },
+        {
+          "reference": "Psalm 100:5",
+          "text": "For the LORD is good, and His loving devotion endures forever; His faithfulness continues to all generations."
+        },
+        {
+          "reference": "Isaiah 26:4",
+          "text": "Trust in the LORD forever, because GOD the LORD is the Rock eternal."
+        },
+        {
+          "reference": "Psalm 145:13",
+          "text": "Your kingdom is an everlasting kingdom, and Your dominion endures through all generations. The LORD is faithful in all His words and kind in all His actions."
+        },
+        {
+          "reference": "1 Timothy 1:17",
+          "text": "Now to the King eternal, immortal, and invisible, the only God, be honor and glory forever and ever. Amen."
+        },
+        {
+          "reference": "Psalm 136:26",
+          "text": "Give thanks to the God of heaven! His loving devotion endures forever."
+        },
+        {
+          "reference": "Hebrews 13:8",
+          "text": "Jesus Christ is the same yesterday and today and forever."
+        },
+        {
+          "reference": "Psalm 102:12",
+          "text": "But You, O LORD, sit enthroned forever; Your renown endures to all generations."
+        },
+        {
+          "reference": "Romans 1:20",
+          "text": "For since the creation of the world God’s invisible qualities, His eternal power and divine nature, have been clearly seen, being understood from His workmanship, so that men are without excuse."
+        },
+        {
+          "reference": "Psalm 103:17",
+          "text": "But from everlasting to everlasting the loving devotion of the LORD extends to those who fear Him, and His righteousness to their children’s children—"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 21:34",
+      "book": "Genesis",
+      "chapter": 21,
+      "verse": 34,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "And Abraham stayed in the land of the Philistines for a long time."
+        },
+        {
+          "version": "NLT",
+          "text": "And Abraham lived as a foreigner in Philistine country for a long time."
+        },
+        {
+          "version": "ESV",
+          "text": "And Abraham sojourned many days in the land of the Philistines."
+        },
+        {
+          "version": "NKJV",
+          "text": "And Abraham stayed in the land of the Philistines many days."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 26:3",
+          "text": "Stay in this land as a foreigner, and I will be with you and bless you. For I will give all these lands to you and your offspring, and I will confirm the oath that I swore to your father Abraham."
+        },
+        {
+          "reference": "Genesis 12:1-3",
+          "text": "Then the LORD said to Abram, “Leave your country, your kindred, and your father’s household, and go to the land I will show you. / I will make you into a great nation, and I will bless you; I will make your name great, so that you will be a blessing. / I will bless those who bless you and curse those who curse you; and all the families of the earth will be blessed through you.”"
+        },
+        {
+          "reference": "Genesis 17:8",
+          "text": "And to you and your descendants I will give the land where you are residing—all the land of Canaan—as an eternal possession; and I will be their God.”"
+        },
+        {
+          "reference": "Genesis 28:13-15",
+          "text": "And there at the top the LORD was standing and saying, “I am the LORD, the God of your father Abraham and the God of Isaac. I will give you and your descendants the land on which you now lie. / Your descendants will be like the dust of the earth, and you will spread out to the west and east and north and south. All the families of the earth will be blessed through you and your offspring. / Look, I am with you, and I will watch over you wherever you go, and I will bring you back to this land. For I will not leave you until I have done what I have promised you.”"
+        },
+        {
+          "reference": "Genesis 50:24",
+          "text": "Then Joseph said to his brothers, “I am about to die, but God will surely visit you and bring you up from this land to the land He promised on oath to Abraham, Isaac, and Jacob.”"
+        },
+        {
+          "reference": "Exodus 6:4",
+          "text": "I also established My covenant with them to give them the land of Canaan, the land where they lived as foreigners."
+        },
+        {
+          "reference": "Exodus 33:1",
+          "text": "Then the LORD said to Moses, “Leave this place, you and the people you brought up out of the land of Egypt, and go to the land that I promised to Abraham, Isaac, and Jacob when I said, ‘I will give it to your descendants.’"
+        },
+        {
+          "reference": "Deuteronomy 1:8",
+          "text": "See, I have placed the land before you. Enter and possess the land that the LORD swore He would give to your fathers Abraham, Isaac, and Jacob, and to their descendants after them.”"
+        },
+        {
+          "reference": "Deuteronomy 34:4",
+          "text": "And the LORD said to him, “This is the land that I swore to give Abraham, Isaac, and Jacob when I said, ‘I will give it to your descendants.’ I have let you see it with your own eyes, but you will not cross into it.”"
+        },
+        {
+          "reference": "Joshua 21:43",
+          "text": "Thus the LORD gave Israel all the land He had sworn to give their fathers, and they took possession of it and settled in it."
+        },
+        {
+          "reference": "Nehemiah 9:8",
+          "text": "You found his heart faithful before You, and made a covenant with him to give the land of the Canaanites and Hittites, of the Amorites and Perizzites, of the Jebusites and Girgashites—to give it to his descendants. You have kept Your promise, because You are righteous."
+        },
+        {
+          "reference": "Psalm 105:9-11",
+          "text": "the covenant He made with Abraham, and the oath He swore to Isaac. / He confirmed it to Jacob as a decree, to Israel as an everlasting covenant: / “I will give you the land of Canaan as the portion of your inheritance.”"
+        },
+        {
+          "reference": "Acts 7:5",
+          "text": "He gave him no inheritance here, not even a foot of ground. But God promised to give possession of the land to Abraham and his descendants, even though he did not yet have a child."
+        },
+        {
+          "reference": "Hebrews 11:9",
+          "text": "By faith he dwelt in the promised land as a stranger in a foreign country. He lived in tents, as did Isaac and Jacob, who were heirs with him of the same promise."
+        },
+        {
+          "reference": "Hebrews 11:13",
+          "text": "All these people died in faith, without having received the things they were promised. However, they saw them and welcomed them from afar. And they acknowledged that they were strangers and exiles on the earth."
+        }
+      ]
+    }
+  ]
+}

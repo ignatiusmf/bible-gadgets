@@ -1,0 +1,2520 @@
+{
+  "book": "genesis",
+  "chapter": 1,
+  "verses": [
+    {
+      "reference": "Genesis 1:1",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 1,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "In the beginning God created the heavens and the earth."
+        },
+        {
+          "version": "NLT",
+          "text": "In the beginning God created the heavens and the earth."
+        },
+        {
+          "version": "ESV",
+          "text": "In the beginning, God created the heavens and the earth."
+        },
+        {
+          "version": "NKJV",
+          "text": "In the beginning God created the heavens and the earth."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "John 1:1-3",
+          "text": "In the beginning was the Word, and the Word was with God, and the Word was God. / He was with God in the beginning. / Through Him all things were made, and without Him nothing was made that has been made."
+        },
+        {
+          "reference": "Hebrews 11:3",
+          "text": "By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible."
+        },
+        {
+          "reference": "Colossians 1:16-17",
+          "text": "For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him. / He is before all things, and in Him all things hold together."
+        },
+        {
+          "reference": "Psalm 33:6",
+          "text": "By the word of the LORD the heavens were made, and all the stars by the breath of His mouth."
+        },
+        {
+          "reference": "Isaiah 45:18",
+          "text": "For thus says the LORD, who created the heavens—He is God; He formed the earth and fashioned it; He established it; He did not create it to be empty, but formed it to be inhabited: “I am the LORD, and there is no other."
+        },
+        {
+          "reference": "Revelation 4:11",
+          "text": "“Worthy are You, our Lord and God, to receive glory and honor and power, for You created all things; by Your will they exist and were created.”"
+        },
+        {
+          "reference": "Nehemiah 9:6",
+          "text": "You alone are the LORD. You created the heavens, the highest heavens with all their host, the earth and all that is on it, the seas and all that is in them. You give life to all things, and the host of heaven worships You."
+        },
+        {
+          "reference": "Psalm 102:25",
+          "text": "In the beginning You laid the foundations of the earth, and the heavens are the work of Your hands."
+        },
+        {
+          "reference": "Isaiah 40:28",
+          "text": "Do you not know? Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary; His understanding is beyond searching out."
+        },
+        {
+          "reference": "Jeremiah 10:12",
+          "text": "The LORD made the earth by His power; He established the world by His wisdom and stretched out the heavens by His understanding."
+        },
+        {
+          "reference": "Proverbs 8:22-31",
+          "text": "The LORD created me as His first course, before His works of old. / From everlasting I was established, from the beginning, before the earth began. / When there were no watery depths, I was brought forth, when no springs were overflowing with water. ..."
+        },
+        {
+          "reference": "Job 38:4-7",
+          "text": "Where were you when I laid the foundations of the earth? Tell Me, if you have understanding. / Who fixed its measurements? Surely you know! Or who stretched a measuring line across it? / On what were its foundations set, or who laid its cornerstone, ..."
+        },
+        {
+          "reference": "Acts 17:24",
+          "text": "The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples made by human hands."
+        },
+        {
+          "reference": "Romans 1:20",
+          "text": "For since the creation of the world God’s invisible qualities, His eternal power and divine nature, have been clearly seen, being understood from His workmanship, so that men are without excuse."
+        },
+        {
+          "reference": "2 Peter 3:5",
+          "text": "But they deliberately overlook the fact that long ago by God’s word the heavens existed and the earth was formed out of water and by water,"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:2",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 2,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters."
+        },
+        {
+          "version": "NLT",
+          "text": "The earth was formless and empty, and darkness covered the deep waters. And the Spirit of God was hovering over the surface of the waters."
+        },
+        {
+          "version": "ESV",
+          "text": "The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters."
+        },
+        {
+          "version": "NKJV",
+          "text": "The earth was without form, and void; and darkness was on the face of the deep. And the Spirit of God was hovering over the face of the waters."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "John 1:1-3",
+          "text": "In the beginning was the Word, and the Word was with God, and the Word was God. / He was with God in the beginning. / Through Him all things were made, and without Him nothing was made that has been made."
+        },
+        {
+          "reference": "Psalm 104:30",
+          "text": "When You send Your Spirit, they are created, and You renew the face of the earth."
+        },
+        {
+          "reference": "Job 26:13",
+          "text": "By His breath the skies were cleared; His hand pierced the fleeing serpent."
+        },
+        {
+          "reference": "Isaiah 45:18",
+          "text": "For thus says the LORD, who created the heavens—He is God; He formed the earth and fashioned it; He established it; He did not create it to be empty, but formed it to be inhabited: “I am the LORD, and there is no other."
+        },
+        {
+          "reference": "Jeremiah 4:23",
+          "text": "I looked at the earth, and it was formless and void; I looked to the heavens, and they had no light."
+        },
+        {
+          "reference": "2 Peter 3:5",
+          "text": "But they deliberately overlook the fact that long ago by God’s word the heavens existed and the earth was formed out of water and by water,"
+        },
+        {
+          "reference": "Psalm 33:6",
+          "text": "By the word of the LORD the heavens were made, and all the stars by the breath of His mouth."
+        },
+        {
+          "reference": "Job 38:9",
+          "text": "when I made the clouds its garment and thick darkness its blanket,"
+        },
+        {
+          "reference": "Isaiah 40:13-14",
+          "text": "Who has directed the Spirit of the LORD, or informed Him as His counselor? / Whom did He consult to enlighten Him, and who taught Him the paths of justice? Who imparted knowledge to Him and showed Him the way of understanding?"
+        },
+        {
+          "reference": "Hebrews 11:3",
+          "text": "By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible."
+        },
+        {
+          "reference": "Proverbs 8:27-29",
+          "text": "I was there when He established the heavens, when He inscribed a circle on the face of the deep, / when He established the clouds above, when the fountains of the deep gushed forth, / when He set a boundary for the sea, so that the waters would not surpass His command, when He marked out the foundations of the earth."
+        },
+        {
+          "reference": "Psalm 136:6",
+          "text": "He spread out the earth upon the waters. His loving devotion endures forever."
+        },
+        {
+          "reference": "Colossians 1:16-17",
+          "text": "For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him. / He is before all things, and in Him all things hold together."
+        },
+        {
+          "reference": "Isaiah 42:5",
+          "text": "This is what God the LORD says—He who created the heavens and stretched them out, who spread out the earth and its offspring, who gives breath to the people on it and life to those who walk in it:"
+        },
+        {
+          "reference": "Revelation 4:11",
+          "text": "“Worthy are You, our Lord and God, to receive glory and honor and power, for You created all things; by Your will they exist and were created.”"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:3",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 3,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "And God said, “Let there be light,” and there was light."
+        },
+        {
+          "version": "NLT",
+          "text": "Then God said, “Let there be light,” and there was light."
+        },
+        {
+          "version": "ESV",
+          "text": "And God said, “Let there be light,” and there was light."
+        },
+        {
+          "version": "NKJV",
+          "text": "Then God said, “Let there be light”; and there was light."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "John 1:1-5",
+          "text": "In the beginning was the Word, and the Word was with God, and the Word was God. / He was with God in the beginning. / Through Him all things were made, and without Him nothing was made that has been made. ..."
+        },
+        {
+          "reference": "2 Corinthians 4:6",
+          "text": "For God, who said, “Let light shine out of darkness,” made His light shine in our hearts to give us the light of the knowledge of the glory of God in the face of Jesus Christ."
+        },
+        {
+          "reference": "Psalm 33:6",
+          "text": "By the word of the LORD the heavens were made, and all the stars by the breath of His mouth."
+        },
+        {
+          "reference": "Hebrews 11:3",
+          "text": "By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible."
+        },
+        {
+          "reference": "Isaiah 45:7",
+          "text": "I form the light and create the darkness; I bring prosperity and create calamity. I, the LORD, do all these things."
+        },
+        {
+          "reference": "Psalm 104:2",
+          "text": "He wraps Himself in light as with a garment; He stretches out the heavens like a tent,"
+        },
+        {
+          "reference": "Revelation 21:23",
+          "text": "And the city has no need of sun or moon to shine on it, because the glory of God illuminates the city, and the Lamb is its lamp."
+        },
+        {
+          "reference": "James 1:17",
+          "text": "Every good and perfect gift is from above, coming down from the Father of the heavenly lights, with whom there is no change or shifting shadow."
+        },
+        {
+          "reference": "Isaiah 60:19",
+          "text": "No longer will the sun be your light by day, nor the brightness of the moon shine on your night; for the LORD will be your everlasting light, and your God will be your splendor."
+        },
+        {
+          "reference": "Psalm 119:130",
+          "text": "The unfolding of Your words gives light; it informs the simple."
+        },
+        {
+          "reference": "1 John 1:5",
+          "text": "And this is the message we have heard from Him and announce to you: God is light, and in Him there is no darkness at all."
+        },
+        {
+          "reference": "Job 38:24",
+          "text": "In which direction is the lightning dispersed, or the east wind scattered over the earth?"
+        },
+        {
+          "reference": "Isaiah 42:5",
+          "text": "This is what God the LORD says—He who created the heavens and stretched them out, who spread out the earth and its offspring, who gives breath to the people on it and life to those who walk in it:"
+        },
+        {
+          "reference": "John 8:12",
+          "text": "Once again, Jesus spoke to the people and said, “I am the light of the world. Whoever follows Me will never walk in the darkness, but will have the light of life.”"
+        },
+        {
+          "reference": "Ephesians 5:8",
+          "text": "For you were once darkness, but now you are light in the Lord. Walk as children of light,"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:4",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 4,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "God saw that the light was good, and he separated the light from the darkness."
+        },
+        {
+          "version": "NLT",
+          "text": "And God saw that the light was good. Then he separated the light from the darkness."
+        },
+        {
+          "version": "ESV",
+          "text": "And God saw that the light was good. And God separated the light from the darkness."
+        },
+        {
+          "version": "NKJV",
+          "text": "And God saw the light, that it was good; and God divided the light from the darkness."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "John 1:5",
+          "text": "The Light shines in the darkness, and the darkness has not overcome it."
+        },
+        {
+          "reference": "2 Corinthians 4:6",
+          "text": "For God, who said, “Let light shine out of darkness,” made His light shine in our hearts to give us the light of the knowledge of the glory of God in the face of Jesus Christ."
+        },
+        {
+          "reference": "Isaiah 45:7",
+          "text": "I form the light and create the darkness; I bring prosperity and create calamity. I, the LORD, do all these things."
+        },
+        {
+          "reference": "1 John 1:5",
+          "text": "And this is the message we have heard from Him and announce to you: God is light, and in Him there is no darkness at all."
+        },
+        {
+          "reference": "Psalm 104:2",
+          "text": "He wraps Himself in light as with a garment; He stretches out the heavens like a tent,"
+        },
+        {
+          "reference": "James 1:17",
+          "text": "Every good and perfect gift is from above, coming down from the Father of the heavenly lights, with whom there is no change or shifting shadow."
+        },
+        {
+          "reference": "Ephesians 5:8",
+          "text": "For you were once darkness, but now you are light in the Lord. Walk as children of light,"
+        },
+        {
+          "reference": "1 Peter 2:9",
+          "text": "But you are a chosen people, a royal priesthood, a holy nation, a people for God’s own possession, to proclaim the virtues of Him who called you out of darkness into His marvelous light."
+        },
+        {
+          "reference": "Isaiah 60:19-20",
+          "text": "No longer will the sun be your light by day, nor the brightness of the moon shine on your night; for the LORD will be your everlasting light, and your God will be your splendor. / Your sun will no longer set, and your moon will not wane; for the LORD will be your everlasting light, and the days of your sorrow will cease."
+        },
+        {
+          "reference": "Revelation 21:23-25",
+          "text": "And the city has no need of sun or moon to shine on it, because the glory of God illuminates the city, and the Lamb is its lamp. / By its light the nations will walk, and into it the kings of the earth will bring their glory. / Its gates will never be shut at the end of the day, because there will be no night there."
+        },
+        {
+          "reference": "Psalm 27:1",
+          "text": "Of David. The LORD is my light and my salvation—whom shall I fear? The LORD is the stronghold of my life—whom shall I dread?"
+        },
+        {
+          "reference": "John 8:12",
+          "text": "Once again, Jesus spoke to the people and said, “I am the light of the world. Whoever follows Me will never walk in the darkness, but will have the light of life.”"
+        },
+        {
+          "reference": "Matthew 5:14-16",
+          "text": "You are the light of the world. A city on a hill cannot be hidden. / Neither do people light a lamp and put it under a basket. Instead, they set it on a stand, and it gives light to everyone in the house. / In the same way, let your light shine before men, that they may see your good deeds and glorify your Father in heaven."
+        },
+        {
+          "reference": "1 Thessalonians 5:5",
+          "text": "For you are all sons of the light and sons of the day; we do not belong to the night or to the darkness."
+        },
+        {
+          "reference": "Isaiah 42:16",
+          "text": "I will lead the blind by a way they did not know; I will guide them on unfamiliar paths. I will turn darkness into light before them and rough places into level ground. These things I will do for them, and I will not forsake them."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:5",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 5,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "God called the light &#8220day,” and the darkness he called “night.” And there was evening, and there was morning—the first day."
+        },
+        {
+          "version": "NLT",
+          "text": "God called the light “day” and the darkness “night.” And evening passed and morning came, marking the first day."
+        },
+        {
+          "version": "ESV",
+          "text": "God called the light Day, and the darkness he called Night. And there was evening and there was morning, the first day."
+        },
+        {
+          "version": "NKJV",
+          "text": "God called the light Day, and the darkness He called Night. So the evening and the morning were the first day."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": []
+    },
+    {
+      "reference": "Genesis 1:6",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 6,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "And God said, “Let there be a vault between the waters to separate water from water.”"
+        },
+        {
+          "version": "NLT",
+          "text": "Then God said, “Let there be a space between the waters, to separate the waters of the heavens from the waters of the earth.”"
+        },
+        {
+          "version": "ESV",
+          "text": "And God said, “Let there be an expanse in the midst of the waters, and let it separate the waters from the waters.”"
+        },
+        {
+          "version": "NKJV",
+          "text": "Then God said, “Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.”"
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Psalm 33:6",
+          "text": "By the word of the LORD the heavens were made, and all the stars by the breath of His mouth."
+        },
+        {
+          "reference": "Hebrews 11:3",
+          "text": "By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible."
+        },
+        {
+          "reference": "2 Peter 3:5",
+          "text": "But they deliberately overlook the fact that long ago by God’s word the heavens existed and the earth was formed out of water and by water,"
+        },
+        {
+          "reference": "Job 26:10",
+          "text": "He has inscribed a horizon on the face of the waters at the boundary between light and darkness."
+        },
+        {
+          "reference": "Isaiah 40:22",
+          "text": "He sits enthroned above the circle of the earth; its dwellers are like grasshoppers. He stretches out the heavens like a curtain, and spreads them out like a tent to dwell in."
+        },
+        {
+          "reference": "Jeremiah 10:12",
+          "text": "The LORD made the earth by His power; He established the world by His wisdom and stretched out the heavens by His understanding."
+        },
+        {
+          "reference": "Proverbs 8:27-29",
+          "text": "I was there when He established the heavens, when He inscribed a circle on the face of the deep, / when He established the clouds above, when the fountains of the deep gushed forth, / when He set a boundary for the sea, so that the waters would not surpass His command, when He marked out the foundations of the earth."
+        },
+        {
+          "reference": "Psalm 104:2-3",
+          "text": "He wraps Himself in light as with a garment; He stretches out the heavens like a tent, / laying the beams of His chambers in the waters above, making the clouds His chariot, walking on the wings of the wind."
+        },
+        {
+          "reference": "Job 37:18",
+          "text": "can you, like Him, spread out the skies, as strong as a mirror of bronze?"
+        },
+        {
+          "reference": "Isaiah 42:5",
+          "text": "This is what God the LORD says—He who created the heavens and stretched them out, who spread out the earth and its offspring, who gives breath to the people on it and life to those who walk in it:"
+        },
+        {
+          "reference": "Colossians 1:16",
+          "text": "For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him."
+        },
+        {
+          "reference": "John 1:3",
+          "text": "Through Him all things were made, and without Him nothing was made that has been made."
+        },
+        {
+          "reference": "Revelation 4:11",
+          "text": "“Worthy are You, our Lord and God, to receive glory and honor and power, for You created all things; by Your will they exist and were created.”"
+        },
+        {
+          "reference": "Nehemiah 9:6",
+          "text": "You alone are the LORD. You created the heavens, the highest heavens with all their host, the earth and all that is on it, the seas and all that is in them. You give life to all things, and the host of heaven worships You."
+        },
+        {
+          "reference": "Psalm 148:4-5",
+          "text": "Praise Him, O highest heavens, and you waters above the skies. / Let them praise the name of the LORD, for He gave the command and they were created."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:7",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 7,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "So God made the vault and separated the water under the vault from the water above it. And it was so."
+        },
+        {
+          "version": "NLT",
+          "text": "And that is what happened. God made this space to separate the waters of the earth from the waters of the heavens."
+        },
+        {
+          "version": "ESV",
+          "text": "And God made the expanse and separated the waters that were under the expanse from the waters that were above the expanse. And it was so."
+        },
+        {
+          "version": "NKJV",
+          "text": "Thus God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament; and it was so."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "John 1:1-3",
+          "text": "In the beginning was the Word, and the Word was with God, and the Word was God. / He was with God in the beginning. / Through Him all things were made, and without Him nothing was made that has been made."
+        },
+        {
+          "reference": "Psalm 33:6",
+          "text": "By the word of the LORD the heavens were made, and all the stars by the breath of His mouth."
+        },
+        {
+          "reference": "Hebrews 11:3",
+          "text": "By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible."
+        },
+        {
+          "reference": "Colossians 1:16",
+          "text": "For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him."
+        },
+        {
+          "reference": "Isaiah 40:22",
+          "text": "He sits enthroned above the circle of the earth; its dwellers are like grasshoppers. He stretches out the heavens like a curtain, and spreads them out like a tent to dwell in."
+        },
+        {
+          "reference": "Job 26:10",
+          "text": "He has inscribed a horizon on the face of the waters at the boundary between light and darkness."
+        },
+        {
+          "reference": "2 Peter 3:5",
+          "text": "But they deliberately overlook the fact that long ago by God’s word the heavens existed and the earth was formed out of water and by water,"
+        },
+        {
+          "reference": "Proverbs 8:27-29",
+          "text": "I was there when He established the heavens, when He inscribed a circle on the face of the deep, / when He established the clouds above, when the fountains of the deep gushed forth, / when He set a boundary for the sea, so that the waters would not surpass His command, when He marked out the foundations of the earth."
+        },
+        {
+          "reference": "Jeremiah 10:12",
+          "text": "The LORD made the earth by His power; He established the world by His wisdom and stretched out the heavens by His understanding."
+        },
+        {
+          "reference": "Nehemiah 9:6",
+          "text": "You alone are the LORD. You created the heavens, the highest heavens with all their host, the earth and all that is on it, the seas and all that is in them. You give life to all things, and the host of heaven worships You."
+        },
+        {
+          "reference": "Psalm 104:2-3",
+          "text": "He wraps Himself in light as with a garment; He stretches out the heavens like a tent, / laying the beams of His chambers in the waters above, making the clouds His chariot, walking on the wings of the wind."
+        },
+        {
+          "reference": "Isaiah 42:5",
+          "text": "This is what God the LORD says—He who created the heavens and stretched them out, who spread out the earth and its offspring, who gives breath to the people on it and life to those who walk in it:"
+        },
+        {
+          "reference": "Job 38:8-11",
+          "text": "Who enclosed the sea behind doors when it burst forth from the womb, / when I made the clouds its garment and thick darkness its blanket, / when I fixed its boundaries and set in place its bars and doors, ..."
+        },
+        {
+          "reference": "Psalm 148:4-5",
+          "text": "Praise Him, O highest heavens, and you waters above the skies. / Let them praise the name of the LORD, for He gave the command and they were created."
+        },
+        {
+          "reference": "Revelation 4:11",
+          "text": "“Worthy are You, our Lord and God, to receive glory and honor and power, for You created all things; by Your will they exist and were created.”"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:8",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 8,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "God called the vault “sky.” And there was evening, and there was morning—the second day."
+        },
+        {
+          "version": "NLT",
+          "text": "God called the space “sky.” And evening passed and morning came, marking the second day."
+        },
+        {
+          "version": "ESV",
+          "text": "And God called the expanse Heaven. And there was evening and there was morning, the second day."
+        },
+        {
+          "version": "NKJV",
+          "text": "And God called the firmament Heaven. So the evening and the morning were the second day."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Psalm 19:1",
+          "text": "For the choirmaster. A Psalm of David. The heavens declare the glory of God; the skies proclaim the work of His hands."
+        },
+        {
+          "reference": "Isaiah 40:22",
+          "text": "He sits enthroned above the circle of the earth; its dwellers are like grasshoppers. He stretches out the heavens like a curtain, and spreads them out like a tent to dwell in."
+        },
+        {
+          "reference": "Job 26:7-10",
+          "text": "He stretches out the north over empty space; He hangs the earth upon nothing. / He wraps up the waters in His clouds, yet the clouds do not burst under their own weight. / He covers the face of the full moon, spreading over it His cloud. ..."
+        },
+        {
+          "reference": "Jeremiah 10:12",
+          "text": "The LORD made the earth by His power; He established the world by His wisdom and stretched out the heavens by His understanding."
+        },
+        {
+          "reference": "Proverbs 8:27-29",
+          "text": "I was there when He established the heavens, when He inscribed a circle on the face of the deep, / when He established the clouds above, when the fountains of the deep gushed forth, / when He set a boundary for the sea, so that the waters would not surpass His command, when He marked out the foundations of the earth."
+        },
+        {
+          "reference": "Psalm 33:6",
+          "text": "By the word of the LORD the heavens were made, and all the stars by the breath of His mouth."
+        },
+        {
+          "reference": "Isaiah 45:18",
+          "text": "For thus says the LORD, who created the heavens—He is God; He formed the earth and fashioned it; He established it; He did not create it to be empty, but formed it to be inhabited: “I am the LORD, and there is no other."
+        },
+        {
+          "reference": "Job 38:4-11",
+          "text": "Where were you when I laid the foundations of the earth? Tell Me, if you have understanding. / Who fixed its measurements? Surely you know! Or who stretched a measuring line across it? / On what were its foundations set, or who laid its cornerstone, ..."
+        },
+        {
+          "reference": "Psalm 104:2-3",
+          "text": "He wraps Himself in light as with a garment; He stretches out the heavens like a tent, / laying the beams of His chambers in the waters above, making the clouds His chariot, walking on the wings of the wind."
+        },
+        {
+          "reference": "Amos 9:6",
+          "text": "He builds His upper rooms in the heavens and founds His vault upon the earth. He summons the waters of the sea and pours them over the face of the earth. The LORD is His name."
+        },
+        {
+          "reference": "2 Peter 3:5",
+          "text": "But they deliberately overlook the fact that long ago by God’s word the heavens existed and the earth was formed out of water and by water,"
+        },
+        {
+          "reference": "Hebrews 11:3",
+          "text": "By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible."
+        },
+        {
+          "reference": "John 1:1-3",
+          "text": "In the beginning was the Word, and the Word was with God, and the Word was God. / He was with God in the beginning. / Through Him all things were made, and without Him nothing was made that has been made."
+        },
+        {
+          "reference": "Colossians 1:16",
+          "text": "For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him."
+        },
+        {
+          "reference": "Revelation 4:11",
+          "text": "“Worthy are You, our Lord and God, to receive glory and honor and power, for You created all things; by Your will they exist and were created.”"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:9",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 9,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "And God said, “Let the water under the sky be gathered to one place, and let dry ground appear.” And it was so."
+        },
+        {
+          "version": "NLT",
+          "text": "Then God said, “Let the waters beneath the sky flow together into one place, so dry ground may appear.” And that is what happened."
+        },
+        {
+          "version": "ESV",
+          "text": "And God said, “Let the waters under the heavens be gathered together into one place, and let the dry land appear.” And it was so."
+        },
+        {
+          "version": "NKJV",
+          "text": "Then God said, “Let the waters under the heavens be gathered together into one place, and let the dry land appear”; and it was so."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Psalm 104:6-9",
+          "text": "You covered it with the deep like a garment; the waters stood above the mountains. / At Your rebuke the waters fled; at the sound of Your thunder they hurried away— / the mountains rose and the valleys sank to the place You assigned for them— ..."
+        },
+        {
+          "reference": "Job 38:8-11",
+          "text": "Who enclosed the sea behind doors when it burst forth from the womb, / when I made the clouds its garment and thick darkness its blanket, / when I fixed its boundaries and set in place its bars and doors, ..."
+        },
+        {
+          "reference": "2 Peter 3:5",
+          "text": "But they deliberately overlook the fact that long ago by God’s word the heavens existed and the earth was formed out of water and by water,"
+        },
+        {
+          "reference": "Jeremiah 5:22",
+          "text": "Do you not fear Me?” declares the LORD. “Do you not tremble before Me, the One who set the sand as the boundary for the sea, an enduring barrier it cannot cross? The waves surge, but they cannot prevail. They roar but cannot cross it."
+        },
+        {
+          "reference": "Proverbs 8:27-29",
+          "text": "I was there when He established the heavens, when He inscribed a circle on the face of the deep, / when He established the clouds above, when the fountains of the deep gushed forth, / when He set a boundary for the sea, so that the waters would not surpass His command, when He marked out the foundations of the earth."
+        },
+        {
+          "reference": "Exodus 20:11",
+          "text": "For in six days the LORD made the heavens and the earth and the sea and all that is in them, but on the seventh day He rested. Therefore the LORD blessed the Sabbath day and set it apart as holy."
+        },
+        {
+          "reference": "Isaiah 45:18",
+          "text": "For thus says the LORD, who created the heavens—He is God; He formed the earth and fashioned it; He established it; He did not create it to be empty, but formed it to be inhabited: “I am the LORD, and there is no other."
+        },
+        {
+          "reference": "Psalm 33:7",
+          "text": "He piles up the waters of the sea; He puts the depths into storehouses."
+        },
+        {
+          "reference": "Psalm 136:6",
+          "text": "He spread out the earth upon the waters. His loving devotion endures forever."
+        },
+        {
+          "reference": "Job 26:10",
+          "text": "He has inscribed a horizon on the face of the waters at the boundary between light and darkness."
+        },
+        {
+          "reference": "Hebrews 11:3",
+          "text": "By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible."
+        },
+        {
+          "reference": "John 1:3",
+          "text": "Through Him all things were made, and without Him nothing was made that has been made."
+        },
+        {
+          "reference": "Colossians 1:16-17",
+          "text": "For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him. / He is before all things, and in Him all things hold together."
+        },
+        {
+          "reference": "Revelation 4:11",
+          "text": "“Worthy are You, our Lord and God, to receive glory and honor and power, for You created all things; by Your will they exist and were created.”"
+        },
+        {
+          "reference": "Nehemiah 9:6",
+          "text": "You alone are the LORD. You created the heavens, the highest heavens with all their host, the earth and all that is on it, the seas and all that is in them. You give life to all things, and the host of heaven worships You."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:10",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 10,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "God called the dry ground “land,” and the gathered waters he called “seas.” And God saw that it was good."
+        },
+        {
+          "version": "NLT",
+          "text": "God called the dry ground “land” and the waters “seas.” And God saw that it was good."
+        },
+        {
+          "version": "ESV",
+          "text": "God called the dry land Earth, and the waters that were gathered together he called Seas. And God saw that it was good."
+        },
+        {
+          "version": "NKJV",
+          "text": "And God called the dry land Earth, and the gathering together of the waters He called Seas. And God saw that it was good."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Psalm 104:5-9",
+          "text": "He set the earth on its foundations, never to be moved. / You covered it with the deep like a garment; the waters stood above the mountains. / At Your rebuke the waters fled; at the sound of Your thunder they hurried away— ..."
+        },
+        {
+          "reference": "Job 38:8-11",
+          "text": "Who enclosed the sea behind doors when it burst forth from the womb, / when I made the clouds its garment and thick darkness its blanket, / when I fixed its boundaries and set in place its bars and doors, ..."
+        },
+        {
+          "reference": "Isaiah 45:18",
+          "text": "For thus says the LORD, who created the heavens—He is God; He formed the earth and fashioned it; He established it; He did not create it to be empty, but formed it to be inhabited: “I am the LORD, and there is no other."
+        },
+        {
+          "reference": "Jeremiah 5:22",
+          "text": "Do you not fear Me?” declares the LORD. “Do you not tremble before Me, the One who set the sand as the boundary for the sea, an enduring barrier it cannot cross? The waves surge, but they cannot prevail. They roar but cannot cross it."
+        },
+        {
+          "reference": "Proverbs 8:29",
+          "text": "when He set a boundary for the sea, so that the waters would not surpass His command, when He marked out the foundations of the earth."
+        },
+        {
+          "reference": "2 Peter 3:5",
+          "text": "But they deliberately overlook the fact that long ago by God’s word the heavens existed and the earth was formed out of water and by water,"
+        },
+        {
+          "reference": "Psalm 33:7",
+          "text": "He piles up the waters of the sea; He puts the depths into storehouses."
+        },
+        {
+          "reference": "Psalm 136:6",
+          "text": "He spread out the earth upon the waters. His loving devotion endures forever."
+        },
+        {
+          "reference": "Job 26:10",
+          "text": "He has inscribed a horizon on the face of the waters at the boundary between light and darkness."
+        },
+        {
+          "reference": "Isaiah 40:12",
+          "text": "Who has measured the waters in the hollow of his hand, or marked off the heavens with the span of his hand? Who has held the dust of the earth in a basket, or weighed the mountains on a scale and the hills with a balance?"
+        },
+        {
+          "reference": "Jeremiah 31:35",
+          "text": "Thus says the LORD, who gives the sun for light by day, who sets in order the moon and stars for light by night, who stirs up the sea so that its waves roar—the LORD of Hosts is His name:"
+        },
+        {
+          "reference": "Amos 9:6",
+          "text": "He builds His upper rooms in the heavens and founds His vault upon the earth. He summons the waters of the sea and pours them over the face of the earth. The LORD is His name."
+        },
+        {
+          "reference": "Revelation 10:6",
+          "text": "And he swore by Him who lives forever and ever, who created heaven and everything in it, the earth and everything in it, and the sea and everything in it: “There will be no more delay!"
+        },
+        {
+          "reference": "Exodus 20:11",
+          "text": "For in six days the LORD made the heavens and the earth and the sea and all that is in them, but on the seventh day He rested. Therefore the LORD blessed the Sabbath day and set it apart as holy."
+        },
+        {
+          "reference": "Nehemiah 9:6",
+          "text": "You alone are the LORD. You created the heavens, the highest heavens with all their host, the earth and all that is on it, the seas and all that is in them. You give life to all things, and the host of heaven worships You."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:11",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 11,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "Then God said, “Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed in it, according to their various kinds.” And it was so."
+        },
+        {
+          "version": "NLT",
+          "text": "Then God said, “Let the land sprout with vegetation—every sort of seed-bearing plant, and trees that grow seed-bearing fruit. These seeds will then produce the kinds of plants and trees from which they came.” And that is what happened."
+        },
+        {
+          "version": "ESV",
+          "text": "And God said, “Let the earth sprout vegetation, plants yielding seed, and fruit trees bearing fruit in which is their seed, each according to its kind, on the earth.” And it was so."
+        },
+        {
+          "version": "NKJV",
+          "text": "Then God said, “Let the earth bring forth grass, the herb that yields seed, and the fruit tree that yields fruit according to its kind, whose seed is in itself, on the earth”; and it was so."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Psalm 104:14",
+          "text": "He makes the grass grow for the livestock and provides crops for man to cultivate, bringing forth food from the earth:"
+        },
+        {
+          "reference": "Isaiah 55:10-11",
+          "text": "For just as rain and snow fall from heaven and do not return without watering the earth, making it bud and sprout, and providing seed to sow and food to eat, / so My word that proceeds from My mouth will not return to Me empty, but it will accomplish what I please, and it will prosper where I send it."
+        },
+        {
+          "reference": "Matthew 6:30",
+          "text": "If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the furnace, will He not much more clothe you, O you of little faith?"
+        },
+        {
+          "reference": "Mark 4:26-29",
+          "text": "Jesus also said, “The kingdom of God is like a man who scatters seed on the ground. / Night and day he sleeps and wakes, and the seed sprouts and grows, though he knows not how. / All by itself the earth produces a crop—first the stalk, then the head, then grain that ripens within. ..."
+        },
+        {
+          "reference": "Luke 12:27-28",
+          "text": "Consider how the lilies grow: They do not labor or spin. Yet I tell you, not even Solomon in all his glory was adorned like one of these. / If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the furnace, how much more will He clothe you, O you of little faith!"
+        },
+        {
+          "reference": "1 Corinthians 15:37-38",
+          "text": "And what you sow is not the body that will be, but just a seed, perhaps of wheat or something else. / But God gives it a body as He has designed, and to each kind of seed He gives its own body."
+        },
+        {
+          "reference": "Hebrews 6:7",
+          "text": "For land that drinks in the rain often falling on it and that produces a crop useful to those for whom it is tended receives the blessing of God."
+        },
+        {
+          "reference": "James 3:12",
+          "text": "My brothers, can a fig tree grow olives, or a grapevine bear figs? Neither can a salt spring produce fresh water."
+        },
+        {
+          "reference": "Revelation 22:2",
+          "text": "down the middle of the main street of the city. On either side of the river stood a tree of life, bearing twelve kinds of fruit and yielding a fresh crop for each month. And the leaves of the tree are for the healing of the nations."
+        },
+        {
+          "reference": "Job 38:26-27",
+          "text": "to bring rain on a barren land, on a desert where no man lives, / to satisfy the parched wasteland and make it sprout with tender grass?"
+        },
+        {
+          "reference": "Psalm 65:9-13",
+          "text": "You attend to the earth and water it; with abundance You enrich it. The streams of God are full of water, for You prepare our grain by providing for the earth. / You soak its furrows and level its ridges; You soften it with showers and bless its growth. / You crown the year with Your bounty, and Your paths overflow with plenty. ..."
+        },
+        {
+          "reference": "Jeremiah 12:4",
+          "text": "How long will the land mourn and the grass of every field be withered? Because of the evil of its residents, the animals and birds have been swept away, for the people have said, “He cannot see what our end will be.”"
+        },
+        {
+          "reference": "Ezekiel 34:26-27",
+          "text": "I will make them and the places around My hill a blessing. I will send down showers in season—showers of blessing. / The trees of the field will give their fruit, and the land will yield its produce; My flock will be secure in their land. Then they will know that I am the LORD, when I have broken the bars of their yoke and delivered them from the hands that enslaved them."
+        },
+        {
+          "reference": "Hosea 2:21-22",
+          "text": "“On that day I will respond—” declares the LORD—“I will respond to the heavens, and they will respond to the earth. / And the earth will respond to the grain, to the new wine and oil, and they will respond to Jezreel."
+        },
+        {
+          "reference": "Joel 2:22",
+          "text": "Do not be afraid, O beasts of the field, for the open pastures have turned green, the trees bear their fruit, and the fig tree and vine yield their best."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:12",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 12,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "The land produced vegetation: plants bearing seed according to their kinds and trees bearing fruit with seed in it according to their kinds. And God saw that it was good."
+        },
+        {
+          "version": "NLT",
+          "text": "The land produced vegetation—all sorts of seed-bearing plants, and trees with seed-bearing fruit. Their seeds produced plants and trees of the same kind. And God saw that it was good."
+        },
+        {
+          "version": "ESV",
+          "text": "The earth brought forth vegetation, plants yielding seed according to their own kinds, and trees bearing fruit in which is their seed, each according to its kind. And God saw that it was good."
+        },
+        {
+          "version": "NKJV",
+          "text": "And the earth brought forth grass, the herb that yields seed according to its kind, and the tree that yields fruit, whose seed is in itself according to its kind. And God saw that it was good."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Isaiah 55:10-11",
+          "text": "For just as rain and snow fall from heaven and do not return without watering the earth, making it bud and sprout, and providing seed to sow and food to eat, / so My word that proceeds from My mouth will not return to Me empty, but it will accomplish what I please, and it will prosper where I send it."
+        },
+        {
+          "reference": "Matthew 13:31-32",
+          "text": "He put before them another parable: “The kingdom of heaven is like a mustard seed that a man took and planted in his field. / Although it is the smallest of all seeds, yet it grows into the largest of garden plants and becomes a tree, so that the birds of the air come and nest in its branches.”"
+        },
+        {
+          "reference": "Mark 4:26-29",
+          "text": "Jesus also said, “The kingdom of God is like a man who scatters seed on the ground. / Night and day he sleeps and wakes, and the seed sprouts and grows, though he knows not how. / All by itself the earth produces a crop—first the stalk, then the head, then grain that ripens within. ..."
+        },
+        {
+          "reference": "Luke 8:11-15",
+          "text": "Now this is the meaning of the parable: The seed is the word of God. / The seeds along the path are those who hear, but the devil comes and takes away the word from their hearts, so that they may not believe and be saved. / The seeds on rocky ground are those who hear the word and receive it with joy, but they have no root. They believe for a season, but in the time of testing, they fall away. ..."
+        },
+        {
+          "reference": "1 Corinthians 15:37-38",
+          "text": "And what you sow is not the body that will be, but just a seed, perhaps of wheat or something else. / But God gives it a body as He has designed, and to each kind of seed He gives its own body."
+        },
+        {
+          "reference": "Psalm 104:14",
+          "text": "He makes the grass grow for the livestock and provides crops for man to cultivate, bringing forth food from the earth:"
+        },
+        {
+          "reference": "James 3:18",
+          "text": "Peacemakers who sow in peace reap the fruit of righteousness."
+        },
+        {
+          "reference": "Ezekiel 17:5-8",
+          "text": "He took some of the seed of the land and planted it in fertile soil; he placed it by abundant waters and set it out like a willow. / It sprouted and became a spreading vine, low in height, with branches turned toward him; yet its roots remained where it stood. So it became a vine and yielded branches and sent out shoots. / But there was another great eagle with great wings and many feathers. And behold, this vine bent its roots toward him. It stretched out its branches to him from its planting bed, so that he might water it. ..."
+        },
+        {
+          "reference": "Matthew 6:28-30",
+          "text": "And why do you worry about clothes? Consider how the lilies of the field grow: They do not labor or spin. / Yet I tell you that not even Solomon in all his glory was adorned like one of these. / If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the furnace, will He not much more clothe you, O you of little faith?"
+        },
+        {
+          "reference": "John 12:24",
+          "text": "Truly, truly, I tell you, unless a kernel of wheat falls to the ground and dies, it remains only a seed. But if it dies, it bears much fruit."
+        },
+        {
+          "reference": "2 Corinthians 9:10",
+          "text": "Now He who supplies seed to the sower and bread for food will supply and multiply your store of seed and will increase the harvest of your righteousness."
+        },
+        {
+          "reference": "Isaiah 61:11",
+          "text": "For as the earth brings forth its growth, and as a garden enables seed to spring up, so the Lord GOD will cause righteousness and praise to spring up before all the nations."
+        },
+        {
+          "reference": "Hosea 2:21-22",
+          "text": "“On that day I will respond—” declares the LORD—“I will respond to the heavens, and they will respond to the earth. / And the earth will respond to the grain, to the new wine and oil, and they will respond to Jezreel."
+        },
+        {
+          "reference": "Romans 8:19-22",
+          "text": "The creation waits in eager expectation for the revelation of the sons of God. / For the creation was subjected to futility, not by its own will, but because of the One who subjected it, in hope / that the creation itself will be set free from its bondage to decay and brought into the glorious freedom of the children of God. ..."
+        },
+        {
+          "reference": "Hebrews 6:7",
+          "text": "For land that drinks in the rain often falling on it and that produces a crop useful to those for whom it is tended receives the blessing of God."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:13",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 13,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "And there was evening, and there was morning—the third day."
+        },
+        {
+          "version": "NLT",
+          "text": "And evening passed and morning came, marking the third day."
+        },
+        {
+          "version": "ESV",
+          "text": "And there was evening and there was morning, the third day."
+        },
+        {
+          "version": "NKJV",
+          "text": "So the evening and the morning were the third day."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "John 1:1-3",
+          "text": "In the beginning was the Word, and the Word was with God, and the Word was God. / He was with God in the beginning. / Through Him all things were made, and without Him nothing was made that has been made."
+        },
+        {
+          "reference": "Psalm 33:6-9",
+          "text": "By the word of the LORD the heavens were made, and all the stars by the breath of His mouth. / He piles up the waters of the sea; He puts the depths into storehouses. / Let all the earth fear the LORD; let all the people of the world revere Him. ..."
+        },
+        {
+          "reference": "Hebrews 11:3",
+          "text": "By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible."
+        },
+        {
+          "reference": "Colossians 1:16-17",
+          "text": "For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him. / He is before all things, and in Him all things hold together."
+        },
+        {
+          "reference": "Isaiah 45:12",
+          "text": "It is I who made the earth and created man upon it. It was My hands that stretched out the heavens, and I ordained all their host."
+        },
+        {
+          "reference": "Revelation 4:11",
+          "text": "“Worthy are You, our Lord and God, to receive glory and honor and power, for You created all things; by Your will they exist and were created.”"
+        },
+        {
+          "reference": "Nehemiah 9:6",
+          "text": "You alone are the LORD. You created the heavens, the highest heavens with all their host, the earth and all that is on it, the seas and all that is in them. You give life to all things, and the host of heaven worships You."
+        },
+        {
+          "reference": "Job 38:4-7",
+          "text": "Where were you when I laid the foundations of the earth? Tell Me, if you have understanding. / Who fixed its measurements? Surely you know! Or who stretched a measuring line across it? / On what were its foundations set, or who laid its cornerstone, ..."
+        },
+        {
+          "reference": "Romans 1:20",
+          "text": "For since the creation of the world God’s invisible qualities, His eternal power and divine nature, have been clearly seen, being understood from His workmanship, so that men are without excuse."
+        },
+        {
+          "reference": "2 Peter 3:5",
+          "text": "But they deliberately overlook the fact that long ago by God’s word the heavens existed and the earth was formed out of water and by water,"
+        },
+        {
+          "reference": "Psalm 104:24-30",
+          "text": "How many are Your works, O LORD! In wisdom You have made them all; the earth is full of Your creatures. / Here is the sea, vast and wide, teeming with creatures beyond number, living things both great and small. / There the ships pass, and Leviathan, which You formed to frolic there. ..."
+        },
+        {
+          "reference": "Jeremiah 10:12-13",
+          "text": "The LORD made the earth by His power; He established the world by His wisdom and stretched out the heavens by His understanding. / When He thunders, the waters in the heavens roar; He causes the clouds to rise from the ends of the earth. He generates the lightning with the rain and brings forth the wind from His storehouses."
+        },
+        {
+          "reference": "Acts 17:24-25",
+          "text": "The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples made by human hands. / Nor is He served by human hands, as if He needed anything, because He Himself gives everyone life and breath and everything else."
+        },
+        {
+          "reference": "Proverbs 8:22-31",
+          "text": "The LORD created me as His first course, before His works of old. / From everlasting I was established, from the beginning, before the earth began. / When there were no watery depths, I was brought forth, when no springs were overflowing with water. ..."
+        },
+        {
+          "reference": "Isaiah 40:26",
+          "text": "Lift up your eyes on high: Who created all these? He leads forth the starry host by number; He calls each one by name. Because of His great power and mighty strength, not one of them is missing."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:14",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 14,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "And God said, “Let there be lights in the vault of the sky to separate the day from the night, and let them serve as signs to mark sacred times, and days and years,"
+        },
+        {
+          "version": "NLT",
+          "text": "Then God said, “Let lights appear in the sky to separate the day from the night. Let them be signs to mark the seasons, days, and years."
+        },
+        {
+          "version": "ESV",
+          "text": "And God said, “Let there be lights in the expanse of the heavens to separate the day from the night. And let them be for signs and for seasons, and for days and years,"
+        },
+        {
+          "version": "NKJV",
+          "text": "Then God said, “Let there be lights in the firmament of the heavens to divide the day from the night; and let them be for signs and seasons, and for days and years;"
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Psalm 104:19",
+          "text": "He made the moon to mark the seasons; the sun knows when to set."
+        },
+        {
+          "reference": "Jeremiah 31:35",
+          "text": "Thus says the LORD, who gives the sun for light by day, who sets in order the moon and stars for light by night, who stirs up the sea so that its waves roar—the LORD of Hosts is His name:"
+        },
+        {
+          "reference": "Job 38:31-33",
+          "text": "Can you bind the chains of the Pleiades or loosen the belt of Orion? / Can you bring forth the constellations in their seasons or lead out the Bear and her cubs? / Do you know the laws of the heavens? Can you set their dominion over the earth?"
+        },
+        {
+          "reference": "Deuteronomy 4:19",
+          "text": "When you look to the heavens and see the sun and moon and stars—all the host of heaven—do not be enticed to bow down and worship what the LORD your God has apportioned to all the nations under heaven."
+        },
+        {
+          "reference": "Psalm 136:7-9",
+          "text": "He made the great lights—His loving devotion endures forever. / the sun to rule the day, His loving devotion endures forever. / the moon and stars to govern the night. His loving devotion endures forever."
+        },
+        {
+          "reference": "Isaiah 40:26",
+          "text": "Lift up your eyes on high: Who created all these? He leads forth the starry host by number; He calls each one by name. Because of His great power and mighty strength, not one of them is missing."
+        },
+        {
+          "reference": "Psalm 8:3",
+          "text": "When I behold Your heavens, the work of Your fingers, the moon and the stars, which You have set in place—"
+        },
+        {
+          "reference": "2 Kings 23:5",
+          "text": "Josiah also did away with the idolatrous priests ordained by the kings of Judah to burn incense on the high places of the cities of Judah and in the places all around Jerusalem—those who had burned incense to Baal, to the sun and moon, to the constellations, and to all the host of heaven."
+        },
+        {
+          "reference": "Daniel 2:21",
+          "text": "He changes the times and seasons; He removes kings and establishes them. He gives wisdom to the wise and knowledge to the discerning."
+        },
+        {
+          "reference": "Amos 5:8",
+          "text": "He who made the Pleiades and Orion, who turns darkness into dawn and darkens day into night, who summons the waters of the sea and pours them over the face of the earth—the LORD is His name—"
+        },
+        {
+          "reference": "Matthew 24:29",
+          "text": "Immediately after the tribulation of those days: ‘The sun will be darkened, and the moon will not give its light; the stars will fall from the sky, and the powers of the heavens will be shaken.’"
+        },
+        {
+          "reference": "Luke 21:25",
+          "text": "There will be signs in the sun and moon and stars, and on the earth dismay among the nations, bewildered by the roaring of the sea and the surging of the waves."
+        },
+        {
+          "reference": "Revelation 6:12-13",
+          "text": "And I watched as the Lamb opened the sixth seal, and there was a great earthquake, and the sun became black like sackcloth of goat hair, and the whole moon turned blood red, / and the stars of the sky fell to the earth like unripe figs dropping from a tree shaken by a great wind."
+        },
+        {
+          "reference": "Revelation 8:12",
+          "text": "Then the fourth angel sounded his trumpet, and a third of the sun and moon and stars were struck. A third of the stars were darkened, a third of the day was without light, and a third of the night as well."
+        },
+        {
+          "reference": "Revelation 21:23",
+          "text": "And the city has no need of sun or moon to shine on it, because the glory of God illuminates the city, and the Lamb is its lamp."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:15",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 15,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "and let them be lights in the vault of the sky to give light on the earth.” And it was so."
+        },
+        {
+          "version": "NLT",
+          "text": "Let these lights in the sky shine down on the earth.” And that is what happened."
+        },
+        {
+          "version": "ESV",
+          "text": "and let them be lights in the expanse of the heavens to give light upon the earth.” And it was so."
+        },
+        {
+          "version": "NKJV",
+          "text": "and let them be for lights in the firmament of the heavens to give light on the earth”; and it was so."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Psalm 136:7-9",
+          "text": "He made the great lights—His loving devotion endures forever. / the sun to rule the day, His loving devotion endures forever. / the moon and stars to govern the night. His loving devotion endures forever."
+        },
+        {
+          "reference": "Jeremiah 31:35",
+          "text": "Thus says the LORD, who gives the sun for light by day, who sets in order the moon and stars for light by night, who stirs up the sea so that its waves roar—the LORD of Hosts is His name:"
+        },
+        {
+          "reference": "Job 38:12-13",
+          "text": "In your days, have you commanded the morning or assigned the dawn its place, / that it might spread to the ends of the earth and shake the wicked out of it?"
+        },
+        {
+          "reference": "Isaiah 40:26",
+          "text": "Lift up your eyes on high: Who created all these? He leads forth the starry host by number; He calls each one by name. Because of His great power and mighty strength, not one of them is missing."
+        },
+        {
+          "reference": "Psalm 19:1-6",
+          "text": "For the choirmaster. A Psalm of David. The heavens declare the glory of God; the skies proclaim the work of His hands. / Day after day they pour forth speech; night after night they reveal knowledge. / Without speech or language, without a sound to be heard, ..."
+        },
+        {
+          "reference": "Deuteronomy 4:19",
+          "text": "When you look to the heavens and see the sun and moon and stars—all the host of heaven—do not be enticed to bow down and worship what the LORD your God has apportioned to all the nations under heaven."
+        },
+        {
+          "reference": "Job 9:7-9",
+          "text": "He commands the sun not to shine; He seals off the stars. / He alone stretches out the heavens and treads on the waves of the sea. / He is the Maker of the Bear and Orion, of the Pleiades and the constellations of the south."
+        },
+        {
+          "reference": "Psalm 8:3",
+          "text": "When I behold Your heavens, the work of Your fingers, the moon and the stars, which You have set in place—"
+        },
+        {
+          "reference": "Isaiah 45:7",
+          "text": "I form the light and create the darkness; I bring prosperity and create calamity. I, the LORD, do all these things."
+        },
+        {
+          "reference": "Psalm 104:19",
+          "text": "He made the moon to mark the seasons; the sun knows when to set."
+        },
+        {
+          "reference": "Revelation 21:23",
+          "text": "And the city has no need of sun or moon to shine on it, because the glory of God illuminates the city, and the Lamb is its lamp."
+        },
+        {
+          "reference": "John 1:3",
+          "text": "Through Him all things were made, and without Him nothing was made that has been made."
+        },
+        {
+          "reference": "Colossians 1:16",
+          "text": "For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him."
+        },
+        {
+          "reference": "Hebrews 1:2",
+          "text": "But in these last days He has spoken to us by His Son, whom He appointed heir of all things, and through whom He made the universe."
+        },
+        {
+          "reference": "1 Corinthians 15:41",
+          "text": "The sun has one degree of splendor, the moon another, and the stars another; and star differs from star in splendor."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:16",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 16,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "God made two great lights—the greater light to govern the day and the lesser light to govern the night. He also made the stars."
+        },
+        {
+          "version": "NLT",
+          "text": "God made two great lights—the larger one to govern the day, and the smaller one to govern the night. He also made the stars."
+        },
+        {
+          "version": "ESV",
+          "text": "And God made the two great lights—the greater light to rule the day and the lesser light to rule the night—and the stars."
+        },
+        {
+          "version": "NKJV",
+          "text": "Then God made two great lights: the greater light to rule the day, and the lesser light to rule the night. He made the stars also."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Psalm 136:7-9",
+          "text": "He made the great lights—His loving devotion endures forever. / the sun to rule the day, His loving devotion endures forever. / the moon and stars to govern the night. His loving devotion endures forever."
+        },
+        {
+          "reference": "Psalm 8:3",
+          "text": "When I behold Your heavens, the work of Your fingers, the moon and the stars, which You have set in place—"
+        },
+        {
+          "reference": "Jeremiah 31:35",
+          "text": "Thus says the LORD, who gives the sun for light by day, who sets in order the moon and stars for light by night, who stirs up the sea so that its waves roar—the LORD of Hosts is His name:"
+        },
+        {
+          "reference": "Job 38:7",
+          "text": "while the morning stars sang together and all the sons of God shouted for joy?"
+        },
+        {
+          "reference": "Isaiah 40:26",
+          "text": "Lift up your eyes on high: Who created all these? He leads forth the starry host by number; He calls each one by name. Because of His great power and mighty strength, not one of them is missing."
+        },
+        {
+          "reference": "Psalm 19:1-6",
+          "text": "For the choirmaster. A Psalm of David. The heavens declare the glory of God; the skies proclaim the work of His hands. / Day after day they pour forth speech; night after night they reveal knowledge. / Without speech or language, without a sound to be heard, ..."
+        },
+        {
+          "reference": "Deuteronomy 4:19",
+          "text": "When you look to the heavens and see the sun and moon and stars—all the host of heaven—do not be enticed to bow down and worship what the LORD your God has apportioned to all the nations under heaven."
+        },
+        {
+          "reference": "Psalm 104:19",
+          "text": "He made the moon to mark the seasons; the sun knows when to set."
+        },
+        {
+          "reference": "Job 9:9",
+          "text": "He is the Maker of the Bear and Orion, of the Pleiades and the constellations of the south."
+        },
+        {
+          "reference": "Isaiah 13:10",
+          "text": "For the stars of heaven and their constellations will not give their light. The rising sun will be darkened, and the moon will not give its light."
+        },
+        {
+          "reference": "Matthew 24:29",
+          "text": "Immediately after the tribulation of those days: ‘The sun will be darkened, and the moon will not give its light; the stars will fall from the sky, and the powers of the heavens will be shaken.’"
+        },
+        {
+          "reference": "Luke 21:25",
+          "text": "There will be signs in the sun and moon and stars, and on the earth dismay among the nations, bewildered by the roaring of the sea and the surging of the waves."
+        },
+        {
+          "reference": "Revelation 21:23",
+          "text": "And the city has no need of sun or moon to shine on it, because the glory of God illuminates the city, and the Lamb is its lamp."
+        },
+        {
+          "reference": "Revelation 12:1",
+          "text": "And a great sign appeared in heaven: a woman clothed in the sun, with the moon under her feet and a crown of twelve stars on her head."
+        },
+        {
+          "reference": "1 Corinthians 15:41",
+          "text": "The sun has one degree of splendor, the moon another, and the stars another; and star differs from star in splendor."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:17",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 17,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "God set them in the vault of the sky to give light on the earth,"
+        },
+        {
+          "version": "NLT",
+          "text": "God set these lights in the sky to light the earth,"
+        },
+        {
+          "version": "ESV",
+          "text": "And God set them in the expanse of the heavens to give light on the earth,"
+        },
+        {
+          "version": "NKJV",
+          "text": "God set them in the firmament of the heavens to give light on the earth,"
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Psalm 136:7-9",
+          "text": "He made the great lights—His loving devotion endures forever. / the sun to rule the day, His loving devotion endures forever. / the moon and stars to govern the night. His loving devotion endures forever."
+        },
+        {
+          "reference": "Jeremiah 31:35",
+          "text": "Thus says the LORD, who gives the sun for light by day, who sets in order the moon and stars for light by night, who stirs up the sea so that its waves roar—the LORD of Hosts is His name:"
+        },
+        {
+          "reference": "Isaiah 40:26",
+          "text": "Lift up your eyes on high: Who created all these? He leads forth the starry host by number; He calls each one by name. Because of His great power and mighty strength, not one of them is missing."
+        },
+        {
+          "reference": "Job 38:12-13",
+          "text": "In your days, have you commanded the morning or assigned the dawn its place, / that it might spread to the ends of the earth and shake the wicked out of it?"
+        },
+        {
+          "reference": "Psalm 19:1-6",
+          "text": "For the choirmaster. A Psalm of David. The heavens declare the glory of God; the skies proclaim the work of His hands. / Day after day they pour forth speech; night after night they reveal knowledge. / Without speech or language, without a sound to be heard, ..."
+        },
+        {
+          "reference": "Deuteronomy 4:19",
+          "text": "When you look to the heavens and see the sun and moon and stars—all the host of heaven—do not be enticed to bow down and worship what the LORD your God has apportioned to all the nations under heaven."
+        },
+        {
+          "reference": "Psalm 8:3",
+          "text": "When I behold Your heavens, the work of Your fingers, the moon and the stars, which You have set in place—"
+        },
+        {
+          "reference": "Isaiah 45:7",
+          "text": "I form the light and create the darkness; I bring prosperity and create calamity. I, the LORD, do all these things."
+        },
+        {
+          "reference": "Job 9:7-9",
+          "text": "He commands the sun not to shine; He seals off the stars. / He alone stretches out the heavens and treads on the waves of the sea. / He is the Maker of the Bear and Orion, of the Pleiades and the constellations of the south."
+        },
+        {
+          "reference": "Psalm 104:19",
+          "text": "He made the moon to mark the seasons; the sun knows when to set."
+        },
+        {
+          "reference": "Matthew 5:14-16",
+          "text": "You are the light of the world. A city on a hill cannot be hidden. / Neither do people light a lamp and put it under a basket. Instead, they set it on a stand, and it gives light to everyone in the house. / In the same way, let your light shine before men, that they may see your good deeds and glorify your Father in heaven."
+        },
+        {
+          "reference": "John 1:4-5",
+          "text": "In Him was life, and that life was the light of men. / The Light shines in the darkness, and the darkness has not overcome it."
+        },
+        {
+          "reference": "John 8:12",
+          "text": "Once again, Jesus spoke to the people and said, “I am the light of the world. Whoever follows Me will never walk in the darkness, but will have the light of life.”"
+        },
+        {
+          "reference": "1 Corinthians 15:41",
+          "text": "The sun has one degree of splendor, the moon another, and the stars another; and star differs from star in splendor."
+        },
+        {
+          "reference": "Revelation 21:23",
+          "text": "And the city has no need of sun or moon to shine on it, because the glory of God illuminates the city, and the Lamb is its lamp."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:18",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 18,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "to govern the day and the night, and to separate light from darkness. And God saw that it was good."
+        },
+        {
+          "version": "NLT",
+          "text": "to govern the day and night, and to separate the light from the darkness. And God saw that it was good."
+        },
+        {
+          "version": "ESV",
+          "text": "to rule over the day and over the night, and to separate the light from the darkness. And God saw that it was good."
+        },
+        {
+          "version": "NKJV",
+          "text": "and to rule over the day and over the night, and to divide the light from the darkness. And God saw that it was good."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Psalm 136:7-9",
+          "text": "He made the great lights—His loving devotion endures forever. / the sun to rule the day, His loving devotion endures forever. / the moon and stars to govern the night. His loving devotion endures forever."
+        },
+        {
+          "reference": "Jeremiah 31:35",
+          "text": "Thus says the LORD, who gives the sun for light by day, who sets in order the moon and stars for light by night, who stirs up the sea so that its waves roar—the LORD of Hosts is His name:"
+        },
+        {
+          "reference": "Job 38:12-13",
+          "text": "In your days, have you commanded the morning or assigned the dawn its place, / that it might spread to the ends of the earth and shake the wicked out of it?"
+        },
+        {
+          "reference": "Psalm 19:1-6",
+          "text": "For the choirmaster. A Psalm of David. The heavens declare the glory of God; the skies proclaim the work of His hands. / Day after day they pour forth speech; night after night they reveal knowledge. / Without speech or language, without a sound to be heard, ..."
+        },
+        {
+          "reference": "Isaiah 45:7",
+          "text": "I form the light and create the darkness; I bring prosperity and create calamity. I, the LORD, do all these things."
+        },
+        {
+          "reference": "Psalm 104:19-20",
+          "text": "He made the moon to mark the seasons; the sun knows when to set. / You bring darkness, and it becomes night, when all the beasts of the forest prowl."
+        },
+        {
+          "reference": "Job 38:31-33",
+          "text": "Can you bind the chains of the Pleiades or loosen the belt of Orion? / Can you bring forth the constellations in their seasons or lead out the Bear and her cubs? / Do you know the laws of the heavens? Can you set their dominion over the earth?"
+        },
+        {
+          "reference": "Deuteronomy 4:19",
+          "text": "When you look to the heavens and see the sun and moon and stars—all the host of heaven—do not be enticed to bow down and worship what the LORD your God has apportioned to all the nations under heaven."
+        },
+        {
+          "reference": "Psalm 8:3-4",
+          "text": "When I behold Your heavens, the work of Your fingers, the moon and the stars, which You have set in place— / what is man that You are mindful of him, or the son of man that You care for him?"
+        },
+        {
+          "reference": "Isaiah 40:26",
+          "text": "Lift up your eyes on high: Who created all these? He leads forth the starry host by number; He calls each one by name. Because of His great power and mighty strength, not one of them is missing."
+        },
+        {
+          "reference": "Matthew 5:45",
+          "text": "that you may be sons of your Father in heaven. He causes His sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous."
+        },
+        {
+          "reference": "John 1:3-5",
+          "text": "Through Him all things were made, and without Him nothing was made that has been made. / In Him was life, and that life was the light of men. / The Light shines in the darkness, and the darkness has not overcome it."
+        },
+        {
+          "reference": "Colossians 1:16-17",
+          "text": "For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him. / He is before all things, and in Him all things hold together."
+        },
+        {
+          "reference": "Hebrews 1:2-3",
+          "text": "But in these last days He has spoken to us by His Son, whom He appointed heir of all things, and through whom He made the universe. / The Son is the radiance of God’s glory and the exact representation of His nature, upholding all things by His powerful word. After He had provided purification for sins, He sat down at the right hand of the Majesty on high."
+        },
+        {
+          "reference": "Revelation 21:23",
+          "text": "And the city has no need of sun or moon to shine on it, because the glory of God illuminates the city, and the Lamb is its lamp."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:19",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 19,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "And there was evening, and there was morning—the fourth day."
+        },
+        {
+          "version": "NLT",
+          "text": "And evening passed and morning came, marking the fourth day."
+        },
+        {
+          "version": "ESV",
+          "text": "And there was evening and there was morning, the fourth day."
+        },
+        {
+          "version": "NKJV",
+          "text": "So the evening and the morning were the fourth day."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "John 1:1-3",
+          "text": "In the beginning was the Word, and the Word was with God, and the Word was God. / He was with God in the beginning. / Through Him all things were made, and without Him nothing was made that has been made."
+        },
+        {
+          "reference": "Psalm 33:6-9",
+          "text": "By the word of the LORD the heavens were made, and all the stars by the breath of His mouth. / He piles up the waters of the sea; He puts the depths into storehouses. / Let all the earth fear the LORD; let all the people of the world revere Him. ..."
+        },
+        {
+          "reference": "Hebrews 11:3",
+          "text": "By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible."
+        },
+        {
+          "reference": "Colossians 1:16-17",
+          "text": "For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him. / He is before all things, and in Him all things hold together."
+        },
+        {
+          "reference": "Isaiah 45:12",
+          "text": "It is I who made the earth and created man upon it. It was My hands that stretched out the heavens, and I ordained all their host."
+        },
+        {
+          "reference": "Revelation 4:11",
+          "text": "“Worthy are You, our Lord and God, to receive glory and honor and power, for You created all things; by Your will they exist and were created.”"
+        },
+        {
+          "reference": "Nehemiah 9:6",
+          "text": "You alone are the LORD. You created the heavens, the highest heavens with all their host, the earth and all that is on it, the seas and all that is in them. You give life to all things, and the host of heaven worships You."
+        },
+        {
+          "reference": "Job 38:4-7",
+          "text": "Where were you when I laid the foundations of the earth? Tell Me, if you have understanding. / Who fixed its measurements? Surely you know! Or who stretched a measuring line across it? / On what were its foundations set, or who laid its cornerstone, ..."
+        },
+        {
+          "reference": "Psalm 104:19-24",
+          "text": "He made the moon to mark the seasons; the sun knows when to set. / You bring darkness, and it becomes night, when all the beasts of the forest prowl. / The young lions roar for their prey and seek their food from God. ..."
+        },
+        {
+          "reference": "Romans 1:20",
+          "text": "For since the creation of the world God’s invisible qualities, His eternal power and divine nature, have been clearly seen, being understood from His workmanship, so that men are without excuse."
+        },
+        {
+          "reference": "Jeremiah 10:12-13",
+          "text": "The LORD made the earth by His power; He established the world by His wisdom and stretched out the heavens by His understanding. / When He thunders, the waters in the heavens roar; He causes the clouds to rise from the ends of the earth. He generates the lightning with the rain and brings forth the wind from His storehouses."
+        },
+        {
+          "reference": "2 Peter 3:5",
+          "text": "But they deliberately overlook the fact that long ago by God’s word the heavens existed and the earth was formed out of water and by water,"
+        },
+        {
+          "reference": "Psalm 136:7-9",
+          "text": "He made the great lights—His loving devotion endures forever. / the sun to rule the day, His loving devotion endures forever. / the moon and stars to govern the night. His loving devotion endures forever."
+        },
+        {
+          "reference": "Acts 17:24-25",
+          "text": "The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples made by human hands. / Nor is He served by human hands, as if He needed anything, because He Himself gives everyone life and breath and everything else."
+        },
+        {
+          "reference": "Isaiah 40:26",
+          "text": "Lift up your eyes on high: Who created all these? He leads forth the starry host by number; He calls each one by name. Because of His great power and mighty strength, not one of them is missing."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:20",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 20,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "And God said, “Let the water teem with living creatures, and let birds fly above the earth across the vault of the sky.”"
+        },
+        {
+          "version": "NLT",
+          "text": "Then God said, “Let the waters swarm with fish and other life. Let the skies be filled with birds of every kind.”"
+        },
+        {
+          "version": "ESV",
+          "text": "And God said, “Let the waters swarm with swarms of living creatures, and let birds fly above the earth across the expanse of the heavens.”"
+        },
+        {
+          "version": "NKJV",
+          "text": "Then God said, “Let the waters abound with an abundance of living creatures, and let birds fly above the earth across the face of the firmament of the heavens.”"
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Psalm 104:25-30",
+          "text": "Here is the sea, vast and wide, teeming with creatures beyond number, living things both great and small. / There the ships pass, and Leviathan, which You formed to frolic there. / All creatures look to You to give them their food in due season. ..."
+        },
+        {
+          "reference": "Job 12:7-10",
+          "text": "But ask the animals, and they will instruct you; ask the birds of the air, and they will tell you. / Or speak to the earth, and it will teach you; let the fish of the sea inform you. / Which of all these does not know that the hand of the LORD has done this? ..."
+        },
+        {
+          "reference": "Revelation 4:11",
+          "text": "“Worthy are You, our Lord and God, to receive glory and honor and power, for You created all things; by Your will they exist and were created.”"
+        },
+        {
+          "reference": "Acts 17:24-25",
+          "text": "The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples made by human hands. / Nor is He served by human hands, as if He needed anything, because He Himself gives everyone life and breath and everything else."
+        },
+        {
+          "reference": "Nehemiah 9:6",
+          "text": "You alone are the LORD. You created the heavens, the highest heavens with all their host, the earth and all that is on it, the seas and all that is in them. You give life to all things, and the host of heaven worships You."
+        },
+        {
+          "reference": "Psalm 148:5-10",
+          "text": "Let them praise the name of the LORD, for He gave the command and they were created. / He established them forever and ever; He issued a decree that will never pass away. / Praise the LORD from the earth, all great sea creatures and ocean depths, ..."
+        },
+        {
+          "reference": "Isaiah 45:18",
+          "text": "For thus says the LORD, who created the heavens—He is God; He formed the earth and fashioned it; He established it; He did not create it to be empty, but formed it to be inhabited: “I am the LORD, and there is no other."
+        },
+        {
+          "reference": "Jeremiah 51:15-16",
+          "text": "The LORD made the earth by His power; He established the world by His wisdom and stretched out the heavens by His understanding. / When He thunders, the waters in the heavens roar; He causes the clouds to rise from the ends of the earth. He generates the lightning with the rain and brings forth the wind from His storehouses."
+        },
+        {
+          "reference": "Colossians 1:16",
+          "text": "For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him."
+        },
+        {
+          "reference": "John 1:3",
+          "text": "Through Him all things were made, and without Him nothing was made that has been made."
+        },
+        {
+          "reference": "Romans 1:20",
+          "text": "For since the creation of the world God’s invisible qualities, His eternal power and divine nature, have been clearly seen, being understood from His workmanship, so that men are without excuse."
+        },
+        {
+          "reference": "Hebrews 11:3",
+          "text": "By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible."
+        },
+        {
+          "reference": "1 Corinthians 8:6",
+          "text": "yet for us there is but one God, the Father, from whom all things came and for whom we exist. And there is but one Lord, Jesus Christ, through whom all things came and through whom we exist."
+        },
+        {
+          "reference": "Exodus 20:11",
+          "text": "For in six days the LORD made the heavens and the earth and the sea and all that is in them, but on the seventh day He rested. Therefore the LORD blessed the Sabbath day and set it apart as holy."
+        },
+        {
+          "reference": "Psalm 33:6-9",
+          "text": "By the word of the LORD the heavens were made, and all the stars by the breath of His mouth. / He piles up the waters of the sea; He puts the depths into storehouses. / Let all the earth fear the LORD; let all the people of the world revere Him. ..."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:21",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 21,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "So God created the great creatures of the sea and every living thing with which the water teems and that moves about in it, according to their kinds, and every winged bird according to its kind. And God saw that it was good."
+        },
+        {
+          "version": "NLT",
+          "text": "So God created great sea creatures and every living thing that scurries and swarms in the water, and every sort of bird—each producing offspring of the same kind. And God saw that it was good."
+        },
+        {
+          "version": "ESV",
+          "text": "So God created the great sea creatures and every living creature that moves, with which the waters swarm, according to their kinds, and every winged bird according to its kind. And God saw that it was good."
+        },
+        {
+          "version": "NKJV",
+          "text": "So God created great sea creatures and every living thing that moves, with which the waters abounded, according to their kind, and every winged bird according to its kind. And God saw that it was good."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Psalm 104:24-25",
+          "text": "How many are Your works, O LORD! In wisdom You have made them all; the earth is full of Your creatures. / Here is the sea, vast and wide, teeming with creatures beyond number, living things both great and small."
+        },
+        {
+          "reference": "Job 12:7-10",
+          "text": "But ask the animals, and they will instruct you; ask the birds of the air, and they will tell you. / Or speak to the earth, and it will teach you; let the fish of the sea inform you. / Which of all these does not know that the hand of the LORD has done this? ..."
+        },
+        {
+          "reference": "Psalm 148:5-7",
+          "text": "Let them praise the name of the LORD, for He gave the command and they were created. / He established them forever and ever; He issued a decree that will never pass away. / Praise the LORD from the earth, all great sea creatures and ocean depths,"
+        },
+        {
+          "reference": "Isaiah 45:18",
+          "text": "For thus says the LORD, who created the heavens—He is God; He formed the earth and fashioned it; He established it; He did not create it to be empty, but formed it to be inhabited: “I am the LORD, and there is no other."
+        },
+        {
+          "reference": "Nehemiah 9:6",
+          "text": "You alone are the LORD. You created the heavens, the highest heavens with all their host, the earth and all that is on it, the seas and all that is in them. You give life to all things, and the host of heaven worships You."
+        },
+        {
+          "reference": "Job 26:13",
+          "text": "By His breath the skies were cleared; His hand pierced the fleeing serpent."
+        },
+        {
+          "reference": "Psalm 33:6-9",
+          "text": "By the word of the LORD the heavens were made, and all the stars by the breath of His mouth. / He piles up the waters of the sea; He puts the depths into storehouses. / Let all the earth fear the LORD; let all the people of the world revere Him. ..."
+        },
+        {
+          "reference": "Psalm 136:25",
+          "text": "He gives food to every creature. His loving devotion endures forever."
+        },
+        {
+          "reference": "Psalm 146:6",
+          "text": "the Maker of heaven and earth, the sea, and everything in them. He remains faithful forever."
+        },
+        {
+          "reference": "Jeremiah 51:15",
+          "text": "The LORD made the earth by His power; He established the world by His wisdom and stretched out the heavens by His understanding."
+        },
+        {
+          "reference": "Acts 17:24-25",
+          "text": "The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples made by human hands. / Nor is He served by human hands, as if He needed anything, because He Himself gives everyone life and breath and everything else."
+        },
+        {
+          "reference": "Romans 1:20",
+          "text": "For since the creation of the world God’s invisible qualities, His eternal power and divine nature, have been clearly seen, being understood from His workmanship, so that men are without excuse."
+        },
+        {
+          "reference": "Colossians 1:16",
+          "text": "For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him."
+        },
+        {
+          "reference": "Revelation 4:11",
+          "text": "“Worthy are You, our Lord and God, to receive glory and honor and power, for You created all things; by Your will they exist and were created.”"
+        },
+        {
+          "reference": "John 1:3",
+          "text": "Through Him all things were made, and without Him nothing was made that has been made."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:22",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 22,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "God blessed them and said, &#8220Be fruitful and increase in number and fill the water in the seas, and let the birds increase on the earth.”"
+        },
+        {
+          "version": "NLT",
+          "text": "Then God blessed them, saying, “Be fruitful and multiply. Let the fish fill the seas, and let the birds multiply on the earth.”"
+        },
+        {
+          "version": "ESV",
+          "text": "And God blessed them, saying, “Be fruitful and multiply and fill the waters in the seas, and let birds multiply on the earth.”"
+        },
+        {
+          "version": "NKJV",
+          "text": "And God blessed them, saying, “Be fruitful and multiply, and fill the waters in the seas, and let birds multiply on the earth.”"
+        }
+      ],
+      "greek_words": [],
+      "cross_references": []
+    },
+    {
+      "reference": "Genesis 1:23",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 23,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "And there was evening, and there was morning—the fifth day."
+        },
+        {
+          "version": "NLT",
+          "text": "And evening passed and morning came, marking the fifth day."
+        },
+        {
+          "version": "ESV",
+          "text": "And there was evening and there was morning, the fifth day."
+        },
+        {
+          "version": "NKJV",
+          "text": "So the evening and the morning were the fifth day."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "John 1:1-3",
+          "text": "In the beginning was the Word, and the Word was with God, and the Word was God. / He was with God in the beginning. / Through Him all things were made, and without Him nothing was made that has been made."
+        },
+        {
+          "reference": "Psalm 104:24-30",
+          "text": "How many are Your works, O LORD! In wisdom You have made them all; the earth is full of Your creatures. / Here is the sea, vast and wide, teeming with creatures beyond number, living things both great and small. / There the ships pass, and Leviathan, which You formed to frolic there. ..."
+        },
+        {
+          "reference": "Colossians 1:16-17",
+          "text": "For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him. / He is before all things, and in Him all things hold together."
+        },
+        {
+          "reference": "Hebrews 11:3",
+          "text": "By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible."
+        },
+        {
+          "reference": "Isaiah 45:12",
+          "text": "It is I who made the earth and created man upon it. It was My hands that stretched out the heavens, and I ordained all their host."
+        },
+        {
+          "reference": "Revelation 4:11",
+          "text": "“Worthy are You, our Lord and God, to receive glory and honor and power, for You created all things; by Your will they exist and were created.”"
+        },
+        {
+          "reference": "Nehemiah 9:6",
+          "text": "You alone are the LORD. You created the heavens, the highest heavens with all their host, the earth and all that is on it, the seas and all that is in them. You give life to all things, and the host of heaven worships You."
+        },
+        {
+          "reference": "Job 38:4-7",
+          "text": "Where were you when I laid the foundations of the earth? Tell Me, if you have understanding. / Who fixed its measurements? Surely you know! Or who stretched a measuring line across it? / On what were its foundations set, or who laid its cornerstone, ..."
+        },
+        {
+          "reference": "Romans 1:20",
+          "text": "For since the creation of the world God’s invisible qualities, His eternal power and divine nature, have been clearly seen, being understood from His workmanship, so that men are without excuse."
+        },
+        {
+          "reference": "2 Peter 3:5",
+          "text": "But they deliberately overlook the fact that long ago by God’s word the heavens existed and the earth was formed out of water and by water,"
+        },
+        {
+          "reference": "Jeremiah 10:12",
+          "text": "The LORD made the earth by His power; He established the world by His wisdom and stretched out the heavens by His understanding."
+        },
+        {
+          "reference": "Proverbs 8:27-29",
+          "text": "I was there when He established the heavens, when He inscribed a circle on the face of the deep, / when He established the clouds above, when the fountains of the deep gushed forth, / when He set a boundary for the sea, so that the waters would not surpass His command, when He marked out the foundations of the earth."
+        },
+        {
+          "reference": "Acts 17:24-25",
+          "text": "The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples made by human hands. / Nor is He served by human hands, as if He needed anything, because He Himself gives everyone life and breath and everything else."
+        },
+        {
+          "reference": "Isaiah 40:26",
+          "text": "Lift up your eyes on high: Who created all these? He leads forth the starry host by number; He calls each one by name. Because of His great power and mighty strength, not one of them is missing."
+        },
+        {
+          "reference": "Psalm 33:6-9",
+          "text": "By the word of the LORD the heavens were made, and all the stars by the breath of His mouth. / He piles up the waters of the sea; He puts the depths into storehouses. / Let all the earth fear the LORD; let all the people of the world revere Him. ..."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:24",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 24,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "And God said, “Let the land produce living creatures according to their kinds: the livestock, the creatures that move along the ground, and the wild animals, each according to its kind.” And it was so."
+        },
+        {
+          "version": "NLT",
+          "text": "Then God said, “Let the earth produce every sort of animal, each producing offspring of the same kind—livestock, small animals that scurry along the ground, and wild animals.” And that is what happened."
+        },
+        {
+          "version": "ESV",
+          "text": "And God said, “Let the earth bring forth living creatures according to their kinds—livestock and creeping things and beasts of the earth according to their kinds.” And it was so."
+        },
+        {
+          "version": "NKJV",
+          "text": "Then God said, “Let the earth bring forth the living creature according to its kind: cattle and creeping thing and beast of the earth, each according to its kind”; and it was so."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Psalm 104:24-30",
+          "text": "How many are Your works, O LORD! In wisdom You have made them all; the earth is full of Your creatures. / Here is the sea, vast and wide, teeming with creatures beyond number, living things both great and small. / There the ships pass, and Leviathan, which You formed to frolic there. ..."
+        },
+        {
+          "reference": "Job 12:7-10",
+          "text": "But ask the animals, and they will instruct you; ask the birds of the air, and they will tell you. / Or speak to the earth, and it will teach you; let the fish of the sea inform you. / Which of all these does not know that the hand of the LORD has done this? ..."
+        },
+        {
+          "reference": "Isaiah 45:12",
+          "text": "It is I who made the earth and created man upon it. It was My hands that stretched out the heavens, and I ordained all their host."
+        },
+        {
+          "reference": "Jeremiah 27:5",
+          "text": "By My great power and outstretched arm, I made the earth and the men and beasts on the face of it, and I give it to whom I please."
+        },
+        {
+          "reference": "Nehemiah 9:6",
+          "text": "You alone are the LORD. You created the heavens, the highest heavens with all their host, the earth and all that is on it, the seas and all that is in them. You give life to all things, and the host of heaven worships You."
+        },
+        {
+          "reference": "Psalm 148:10",
+          "text": "wild animals and all cattle, crawling creatures and flying birds,"
+        },
+        {
+          "reference": "Psalm 50:10-11",
+          "text": "for every beast of the forest is Mine—the cattle on a thousand hills. / I know every bird in the mountains, and the creatures of the field are Mine."
+        },
+        {
+          "reference": "Job 38:39-41",
+          "text": "Can you hunt the prey for a lioness or satisfy the hunger of young lions / when they crouch in their dens and lie in wait in the thicket? / Who provides food for the raven when its young cry out to God as they wander about for lack of food?"
+        },
+        {
+          "reference": "Isaiah 40:26",
+          "text": "Lift up your eyes on high: Who created all these? He leads forth the starry host by number; He calls each one by name. Because of His great power and mighty strength, not one of them is missing."
+        },
+        {
+          "reference": "Acts 17:24-25",
+          "text": "The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples made by human hands. / Nor is He served by human hands, as if He needed anything, because He Himself gives everyone life and breath and everything else."
+        },
+        {
+          "reference": "Romans 1:20",
+          "text": "For since the creation of the world God’s invisible qualities, His eternal power and divine nature, have been clearly seen, being understood from His workmanship, so that men are without excuse."
+        },
+        {
+          "reference": "Colossians 1:16",
+          "text": "For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him."
+        },
+        {
+          "reference": "Hebrews 11:3",
+          "text": "By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible."
+        },
+        {
+          "reference": "Revelation 4:11",
+          "text": "“Worthy are You, our Lord and God, to receive glory and honor and power, for You created all things; by Your will they exist and were created.”"
+        },
+        {
+          "reference": "John 1:3",
+          "text": "Through Him all things were made, and without Him nothing was made that has been made."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:25",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 25,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "God made the wild animals according to their kinds, the livestock according to their kinds, and all the creatures that move along the ground according to their kinds. And God saw that it was good."
+        },
+        {
+          "version": "NLT",
+          "text": "God made all sorts of wild animals, livestock, and small animals, each able to produce offspring of the same kind. And God saw that it was good."
+        },
+        {
+          "version": "ESV",
+          "text": "And God made the beasts of the earth according to their kinds and the livestock according to their kinds, and everything that creeps on the ground according to its kind. And God saw that it was good."
+        },
+        {
+          "version": "NKJV",
+          "text": "And God made the beast of the earth according to its kind, cattle according to its kind, and everything that creeps on the earth according to its kind. And God saw that it was good."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Psalm 104:24-25",
+          "text": "How many are Your works, O LORD! In wisdom You have made them all; the earth is full of Your creatures. / Here is the sea, vast and wide, teeming with creatures beyond number, living things both great and small."
+        },
+        {
+          "reference": "Job 12:7-10",
+          "text": "But ask the animals, and they will instruct you; ask the birds of the air, and they will tell you. / Or speak to the earth, and it will teach you; let the fish of the sea inform you. / Which of all these does not know that the hand of the LORD has done this? ..."
+        },
+        {
+          "reference": "Romans 1:20",
+          "text": "For since the creation of the world God’s invisible qualities, His eternal power and divine nature, have been clearly seen, being understood from His workmanship, so that men are without excuse."
+        },
+        {
+          "reference": "Colossians 1:16",
+          "text": "For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him."
+        },
+        {
+          "reference": "Hebrews 11:3",
+          "text": "By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible."
+        },
+        {
+          "reference": "Revelation 4:11",
+          "text": "“Worthy are You, our Lord and God, to receive glory and honor and power, for You created all things; by Your will they exist and were created.”"
+        },
+        {
+          "reference": "Isaiah 45:12",
+          "text": "It is I who made the earth and created man upon it. It was My hands that stretched out the heavens, and I ordained all their host."
+        },
+        {
+          "reference": "Nehemiah 9:6",
+          "text": "You alone are the LORD. You created the heavens, the highest heavens with all their host, the earth and all that is on it, the seas and all that is in them. You give life to all things, and the host of heaven worships You."
+        },
+        {
+          "reference": "John 1:3",
+          "text": "Through Him all things were made, and without Him nothing was made that has been made."
+        },
+        {
+          "reference": "Acts 17:24-25",
+          "text": "The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples made by human hands. / Nor is He served by human hands, as if He needed anything, because He Himself gives everyone life and breath and everything else."
+        },
+        {
+          "reference": "Psalm 148:10",
+          "text": "wild animals and all cattle, crawling creatures and flying birds,"
+        },
+        {
+          "reference": "Jeremiah 27:5",
+          "text": "By My great power and outstretched arm, I made the earth and the men and beasts on the face of it, and I give it to whom I please."
+        },
+        {
+          "reference": "1 Corinthians 8:6",
+          "text": "yet for us there is but one God, the Father, from whom all things came and for whom we exist. And there is but one Lord, Jesus Christ, through whom all things came and through whom we exist."
+        },
+        {
+          "reference": "Psalm 50:10-11",
+          "text": "for every beast of the forest is Mine—the cattle on a thousand hills. / I know every bird in the mountains, and the creatures of the field are Mine."
+        },
+        {
+          "reference": "Isaiah 40:26",
+          "text": "Lift up your eyes on high: Who created all these? He leads forth the starry host by number; He calls each one by name. Because of His great power and mighty strength, not one of them is missing."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:26",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 26,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "Then God said, “Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.”"
+        },
+        {
+          "version": "NLT",
+          "text": "Then God said, “Let us make human beings in our image, to be like us. They will reign over the fish in the sea, the birds in the sky, the livestock, all the wild animals on the earth, and the small animals that scurry along the ground.”"
+        },
+        {
+          "version": "ESV",
+          "text": "Then God said, “Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.”"
+        },
+        {
+          "version": "NKJV",
+          "text": "Then God said, “Let Us make man in Our image, according to Our likeness; let them have dominion over the fish of the sea, over the birds of the air, and over the cattle, over all the earth and over every creeping thing that creeps on the earth.”"
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Psalm 8:4-8",
+          "text": "what is man that You are mindful of him, or the son of man that You care for him? / You made him a little lower than the angels; You crowned him with glory and honor. / You made him ruler of the works of Your hands; You have placed everything under his feet: ..."
+        },
+        {
+          "reference": "Colossians 1:15-16",
+          "text": "The Son is the image of the invisible God, the firstborn over all creation. / For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him."
+        },
+        {
+          "reference": "Hebrews 2:6-8",
+          "text": "But somewhere it is testified in these words: “What is man that You are mindful of him, or the son of man that You care for him? / You made him a little lower than the angels; You crowned him with glory and honor / and placed everything under his feet.” When God subjected all things to him, He left nothing outside of his control. Yet at present we do not see everything subject to him."
+        },
+        {
+          "reference": "1 Corinthians 11:7",
+          "text": "A man ought not to cover his head, since he is the image and glory of God; but the woman is the glory of man."
+        },
+        {
+          "reference": "James 3:9",
+          "text": "With the tongue we bless our Lord and Father, and with it we curse men, who have been made in God’s likeness."
+        },
+        {
+          "reference": "Romans 8:29",
+          "text": "For those God foreknew, He also predestined to be conformed to the image of His Son, so that He would be the firstborn among many brothers."
+        },
+        {
+          "reference": "Ephesians 4:24",
+          "text": "and to put on the new self, created to be like God in true righteousness and holiness."
+        },
+        {
+          "reference": "Genesis 9:6",
+          "text": "Whoever sheds the blood of man, by man his blood will be shed; for in His own image God has made mankind."
+        },
+        {
+          "reference": "1 Corinthians 15:49",
+          "text": "And just as we have borne the likeness of the earthly man, so also shall we bear the likeness of the heavenly man."
+        },
+        {
+          "reference": "John 1:1-3",
+          "text": "In the beginning was the Word, and the Word was with God, and the Word was God. / He was with God in the beginning. / Through Him all things were made, and without Him nothing was made that has been made."
+        },
+        {
+          "reference": "Revelation 4:11",
+          "text": "“Worthy are You, our Lord and God, to receive glory and honor and power, for You created all things; by Your will they exist and were created.”"
+        },
+        {
+          "reference": "Matthew 19:4",
+          "text": "Jesus answered, “Have you not read that from the beginning the Creator ‘made them male and female,’"
+        },
+        {
+          "reference": "Mark 10:6",
+          "text": "However, from the beginning of creation, ‘God made them male and female.’"
+        },
+        {
+          "reference": "Isaiah 45:12",
+          "text": "It is I who made the earth and created man upon it. It was My hands that stretched out the heavens, and I ordained all their host."
+        },
+        {
+          "reference": "Job 33:4",
+          "text": "The Spirit of God has made me, and the breath of the Almighty gives me life."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:27",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 27,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "So God created mankind in his own image, in the image of God he created them; male and female he created them."
+        },
+        {
+          "version": "NLT",
+          "text": "So God created human beings in his own image. In the image of God he created them; male and female he created them."
+        },
+        {
+          "version": "ESV",
+          "text": "So God created man in his own image, in the image of God he created him; male and female he created them."
+        },
+        {
+          "version": "NKJV",
+          "text": "So God created man in His own image; in the image of God He created him; male and female He created them."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Genesis 5:1-2",
+          "text": "This is the book of the generations of Adam. In the day that God created man, He made him in His own likeness. / Male and female He created them, and He blessed them. And in the day they were created, He called them “man.”"
+        },
+        {
+          "reference": "Matthew 19:4",
+          "text": "Jesus answered, “Have you not read that from the beginning the Creator ‘made them male and female,’"
+        },
+        {
+          "reference": "Mark 10:6",
+          "text": "However, from the beginning of creation, ‘God made them male and female.’"
+        },
+        {
+          "reference": "1 Corinthians 11:7",
+          "text": "A man ought not to cover his head, since he is the image and glory of God; but the woman is the glory of man."
+        },
+        {
+          "reference": "Colossians 3:10",
+          "text": "and have put on the new self, which is being renewed in knowledge in the image of its Creator."
+        },
+        {
+          "reference": "Ephesians 4:24",
+          "text": "and to put on the new self, created to be like God in true righteousness and holiness."
+        },
+        {
+          "reference": "James 3:9",
+          "text": "With the tongue we bless our Lord and Father, and with it we curse men, who have been made in God’s likeness."
+        },
+        {
+          "reference": "Psalm 8:4-6",
+          "text": "what is man that You are mindful of him, or the son of man that You care for him? / You made him a little lower than the angels; You crowned him with glory and honor. / You made him ruler of the works of Your hands; You have placed everything under his feet:"
+        },
+        {
+          "reference": "Romans 8:29",
+          "text": "For those God foreknew, He also predestined to be conformed to the image of His Son, so that He would be the firstborn among many brothers."
+        },
+        {
+          "reference": "1 Corinthians 15:49",
+          "text": "And just as we have borne the likeness of the earthly man, so also shall we bear the likeness of the heavenly man."
+        },
+        {
+          "reference": "2 Corinthians 3:18",
+          "text": "And we, who with unveiled faces all reflect the glory of the Lord, are being transformed into His image with intensifying glory, which comes from the Lord, who is the Spirit."
+        },
+        {
+          "reference": "Malachi 2:10",
+          "text": "Do we not all have one Father? Did not one God create us? Why then do we break faith with one another so as to profane the covenant of our fathers?"
+        },
+        {
+          "reference": "Acts 17:26",
+          "text": "From one man He made every nation of men, that they should inhabit the whole earth; and He determined their appointed times and the boundaries of their lands."
+        },
+        {
+          "reference": "Galatians 3:28",
+          "text": "There is neither Jew nor Greek, slave nor free, male nor female, for you are all one in Christ Jesus."
+        },
+        {
+          "reference": "Hebrews 2:6-8",
+          "text": "But somewhere it is testified in these words: “What is man that You are mindful of him, or the son of man that You care for him? / You made him a little lower than the angels; You crowned him with glory and honor / and placed everything under his feet.” When God subjected all things to him, He left nothing outside of his control. Yet at present we do not see everything subject to him."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:28",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 28,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "God blessed them and said to them, &#8220Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground.”"
+        },
+        {
+          "version": "NLT",
+          "text": "Then God blessed them and said, “Be fruitful and multiply. Fill the earth and govern it. Reign over the fish in the sea, the birds in the sky, and all the animals that scurry along the ground.”"
+        },
+        {
+          "version": "ESV",
+          "text": "And God blessed them. And God said to them, “Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.”"
+        },
+        {
+          "version": "NKJV",
+          "text": "Then God blessed them, and God said to them, “Be fruitful and multiply; fill the earth and subdue it; have dominion over the fish of the sea, over the birds of the air, and over every living thing that moves on the earth.”"
+        }
+      ],
+      "greek_words": [],
+      "cross_references": []
+    },
+    {
+      "reference": "Genesis 1:29",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 29,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "Then God said, “I give you every seed-bearing plant on the face of the whole earth and every tree that has fruit with seed in it. They will be yours for food."
+        },
+        {
+          "version": "NLT",
+          "text": "Then God said, “Look! I have given you every seed-bearing plant throughout the earth and all the fruit trees for your food."
+        },
+        {
+          "version": "ESV",
+          "text": "And God said, “Behold, I have given you every plant yielding seed that is on the face of all the earth, and every tree with seed in its fruit. You shall have them for food."
+        },
+        {
+          "version": "NKJV",
+          "text": "And God said, “See, I have given you every herb that yields seed which is on the face of all the earth, and every tree whose fruit yields seed; to you it shall be for food."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Psalm 104:14-15",
+          "text": "He makes the grass grow for the livestock and provides crops for man to cultivate, bringing forth food from the earth: / wine that gladdens the heart of man, oil that makes his face to shine, and bread that sustains his heart."
+        },
+        {
+          "reference": "Isaiah 55:10",
+          "text": "For just as rain and snow fall from heaven and do not return without watering the earth, making it bud and sprout, and providing seed to sow and food to eat,"
+        },
+        {
+          "reference": "Ezekiel 47:12",
+          "text": "Along both banks of the river, fruit trees of all kinds will grow. Their leaves will not wither, and their fruit will not fail. Each month they will bear fruit, because the water from the sanctuary flows to them. Their fruit will be used for food and their leaves for healing.”"
+        },
+        {
+          "reference": "Leviticus 11:2-3",
+          "text": "“Say to the Israelites, ‘Of all the beasts of the earth, these ones you may eat: / You may eat any animal that has a split hoof completely divided and that chews the cud."
+        },
+        {
+          "reference": "Deuteronomy 8:7-9",
+          "text": "For the LORD your God is bringing you into a good land, a land of brooks and fountains and springs that flow through the valleys and hills; / a land of wheat, barley, vines, fig trees, and pomegranates; a land of olive oil and honey; / a land where you will eat food without scarcity, where you will lack nothing; a land whose rocks are iron and whose hills are ready to be mined for copper."
+        },
+        {
+          "reference": "Psalm 136:25",
+          "text": "He gives food to every creature. His loving devotion endures forever."
+        },
+        {
+          "reference": "Psalm 145:15-16",
+          "text": "The eyes of all look to You, and You give them their food in season. / You open Your hand and satisfy the desire of every living thing."
+        },
+        {
+          "reference": "Matthew 6:11",
+          "text": "Give us this day our daily bread."
+        },
+        {
+          "reference": "Matthew 6:26",
+          "text": "Look at the birds of the air: They do not sow or reap or gather into barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?"
+        },
+        {
+          "reference": "Matthew 14:19-20",
+          "text": "And He directed the crowds to sit down on the grass. Taking the five loaves and the two fish and looking up to heaven, He spoke a blessing. Then He broke the loaves and gave them to the disciples, and the disciples gave them to the people. / They all ate and were satisfied, and the disciples picked up twelve basketfuls of broken pieces that were left over."
+        },
+        {
+          "reference": "Luke 12:24",
+          "text": "Consider the ravens: They do not sow or reap, they have no storehouse or barn; yet God feeds them. How much more valuable you are than the birds!"
+        },
+        {
+          "reference": "Acts 14:17",
+          "text": "Yet He has not left Himself without testimony to His goodness: He gives you rain from heaven and fruitful seasons, filling your hearts with food and gladness.”"
+        },
+        {
+          "reference": "Acts 17:25",
+          "text": "Nor is He served by human hands, as if He needed anything, because He Himself gives everyone life and breath and everything else."
+        },
+        {
+          "reference": "Romans 14:14",
+          "text": "I am convinced and fully persuaded in the Lord Jesus that nothing is unclean in itself. But if anyone regards something as unclean, then for him it is unclean."
+        },
+        {
+          "reference": "1 Corinthians 10:26",
+          "text": "for, “The earth is the Lord’s, and the fullness thereof.”"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:30",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 30,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "And to all the beasts of the earth and all the birds in the sky and all the creatures that move along the ground—everything that has the breath of life in it—I give every green plant for food.” And it was so."
+        },
+        {
+          "version": "NLT",
+          "text": "And I have given every green plant as food for all the wild animals, the birds in the sky, and the small animals that scurry along the ground—everything that has life.” And that is what happened."
+        },
+        {
+          "version": "ESV",
+          "text": "And to every beast of the earth and to every bird of the heavens and to everything that creeps on the earth, everything that has the breath of life, I have given every green plant for food.” And it was so."
+        },
+        {
+          "version": "NKJV",
+          "text": "Also, to every beast of the earth, to every bird of the air, and to everything that creeps on the earth, in which there is life, I have given every green herb for food”; and it was so."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Psalm 104:14-15",
+          "text": "He makes the grass grow for the livestock and provides crops for man to cultivate, bringing forth food from the earth: / wine that gladdens the heart of man, oil that makes his face to shine, and bread that sustains his heart."
+        },
+        {
+          "reference": "Psalm 145:15-16",
+          "text": "The eyes of all look to You, and You give them their food in season. / You open Your hand and satisfy the desire of every living thing."
+        },
+        {
+          "reference": "Job 38:41",
+          "text": "Who provides food for the raven when its young cry out to God as they wander about for lack of food?"
+        },
+        {
+          "reference": "Isaiah 11:6-9",
+          "text": "The wolf will live with the lamb, and the leopard will lie down with the goat; the calf and young lion and fatling will be together, and a little child will lead them. / The cow will graze with the bear, their young will lie down together, and the lion will eat straw like the ox. / The infant will play by the cobra’s den, and the toddler will reach into the viper’s nest. ..."
+        },
+        {
+          "reference": "Isaiah 65:25",
+          "text": "The wolf and the lamb will feed together, and the lion will eat straw like the ox, but the food of the serpent will be dust. They will neither harm nor destroy on all My holy mountain,” says the LORD."
+        },
+        {
+          "reference": "Ezekiel 34:14",
+          "text": "I will feed them in good pasture, and the lofty mountains of Israel will be their grazing land. There they will lie down in a good grazing land; they will feed in rich pasture on the mountains of Israel."
+        },
+        {
+          "reference": "Matthew 6:26",
+          "text": "Look at the birds of the air: They do not sow or reap or gather into barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?"
+        },
+        {
+          "reference": "Luke 12:24",
+          "text": "Consider the ravens: They do not sow or reap, they have no storehouse or barn; yet God feeds them. How much more valuable you are than the birds!"
+        },
+        {
+          "reference": "Acts 14:17",
+          "text": "Yet He has not left Himself without testimony to His goodness: He gives you rain from heaven and fruitful seasons, filling your hearts with food and gladness.”"
+        },
+        {
+          "reference": "Romans 8:19-22",
+          "text": "The creation waits in eager expectation for the revelation of the sons of God. / For the creation was subjected to futility, not by its own will, but because of the One who subjected it, in hope / that the creation itself will be set free from its bondage to decay and brought into the glorious freedom of the children of God. ..."
+        },
+        {
+          "reference": "1 Timothy 4:4",
+          "text": "For every creation of God is good, and nothing that is received with thanksgiving should be rejected,"
+        },
+        {
+          "reference": "Hebrews 1:3",
+          "text": "The Son is the radiance of God’s glory and the exact representation of His nature, upholding all things by His powerful word. After He had provided purification for sins, He sat down at the right hand of the Majesty on high."
+        },
+        {
+          "reference": "Hebrews 11:3",
+          "text": "By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible."
+        },
+        {
+          "reference": "Revelation 4:11",
+          "text": "“Worthy are You, our Lord and God, to receive glory and honor and power, for You created all things; by Your will they exist and were created.”"
+        },
+        {
+          "reference": "Revelation 5:13",
+          "text": "And I heard every creature in heaven and on earth and under the earth and in the sea, and all that is in them, saying: “To Him who sits on the throne and to the Lamb be praise and honor and glory and power forever and ever!”"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 1:31",
+      "book": "Genesis",
+      "chapter": 1,
+      "verse": 31,
+      "translations": [
+        {
+          "version": "NIV",
+          "text": "God saw all that he had made, and it was very good. And there was evening, and there was morning—the sixth day."
+        },
+        {
+          "version": "NLT",
+          "text": "Then God looked over all he had made, and he saw that it was very good! And evening passed and morning came, marking the sixth day."
+        },
+        {
+          "version": "ESV",
+          "text": "And God saw everything that he had made, and behold, it was very good. And there was evening and there was morning, the sixth day."
+        },
+        {
+          "version": "NKJV",
+          "text": "Then God saw everything that He had made, and indeed it was very good. So the evening and the morning were the sixth day."
+        }
+      ],
+      "greek_words": [],
+      "cross_references": [
+        {
+          "reference": "Psalm 104:24",
+          "text": "How many are Your works, O LORD! In wisdom You have made them all; the earth is full of Your creatures."
+        },
+        {
+          "reference": "Ecclesiastes 3:11",
+          "text": "He has made everything beautiful in its time. He has also set eternity in the hearts of men, yet they cannot fathom the work that God has done from beginning to end."
+        },
+        {
+          "reference": "Psalm 19:1",
+          "text": "For the choirmaster. A Psalm of David. The heavens declare the glory of God; the skies proclaim the work of His hands."
+        },
+        {
+          "reference": "Isaiah 45:18",
+          "text": "For thus says the LORD, who created the heavens—He is God; He formed the earth and fashioned it; He established it; He did not create it to be empty, but formed it to be inhabited: “I am the LORD, and there is no other."
+        },
+        {
+          "reference": "Psalm 33:5-6",
+          "text": "The LORD loves righteousness and justice; the earth is full of His loving devotion. / By the word of the LORD the heavens were made, and all the stars by the breath of His mouth."
+        },
+        {
+          "reference": "Colossians 1:16",
+          "text": "For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him."
+        },
+        {
+          "reference": "John 1:3",
+          "text": "Through Him all things were made, and without Him nothing was made that has been made."
+        },
+        {
+          "reference": "Hebrews 1:2",
+          "text": "But in these last days He has spoken to us by His Son, whom He appointed heir of all things, and through whom He made the universe."
+        },
+        {
+          "reference": "Romans 1:20",
+          "text": "For since the creation of the world God’s invisible qualities, His eternal power and divine nature, have been clearly seen, being understood from His workmanship, so that men are without excuse."
+        },
+        {
+          "reference": "Revelation 4:11",
+          "text": "“Worthy are You, our Lord and God, to receive glory and honor and power, for You created all things; by Your will they exist and were created.”"
+        },
+        {
+          "reference": "Psalm 8:3-4",
+          "text": "When I behold Your heavens, the work of Your fingers, the moon and the stars, which You have set in place— / what is man that You are mindful of him, or the son of man that You care for him?"
+        },
+        {
+          "reference": "Isaiah 40:26",
+          "text": "Lift up your eyes on high: Who created all these? He leads forth the starry host by number; He calls each one by name. Because of His great power and mighty strength, not one of them is missing."
+        },
+        {
+          "reference": "Nehemiah 9:6",
+          "text": "You alone are the LORD. You created the heavens, the highest heavens with all their host, the earth and all that is on it, the seas and all that is in them. You give life to all things, and the host of heaven worships You."
+        },
+        {
+          "reference": "Job 38:4-7",
+          "text": "Where were you when I laid the foundations of the earth? Tell Me, if you have understanding. / Who fixed its measurements? Surely you know! Or who stretched a measuring line across it? / On what were its foundations set, or who laid its cornerstone, ..."
+        },
+        {
+          "reference": "Proverbs 3:19",
+          "text": "The LORD founded the earth by wisdom and established the heavens by understanding."
+        }
+      ]
+    }
+  ]
+}
