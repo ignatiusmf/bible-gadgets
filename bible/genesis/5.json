@@ -25,7 +25,107 @@
           "text": "This is the book of the genealogy of Adam. In the day that God created man, He made him in the likeness of God."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "This",
+          "word": "זֶ֣ה",
+          "transliteration": "zeh",
+          "strongs_number": "2088",
+          "part_of_speech": "Pronoun - masculine singular",
+          "definition": "This, that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[is] the book",
+          "word": "סֵ֔פֶר",
+          "transliteration": "sê·p̄er",
+          "strongs_number": "5612",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A missive, document, writing, book",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the generations",
+          "word": "תּוֹלְדֹ֖ת",
+          "transliteration": "tō·wl·ḏōṯ",
+          "strongs_number": "8435",
+          "part_of_speech": "Noun - feminine plural construct",
+          "definition": "Descent, family, history",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Adam.",
+          "word": "אָדָ֑ם",
+          "transliteration": "’ā·ḏām",
+          "strongs_number": "121",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Adam -- the first man, also a city in the Jordan Valley",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "In the day",
+          "word": "בְּי֗וֹם",
+          "transliteration": "bə·yō·wm",
+          "strongs_number": "3117",
+          "part_of_speech": "Preposition-b | Noun - masculine singular construct",
+          "definition": "A day",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that God",
+          "word": "אֱלֹהִים֙",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "created",
+          "word": "בְּרֹ֤א",
+          "transliteration": "bə·rō",
+          "strongs_number": "1254",
+          "part_of_speech": "Verb - Qal - Infinitive construct",
+          "definition": "To create, to cut down, select, feed",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "man,",
+          "word": "אָדָ֔ם",
+          "transliteration": "’ā·ḏām",
+          "strongs_number": "120",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Ruddy, a human being",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "He made",
+          "word": "עָשָׂ֥ה",
+          "transliteration": "‘ā·śāh",
+          "strongs_number": "6213",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To do, make",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "him",
+          "word": "אֹתֽוֹ׃",
+          "transliteration": "’ō·ṯōw",
+          "strongs_number": "853",
+          "part_of_speech": "Direct object marker | third person masculine singular",
+          "definition": "Untranslatable mark of the accusative case",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in His own likeness.",
+          "word": "בִּדְמ֥וּת",
+          "transliteration": "biḏ·mūṯ",
+          "strongs_number": "1823",
+          "part_of_speech": "Preposition-b | Noun - feminine singular construct",
+          "definition": "Resemblance, model, shape, like",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 1:26-27",
@@ -112,7 +212,98 @@
           "text": "He created them male and female, and blessed them and called them Mankind in the day they were created."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Male",
+          "word": "זָכָ֥ר",
+          "transliteration": "zā·ḵār",
+          "strongs_number": "2145",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Remembered, a male",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and female",
+          "word": "וּנְקֵבָ֖ה",
+          "transliteration": "ū·nə·qê·ḇāh",
+          "strongs_number": "5347",
+          "part_of_speech": "Conjunctive waw | Noun - feminine singular",
+          "definition": "A female",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "He created them,",
+          "word": "בְּרָאָ֑ם",
+          "transliteration": "bə·rā·’ām",
+          "strongs_number": "1254",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular | third person masculine plural",
+          "definition": "To create, to cut down, select, feed",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and He blessed",
+          "word": "וַיְבָ֣רֶךְ",
+          "transliteration": "way·ḇā·reḵ",
+          "strongs_number": "1288",
+          "part_of_speech": "Conjunctive waw | Verb - Piel - Consecutive imperfect - third person masculine singular",
+          "definition": "To kneel, to bless God, man, to curse",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "them.",
+          "word": "אֹתָ֗ם",
+          "transliteration": "’ō·ṯām",
+          "strongs_number": "853",
+          "part_of_speech": "Direct object marker | third person masculine plural",
+          "definition": "Untranslatable mark of the accusative case",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "And in the day",
+          "word": "בְּי֖וֹם",
+          "transliteration": "bə·yō·wm",
+          "strongs_number": "3117",
+          "part_of_speech": "Preposition-b | Noun - masculine singular construct",
+          "definition": "A day",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "they were created,",
+          "word": "הִבָּֽרְאָֽם׃",
+          "transliteration": "hib·bā·rə·’ām",
+          "strongs_number": "1254",
+          "part_of_speech": "Verb - Nifal - Infinitive construct | third person masculine plural",
+          "definition": "To create, to cut down, select, feed",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "He called",
+          "word": "וַיִּקְרָ֤א",
+          "transliteration": "way·yiq·rā",
+          "strongs_number": "7121",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To call, proclaim, read",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "them",
+          "word": "שְׁמָם֙",
+          "transliteration": "šə·mām",
+          "strongs_number": "8034",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine plural",
+          "definition": "A name",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "“man.”",
+          "word": "אָדָ֔ם",
+          "transliteration": "’ā·ḏām",
+          "strongs_number": "120",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Ruddy, a human being",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 1:27",
@@ -199,7 +390,89 @@
           "text": "And Adam lived one hundred and thirty years, and begot a son in his own likeness, after his image, and named him Seth."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "When Adam",
+          "word": "אָדָ֗ם",
+          "transliteration": "’ā·ḏām",
+          "strongs_number": "121",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Adam -- the first man, also a city in the Jordan Valley",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was",
+          "word": "וַֽיְחִ֣י",
+          "transliteration": "way·ḥî",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "130",
+          "word": "שְׁלֹשִׁ֤ים",
+          "transliteration": "šə·lō·šîm",
+          "strongs_number": "7970",
+          "part_of_speech": "Number - common plural",
+          "definition": "Thirty, thirtieth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years old,",
+          "word": "שָׁנָ֔ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he had a son",
+          "word": "וַיּ֥וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in his own likeness,",
+          "word": "בִּדְמוּת֖וֹ",
+          "transliteration": "biḏ·mū·ṯōw",
+          "strongs_number": "1823",
+          "part_of_speech": "Preposition-b | Noun - feminine singular construct | third person masculine singular",
+          "definition": "Resemblance, model, shape, like",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "after his own image;",
+          "word": "כְּצַלְמ֑וֹ",
+          "transliteration": "kə·ṣal·mōw",
+          "strongs_number": "6754",
+          "part_of_speech": "Preposition-k | Noun - masculine singular construct | third person masculine singular",
+          "definition": "A phantom, illusion, resemblance, a representative figure, an idol",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and he named him",
+          "word": "וַיִּקְרָ֥א",
+          "transliteration": "way·yiq·rā",
+          "strongs_number": "7121",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To call, proclaim, read",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Seth.",
+          "word": "שֵֽׁת׃",
+          "transliteration": "šêṯ",
+          "strongs_number": "8352",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Seth -- a son of Adam",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "1 Chronicles 1:1",
@@ -286,7 +559,98 @@
           "text": "After he begot Seth, the days of Adam were eight hundred years; and he had sons and daughters."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And after",
+          "word": "אַֽחֲרֵי֙",
+          "transliteration": "’a·ḥă·rê",
+          "strongs_number": "310",
+          "part_of_speech": "Preposition",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he had become the father of",
+          "word": "הוֹלִיד֣וֹ",
+          "transliteration": "hō·w·lî·ḏōw",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Hifil - Infinitive construct | third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Seth,",
+          "word": "שֵׁ֔ת",
+          "transliteration": "šêṯ",
+          "strongs_number": "8352",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Seth -- a son of Adam",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Adam",
+          "word": "אָדָ֗ם",
+          "transliteration": "’ā·ḏām",
+          "strongs_number": "121",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Adam -- the first man, also a city in the Jordan Valley",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַיִּֽהְי֣וּ",
+          "transliteration": "way·yih·yū",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "800",
+          "word": "שְׁמֹנֶ֥ה",
+          "transliteration": "šə·mō·neh",
+          "strongs_number": "8083",
+          "part_of_speech": "Number - feminine singular",
+          "definition": "A cardinal number, eight, eighth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and had [other]",
+          "word": "וַיּ֥וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "sons",
+          "word": "בָּנִ֖ים",
+          "transliteration": "bā·nîm",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and daughters.",
+          "word": "וּבָנֽוֹת׃",
+          "transliteration": "ū·ḇā·nō·wṯ",
+          "strongs_number": "1323",
+          "part_of_speech": "Conjunctive waw | Noun - feminine plural",
+          "definition": "A daughter",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 4:25-26",
@@ -373,7 +737,62 @@
           "text": "So all the days that Adam lived were nine hundred and thirty years; and he died."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "So Adam",
+          "word": "אָדָם֙",
+          "transliteration": "’ā·ḏām",
+          "strongs_number": "121",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Adam -- the first man, also a city in the Jordan Valley",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַיִּֽהְי֞וּ",
+          "transliteration": "way·yih·yū",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a total of",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "930",
+          "word": "תְּשַׁ֤ע",
+          "transliteration": "tə·ša‘",
+          "strongs_number": "8672",
+          "part_of_speech": "Number - feminine singular construct",
+          "definition": "Nine, ninth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years,",
+          "word": "שָׁנָ֔ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and then he died.",
+          "word": "וַיָּמֹֽת׃",
+          "transliteration": "way·yā·mōṯ",
+          "strongs_number": "4191",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To die, to kill",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Romans 5:12",
@@ -460,7 +879,62 @@
           "text": "Seth lived one hundred and five years, and begot Enosh."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "When Seth",
+          "word": "שֵׁ֕ת",
+          "transliteration": "šêṯ",
+          "strongs_number": "8352",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Seth -- a son of Adam",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was",
+          "word": "וַֽיְחִי־",
+          "transliteration": "way·ḥî-",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "105",
+          "word": "וּמְאַ֣ת",
+          "transliteration": "ū·mə·’aṯ",
+          "strongs_number": "3967",
+          "part_of_speech": "Conjunctive waw | Number - feminine singular construct",
+          "definition": "A hundred",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years old,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he became the father of",
+          "word": "וַיּ֖וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Enosh.",
+          "word": "אֱנֽוֹשׁ׃",
+          "transliteration": "’ĕ·nō·wōš",
+          "strongs_number": "583",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Enosh -- 'man', a son of Seth",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Luke 3:36-38",
@@ -547,7 +1021,98 @@
           "text": "After he begot Enosh, Seth lived eight hundred and seven years, and had sons and daughters."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And after",
+          "word": "אַֽחֲרֵי֙",
+          "transliteration": "’a·ḥă·rê",
+          "strongs_number": "310",
+          "part_of_speech": "Preposition",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he had become the father of",
+          "word": "הוֹלִיד֣וֹ",
+          "transliteration": "hō·w·lî·ḏōw",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Hifil - Infinitive construct | third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Enosh,",
+          "word": "אֱנ֔וֹשׁ",
+          "transliteration": "’ĕ·nō·wōš",
+          "strongs_number": "583",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Enosh -- 'man', a son of Seth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Seth",
+          "word": "שֵׁ֗ת",
+          "transliteration": "šêṯ",
+          "strongs_number": "8352",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Seth -- a son of Adam",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַֽיְחִי־",
+          "transliteration": "way·ḥî-",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "807",
+          "word": "וּשְׁמֹנֶ֥ה",
+          "transliteration": "ū·šə·mō·neh",
+          "strongs_number": "8083",
+          "part_of_speech": "Conjunctive waw | Number - feminine singular",
+          "definition": "A cardinal number, eight, eighth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and had [other]",
+          "word": "וַיּ֥וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "sons",
+          "word": "בָּנִ֖ים",
+          "transliteration": "bā·nîm",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and daughters.",
+          "word": "וּבָנֽוֹת׃",
+          "transliteration": "ū·ḇā·nō·wṯ",
+          "strongs_number": "1323",
+          "part_of_speech": "Conjunctive waw | Noun - feminine plural",
+          "definition": "A daughter",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 4:25-26",
@@ -634,7 +1199,62 @@
           "text": "So all the days of Seth were nine hundred and twelve years; and he died."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "So Seth",
+          "word": "שֵׁ֔ת",
+          "transliteration": "šêṯ",
+          "strongs_number": "8352",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Seth -- a son of Adam",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַיִּֽהְיוּ֙",
+          "transliteration": "way·yih·yū",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a total of",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "912",
+          "word": "וּתְשַׁ֥ע",
+          "transliteration": "ū·ṯə·ša‘",
+          "strongs_number": "8672",
+          "part_of_speech": "Conjunctive waw | Number - feminine singular construct",
+          "definition": "Nine, ninth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and then he died.",
+          "word": "וַיָּמֹֽת׃",
+          "transliteration": "way·yā·mōṯ",
+          "strongs_number": "4191",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To die, to kill",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 2:17",
@@ -721,7 +1341,62 @@
           "text": "Enosh lived ninety years, and begot Cainan."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "When Enosh",
+          "word": "אֱנ֖וֹשׁ",
+          "transliteration": "’ĕ·nō·wōš",
+          "strongs_number": "583",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Enosh -- 'man', a son of Seth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was",
+          "word": "וַֽיְחִ֥י",
+          "transliteration": "way·ḥî",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "90",
+          "word": "תִּשְׁעִ֣ים",
+          "transliteration": "tiš·‘îm",
+          "strongs_number": "8673",
+          "part_of_speech": "Number - common plural",
+          "definition": "Ninety",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years old,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he became the father of",
+          "word": "וַיּ֖וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Kenan.",
+          "word": "קֵינָֽן׃",
+          "transliteration": "qê·nān",
+          "strongs_number": "7018",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Kenan -- a descendant of Seth",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Luke 3:36-38",
@@ -808,7 +1483,98 @@
           "text": "After he begot Cainan, Enosh lived eight hundred and fifteen years, and had sons and daughters."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And after",
+          "word": "אַֽחֲרֵי֙",
+          "transliteration": "’a·ḥă·rê",
+          "strongs_number": "310",
+          "part_of_speech": "Preposition",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he had become the father of",
+          "word": "הוֹלִיד֣וֹ",
+          "transliteration": "hō·w·lî·ḏōw",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Hifil - Infinitive construct | third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Kenan,",
+          "word": "קֵינָ֔ן",
+          "transliteration": "qê·nān",
+          "strongs_number": "7018",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Kenan -- a descendant of Seth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Enosh",
+          "word": "אֱנ֗וֹשׁ",
+          "transliteration": "’ĕ·nō·wōš",
+          "strongs_number": "583",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Enosh -- 'man', a son of Seth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַֽיְחִ֣י",
+          "transliteration": "way·ḥî",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "815",
+          "word": "חֲמֵ֤שׁ",
+          "transliteration": "ḥă·mêš",
+          "strongs_number": "2568",
+          "part_of_speech": "Number - feminine singular construct",
+          "definition": "Five",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and had [other]",
+          "word": "וַיּ֥וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "sons",
+          "word": "בָּנִ֖ים",
+          "transliteration": "bā·nîm",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and daughters.",
+          "word": "וּבָנֽוֹת׃",
+          "transliteration": "ū·ḇā·nō·wṯ",
+          "strongs_number": "1323",
+          "part_of_speech": "Conjunctive waw | Noun - feminine plural",
+          "definition": "A daughter",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 5:6-9",
@@ -895,7 +1661,62 @@
           "text": "So all the days of Enosh were nine hundred and five years; and he died."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "So Enosh",
+          "word": "אֱנ֔וֹשׁ",
+          "transliteration": "’ĕ·nō·wōš",
+          "strongs_number": "583",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Enosh -- 'man', a son of Seth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַיִּֽהְיוּ֙",
+          "transliteration": "way·yih·yū",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a total of",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "905",
+          "word": "וּתְשַׁ֥ע",
+          "transliteration": "ū·ṯə·ša‘",
+          "strongs_number": "8672",
+          "part_of_speech": "Conjunctive waw | Number - feminine singular construct",
+          "definition": "Nine, ninth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and then he died.",
+          "word": "וַיָּמֹֽת׃",
+          "transliteration": "way·yā·mōṯ",
+          "strongs_number": "4191",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To die, to kill",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 5:8",
@@ -982,7 +1803,62 @@
           "text": "Cainan lived seventy years, and begot Mahalalel."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "When Kenan",
+          "word": "קֵינָ֖ן",
+          "transliteration": "qê·nān",
+          "strongs_number": "7018",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Kenan -- a descendant of Seth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was",
+          "word": "וַֽיְחִ֥י",
+          "transliteration": "way·ḥî",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "70",
+          "word": "שִׁבְעִ֣ים",
+          "transliteration": "šiḇ·‘îm",
+          "strongs_number": "7657",
+          "part_of_speech": "Number - common plural",
+          "definition": "Seventy (a cardinal number)",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years old,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he became the father of",
+          "word": "וַיּ֖וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Mahalaleel.",
+          "word": "מַֽהֲלַלְאֵֽל׃",
+          "transliteration": "ma·hă·lal·’êl",
+          "strongs_number": "4111",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "praise of God', great-grandson of Seth, also a man of Judah",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 5:3-5",
@@ -1069,7 +1945,98 @@
           "text": "After he begot Mahalalel, Cainan lived eight hundred and forty years, and had sons and daughters."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And after",
+          "word": "אַחֲרֵי֙",
+          "transliteration": "’a·ḥă·rê",
+          "strongs_number": "310",
+          "part_of_speech": "Preposition",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he had become the father of",
+          "word": "הוֹלִיד֣וֹ",
+          "transliteration": "hō·w·lî·ḏōw",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Hifil - Infinitive construct | third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Mahalaleel,",
+          "word": "מַֽהֲלַלְאֵ֔ל",
+          "transliteration": "ma·hă·lal·’êl",
+          "strongs_number": "4111",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "praise of God', great-grandson of Seth, also a man of Judah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Kenan",
+          "word": "קֵינָ֗ן",
+          "transliteration": "qê·nān",
+          "strongs_number": "7018",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Kenan -- a descendant of Seth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַיְחִ֣י",
+          "transliteration": "way·ḥî",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "840",
+          "word": "וּשְׁמֹנֶ֥ה",
+          "transliteration": "ū·šə·mō·neh",
+          "strongs_number": "8083",
+          "part_of_speech": "Conjunctive waw | Number - feminine singular",
+          "definition": "A cardinal number, eight, eighth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and had [other]",
+          "word": "וַיּ֥וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "sons",
+          "word": "בָּנִ֖ים",
+          "transliteration": "bā·nîm",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and daughters.",
+          "word": "וּבָנֽוֹת׃",
+          "transliteration": "ū·ḇā·nō·wṯ",
+          "strongs_number": "1323",
+          "part_of_speech": "Conjunctive waw | Noun - feminine plural",
+          "definition": "A daughter",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 4:26",
@@ -1156,7 +2123,62 @@
           "text": "So all the days of Cainan were nine hundred and ten years; and he died."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "So Kenan",
+          "word": "קֵינָ֔ן",
+          "transliteration": "qê·nān",
+          "strongs_number": "7018",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Kenan -- a descendant of Seth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַיִּֽהְיוּ֙",
+          "transliteration": "way·yih·yū",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a total of",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "910",
+          "word": "וּתְשַׁ֥ע",
+          "transliteration": "ū·ṯə·ša‘",
+          "strongs_number": "8672",
+          "part_of_speech": "Conjunctive waw | Number - feminine singular construct",
+          "definition": "Nine, ninth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and then he died.",
+          "word": "וַיָּמֹֽת׃",
+          "transliteration": "way·yā·mōṯ",
+          "strongs_number": "4191",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To die, to kill",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 2:17",
@@ -1243,7 +2265,62 @@
           "text": "Mahalalel lived sixty-five years, and begot Jared."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "When Mahalaleel",
+          "word": "מַֽהֲלַלְאֵ֔ל",
+          "transliteration": "ma·hă·lal·’êl",
+          "strongs_number": "4111",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "praise of God', great-grandson of Seth, also a man of Judah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was",
+          "word": "וַֽיְחִ֣י",
+          "transliteration": "way·ḥî",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "65",
+          "word": "וְשִׁשִּׁ֣ים",
+          "transliteration": "wə·šiš·šîm",
+          "strongs_number": "8346",
+          "part_of_speech": "Conjunctive waw | Number - common plural",
+          "definition": "Sixty",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years old,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he became the father of",
+          "word": "וַיּ֖וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Jared.",
+          "word": "יָֽרֶד׃",
+          "transliteration": "yā·reḏ",
+          "strongs_number": "3382",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Jared -- a descendant of Seth, also a man of Judah",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Luke 3:36-38",
@@ -1330,7 +2407,98 @@
           "text": "After he begot Jared, Mahalalel lived eight hundred and thirty years, and had sons and daughters."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And after",
+          "word": "אַֽחֲרֵי֙",
+          "transliteration": "’a·ḥă·rê",
+          "strongs_number": "310",
+          "part_of_speech": "Preposition",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he had become the father of",
+          "word": "הוֹלִיד֣וֹ",
+          "transliteration": "hō·w·lî·ḏōw",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Hifil - Infinitive construct | third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Jared,",
+          "word": "יֶ֔רֶד",
+          "transliteration": "ye·reḏ",
+          "strongs_number": "3382",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Jared -- a descendant of Seth, also a man of Judah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Mahalaleel",
+          "word": "מַֽהֲלַלְאֵ֗ל",
+          "transliteration": "ma·hă·lal·’êl",
+          "strongs_number": "4111",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "praise of God', great-grandson of Seth, also a man of Judah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַֽיְחִ֣י",
+          "transliteration": "way·ḥî",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "830",
+          "word": "וּשְׁמֹנֶ֥ה",
+          "transliteration": "ū·šə·mō·neh",
+          "strongs_number": "8083",
+          "part_of_speech": "Conjunctive waw | Number - feminine singular",
+          "definition": "A cardinal number, eight, eighth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and had [other]",
+          "word": "וַיּ֥וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "sons",
+          "word": "בָּנִ֖ים",
+          "transliteration": "bā·nîm",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and daughters.",
+          "word": "וּבָנֽוֹת׃",
+          "transliteration": "ū·ḇā·nō·wṯ",
+          "strongs_number": "1323",
+          "part_of_speech": "Conjunctive waw | Noun - feminine plural",
+          "definition": "A daughter",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 5:3-5",
@@ -1417,7 +2585,62 @@
           "text": "So all the days of Mahalalel were eight hundred and ninety-five years; and he died."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "So Mahalaleel",
+          "word": "מַהֲלַלְאֵ֔ל",
+          "transliteration": "ma·hă·lal·’êl",
+          "strongs_number": "4111",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "praise of God', great-grandson of Seth, also a man of Judah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַיִּהְיוּ֙",
+          "transliteration": "way·yih·yū",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a total of",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "895",
+          "word": "וּשְׁמֹנֶ֥ה",
+          "transliteration": "ū·šə·mō·neh",
+          "strongs_number": "8083",
+          "part_of_speech": "Conjunctive waw | Number - feminine singular",
+          "definition": "A cardinal number, eight, eighth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and then he died.",
+          "word": "וַיָּמֹֽת׃",
+          "transliteration": "way·yā·mōṯ",
+          "strongs_number": "4191",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To die, to kill",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Romans 5:12",
@@ -1504,7 +2727,62 @@
           "text": "Jared lived one hundred and sixty-two years, and begot Enoch."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "When Jared",
+          "word": "יֶ֕רֶד",
+          "transliteration": "ye·reḏ",
+          "strongs_number": "3382",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Jared -- a descendant of Seth, also a man of Judah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was",
+          "word": "וַֽיְחִי־",
+          "transliteration": "way·ḥî-",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "162",
+          "word": "וּמְאַ֣ת",
+          "transliteration": "ū·mə·’aṯ",
+          "strongs_number": "3967",
+          "part_of_speech": "Conjunctive waw | Number - feminine singular construct",
+          "definition": "A hundred",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years old,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he became the father of",
+          "word": "וַיּ֖וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Enoch.",
+          "word": "חֲנֽוֹךְ׃",
+          "transliteration": "ḥă·nō·wḵ",
+          "strongs_number": "2585",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Enoch -- four Israelites, sons of Cain, Jered, Midian and Reuben",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Luke 3:37",
@@ -1591,7 +2869,98 @@
           "text": "After he begot Enoch, Jared lived eight hundred years, and had sons and daughters."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And after",
+          "word": "אַֽחֲרֵי֙",
+          "transliteration": "’a·ḥă·rê",
+          "strongs_number": "310",
+          "part_of_speech": "Preposition",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he had become the father of",
+          "word": "הוֹלִיד֣וֹ",
+          "transliteration": "hō·w·lî·ḏōw",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Hifil - Infinitive construct | third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Enoch,",
+          "word": "חֲנ֔וֹךְ",
+          "transliteration": "ḥă·nō·wḵ",
+          "strongs_number": "2585",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Enoch -- four Israelites, sons of Cain, Jered, Midian and Reuben",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Jared",
+          "word": "יֶ֗רֶד",
+          "transliteration": "ye·reḏ",
+          "strongs_number": "3382",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Jared -- a descendant of Seth, also a man of Judah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַֽיְחִי־",
+          "transliteration": "way·ḥî-",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "800",
+          "word": "שְׁמֹנֶ֥ה",
+          "transliteration": "šə·mō·neh",
+          "strongs_number": "8083",
+          "part_of_speech": "Number - feminine singular",
+          "definition": "A cardinal number, eight, eighth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and had [other]",
+          "word": "וַיּ֥וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "sons",
+          "word": "בָּנִ֖ים",
+          "transliteration": "bā·nîm",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and daughters.",
+          "word": "וּבָנֽוֹת׃",
+          "transliteration": "ū·ḇā·nō·wṯ",
+          "strongs_number": "1323",
+          "part_of_speech": "Conjunctive waw | Noun - feminine plural",
+          "definition": "A daughter",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 5:3-5",
@@ -1678,7 +3047,62 @@
           "text": "So all the days of Jared were nine hundred and sixty-two years; and he died."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "So Jared",
+          "word": "יֶ֔רֶד",
+          "transliteration": "ye·reḏ",
+          "strongs_number": "3382",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Jared -- a descendant of Seth, also a man of Judah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַיִּֽהְיוּ֙",
+          "transliteration": "way·yih·yū",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a total of",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "962",
+          "word": "וּתְשַׁ֥ע",
+          "transliteration": "ū·ṯə·ša‘",
+          "strongs_number": "8672",
+          "part_of_speech": "Conjunctive waw | Number - feminine singular construct",
+          "definition": "Nine, ninth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and then he died.",
+          "word": "וַיָּמֹֽת׃",
+          "transliteration": "way·yā·mōṯ",
+          "strongs_number": "4191",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To die, to kill",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 5:1-2",
@@ -1765,7 +3189,62 @@
           "text": "Enoch lived sixty-five years, and begot Methuselah."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "When Enoch",
+          "word": "חֲנ֔וֹךְ",
+          "transliteration": "ḥă·nō·wḵ",
+          "strongs_number": "2585",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Enoch -- four Israelites, sons of Cain, Jered, Midian and Reuben",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was",
+          "word": "וַֽיְחִ֣י",
+          "transliteration": "way·ḥî",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "65",
+          "word": "וְשִׁשִּׁ֖ים",
+          "transliteration": "wə·šiš·šîm",
+          "strongs_number": "8346",
+          "part_of_speech": "Conjunctive waw | Number - common plural",
+          "definition": "Sixty",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years old,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he became the father of",
+          "word": "וַיּ֖וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Methuselah.",
+          "word": "מְתוּשָֽׁלַח׃",
+          "transliteration": "mə·ṯū·šā·laḥ",
+          "strongs_number": "4968",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Methuselah -- perhaps 'man of the dart', a descendant of Seth",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Hebrews 11:5",
@@ -1852,7 +3331,116 @@
           "text": "After he begot Methuselah, Enoch walked with God three hundred years, and had sons and daughters."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And after",
+          "word": "אַֽחֲרֵי֙",
+          "transliteration": "’a·ḥă·rê",
+          "strongs_number": "310",
+          "part_of_speech": "Preposition",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he had become the father of",
+          "word": "הוֹלִיד֣וֹ",
+          "transliteration": "hō·w·lî·ḏōw",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Hifil - Infinitive construct | third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Methuselah,",
+          "word": "מְתוּשֶׁ֔לַח",
+          "transliteration": "mə·ṯū·še·laḥ",
+          "strongs_number": "4968",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Methuselah -- perhaps 'man of the dart', a descendant of Seth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Enoch",
+          "word": "חֲנ֜וֹךְ",
+          "transliteration": "ḥă·nō·wḵ",
+          "strongs_number": "2585",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Enoch -- four Israelites, sons of Cain, Jered, Midian and Reuben",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "walked",
+          "word": "וַיִּתְהַלֵּ֨ךְ",
+          "transliteration": "way·yiṯ·hal·lêḵ",
+          "strongs_number": "1980",
+          "part_of_speech": "Conjunctive waw | Verb - Hitpael - Consecutive imperfect - third person masculine singular",
+          "definition": "To go, come, walk",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "with",
+          "word": "אֶת־",
+          "transliteration": "’eṯ-",
+          "strongs_number": "854",
+          "part_of_speech": "Preposition",
+          "definition": "Nearness, near, with, by, at, among",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God",
+          "word": "הָֽאֱלֹהִ֗ים",
+          "transliteration": "hā·’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Article | Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "300",
+          "word": "שְׁלֹ֥שׁ",
+          "transliteration": "šə·lōš",
+          "strongs_number": "7969",
+          "part_of_speech": "Number - feminine singular construct",
+          "definition": "Three, third, thrice",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and had [other]",
+          "word": "וַיּ֥וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "sons",
+          "word": "בָּנִ֖ים",
+          "transliteration": "bā·nîm",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and daughters.",
+          "word": "וּבָנֽוֹת׃",
+          "transliteration": "ū·ḇā·nō·wṯ",
+          "strongs_number": "1323",
+          "part_of_speech": "Conjunctive waw | Noun - feminine plural",
+          "definition": "A daughter",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Hebrews 11:5",
@@ -1939,7 +3527,53 @@
           "text": "So all the days of Enoch were three hundred and sixty-five years."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "So Enoch",
+          "word": "חֲנ֑וֹךְ",
+          "transliteration": "ḥă·nō·wḵ",
+          "strongs_number": "2585",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Enoch -- four Israelites, sons of Cain, Jered, Midian and Reuben",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַיְהִ֖י",
+          "transliteration": "way·hî",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a total of",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "365",
+          "word": "וּשְׁלֹ֥שׁ",
+          "transliteration": "ū·šə·lōš",
+          "strongs_number": "7969",
+          "part_of_speech": "Conjunctive waw | Number - feminine singular construct",
+          "definition": "Three, third, thrice",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years.",
+          "word": "שָׁנָֽה׃",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Hebrews 11:5",
@@ -2026,7 +3660,89 @@
           "text": "And Enoch walked with God; and he was not, for God took him."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Enoch",
+          "word": "חֲנ֖וֹךְ",
+          "transliteration": "ḥă·nō·wḵ",
+          "strongs_number": "2585",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Enoch -- four Israelites, sons of Cain, Jered, Midian and Reuben",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "walked",
+          "word": "וַיִּתְהַלֵּ֥ךְ",
+          "transliteration": "way·yiṯ·hal·lêḵ",
+          "strongs_number": "1980",
+          "part_of_speech": "Conjunctive waw | Verb - Hitpael - Consecutive imperfect - third person masculine singular",
+          "definition": "To go, come, walk",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "with",
+          "word": "אֶת־",
+          "transliteration": "’eṯ-",
+          "strongs_number": "854",
+          "part_of_speech": "Preposition",
+          "definition": "Nearness, near, with, by, at, among",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God,",
+          "word": "הָֽאֱלֹהִ֑ים",
+          "transliteration": "hā·’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Article | Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and then he [was] no more,",
+          "word": "וְאֵינֶ֕נּוּ",
+          "transliteration": "wə·’ê·nen·nū",
+          "strongs_number": "369",
+          "part_of_speech": "Conjunctive waw | Adverb | third person masculine singular",
+          "definition": "A non-entity, a negative particle",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "because",
+          "word": "כִּֽי־",
+          "transliteration": "kî-",
+          "strongs_number": "3588",
+          "part_of_speech": "Conjunction",
+          "definition": "A relative conjunction",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God",
+          "word": "אֱלֹהִֽים׃",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "had taken",
+          "word": "לָקַ֥ח",
+          "transliteration": "lā·qaḥ",
+          "strongs_number": "3947",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To take",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "him {away}.",
+          "word": "אֹת֖וֹ",
+          "transliteration": "’ō·ṯōw",
+          "strongs_number": "853",
+          "part_of_speech": "Direct object marker | third person masculine singular",
+          "definition": "Untranslatable mark of the accusative case",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Hebrews 11:5",
@@ -2113,7 +3829,62 @@
           "text": "Methuselah lived one hundred and eighty-seven years, and begot Lamech."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "When Methuselah",
+          "word": "מְתוּשֶׁ֔לַח",
+          "transliteration": "mə·ṯū·še·laḥ",
+          "strongs_number": "4968",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Methuselah -- perhaps 'man of the dart', a descendant of Seth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was",
+          "word": "וַיְחִ֣י",
+          "transliteration": "way·ḥî",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "187",
+          "word": "וּמְאַ֣ת",
+          "transliteration": "ū·mə·’aṯ",
+          "strongs_number": "3967",
+          "part_of_speech": "Conjunctive waw | Number - feminine singular construct",
+          "definition": "A hundred",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years old,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he became the father of",
+          "word": "וַיּ֖וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Lamech.",
+          "word": "לָֽמֶךְ׃",
+          "transliteration": "lā·meḵ",
+          "strongs_number": "3929",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Lamech -- a descendant of Cain, also a descendant of Seth",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 5:21-24",
@@ -2200,7 +3971,98 @@
           "text": "After he begot Lamech, Methuselah lived seven hundred and eighty-two years, and had sons and daughters."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And after",
+          "word": "אַֽחֲרֵי֙",
+          "transliteration": "’a·ḥă·rê",
+          "strongs_number": "310",
+          "part_of_speech": "Preposition",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he had become the father of",
+          "word": "הוֹלִיד֣וֹ",
+          "transliteration": "hō·w·lî·ḏōw",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Hifil - Infinitive construct | third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Lamech,",
+          "word": "לֶ֔מֶךְ",
+          "transliteration": "le·meḵ",
+          "strongs_number": "3929",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Lamech -- a descendant of Cain, also a descendant of Seth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Methuselah",
+          "word": "מְתוּשֶׁ֗לַח",
+          "transliteration": "mə·ṯū·še·laḥ",
+          "strongs_number": "4968",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Methuselah -- perhaps 'man of the dart', a descendant of Seth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַֽיְחִ֣י",
+          "transliteration": "way·ḥî",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "782",
+          "word": "וּשְׁבַ֥ע",
+          "transliteration": "ū·šə·ḇa‘",
+          "strongs_number": "7651",
+          "part_of_speech": "Conjunctive waw | Number - feminine singular construct",
+          "definition": "Seven, seven times, a week, an indefinite number",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and had [other]",
+          "word": "וַיּ֥וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "sons",
+          "word": "בָּנִ֖ים",
+          "transliteration": "bā·nîm",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and daughters.",
+          "word": "וּבָנֽוֹת׃",
+          "transliteration": "ū·ḇā·nō·wṯ",
+          "strongs_number": "1323",
+          "part_of_speech": "Conjunctive waw | Noun - feminine plural",
+          "definition": "A daughter",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 5:21-24",
@@ -2287,7 +4149,62 @@
           "text": "So all the days of Methuselah were nine hundred and sixty-nine years; and he died."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "So Methuselah",
+          "word": "מְתוּשֶׁ֔לַח",
+          "transliteration": "mə·ṯū·še·laḥ",
+          "strongs_number": "4968",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Methuselah -- perhaps 'man of the dart', a descendant of Seth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַיִּהְיוּ֙",
+          "transliteration": "way·yih·yū",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a total of",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "969",
+          "word": "תֵּ֤שַׁע",
+          "transliteration": "tê·ša‘",
+          "strongs_number": "8672",
+          "part_of_speech": "Number - feminine singular",
+          "definition": "Nine, ninth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and then he died.",
+          "word": "וַיָּמֹֽת׃",
+          "transliteration": "way·yā·mōṯ",
+          "strongs_number": "4191",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To die, to kill",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Hebrews 11:5",
@@ -2374,7 +4291,62 @@
           "text": "Lamech lived one hundred and eighty-two years, and had a son."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "When Lamech",
+          "word": "לֶ֕מֶךְ",
+          "transliteration": "le·meḵ",
+          "strongs_number": "3929",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Lamech -- a descendant of Cain, also a descendant of Seth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was",
+          "word": "וַֽיְחִי־",
+          "transliteration": "way·ḥî-",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "182",
+          "word": "וּמְאַ֣ת",
+          "transliteration": "ū·mə·’aṯ",
+          "strongs_number": "3967",
+          "part_of_speech": "Conjunctive waw | Number - feminine singular construct",
+          "definition": "A hundred",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years old,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he had",
+          "word": "וַיּ֖וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a son.",
+          "word": "בֵּֽן׃",
+          "transliteration": "bên",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "A son",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 6:9-10",
@@ -2461,7 +4433,125 @@
           "text": "And he called his name Noah, saying, “This one will comfort us concerning our work and the toil of our hands, because of the ground which the LORD has cursed.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And he named him",
+          "word": "וַיִּקְרָ֧א",
+          "transliteration": "way·yiq·rā",
+          "strongs_number": "7121",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To call, proclaim, read",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Noah,",
+          "word": "נֹ֖חַ",
+          "transliteration": "nō·aḥ",
+          "strongs_number": "5146",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Noah -- 'rest', patriarch who survived the flood",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "saying,",
+          "word": "לֵאמֹ֑ר",
+          "transliteration": "lê·mōr",
+          "strongs_number": "559",
+          "part_of_speech": "Preposition-l | Verb - Qal - Infinitive construct",
+          "definition": "To utter, say",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "“{May} this one",
+          "word": "זֶ֞֠ה",
+          "transliteration": "zeh",
+          "strongs_number": "2088",
+          "part_of_speech": "Pronoun - masculine singular",
+          "definition": "This, that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "comfort us",
+          "word": "יְנַחֲמֵ֤נוּ",
+          "transliteration": "yə·na·ḥă·mê·nū",
+          "strongs_number": "5162",
+          "part_of_speech": "Verb - Piel - Imperfect - third person masculine singular | first person common plural",
+          "definition": "To sigh, breathe strongly, to be sorry, to pity, console, rue, to avenge",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in the labor",
+          "word": "מִֽמַּעֲשֵׂ֙נוּ֙",
+          "transliteration": "mim·ma·‘ă·śê·nū",
+          "strongs_number": "4639",
+          "part_of_speech": "Preposition-m | Noun - masculine singular construct | first person common plural",
+          "definition": "An action, a transaction, activity, a product, property",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and toil",
+          "word": "וּמֵעִצְּב֣וֹן",
+          "transliteration": "ū·mê·‘iṣ·ṣə·ḇō·wn",
+          "strongs_number": "6093",
+          "part_of_speech": "Conjunctive waw, Preposition-m | Noun - masculine singular construct",
+          "definition": "Worrisomeness, labor, pain",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of our hands",
+          "word": "יָדֵ֔ינוּ",
+          "transliteration": "yā·ḏê·nū",
+          "strongs_number": "3027",
+          "part_of_speech": "Noun - fdc | first person common plural",
+          "definition": "A hand",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "caused by",
+          "word": "מִן־",
+          "transliteration": "min-",
+          "strongs_number": "4480",
+          "part_of_speech": "Preposition",
+          "definition": "A part of, from, out of",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the ground",
+          "word": "הָ֣אֲדָמָ֔ה",
+          "transliteration": "hā·’ă·ḏā·māh",
+          "strongs_number": "127",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "Ground, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that",
+          "word": "אֲשֶׁ֥ר",
+          "transliteration": "’ă·šer",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the LORD",
+          "word": "יְהוָֽה׃",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "has cursed.”",
+          "word": "אֵֽרְרָ֖הּ",
+          "transliteration": "’ê·rə·rāh",
+          "strongs_number": "779",
+          "part_of_speech": "Verb - Piel - Perfect - third person masculine singular | third person feminine singular",
+          "definition": "To execrate",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Romans 8:20-22",
@@ -2548,7 +4638,98 @@
           "text": "After he begot Noah, Lamech lived five hundred and ninety-five years, and had sons and daughters."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And after",
+          "word": "אַֽחֲרֵי֙",
+          "transliteration": "’a·ḥă·rê",
+          "strongs_number": "310",
+          "part_of_speech": "Preposition",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he had become the father of",
+          "word": "הוֹלִיד֣וֹ",
+          "transliteration": "hō·w·lî·ḏōw",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Hifil - Infinitive construct | third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Noah,",
+          "word": "נֹ֔חַ",
+          "transliteration": "nō·aḥ",
+          "strongs_number": "5146",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Noah -- 'rest', patriarch who survived the flood",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Lamech",
+          "word": "לֶ֗מֶךְ",
+          "transliteration": "le·meḵ",
+          "strongs_number": "3929",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Lamech -- a descendant of Cain, also a descendant of Seth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַֽיְחִי־",
+          "transliteration": "way·ḥî-",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "595",
+          "word": "חָמֵ֤שׁ",
+          "transliteration": "ḥā·mêš",
+          "strongs_number": "2568",
+          "part_of_speech": "Number - feminine singular",
+          "definition": "Five",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and had [other]",
+          "word": "וַיּ֥וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "sons",
+          "word": "בָּנִ֖ים",
+          "transliteration": "bā·nîm",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and daughters.",
+          "word": "וּבָנֽוֹת׃",
+          "transliteration": "ū·ḇā·nō·wṯ",
+          "strongs_number": "1323",
+          "part_of_speech": "Conjunctive waw | Noun - feminine plural",
+          "definition": "A daughter",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 6:9",
@@ -2635,7 +4816,62 @@
           "text": "So all the days of Lamech were seven hundred and seventy-seven years; and he died."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "So Lamech",
+          "word": "לֶ֔מֶךְ",
+          "transliteration": "le·meḵ",
+          "strongs_number": "3929",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Lamech -- a descendant of Cain, also a descendant of Seth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַֽיְהִי֙",
+          "transliteration": "way·hî",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a total of",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "777",
+          "word": "שֶׁ֤בַע",
+          "transliteration": "še·ḇa‘",
+          "strongs_number": "7651",
+          "part_of_speech": "Number - feminine singular",
+          "definition": "Seven, seven times, a week, an indefinite number",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and then he died.",
+          "word": "וַיָּמֹֽת׃",
+          "transliteration": "way·yā·mōṯ",
+          "strongs_number": "4191",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To die, to kill",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 6:9-10",
@@ -2722,7 +4958,107 @@
           "text": "And Noah was five hundred years old, and Noah begot Shem, Ham, and Japheth."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "After",
+          "word": "אֶת־",
+          "transliteration": "’eṯ-",
+          "strongs_number": "853",
+          "part_of_speech": "Direct object marker",
+          "definition": "Untranslatable mark of the accusative case",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Noah",
+          "word": "נֹ֕חַ",
+          "transliteration": "nō·aḥ",
+          "strongs_number": "5146",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Noah -- 'rest', patriarch who survived the flood",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was",
+          "word": "וַֽיְהִי־",
+          "transliteration": "way·hî-",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "500",
+          "word": "חֲמֵ֥שׁ",
+          "transliteration": "ḥă·mêš",
+          "strongs_number": "2568",
+          "part_of_speech": "Number - feminine singular construct",
+          "definition": "Five",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "old,",
+          "word": "בֶּן־",
+          "transliteration": "ben-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[he]",
+          "word": "נֹ֔חַ",
+          "transliteration": "nō·aḥ",
+          "strongs_number": "5146",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Noah -- 'rest', patriarch who survived the flood",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "became the father of",
+          "word": "וַיּ֣וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Shem,",
+          "word": "שֵׁ֖ם",
+          "transliteration": "šêm",
+          "strongs_number": "8035",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Shem -- 'name', oldest son of Noah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Ham,",
+          "word": "חָ֥ם",
+          "transliteration": "ḥām",
+          "strongs_number": "2526",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Ham -- a son of Noah, also his descendants, also a name for Egyptians",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Japheth.",
+          "word": "יָֽפֶת׃",
+          "transliteration": "yā·p̄eṯ",
+          "strongs_number": "3315",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Japheth -- a son of Noah",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 6:10",

@@ -25,7 +25,53 @@
           "text": "Thus the heavens and the earth, and all the host of them, were finished."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Thus the heavens",
+          "word": "הַשָּׁמַ֥יִם",
+          "transliteration": "haš·šā·ma·yim",
+          "strongs_number": "8064",
+          "part_of_speech": "Article | Noun - masculine plural",
+          "definition": "Heaven, sky",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and the earth",
+          "word": "וְהָאָ֖רֶץ",
+          "transliteration": "wə·hā·’ā·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Conjunctive waw, Article | Noun - feminine singular",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "were completed",
+          "word": "וַיְכֻלּ֛וּ",
+          "transliteration": "way·ḵul·lū",
+          "strongs_number": "3615",
+          "part_of_speech": "Conjunctive waw | Verb - Pual - Consecutive imperfect - third person masculine plural",
+          "definition": "To be complete, at an end, finished, accomplished, or spent",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in all",
+          "word": "וְכָל־",
+          "transliteration": "wə·ḵāl",
+          "strongs_number": "3605",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "their vast array.",
+          "word": "צְבָאָֽם׃",
+          "transliteration": "ṣə·ḇā·’ām",
+          "strongs_number": "6635",
+          "part_of_speech": "Noun - common singular construct | third person masculine plural",
+          "definition": "A mass of persons, reg, organized for, war, a campaign",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Exodus 20:11",
@@ -112,7 +158,107 @@
           "text": "And on the seventh day God ended His work which He had done, and He rested on the seventh day from all His work which He had done."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And by the seventh",
+          "word": "הַשְּׁבִיעִ֔י",
+          "transliteration": "haš·šə·ḇî·‘î",
+          "strongs_number": "7637",
+          "part_of_speech": "Article | Number - ordinal masculine singular",
+          "definition": "Seventh (an ordinal number)",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "day",
+          "word": "בַּיּ֣וֹם",
+          "transliteration": "bay·yō·wm",
+          "strongs_number": "3117",
+          "part_of_speech": "Preposition-b, Article | Noun - masculine singular",
+          "definition": "A day",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God",
+          "word": "אֱלֹהִים֙",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "had finished",
+          "word": "וַיְכַ֤ל",
+          "transliteration": "way·ḵal",
+          "strongs_number": "3615",
+          "part_of_speech": "Conjunctive waw | Verb - Piel - Consecutive imperfect - third person masculine singular",
+          "definition": "To be complete, at an end, finished, accomplished, or spent",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the work",
+          "word": "מְלַאכְתּ֖וֹ",
+          "transliteration": "mə·laḵ·tōw",
+          "strongs_number": "4399",
+          "part_of_speech": "Noun - feminine singular construct | third person masculine singular",
+          "definition": "Deputyship, ministry, employment, work, property",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "He had been doing;",
+          "word": "עָשָׂ֑ה",
+          "transliteration": "‘ā·śāh",
+          "strongs_number": "6213",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To do, make",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "so on [that]",
+          "word": "הַשְּׁבִיעִ֔י",
+          "transliteration": "haš·šə·ḇî·‘î",
+          "strongs_number": "7637",
+          "part_of_speech": "Article | Number - ordinal masculine singular",
+          "definition": "Seventh (an ordinal number)",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "day",
+          "word": "בַּיּ֣וֹם",
+          "transliteration": "bay·yō·wm",
+          "strongs_number": "3117",
+          "part_of_speech": "Preposition-b, Article | Noun - masculine singular",
+          "definition": "A day",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "He rested",
+          "word": "וַיִּשְׁבֹּת֙",
+          "transliteration": "way·yiš·bōṯ",
+          "strongs_number": "7673",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To repose, desist from exertion",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "from all",
+          "word": "מִכָּל־",
+          "transliteration": "mik·kāl",
+          "strongs_number": "3605",
+          "part_of_speech": "Preposition-m | Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "His work.",
+          "word": "מְלַאכְתּ֖וֹ",
+          "transliteration": "mə·laḵ·tōw",
+          "strongs_number": "4399",
+          "part_of_speech": "Noun - feminine singular construct | third person masculine singular",
+          "definition": "Deputyship, ministry, employment, work, property",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Exodus 20:11",
@@ -199,7 +345,143 @@
           "text": "Then God blessed the seventh day and sanctified it, because in it He rested from all His work which God had created and made."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Then God",
+          "word": "אֱלֹהִים֙",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "blessed",
+          "word": "וַיְבָ֤רֶךְ",
+          "transliteration": "way·ḇā·reḵ",
+          "strongs_number": "1288",
+          "part_of_speech": "Conjunctive waw | Verb - Piel - Consecutive imperfect - third person masculine singular",
+          "definition": "To kneel, to bless God, man, to curse",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the seventh",
+          "word": "הַשְּׁבִיעִ֔י",
+          "transliteration": "haš·šə·ḇî·‘î",
+          "strongs_number": "7637",
+          "part_of_speech": "Article | Number - ordinal masculine singular",
+          "definition": "Seventh (an ordinal number)",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "day",
+          "word": "י֣וֹם",
+          "transliteration": "yō·wm",
+          "strongs_number": "3117",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A day",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and sanctified",
+          "word": "וַיְקַדֵּ֖שׁ",
+          "transliteration": "way·qad·dêš",
+          "strongs_number": "6942",
+          "part_of_speech": "Conjunctive waw | Verb - Piel - Consecutive imperfect - third person masculine singular",
+          "definition": "To be set apart or consecrated",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "it,",
+          "word": "אֹת֑וֹ",
+          "transliteration": "’ō·ṯōw",
+          "strongs_number": "853",
+          "part_of_speech": "Direct object marker | third person masculine singular",
+          "definition": "Untranslatable mark of the accusative case",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "because",
+          "word": "כִּ֣י",
+          "transliteration": "kî",
+          "strongs_number": "3588",
+          "part_of_speech": "Conjunction",
+          "definition": "A relative conjunction",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "on [that day]",
+          "word": "ב֤וֹ",
+          "transliteration": "ḇōw",
+          "strongs_number": "",
+          "part_of_speech": "Preposition | third person masculine singular",
+          "definition": "",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "He rested",
+          "word": "שָׁבַת֙",
+          "transliteration": "šā·ḇaṯ",
+          "strongs_number": "7673",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To repose, desist from exertion",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "from all",
+          "word": "מִכָּל־",
+          "transliteration": "mik·kāl",
+          "strongs_number": "3605",
+          "part_of_speech": "Preposition-m | Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the work",
+          "word": "מְלַאכְתּ֔וֹ",
+          "transliteration": "mə·laḵ·tōw",
+          "strongs_number": "4399",
+          "part_of_speech": "Noun - feminine singular construct | third person masculine singular",
+          "definition": "Deputyship, ministry, employment, work, property",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of creation",
+          "word": "בָּרָ֥א",
+          "transliteration": "bā·rā",
+          "strongs_number": "1254",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To create, to cut down, select, feed",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that",
+          "word": "אֲשֶׁר־",
+          "transliteration": "’ă·šer-",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[He]",
+          "word": "אֱלֹהִ֖ים",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "had accomplished.",
+          "word": "לַעֲשֽׂוֹת׃",
+          "transliteration": "la·‘ă·śō·wṯ",
+          "strongs_number": "6213",
+          "part_of_speech": "Preposition-l | Verb - Qal - Infinitive construct",
+          "definition": "To do, make",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Exodus 20:8-11",
@@ -286,7 +568,98 @@
           "text": "This is the history of the heavens and the earth when they were created, in the day that the LORD God made the earth and the heavens,"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "This",
+          "word": "אֵ֣לֶּה",
+          "transliteration": "’êl·leh",
+          "strongs_number": "428",
+          "part_of_speech": "Pronoun - common plural",
+          "definition": "These, those",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[is] the account",
+          "word": "תוֹלְד֧וֹת",
+          "transliteration": "ṯō·wl·ḏō·wṯ",
+          "strongs_number": "8435",
+          "part_of_speech": "Noun - feminine plural construct",
+          "definition": "Descent, family, history",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the heavens",
+          "word": "הַשָּׁמַ֛יִם",
+          "transliteration": "haš·šā·ma·yim",
+          "strongs_number": "8064",
+          "part_of_speech": "Article | Noun - masculine plural",
+          "definition": "Heaven, sky",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and the earth",
+          "word": "וְהָאָ֖רֶץ",
+          "transliteration": "wə·hā·’ā·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Conjunctive waw, Article | Noun - feminine singular",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "when they were created,",
+          "word": "בְּהִבָּֽרְאָ֑ם",
+          "transliteration": "bə·hib·bā·rə·’ām",
+          "strongs_number": "1254",
+          "part_of_speech": "Preposition-b | Verb - Nifal - Infinitive construct | third person masculine plural",
+          "definition": "To create, to cut down, select, feed",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in the day",
+          "word": "בְּי֗וֹם",
+          "transliteration": "bə·yō·wm",
+          "strongs_number": "3117",
+          "part_of_speech": "Preposition-b | Noun - masculine singular construct",
+          "definition": "A day",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that the LORD",
+          "word": "יְהוָ֥ה",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God",
+          "word": "אֱלֹהִ֖ים",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "made",
+          "word": "עֲשׂ֛וֹת",
+          "transliteration": "‘ă·śō·wṯ",
+          "strongs_number": "6213",
+          "part_of_speech": "Verb - Qal - Infinitive construct",
+          "definition": "To do, make",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[them].",
+          "word": "אֶ֥רֶץ",
+          "transliteration": "’e·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "John 1:1-3",
@@ -373,7 +746,197 @@
           "text": "before any plant of the field was in the earth and before any herb of the field had grown. For the LORD God had not caused it to rain on the earth, and there was no man to till the ground;"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Now",
+          "word": "וְכֹ֣ל ׀",
+          "transliteration": "wə·ḵōl",
+          "strongs_number": "3605",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[no] shrub",
+          "word": "שִׂ֣יחַ",
+          "transliteration": "śî·aḥ",
+          "strongs_number": "7880",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A bush, shrub, plant",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the field",
+          "word": "הַשָּׂדֶ֗ה",
+          "transliteration": "haś·śā·ḏeh",
+          "strongs_number": "7704",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Field, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "had yet",
+          "word": "טֶ֚רֶם",
+          "transliteration": "ṭe·rem",
+          "strongs_number": "2962",
+          "part_of_speech": "Adverb",
+          "definition": "Non-occurrence, not yet, before",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "appeared",
+          "word": "יִֽהְיֶ֣ה",
+          "transliteration": "yih·yeh",
+          "strongs_number": "1961",
+          "part_of_speech": "Verb - Qal - Imperfect - third person masculine singular",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "on the earth,",
+          "word": "בָאָ֔רֶץ",
+          "transliteration": "ḇā·’ā·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Preposition-b, Article | Noun - feminine singular",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "nor had any",
+          "word": "וְכָל־",
+          "transliteration": "wə·ḵāl",
+          "strongs_number": "3605",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "plant",
+          "word": "עֵ֥שֶׂב",
+          "transliteration": "‘ê·śeḇ",
+          "strongs_number": "6212",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "Herb, herbage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the field",
+          "word": "הַשָּׂדֶ֖ה",
+          "transliteration": "haś·śā·ḏeh",
+          "strongs_number": "7704",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Field, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "sprouted;",
+          "word": "יִצְמָ֑ח",
+          "transliteration": "yiṣ·māḥ",
+          "strongs_number": "6779",
+          "part_of_speech": "Verb - Qal - Imperfect - third person masculine singular",
+          "definition": "To sprout, spring up",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "for",
+          "word": "כִּי֩",
+          "transliteration": "kî",
+          "strongs_number": "3588",
+          "part_of_speech": "Conjunction",
+          "definition": "A relative conjunction",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the LORD",
+          "word": "יְהוָ֤ה",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God",
+          "word": "אֱלֹהִים֙",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "had not [yet]",
+          "word": "לֹ֨א",
+          "transliteration": "lō",
+          "strongs_number": "3808",
+          "part_of_speech": "Adverb - Negative particle",
+          "definition": "Not, no",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "sent rain",
+          "word": "הִמְטִ֜יר",
+          "transliteration": "him·ṭîr",
+          "strongs_number": "4305",
+          "part_of_speech": "Verb - Hifil - Perfect - third person masculine singular",
+          "definition": "To rain",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "upon",
+          "word": "עַל־",
+          "transliteration": "‘al-",
+          "strongs_number": "5921",
+          "part_of_speech": "Preposition",
+          "definition": "Above, over, upon, against",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the earth,",
+          "word": "הָאָ֔רֶץ",
+          "transliteration": "hā·’ā·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and [there was] no",
+          "word": "אַ֔יִן",
+          "transliteration": "’a·yin",
+          "strongs_number": "369",
+          "part_of_speech": "Adverb",
+          "definition": "A non-entity, a negative particle",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "man",
+          "word": "וְאָדָ֣ם",
+          "transliteration": "wə·’ā·ḏām",
+          "strongs_number": "120",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular",
+          "definition": "Ruddy, a human being",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to cultivate",
+          "word": "לַֽעֲבֹ֖ד",
+          "transliteration": "la·‘ă·ḇōḏ",
+          "strongs_number": "5647",
+          "part_of_speech": "Preposition-l | Verb - Qal - Infinitive construct",
+          "definition": "To work, to serve, till, enslave",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the ground.",
+          "word": "הָֽאֲדָמָֽה׃",
+          "transliteration": "hā·’ă·ḏā·māh",
+          "strongs_number": "127",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "Ground, land",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Isaiah 55:10-11",
@@ -460,7 +1023,80 @@
           "text": "but a mist went up from the earth and watered the whole face of the ground."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "But springs",
+          "word": "וְאֵ֖ד",
+          "transliteration": "wə·’êḏ",
+          "strongs_number": "108",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular",
+          "definition": "A mist",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "welled up",
+          "word": "יַֽעֲלֶ֣ה",
+          "transliteration": "ya·‘ă·leh",
+          "strongs_number": "5927",
+          "part_of_speech": "Verb - Qal - Imperfect - third person masculine singular",
+          "definition": "To ascend, in, actively",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "from",
+          "word": "מִן־",
+          "transliteration": "min-",
+          "strongs_number": "4480",
+          "part_of_speech": "Preposition",
+          "definition": "A part of, from, out of",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the earth",
+          "word": "הָאָ֑רֶץ",
+          "transliteration": "hā·’ā·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and watered",
+          "word": "וְהִשְׁקָ֖ה",
+          "transliteration": "wə·hiš·qāh",
+          "strongs_number": "8248",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Conjunctive perfect - third person masculine singular",
+          "definition": "To quaff, to irrigate, furnish a, potion to",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the whole",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "surface",
+          "word": "פְּנֵֽי־",
+          "transliteration": "pə·nê-",
+          "strongs_number": "6440",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "The face",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the ground.",
+          "word": "הָֽאֲדָמָֽה׃",
+          "transliteration": "hā·’ă·ḏā·māh",
+          "strongs_number": "127",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "Ground, land",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Job 36:27-28",
@@ -547,7 +1183,143 @@
           "text": "And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living being."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Then the LORD",
+          "word": "יְהוָ֨ה",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God",
+          "word": "אֱלֹהִ֜ים",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "formed",
+          "word": "וַיִּיצֶר֩",
+          "transliteration": "way·yî·ṣer",
+          "strongs_number": "3335",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To mould into a, form, as a, potter, to determine",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "man",
+          "word": "הָֽאָדָ֗ם",
+          "transliteration": "hā·’ā·ḏām",
+          "strongs_number": "120",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Ruddy, a human being",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[from] the dust",
+          "word": "עָפָר֙",
+          "transliteration": "‘ā·p̄ār",
+          "strongs_number": "6083",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Dust, clay, earth, mud",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of",
+          "word": "מִן־",
+          "transliteration": "min-",
+          "strongs_number": "4480",
+          "part_of_speech": "Preposition",
+          "definition": "A part of, from, out of",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the ground",
+          "word": "הָ֣אֲדָמָ֔ה",
+          "transliteration": "hā·’ă·ḏā·māh",
+          "strongs_number": "127",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "Ground, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and breathed",
+          "word": "וַיִּפַּ֥ח",
+          "transliteration": "way·yip·paḥ",
+          "strongs_number": "5301",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To breathe, blow",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the breath",
+          "word": "נִשְׁמַ֣ת",
+          "transliteration": "niš·maṯ",
+          "strongs_number": "5397",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "A puff, wind, angry, vital breath, divine inspiration, intellect, an animal",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of life",
+          "word": "חַיִּ֑ים",
+          "transliteration": "ḥay·yîm",
+          "strongs_number": "2416",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "Alive, raw, fresh, strong, life",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "into his nostrils,",
+          "word": "בְּאַפָּ֖יו",
+          "transliteration": "bə·’ap·pāw",
+          "strongs_number": "639",
+          "part_of_speech": "Preposition-b | Noun - mdc | third person masculine singular",
+          "definition": "The nose, nostril, the face, a person, ire",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and the man",
+          "word": "הָֽאָדָ֖ם",
+          "transliteration": "hā·’ā·ḏām",
+          "strongs_number": "120",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Ruddy, a human being",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "became",
+          "word": "וַֽיְהִ֥י",
+          "transliteration": "way·hî",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a living",
+          "word": "חַיָּֽה׃",
+          "transliteration": "ḥay·yāh",
+          "strongs_number": "2416",
+          "part_of_speech": "Adjective - feminine singular",
+          "definition": "Alive, raw, fresh, strong, life",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "being.",
+          "word": "לְנֶ֥פֶשׁ",
+          "transliteration": "lə·ne·p̄eš",
+          "strongs_number": "5315",
+          "part_of_speech": "Preposition-l | Noun - feminine singular",
+          "definition": "A soul, living being, life, self, person, desire, passion, appetite, emotion",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Job 33:4",
@@ -634,7 +1406,98 @@
           "text": "The LORD God planted a garden eastward in Eden, and there He put the man whom He had formed."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And the LORD",
+          "word": "יְהוָ֧ה",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God",
+          "word": "אֱלֹהִ֛ים",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "planted",
+          "word": "וַיִּטַּ֞ע",
+          "transliteration": "way·yiṭ·ṭa‘",
+          "strongs_number": "5193",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To strike in, fix, to plant",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a garden",
+          "word": "גַּן־",
+          "transliteration": "gan-",
+          "strongs_number": "1588",
+          "part_of_speech": "Noun - common singular",
+          "definition": "An enclosure, garden",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in Eden,",
+          "word": "בְעֵ֖דֶן",
+          "transliteration": "bə·‘ê·ḏen",
+          "strongs_number": "5731",
+          "part_of_speech": "Preposition-b | Noun - proper - feminine singular",
+          "definition": "Eden -- the garden home of Adam and Eve",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in the east,",
+          "word": "מִקֶּ֑דֶם",
+          "transliteration": "miq·qe·ḏem",
+          "strongs_number": "6924",
+          "part_of_speech": "Preposition-m | Noun - masculine singular",
+          "definition": "The front, of place, time",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "where",
+          "word": "שָׁ֔ם",
+          "transliteration": "šām",
+          "strongs_number": "8033",
+          "part_of_speech": "Adverb",
+          "definition": "There, then, thither",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "He placed",
+          "word": "וַיָּ֣שֶׂם",
+          "transliteration": "way·yā·śem",
+          "strongs_number": "7760",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "Put -- to put, place, set",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the man",
+          "word": "הָֽאָדָ֖ם",
+          "transliteration": "hā·’ā·ḏām",
+          "strongs_number": "120",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Ruddy, a human being",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "He had formed.",
+          "word": "יָצָֽר׃",
+          "transliteration": "yā·ṣār",
+          "strongs_number": "3335",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To mould into a, form, as a, potter, to determine",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Revelation 2:7",
@@ -721,7 +1584,179 @@
           "text": "And out of the ground the LORD God made every tree grow that is pleasant to the sight and good for food. The tree of life was also in the midst of the garden, and the tree of the knowledge of good and evil."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Out",
+          "word": "מִן־",
+          "transliteration": "min-",
+          "strongs_number": "4480",
+          "part_of_speech": "Preposition",
+          "definition": "A part of, from, out of",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the ground",
+          "word": "הָ֣אֲדָמָ֔ה",
+          "transliteration": "hā·’ă·ḏā·māh",
+          "strongs_number": "127",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "Ground, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the LORD",
+          "word": "יְהוָ֤ה",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God",
+          "word": "אֱלֹהִים֙",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "gave growth",
+          "word": "וַיַּצְמַ֞ח",
+          "transliteration": "way·yaṣ·maḥ",
+          "strongs_number": "6779",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To sprout, spring up",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to every",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "tree",
+          "word": "עֵ֛ץ",
+          "transliteration": "‘êṣ",
+          "strongs_number": "6086",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Tree, trees, wood",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that is pleasing",
+          "word": "נֶחְמָ֥ד",
+          "transliteration": "neḥ·māḏ",
+          "strongs_number": "2530",
+          "part_of_speech": "Verb - Nifal - Participle - masculine singular",
+          "definition": "To desire, take pleasure in",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to the eye",
+          "word": "לְמַרְאֶ֖ה",
+          "transliteration": "lə·mar·’eh",
+          "strongs_number": "4758",
+          "part_of_speech": "Preposition-l | Noun - masculine singular",
+          "definition": "Sight, appearance, vision",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and good",
+          "word": "וְט֣וֹב",
+          "transliteration": "wə·ṭō·wḇ",
+          "strongs_number": "2896",
+          "part_of_speech": "Conjunctive waw | Adjective - masculine singular",
+          "definition": "Pleasant, agreeable, good",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "for food.",
+          "word": "לְמַאֲכָ֑ל",
+          "transliteration": "lə·ma·’ă·ḵāl",
+          "strongs_number": "3978",
+          "part_of_speech": "Preposition-l | Noun - masculine singular",
+          "definition": "An eatable",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "And in the middle",
+          "word": "בְּת֣וֹךְ",
+          "transliteration": "bə·ṯō·wḵ",
+          "strongs_number": "8432",
+          "part_of_speech": "Preposition-b | Noun - masculine singular construct",
+          "definition": "A bisection, the centre",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the garden",
+          "word": "הַגָּ֔ן",
+          "transliteration": "hag·gān",
+          "strongs_number": "1588",
+          "part_of_speech": "Article | Noun - common singular",
+          "definition": "An enclosure, garden",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[were] the tree",
+          "word": "וְעֵ֤ץ",
+          "transliteration": "wə·‘êṣ",
+          "strongs_number": "6086",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular construct",
+          "definition": "Tree, trees, wood",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of life",
+          "word": "הַֽחַיִּים֙",
+          "transliteration": "ha·ḥay·yîm",
+          "strongs_number": "2416",
+          "part_of_speech": "Article | Noun - masculine plural",
+          "definition": "Alive, raw, fresh, strong, life",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and the tree",
+          "word": "וְעֵ֕ץ",
+          "transliteration": "wə·‘êṣ",
+          "strongs_number": "6086",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular construct",
+          "definition": "Tree, trees, wood",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the knowledge",
+          "word": "הַדַּ֖עַת",
+          "transliteration": "had·da·‘aṯ",
+          "strongs_number": "1847",
+          "part_of_speech": "Article | Noun - feminine singular construct",
+          "definition": "Knowledge",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of good",
+          "word": "ט֥וֹב",
+          "transliteration": "ṭō·wḇ",
+          "strongs_number": "2896",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Pleasant, agreeable, good",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and evil.",
+          "word": "וָרָֽע׃",
+          "transliteration": "wā·rā‘",
+          "strongs_number": "7451",
+          "part_of_speech": "Conjunctive waw | Adjective - masculine singular",
+          "definition": "Bad, evil",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Revelation 22:2",
@@ -808,7 +1843,89 @@
           "text": "Now a river went out of Eden to water the garden, and from there it parted and became four riverheads."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Now a river",
+          "word": "וְנָהָרּ֙",
+          "transliteration": "wə·nā·hār",
+          "strongs_number": "5104",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular",
+          "definition": "A stream, prosperity",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "flowed out",
+          "word": "יֹצֵ֣א",
+          "transliteration": "yō·ṣê",
+          "strongs_number": "3318",
+          "part_of_speech": "Verb - Qal - Participle - masculine singular",
+          "definition": "To go, bring, out, direct and proxim",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Eden",
+          "word": "מֵעֵ֔דֶן",
+          "transliteration": "mê·‘ê·ḏen",
+          "strongs_number": "5731",
+          "part_of_speech": "Preposition-m | Noun - proper - feminine singular",
+          "definition": "Eden -- the garden home of Adam and Eve",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to water",
+          "word": "לְהַשְׁק֖וֹת",
+          "transliteration": "lə·haš·qō·wṯ",
+          "strongs_number": "8248",
+          "part_of_speech": "Preposition-l | Verb - Hifil - Infinitive construct",
+          "definition": "To quaff, to irrigate, furnish a, potion to",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the garden,",
+          "word": "הַגָּ֑ן",
+          "transliteration": "hag·gān",
+          "strongs_number": "1588",
+          "part_of_speech": "Article | Noun - common singular",
+          "definition": "An enclosure, garden",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and from there",
+          "word": "וּמִשָּׁם֙",
+          "transliteration": "ū·miš·šām",
+          "strongs_number": "8033",
+          "part_of_speech": "Conjunctive waw, Preposition-m | Adverb",
+          "definition": "There, then, thither",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "it branched into",
+          "word": "יִפָּרֵ֔ד",
+          "transliteration": "yip·pā·rêḏ",
+          "strongs_number": "6504",
+          "part_of_speech": "Verb - Nifal - Imperfect - third person masculine singular",
+          "definition": "To break through, spread, separate",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "four",
+          "word": "לְאַרְבָּעָ֥ה",
+          "transliteration": "lə·’ar·bā·‘āh",
+          "strongs_number": "702",
+          "part_of_speech": "Preposition-l | Number - masculine singular",
+          "definition": "Four",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "headwaters:",
+          "word": "רָאשִֽׁים׃",
+          "transliteration": "rā·šîm",
+          "strongs_number": "7218",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "The head",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Revelation 22:1-2",
@@ -895,7 +2012,107 @@
           "text": "The name of the first is Pishon; it is the one which skirts the whole land of Havilah, where there is gold."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "The name",
+          "word": "שֵׁ֥ם",
+          "transliteration": "šêm",
+          "strongs_number": "8034",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A name",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the first [river]",
+          "word": "הָֽאֶחָ֖ד",
+          "transliteration": "hā·’e·ḥāḏ",
+          "strongs_number": "259",
+          "part_of_speech": "Article | Number - masculine singular",
+          "definition": "United, one, first",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[is] Pishon;",
+          "word": "פִּישׁ֑וֹן",
+          "transliteration": "pî·šō·wn",
+          "strongs_number": "6376",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Pishon -- one of the rivers of Eden",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "it",
+          "word": "ה֣וּא",
+          "transliteration": "hū",
+          "strongs_number": "1931",
+          "part_of_speech": "Pronoun - third person masculine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "winds through",
+          "word": "הַסֹּבֵ֗ב",
+          "transliteration": "has·sō·ḇêḇ",
+          "strongs_number": "5437",
+          "part_of_speech": "Article | Verb - Qal - Participle - masculine singular",
+          "definition": "To turn about, go around, surround",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the whole",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "land",
+          "word": "אֶ֣רֶץ",
+          "transliteration": "’e·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Havilah,",
+          "word": "הַֽחֲוִילָ֔ה",
+          "transliteration": "ha·ḥă·wî·lāh",
+          "strongs_number": "2341",
+          "part_of_speech": "Article | Noun - proper - feminine singular",
+          "definition": "Havilah -- a son of Cush, also a son of Joktan, also territories of uncertain location",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "where",
+          "word": "אֲשֶׁר־",
+          "transliteration": "’ă·šer-",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "there [is]",
+          "word": "שָׁ֖ם",
+          "transliteration": "šām",
+          "strongs_number": "8033",
+          "part_of_speech": "Adverb",
+          "definition": "There, then, thither",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "gold.",
+          "word": "הַזָּהָֽב׃",
+          "transliteration": "haz·zā·hāḇ",
+          "strongs_number": "2091",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Gold, something gold-colored, as oil, a clear sky",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Revelation 21:18-21",
@@ -982,7 +2199,71 @@
           "text": "And the gold of that land is good. Bdellium and the onyx stone are there."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And the gold",
+          "word": "וּֽזֲהַ֛ב",
+          "transliteration": "ū·ză·haḇ",
+          "strongs_number": "2091",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular construct",
+          "definition": "Gold, something gold-colored, as oil, a clear sky",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of that",
+          "word": "הַהִ֖וא",
+          "transliteration": "ha·hi·w",
+          "strongs_number": "1931",
+          "part_of_speech": "Article | Pronoun - third person feminine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "land",
+          "word": "הָאָ֥רֶץ",
+          "transliteration": "hā·’ā·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[is] pure,",
+          "word": "ט֑וֹב",
+          "transliteration": "ṭō·wḇ",
+          "strongs_number": "2896",
+          "part_of_speech": "Adjective - masculine singular",
+          "definition": "Pleasant, agreeable, good",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[and] bdellium",
+          "word": "הַבְּדֹ֖לַח",
+          "transliteration": "hab·bə·ḏō·laḥ",
+          "strongs_number": "916",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Something in pieces, bdellium, a, gum, a, pearl",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and onyx",
+          "word": "הַשֹּֽׁהַם׃",
+          "transliteration": "haš·šō·ham",
+          "strongs_number": "7718",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "(a gem) perhaps an onyx",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[are found] there.",
+          "word": "שָׁ֥ם",
+          "transliteration": "šām",
+          "strongs_number": "8033",
+          "part_of_speech": "Adverb",
+          "definition": "There, then, thither",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Revelation 21:18-21",
@@ -1069,7 +2350,89 @@
           "text": "The name of the second river is Gihon; it is the one which goes around the whole land of Cush."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "The name",
+          "word": "וְשֵֽׁם־",
+          "transliteration": "wə·šêm-",
+          "strongs_number": "8034",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular construct",
+          "definition": "A name",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the second",
+          "word": "הַשֵּׁנִ֖י",
+          "transliteration": "haš·šê·nî",
+          "strongs_number": "8145",
+          "part_of_speech": "Article | Number - ordinal masculine singular",
+          "definition": "Second (an ordinal number)",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "river",
+          "word": "הַנָּהָ֥ר",
+          "transliteration": "han·nā·hār",
+          "strongs_number": "5104",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "A stream, prosperity",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[is] Gihon;",
+          "word": "גִּיח֑וֹן",
+          "transliteration": "gî·ḥō·wn",
+          "strongs_number": "1521",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Gihon -- 'a bursting forth', one of the rivers of Eden, also a spring near Jerusalem",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "it",
+          "word": "ה֣וּא",
+          "transliteration": "hū",
+          "strongs_number": "1931",
+          "part_of_speech": "Pronoun - third person masculine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "winds through",
+          "word": "הַסּוֹבֵ֔ב",
+          "transliteration": "has·sō·w·ḇêḇ",
+          "strongs_number": "5437",
+          "part_of_speech": "Article | Verb - Qal - Participle - masculine singular",
+          "definition": "To turn about, go around, surround",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the whole",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "land",
+          "word": "אֶ֥רֶץ",
+          "transliteration": "’e·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Cush.",
+          "word": "כּֽוּשׁ׃",
+          "transliteration": "kūš",
+          "strongs_number": "3568",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "A son of Ham, also his descendants, also a land in the southern Nile Valley",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Revelation 9:14",
@@ -1156,7 +2519,116 @@
           "text": "The name of the third river is Hiddekel; it is the one which goes toward the east of Assyria. The fourth river is the Euphrates."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "The name",
+          "word": "וְשֵׁ֨ם",
+          "transliteration": "wə·šêm",
+          "strongs_number": "8034",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular construct",
+          "definition": "A name",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the third",
+          "word": "הַשְּׁלִישִׁי֙",
+          "transliteration": "haš·šə·lî·šî",
+          "strongs_number": "7992",
+          "part_of_speech": "Article | Number - ordinal masculine singular",
+          "definition": "Third, feminine a, third, a third, a third-story cell)",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "river",
+          "word": "הַנָּהָ֤ר",
+          "transliteration": "han·nā·hār",
+          "strongs_number": "5104",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "A stream, prosperity",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[is] Hiddekel;",
+          "word": "חִדֶּ֔קֶל",
+          "transliteration": "ḥid·de·qel",
+          "strongs_number": "2313",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Hiddekel -- ancient name of a Mesopotamian river",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "it",
+          "word": "ה֥וּא",
+          "transliteration": "hū",
+          "strongs_number": "1931",
+          "part_of_speech": "Pronoun - third person masculine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "runs along",
+          "word": "הַֽהֹלֵ֖ךְ",
+          "transliteration": "ha·hō·lêḵ",
+          "strongs_number": "1980",
+          "part_of_speech": "Article | Verb - Qal - Participle - masculine singular",
+          "definition": "To go, come, walk",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the east side",
+          "word": "קִדְמַ֣ת",
+          "transliteration": "qiḏ·maṯ",
+          "strongs_number": "6926",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "The forward part, East",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Assyria.",
+          "word": "אַשּׁ֑וּר",
+          "transliteration": "’aš·šūr",
+          "strongs_number": "804",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Ashshur",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "And the fourth",
+          "word": "הָֽרְבִיעִ֖י",
+          "transliteration": "hā·rə·ḇî·‘î",
+          "strongs_number": "7243",
+          "part_of_speech": "Article | Number - ordinal masculine singular",
+          "definition": "Fourth, a fourth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "river",
+          "word": "וְהַנָּהָ֥ר",
+          "transliteration": "wə·han·nā·hār",
+          "strongs_number": "5104",
+          "part_of_speech": "Conjunctive waw, Article | Noun - masculine singular",
+          "definition": "A stream, prosperity",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[is the]",
+          "word": "ה֥וּא",
+          "transliteration": "hū",
+          "strongs_number": "1931",
+          "part_of_speech": "Pronoun - third person masculine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Euphrates.",
+          "word": "פְרָֽת׃",
+          "transliteration": "p̄ə·rāṯ",
+          "strongs_number": "6578",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Euphrates -- a river of west Asia",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Revelation 22:1-2",
@@ -1243,7 +2715,89 @@
           "text": "Then the LORD God took the man and put him in the garden of Eden to tend and keep it."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Then the LORD",
+          "word": "יְהוָ֥ה",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God",
+          "word": "אֱלֹהִ֖ים",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "took",
+          "word": "וַיִּקַּ֛ח",
+          "transliteration": "way·yiq·qaḥ",
+          "strongs_number": "3947",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To take",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the man",
+          "word": "הָֽאָדָ֑ם",
+          "transliteration": "hā·’ā·ḏām",
+          "strongs_number": "120",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Ruddy, a human being",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and placed him",
+          "word": "וַיַּנִּחֵ֣הוּ",
+          "transliteration": "way·yan·ni·ḥê·hū",
+          "strongs_number": "3240",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular | third person masculine singular",
+          "definition": "Bestow, cast down, lay down, up, leave off, let alone remain, pacify, place,",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in the Garden",
+          "word": "בְגַן־",
+          "transliteration": "ḇə·ḡan-",
+          "strongs_number": "1588",
+          "part_of_speech": "Preposition-b | Noun - common singular construct",
+          "definition": "An enclosure, garden",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Eden",
+          "word": "עֵ֔דֶן",
+          "transliteration": "‘ê·ḏen",
+          "strongs_number": "5731",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Eden -- the garden home of Adam and Eve",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to cultivate",
+          "word": "לְעָבְדָ֖הּ",
+          "transliteration": "lə·‘ā·ḇə·ḏāh",
+          "strongs_number": "5647",
+          "part_of_speech": "Preposition-l | Verb - Qal - Infinitive construct | third person feminine singular",
+          "definition": "To work, to serve, till, enslave",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and keep it.",
+          "word": "וּלְשָׁמְרָֽהּ׃",
+          "transliteration": "ū·lə·šā·mə·rāh",
+          "strongs_number": "8104",
+          "part_of_speech": "Conjunctive waw, Preposition-l | Verb - Qal - Infinitive construct | third person feminine singular",
+          "definition": "To hedge about, guard, to protect, attend to",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 1:28",
@@ -1330,7 +2884,80 @@
           "text": "And the LORD God commanded the man, saying, “Of every tree of the garden you may freely eat;"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And the LORD",
+          "word": "יְהוָ֣ה",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God",
+          "word": "אֱלֹהִ֔ים",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "commanded",
+          "word": "וַיְצַו֙",
+          "transliteration": "way·ṣaw",
+          "strongs_number": "6680",
+          "part_of_speech": "Conjunctive waw | Verb - Piel - Consecutive imperfect - third person masculine singular",
+          "definition": "To lay charge (upon), give charge (to), command, order",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[him],",
+          "word": "הָֽאָדָ֖ם",
+          "transliteration": "hā·’ā·ḏām",
+          "strongs_number": "120",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Ruddy, a human being",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "“You may eat freely",
+          "word": "אָכֹ֥ל",
+          "transliteration": "’ā·ḵōl",
+          "strongs_number": "398",
+          "part_of_speech": "Verb - Qal - Infinitive absolute",
+          "definition": "To eat",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "from every",
+          "word": "מִכֹּ֥ל",
+          "transliteration": "mik·kōl",
+          "strongs_number": "3605",
+          "part_of_speech": "Preposition-m | Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "tree",
+          "word": "עֵֽץ־",
+          "transliteration": "‘êṣ-",
+          "strongs_number": "6086",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "Tree, trees, wood",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the garden,",
+          "word": "הַגָּ֖ן",
+          "transliteration": "hag·gān",
+          "strongs_number": "1588",
+          "part_of_speech": "Article | Noun - common singular",
+          "definition": "An enclosure, garden",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 3:1-3",
@@ -1417,7 +3044,125 @@
           "text": "but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "but you must not",
+          "word": "לֹ֥א",
+          "transliteration": "lō",
+          "strongs_number": "3808",
+          "part_of_speech": "Adverb - Negative particle",
+          "definition": "Not, no",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "eat",
+          "word": "תֹאכַ֖ל",
+          "transliteration": "ṯō·ḵal",
+          "strongs_number": "398",
+          "part_of_speech": "Verb - Qal - Imperfect - second person masculine singular",
+          "definition": "To eat",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "from",
+          "word": "מִמֶּ֑נּוּ",
+          "transliteration": "mim·men·nū",
+          "strongs_number": "4480",
+          "part_of_speech": "Preposition | third person masculine singular",
+          "definition": "A part of, from, out of",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the tree",
+          "word": "וּמֵעֵ֗ץ",
+          "transliteration": "ū·mê·‘êṣ",
+          "strongs_number": "6086",
+          "part_of_speech": "Conjunctive waw, Preposition-m | Noun - masculine singular construct",
+          "definition": "Tree, trees, wood",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the knowledge",
+          "word": "הַדַּ֙עַת֙",
+          "transliteration": "had·da·‘aṯ",
+          "strongs_number": "1847",
+          "part_of_speech": "Article | Noun - feminine singular construct",
+          "definition": "Knowledge",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of good",
+          "word": "ט֣וֹב",
+          "transliteration": "ṭō·wḇ",
+          "strongs_number": "2896",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Pleasant, agreeable, good",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and evil;",
+          "word": "וָרָ֔ע",
+          "transliteration": "wā·rā‘",
+          "strongs_number": "7451",
+          "part_of_speech": "Conjunctive waw | Adjective - masculine singular",
+          "definition": "Bad, evil",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "for",
+          "word": "כִּ֗י",
+          "transliteration": "kî",
+          "strongs_number": "3588",
+          "part_of_speech": "Conjunction",
+          "definition": "A relative conjunction",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in the day",
+          "word": "בְּי֛וֹם",
+          "transliteration": "bə·yō·wm",
+          "strongs_number": "3117",
+          "part_of_speech": "Preposition-b | Noun - masculine singular construct",
+          "definition": "A day",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that you eat",
+          "word": "אֲכָלְךָ֥",
+          "transliteration": "’ă·ḵā·lə·ḵā",
+          "strongs_number": "398",
+          "part_of_speech": "Verb - Qal - Infinitive construct | second person masculine singular",
+          "definition": "To eat",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of it,",
+          "word": "מִמֶּ֖נּוּ",
+          "transliteration": "mim·men·nū",
+          "strongs_number": "4480",
+          "part_of_speech": "Preposition | third person masculine singular",
+          "definition": "A part of, from, out of",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "you will surely",
+          "word": "מ֥וֹת",
+          "transliteration": "mō·wṯ",
+          "strongs_number": "4191",
+          "part_of_speech": "Verb - Qal - Infinitive absolute",
+          "definition": "To die, to kill",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "die.”",
+          "word": "תָּמֽוּת׃",
+          "transliteration": "tā·mūṯ",
+          "strongs_number": "4191",
+          "part_of_speech": "Verb - Qal - Imperfect - second person masculine singular",
+          "definition": "To die, to kill",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Romans 6:23",
@@ -1504,7 +3249,116 @@
           "text": "And the LORD God said, “ It is not good that man should be alone; I will make him a helper comparable to him.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "The LORD",
+          "word": "יְהוָ֣ה",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God",
+          "word": "אֱלֹהִ֔ים",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "also said,",
+          "word": "וַיֹּ֙אמֶר֙",
+          "transliteration": "way·yō·mer",
+          "strongs_number": "559",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To utter, say",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "“[It is] not",
+          "word": "לֹא־",
+          "transliteration": "lō-",
+          "strongs_number": "3808",
+          "part_of_speech": "Adverb - Negative particle",
+          "definition": "Not, no",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "good",
+          "word": "ט֛וֹב",
+          "transliteration": "ṭō·wḇ",
+          "strongs_number": "2896",
+          "part_of_speech": "Adjective - masculine singular",
+          "definition": "Pleasant, agreeable, good",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "for the man",
+          "word": "הָֽאָדָ֖ם",
+          "transliteration": "hā·’ā·ḏām",
+          "strongs_number": "120",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Ruddy, a human being",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to be",
+          "word": "הֱי֥וֹת",
+          "transliteration": "hĕ·yō·wṯ",
+          "strongs_number": "1961",
+          "part_of_speech": "Verb - Qal - Infinitive construct",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "alone.",
+          "word": "לְבַדּ֑וֹ",
+          "transliteration": "lə·ḇad·dōw",
+          "strongs_number": "905",
+          "part_of_speech": "Preposition-l | Noun - masculine singular construct | third person masculine singular",
+          "definition": "Separation, a part of the body, branch of a, tree, bar for, carrying, chief of",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "I will make",
+          "word": "אֶֽעֱשֶׂהּ־",
+          "transliteration": "’e·‘ĕ·śeh-",
+          "strongs_number": "6213",
+          "part_of_speech": "Verb - Qal - Imperfect - first person common singular",
+          "definition": "To do, make",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "for him",
+          "word": "לּ֥וֹ‪‬",
+          "transliteration": "lōw",
+          "strongs_number": "",
+          "part_of_speech": "Preposition | third person masculine singular",
+          "definition": "",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a suitable",
+          "word": "כְּנֶגְדּֽוֹ׃",
+          "transliteration": "kə·neḡ·dōw",
+          "strongs_number": "5048",
+          "part_of_speech": "Preposition-k | third person masculine singular",
+          "definition": "A front, part opposite, a counterpart, mate, over against, before",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "helper.”",
+          "word": "עֵ֖זֶר",
+          "transliteration": "‘ê·zer",
+          "strongs_number": "5828",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "A help, helper",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Ecclesiastes 4:9-12",
@@ -1591,7 +3445,224 @@
           "text": "Out of the ground the LORD God formed every beast of the field and every bird of the air, and brought them to Adam to see what he would call them. And whatever Adam called each living creature, that was its name."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And out of",
+          "word": "מִן־",
+          "transliteration": "min-",
+          "strongs_number": "4480",
+          "part_of_speech": "Preposition",
+          "definition": "A part of, from, out of",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the ground",
+          "word": "הָֽאֲדָמָ֗ה",
+          "transliteration": "hā·’ă·ḏā·māh",
+          "strongs_number": "127",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "Ground, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the LORD",
+          "word": "יְהוָ֨ה",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God",
+          "word": "אֱלֹהִ֜ים",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "formed",
+          "word": "וַיִּצֶר֩",
+          "transliteration": "way·yi·ṣer",
+          "strongs_number": "3335",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To mould into a, form, as a, potter, to determine",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "every",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "beast",
+          "word": "חַיַּ֤ת",
+          "transliteration": "ḥay·yaṯ",
+          "strongs_number": "2416",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "Alive, raw, fresh, strong, life",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the field",
+          "word": "הַשָּׂדֶה֙",
+          "transliteration": "haś·śā·ḏeh",
+          "strongs_number": "7704",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Field, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and every",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "bird",
+          "word": "ע֣וֹף",
+          "transliteration": "‘ō·wp̄",
+          "strongs_number": "5775",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "Flying creatures",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the air,",
+          "word": "הַשָּׁמַ֔יִם",
+          "transliteration": "haš·šā·ma·yim",
+          "strongs_number": "8064",
+          "part_of_speech": "Article | Noun - masculine plural",
+          "definition": "Heaven, sky",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and He brought [them]",
+          "word": "וַיָּבֵא֙",
+          "transliteration": "way·yā·ḇê",
+          "strongs_number": "935",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To come in, come, go in, go",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to",
+          "word": "אֶל־",
+          "transliteration": "’el-",
+          "strongs_number": "413",
+          "part_of_speech": "Preposition",
+          "definition": "Near, with, among, to",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the man",
+          "word": "הָ֣אָדָ֔ם",
+          "transliteration": "hā·’ā·ḏām",
+          "strongs_number": "120",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Ruddy, a human being",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to see",
+          "word": "לִרְא֖וֹת",
+          "transliteration": "lir·’ō·wṯ",
+          "strongs_number": "7200",
+          "part_of_speech": "Preposition-l | Verb - Qal - Infinitive construct",
+          "definition": "To see",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "what",
+          "word": "מַה־",
+          "transliteration": "mah-",
+          "strongs_number": "4100",
+          "part_of_speech": "Interrogative",
+          "definition": "What?, what!, indefinitely what",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he would name",
+          "word": "יִּקְרָא־",
+          "transliteration": "yiq·rā-",
+          "strongs_number": "7121",
+          "part_of_speech": "Verb - Qal - Imperfect - third person masculine singular",
+          "definition": "To call, proclaim, read",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "each one.",
+          "word": "וְכֹל֩",
+          "transliteration": "wə·ḵōl",
+          "strongs_number": "3605",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "And whatever the man",
+          "word": "הָֽאָדָ֛ם",
+          "transliteration": "hā·’ā·ḏām",
+          "strongs_number": "120",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Ruddy, a human being",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "called",
+          "word": "יִקְרָא־",
+          "transliteration": "yiq·rā-",
+          "strongs_number": "7121",
+          "part_of_speech": "Verb - Qal - Imperfect - third person masculine singular",
+          "definition": "To call, proclaim, read",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "each living",
+          "word": "חַיָּ֖ה",
+          "transliteration": "ḥay·yāh",
+          "strongs_number": "2416",
+          "part_of_speech": "Adjective - feminine singular",
+          "definition": "Alive, raw, fresh, strong, life",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "creature,",
+          "word": "נֶ֥פֶשׁ",
+          "transliteration": "ne·p̄eš",
+          "strongs_number": "5315",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A soul, living being, life, self, person, desire, passion, appetite, emotion",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that",
+          "word": "ה֥וּא",
+          "transliteration": "hū",
+          "strongs_number": "1931",
+          "part_of_speech": "Pronoun - third person masculine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[was] its name.",
+          "word": "שְׁמֽוֹ׃",
+          "transliteration": "šə·mōw",
+          "strongs_number": "8034",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine singular",
+          "definition": "A name",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 1:26-28",
@@ -1678,7 +3749,143 @@
           "text": "So Adam gave names to all cattle, to the birds of the air, and to every beast of the field. But for Adam there was not found a helper comparable to him."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "The man",
+          "word": "הָֽאָדָ֜ם",
+          "transliteration": "hā·’ā·ḏām",
+          "strongs_number": "120",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Ruddy, a human being",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "gave",
+          "word": "וַיִּקְרָ֨א",
+          "transliteration": "way·yiq·rā",
+          "strongs_number": "7121",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To call, proclaim, read",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "names",
+          "word": "שֵׁמ֗וֹת",
+          "transliteration": "šê·mō·wṯ",
+          "strongs_number": "8034",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A name",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to all",
+          "word": "לְכָל־",
+          "transliteration": "lə·ḵāl",
+          "strongs_number": "3605",
+          "part_of_speech": "Preposition-l | Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the livestock,",
+          "word": "הַבְּהֵמָה֙",
+          "transliteration": "hab·bə·hê·māh",
+          "strongs_number": "929",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "A dumb beast, any large quadruped, animal",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to the birds",
+          "word": "וּלְע֣וֹף",
+          "transliteration": "ū·lə·‘ō·wp̄",
+          "strongs_number": "5775",
+          "part_of_speech": "Conjunctive waw, Preposition-l | Noun - masculine singular construct",
+          "definition": "Flying creatures",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the air,",
+          "word": "הַשָּׁמַ֔יִם",
+          "transliteration": "haš·šā·ma·yim",
+          "strongs_number": "8064",
+          "part_of_speech": "Article | Noun - masculine plural",
+          "definition": "Heaven, sky",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and to every",
+          "word": "וּלְכֹ֖ל",
+          "transliteration": "ū·lə·ḵōl",
+          "strongs_number": "3605",
+          "part_of_speech": "Conjunctive waw, Preposition-l | Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "beast",
+          "word": "חַיַּ֣ת",
+          "transliteration": "ḥay·yaṯ",
+          "strongs_number": "2416",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "Alive, raw, fresh, strong, life",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the field.",
+          "word": "הַשָּׂדֶ֑ה",
+          "transliteration": "haś·śā·ḏeh",
+          "strongs_number": "7704",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Field, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "But for Adam",
+          "word": "וּלְאָדָ֕ם",
+          "transliteration": "ū·lə·’ā·ḏām",
+          "strongs_number": "120",
+          "part_of_speech": "Conjunctive waw, Preposition-l | Noun - proper - masculine singular",
+          "definition": "Ruddy, a human being",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "no",
+          "word": "לֹֽא־",
+          "transliteration": "lō-",
+          "strongs_number": "3808",
+          "part_of_speech": "Adverb - Negative particle",
+          "definition": "Not, no",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "suitable",
+          "word": "כְּנֶגְדּֽוֹ׃",
+          "transliteration": "kə·neḡ·dōw",
+          "strongs_number": "5048",
+          "part_of_speech": "Preposition-k | third person masculine singular",
+          "definition": "A front, part opposite, a counterpart, mate, over against, before",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "helper",
+          "word": "עֵ֖זֶר",
+          "transliteration": "‘ê·zer",
+          "strongs_number": "5828",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "A help, helper",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was found.",
+          "word": "מָצָ֥א",
+          "transliteration": "mā·ṣā",
+          "strongs_number": "4672",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 1:26-28",
@@ -1765,7 +3972,125 @@
           "text": "And the LORD God caused a deep sleep to fall on Adam, and he slept; and He took one of his ribs, and closed up the flesh in its place."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "So the LORD",
+          "word": "יְהוָ֨ה",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God",
+          "word": "אֱלֹהִ֧ים ׀",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "caused",
+          "word": "וַיַּפֵּל֩",
+          "transliteration": "way·yap·pêl",
+          "strongs_number": "5307",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To fall, lie",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the man",
+          "word": "הָאָדָ֖ם",
+          "transliteration": "hā·’ā·ḏām",
+          "strongs_number": "120",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Ruddy, a human being",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to fall into",
+          "word": "עַל־",
+          "transliteration": "‘al-",
+          "strongs_number": "5921",
+          "part_of_speech": "Preposition",
+          "definition": "Above, over, upon, against",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a deep sleep,",
+          "word": "תַּרְדֵּמָ֛ה",
+          "transliteration": "tar·dê·māh",
+          "strongs_number": "8639",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A lethargy, trance",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and while he slept,",
+          "word": "וַיִּישָׁ֑ן",
+          "transliteration": "way·yî·šān",
+          "strongs_number": "3462",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To be slack, languid, sleep, to grow old, stale, inveterate",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "He took",
+          "word": "וַיִּקַּ֗ח",
+          "transliteration": "way·yiq·qaḥ",
+          "strongs_number": "3947",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To take",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "one",
+          "word": "אַחַת֙",
+          "transliteration": "’a·ḥaṯ",
+          "strongs_number": "259",
+          "part_of_speech": "Number - feminine singular",
+          "definition": "United, one, first",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of [the man’s] ribs",
+          "word": "מִצַּלְעֹתָ֔יו",
+          "transliteration": "miṣ·ṣal·‘ō·ṯāw",
+          "strongs_number": "6763",
+          "part_of_speech": "Preposition-m | Noun - feminine plural construct | third person masculine singular",
+          "definition": "A rib, a side, a, timber, plank",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and closed up",
+          "word": "וַיִּסְגֹּ֥ר",
+          "transliteration": "way·yis·gōr",
+          "strongs_number": "5462",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To shut up, to surrender",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the area",
+          "word": "תַּחְתֶּֽנָּה׃",
+          "transliteration": "taḥ·ten·nāh",
+          "strongs_number": "8478",
+          "part_of_speech": "Preposition | third person feminine singular",
+          "definition": "The bottom, below, in lieu of",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "with flesh.",
+          "word": "בָּשָׂ֖ר",
+          "transliteration": "bā·śār",
+          "strongs_number": "1320",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Flesh, body, person, the pudenda of a, man",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 1:27",
@@ -1852,7 +4177,116 @@
           "text": "Then the rib which the LORD God had taken from man He made into a woman, and He brought her to the man."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And from the rib",
+          "word": "הַצֵּלָ֛ע",
+          "transliteration": "haṣ·ṣê·lā‘",
+          "strongs_number": "6763",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "A rib, a side, a, timber, plank",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that",
+          "word": "אֲשֶׁר־",
+          "transliteration": "’ă·šer-",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the LORD",
+          "word": "יְהוָ֨ה",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God",
+          "word": "אֱלֹהִ֧ים ׀",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "had taken",
+          "word": "לָקַ֥ח",
+          "transliteration": "lā·qaḥ",
+          "strongs_number": "3947",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To take",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "from",
+          "word": "מִן־",
+          "transliteration": "min-",
+          "strongs_number": "4480",
+          "part_of_speech": "Preposition",
+          "definition": "A part of, from, out of",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the man,",
+          "word": "הָֽאָדָ֖ם",
+          "transliteration": "hā·’ā·ḏām",
+          "strongs_number": "120",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Ruddy, a human being",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "He made",
+          "word": "וַיִּבֶן֩",
+          "transliteration": "way·yi·ḇen",
+          "strongs_number": "1129",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To build",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a woman",
+          "word": "לְאִשָּׁ֑ה",
+          "transliteration": "lə·’iš·šāh",
+          "strongs_number": "802",
+          "part_of_speech": "Preposition-l | Noun - feminine singular",
+          "definition": "Woman, wife, female",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and brought",
+          "word": "וַיְבִאֶ֖הָ",
+          "transliteration": "way·ḇi·’e·hā",
+          "strongs_number": "935",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular | third person feminine singular",
+          "definition": "To come in, come, go in, go",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "her to",
+          "word": "אֶל־",
+          "transliteration": "’el-",
+          "strongs_number": "413",
+          "part_of_speech": "Preposition",
+          "definition": "Near, with, among, to",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[him].",
+          "word": "הָֽאָדָֽם׃",
+          "transliteration": "hā·’ā·ḏām",
+          "strongs_number": "120",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Ruddy, a human being",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Matthew 19:4-6",
@@ -1939,7 +4373,143 @@
           "text": "And Adam said: “This is now bone of my bones And flesh of my flesh; She shall be called Woman, Because she was taken out of Man.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And the man",
+          "word": "הָֽאָדָם֒",
+          "transliteration": "hā·’ā·ḏām",
+          "strongs_number": "120",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Ruddy, a human being",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "said:",
+          "word": "וַיֹּאמֶר֮",
+          "transliteration": "way·yō·mer",
+          "strongs_number": "559",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To utter, say",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "“This",
+          "word": "זֹ֣את",
+          "transliteration": "zōṯ",
+          "strongs_number": "2063",
+          "part_of_speech": "Pronoun - feminine singular",
+          "definition": "Hereby in it, likewise, the one other, same, she, so much, such deed, that,",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[is] now",
+          "word": "הַפַּ֗עַם",
+          "transliteration": "hap·pa·‘am",
+          "strongs_number": "6471",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "A beat, foot, anvil, occurrence",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "bone",
+          "word": "עֶ֚צֶם",
+          "transliteration": "‘e·ṣem",
+          "strongs_number": "6106",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A bone, the body, the substance, selfsame",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of my bones",
+          "word": "מֵֽעֲצָמַ֔י",
+          "transliteration": "mê·‘ă·ṣā·may",
+          "strongs_number": "6106",
+          "part_of_speech": "Preposition-m | Noun - feminine plural construct | first person common singular",
+          "definition": "A bone, the body, the substance, selfsame",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and flesh",
+          "word": "וּבָשָׂ֖ר",
+          "transliteration": "ū·ḇā·śār",
+          "strongs_number": "1320",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular",
+          "definition": "Flesh, body, person, the pudenda of a, man",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of my flesh;",
+          "word": "מִבְּשָׂרִ֑י",
+          "transliteration": "mib·bə·śā·rî",
+          "strongs_number": "1320",
+          "part_of_speech": "Preposition-m | Noun - masculine singular construct | first person common singular",
+          "definition": "Flesh, body, person, the pudenda of a, man",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "she",
+          "word": "לְזֹאת֙",
+          "transliteration": "lə·zōṯ",
+          "strongs_number": "2063",
+          "part_of_speech": "Preposition-l | Pronoun - feminine singular",
+          "definition": "Hereby in it, likewise, the one other, same, she, so much, such deed, that,",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "shall be called",
+          "word": "יִקָּרֵ֣א",
+          "transliteration": "yiq·qā·rê",
+          "strongs_number": "7121",
+          "part_of_speech": "Verb - Nifal - Imperfect - third person masculine singular",
+          "definition": "To call, proclaim, read",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "‘woman,’",
+          "word": "אִשָּׁ֔ה",
+          "transliteration": "’iš·šāh",
+          "strongs_number": "802",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "Woman, wife, female",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "for",
+          "word": "כִּ֥י",
+          "transliteration": "kî",
+          "strongs_number": "3588",
+          "part_of_speech": "Conjunction",
+          "definition": "A relative conjunction",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "out of man",
+          "word": "מֵאִ֖ישׁ",
+          "transliteration": "mê·’îš",
+          "strongs_number": "376",
+          "part_of_speech": "Preposition-m | Noun - masculine singular",
+          "definition": "A man as an individual, a male person",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "she",
+          "word": "זֹּֽאת׃",
+          "transliteration": "zōṯ",
+          "strongs_number": "2063",
+          "part_of_speech": "Pronoun - feminine singular",
+          "definition": "Hereby in it, likewise, the one other, same, she, so much, such deed, that,",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was taken.”",
+          "word": "לֻֽקֳחָה־",
+          "transliteration": "lu·qo·ḥāh-",
+          "strongs_number": "3947",
+          "part_of_speech": "Verb - QalPass - Perfect - third person feminine singular",
+          "definition": "To take",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Ephesians 5:28-31",
@@ -2026,7 +4596,116 @@
           "text": "Therefore a man shall leave his father and mother and be joined to his wife, and they shall become one flesh."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "For",
+          "word": "עַל־",
+          "transliteration": "‘al-",
+          "strongs_number": "5921",
+          "part_of_speech": "Preposition",
+          "definition": "Above, over, upon, against",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "this reason",
+          "word": "כֵּן֙",
+          "transliteration": "kên",
+          "strongs_number": "3651",
+          "part_of_speech": "Adverb",
+          "definition": "So -- thus",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a man",
+          "word": "אִ֔ישׁ",
+          "transliteration": "’îš",
+          "strongs_number": "376",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "A man as an individual, a male person",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "will leave",
+          "word": "יַֽעֲזָב־",
+          "transliteration": "ya·‘ă·zāḇ-",
+          "strongs_number": "5800",
+          "part_of_speech": "Verb - Qal - Imperfect - third person masculine singular",
+          "definition": "To loosen, relinquish, permit",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "his father",
+          "word": "אָבִ֖יו",
+          "transliteration": "’ā·ḇîw",
+          "strongs_number": "1",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine singular",
+          "definition": "Father",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and",
+          "word": "וְאֶת־",
+          "transliteration": "wə·’eṯ-",
+          "strongs_number": "853",
+          "part_of_speech": "Conjunctive waw | Direct object marker",
+          "definition": "Untranslatable mark of the accusative case",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "his mother",
+          "word": "אִמּ֑וֹ",
+          "transliteration": "’im·mōw",
+          "strongs_number": "517",
+          "part_of_speech": "Noun - feminine singular construct | third person masculine singular",
+          "definition": "A mother, )",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and",
+          "word": "וְהָי֖וּ",
+          "transliteration": "wə·hā·yū",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person common plural",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "be united",
+          "word": "וְדָבַ֣ק",
+          "transliteration": "wə·ḏā·ḇaq",
+          "strongs_number": "1692",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
+          "definition": "To impinge, cling, adhere, to catch by pursuit",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to his wife,",
+          "word": "בְּאִשְׁתּ֔וֹ",
+          "transliteration": "bə·’iš·tōw",
+          "strongs_number": "802",
+          "part_of_speech": "Preposition-b | Noun - feminine singular construct | third person masculine singular",
+          "definition": "Woman, wife, female",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and they will become one",
+          "word": "אֶחָֽד׃",
+          "transliteration": "’e·ḥāḏ",
+          "strongs_number": "259",
+          "part_of_speech": "Number - masculine singular",
+          "definition": "United, one, first",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "flesh.",
+          "word": "לְבָשָׂ֥ר",
+          "transliteration": "lə·ḇā·śār",
+          "strongs_number": "1320",
+          "part_of_speech": "Preposition-l | Noun - masculine singular",
+          "definition": "Flesh, body, person, the pudenda of a, man",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Matthew 19:4-6",
@@ -2113,7 +4792,71 @@
           "text": "And they were both naked, the man and his wife, and were not ashamed."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And the man",
+          "word": "הָֽאָדָ֖ם",
+          "transliteration": "hā·’ā·ḏām",
+          "strongs_number": "120",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Ruddy, a human being",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and his wife",
+          "word": "וְאִשְׁתּ֑וֹ",
+          "transliteration": "wə·’iš·tōw",
+          "strongs_number": "802",
+          "part_of_speech": "Conjunctive waw | Noun - feminine singular construct | third person masculine singular",
+          "definition": "Woman, wife, female",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "were",
+          "word": "וַיִּֽהְי֤וּ",
+          "transliteration": "way·yih·yū",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "both",
+          "word": "שְׁנֵיהֶם֙",
+          "transliteration": "šə·nê·hem",
+          "strongs_number": "8147",
+          "part_of_speech": "Number - mdc | third person masculine plural",
+          "definition": "Two (a cardinal number)",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "naked,",
+          "word": "עֲרוּמִּ֔ים",
+          "transliteration": "‘ă·rūm·mîm",
+          "strongs_number": "6174",
+          "part_of_speech": "Adjective - masculine plural",
+          "definition": "Nude, either partially, totally",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and they were not",
+          "word": "וְלֹ֖א",
+          "transliteration": "wə·lō",
+          "strongs_number": "3808",
+          "part_of_speech": "Conjunctive waw | Adverb - Negative particle",
+          "definition": "Not, no",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "ashamed.",
+          "word": "יִתְבֹּשָֽׁשׁוּ׃",
+          "transliteration": "yiṯ·bō·šā·šū",
+          "strongs_number": "954",
+          "part_of_speech": "Verb - Hitpael - Imperfect - third person masculine plural",
+          "definition": "To pale, to be ashamed, to be disappointed, delayed",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 3:7",

@@ -25,7 +25,62 @@
           "text": "Sarah lived one hundred and twenty-seven years; these were the years of the life of Sarah."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Now",
+          "word": "וַיִּהְיוּ֙",
+          "transliteration": "way·yih·yū",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Sarah",
+          "word": "שָׂרָ֔ה",
+          "transliteration": "śā·rāh",
+          "strongs_number": "8283",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Sarah -- 'princess', a wife of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived to be",
+          "word": "חַיֵּ֣י",
+          "transliteration": "ḥay·yê",
+          "strongs_number": "2416",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "Alive, raw, fresh, strong, life",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "127",
+          "word": "מֵאָ֥ה",
+          "transliteration": "mê·’āh",
+          "strongs_number": "3967",
+          "part_of_speech": "Number - feminine singular",
+          "definition": "A hundred",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years",
+          "word": "שָׁנָ֛ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "old.",
+          "word": "שָׁנָ֖ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 17:17",
@@ -112,7 +167,116 @@
           "text": "So Sarah died in Kirjath Arba (that is, Hebron) in the land of Canaan, and Abraham came to mourn for Sarah and to weep for her."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "[She]",
+          "word": "שָׂרָ֗ה",
+          "transliteration": "śā·rāh",
+          "strongs_number": "8283",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Sarah -- 'princess', a wife of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "died",
+          "word": "וַתָּ֣מָת",
+          "transliteration": "wat·tā·māṯ",
+          "strongs_number": "4191",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
+          "definition": "To die, to kill",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in Kiriath-arba",
+          "word": "אַרְבַּ֛ע",
+          "transliteration": "’ar·ba‘",
+          "strongs_number": "7153",
+          "part_of_speech": "Preposition | Noun - proper - feminine singular",
+          "definition": "Kiriath-arba -- 'city of the four', an older name of Hebron",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "(that is,",
+          "word": "הִ֥וא",
+          "transliteration": "hî",
+          "strongs_number": "1931",
+          "part_of_speech": "Pronoun - third person feminine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Hebron)",
+          "word": "חֶבְר֖וֹן",
+          "transliteration": "ḥeḇ·rō·wn",
+          "strongs_number": "2275",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Hebron -- 'association, league', a city in southern Judah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in the land",
+          "word": "בְּאֶ֣רֶץ",
+          "transliteration": "bə·’e·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Preposition-b | Noun - feminine singular construct",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Canaan,",
+          "word": "כְּנָ֑עַן",
+          "transliteration": "kə·nā·‘an",
+          "strongs_number": "3667",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Canaan -- a son of Ham, also his descendants and their land West of the Jordan",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Abraham",
+          "word": "אַבְרָהָ֔ם",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "went out",
+          "word": "וַיָּבֹא֙",
+          "transliteration": "way·yā·ḇō",
+          "strongs_number": "935",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To come in, come, go in, go",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to mourn",
+          "word": "לִסְפֹּ֥ד",
+          "transliteration": "lis·pōḏ",
+          "strongs_number": "5594",
+          "part_of_speech": "Preposition-l | Verb - Qal - Infinitive construct",
+          "definition": "To tear the hair and beat the breasts, to lament, to wail",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and to weep",
+          "word": "וְלִבְכֹּתָֽהּ׃",
+          "transliteration": "wə·liḇ·kō·ṯāh",
+          "strongs_number": "1058",
+          "part_of_speech": "Conjunctive waw, Preposition-l | Verb - Qal - Infinitive construct | third person feminine singular",
+          "definition": "To weep, to bemoan",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "for [her].",
+          "word": "לְשָׂרָ֖ה",
+          "transliteration": "lə·śā·rāh",
+          "strongs_number": "8283",
+          "part_of_speech": "Preposition-l | Noun - proper - feminine singular",
+          "definition": "Sarah -- 'princess', a wife of Abraham",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 49:29-32",
@@ -199,7 +363,80 @@
           "text": "Then Abraham stood up from before his dead, and spoke to the sons of Heth, saying,"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Then Abraham",
+          "word": "אַבְרָהָ֔ם",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "got up",
+          "word": "וַיָּ֙קָם֙",
+          "transliteration": "way·yā·qām",
+          "strongs_number": "6965",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To arise, stand up, stand",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "from",
+          "word": "מֵעַ֖ל",
+          "transliteration": "mê·‘al",
+          "strongs_number": "5921",
+          "part_of_speech": "Preposition-m",
+          "definition": "Above, over, upon, against",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "beside",
+          "word": "פְּנֵ֣י",
+          "transliteration": "pə·nê",
+          "strongs_number": "6440",
+          "part_of_speech": "Noun - common plural construct",
+          "definition": "The face",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "his dead wife",
+          "word": "מֵת֑וֹ",
+          "transliteration": "mê·ṯōw",
+          "strongs_number": "4191",
+          "part_of_speech": "Verb - Qal - Participle - masculine singular construct | third person masculine singular",
+          "definition": "To die, to kill",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and said",
+          "word": "וַיְדַבֵּ֥ר",
+          "transliteration": "way·ḏab·bêr",
+          "strongs_number": "1696",
+          "part_of_speech": "Conjunctive waw | Verb - Piel - Consecutive imperfect - third person masculine singular",
+          "definition": "To arrange, to speak, to subdue",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to",
+          "word": "אֶל־",
+          "transliteration": "’el-",
+          "strongs_number": "413",
+          "part_of_speech": "Preposition",
+          "definition": "Near, with, among, to",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Hittites,",
+          "word": "בְּנֵי־",
+          "transliteration": "bə·nê-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 49:29-32",
@@ -286,7 +523,107 @@
           "text": "“I am a foreigner and a visitor among you. Give me property for a burial place among you, that I may bury my dead out of my sight.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "“I",
+          "word": "אָנֹכִ֖י",
+          "transliteration": "’ā·nō·ḵî",
+          "strongs_number": "595",
+          "part_of_speech": "Pronoun - first person common singular",
+          "definition": "I",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "am a stranger",
+          "word": "גֵּר־",
+          "transliteration": "gêr-",
+          "strongs_number": "1616",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "A guest, a foreigner",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and an outsider",
+          "word": "וְתוֹשָׁ֥ב",
+          "transliteration": "wə·ṯō·wō·šāḇ",
+          "strongs_number": "8453",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular",
+          "definition": "Resident alien",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "among you.",
+          "word": "עִמָּכֶ֑ם",
+          "transliteration": "‘im·mā·ḵem",
+          "strongs_number": "5973",
+          "part_of_speech": "Preposition | second person masculine plural",
+          "definition": "With, equally with",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Give",
+          "word": "תְּנ֨וּ",
+          "transliteration": "tə·nū",
+          "strongs_number": "5414",
+          "part_of_speech": "Verb - Qal - Imperative - masculine plural",
+          "definition": "To give, put, set",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "me",
+          "word": "לִ֤י",
+          "transliteration": "lî",
+          "strongs_number": "",
+          "part_of_speech": "Preposition | first person common singular",
+          "definition": "",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a burial",
+          "word": "קֶ֙בֶר֙",
+          "transliteration": "qe·ḇer",
+          "strongs_number": "6913",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "A grave, sepulcher",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "site",
+          "word": "אֲחֻזַּת־",
+          "transliteration": "’ă·ḥuz·zaṯ-",
+          "strongs_number": "272",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "Something seized, a possession",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "among you",
+          "word": "עִמָּכֶ֔ם",
+          "transliteration": "‘im·mā·ḵem",
+          "strongs_number": "5973",
+          "part_of_speech": "Preposition | second person masculine plural",
+          "definition": "With, equally with",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "so that I can bury",
+          "word": "וְאֶקְבְּרָ֥ה",
+          "transliteration": "wə·’eq·bə·rāh",
+          "strongs_number": "6912",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Conjunctive imperfect Cohortative - first person common singular",
+          "definition": "To inter",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "my dead.”",
+          "word": "מֵתִ֖י",
+          "transliteration": "mê·ṯî",
+          "strongs_number": "4191",
+          "part_of_speech": "Verb - Qal - Participle - masculine singular construct | first person common singular",
+          "definition": "To die, to kill",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Hebrews 11:9-10",
@@ -373,7 +710,35 @@
           "text": "And the sons of Heth answered Abraham, saying to him,"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "The Hittites",
+          "word": "בְנֵי־",
+          "transliteration": "ḇə·nê-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "replied",
+          "word": "וַיַּעֲנ֧וּ",
+          "transliteration": "way·ya·‘ă·nū",
+          "strongs_number": "6030",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To answer, respond",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to Abraham,",
+          "word": "אַבְרָהָ֖ם",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 15:13-16",
@@ -460,7 +825,152 @@
           "text": "“Hear us, my lord: You are a mighty prince among us; bury your dead in the choicest of our burial places. None of us will withhold from you his burial place, that you may bury your dead.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "“Listen to us,",
+          "word": "שְׁמָעֵ֣נוּ ׀",
+          "transliteration": "šə·mā·‘ê·nū",
+          "strongs_number": "8085",
+          "part_of_speech": "Verb - Qal - Imperative - masculine singular | first person common plural",
+          "definition": "To hear intelligently",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "sir.",
+          "word": "אֲדֹנִ֗י",
+          "transliteration": "’ă·ḏō·nî",
+          "strongs_number": "113",
+          "part_of_speech": "Noun - masculine singular construct | first person common singular",
+          "definition": "Sovereign, controller",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "You",
+          "word": "אַתָּה֙",
+          "transliteration": "’at·tāh",
+          "strongs_number": "859",
+          "part_of_speech": "Pronoun - second person masculine singular",
+          "definition": "Thou and thee, ye and you",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "are God’s",
+          "word": "אֱלֹהִ֤ים",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "chosen one",
+          "word": "נְשִׂ֨יא",
+          "transliteration": "nə·śî",
+          "strongs_number": "5387",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "An exalted one, a king, sheik, a rising mist",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "among us.",
+          "word": "בְּתוֹכֵ֔נוּ",
+          "transliteration": "bə·ṯō·w·ḵê·nū",
+          "strongs_number": "8432",
+          "part_of_speech": "Preposition-b | Noun - masculine singular construct | first person common plural",
+          "definition": "A bisection, the centre",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Bury",
+          "word": "קְבֹ֖ר",
+          "transliteration": "qə·ḇōr",
+          "strongs_number": "6912",
+          "part_of_speech": "Verb - Qal - Imperative - masculine singular",
+          "definition": "To inter",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "your dead",
+          "word": "מֵתֶ֑ךָ",
+          "transliteration": "mê·ṯe·ḵā",
+          "strongs_number": "4191",
+          "part_of_speech": "Verb - Qal - Participle - masculine singular construct | second person masculine singular",
+          "definition": "To die, to kill",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in the finest",
+          "word": "בְּמִבְחַ֣ר",
+          "transliteration": "bə·miḇ·ḥar",
+          "strongs_number": "4005",
+          "part_of_speech": "Preposition-b | Noun - masculine singular construct",
+          "definition": "Choicest, best",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of our tombs.",
+          "word": "קְבָרֵ֔ינוּ",
+          "transliteration": "qə·ḇā·rê·nū",
+          "strongs_number": "6913",
+          "part_of_speech": "Noun - masculine plural construct | first person common plural",
+          "definition": "A grave, sepulcher",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "None",
+          "word": "לֹֽא־",
+          "transliteration": "lō-",
+          "strongs_number": "3808",
+          "part_of_speech": "Adverb - Negative particle",
+          "definition": "Not, no",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of us",
+          "word": "מִמֶּ֔נּוּ",
+          "transliteration": "mim·men·nū",
+          "strongs_number": "4480",
+          "part_of_speech": "Preposition | first person common plural",
+          "definition": "A part of, from, out of",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "will withhold",
+          "word": "יִכְלֶ֥ה",
+          "transliteration": "yiḵ·leh",
+          "strongs_number": "3607",
+          "part_of_speech": "Verb - Qal - Imperfect - third person masculine singular",
+          "definition": "To shut up, restrain, withhold",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "his tomb",
+          "word": "קִבְר֛וֹ",
+          "transliteration": "qiḇ·rōw",
+          "strongs_number": "6913",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine singular",
+          "definition": "A grave, sepulcher",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "for burying",
+          "word": "מִקְּבֹ֥ר",
+          "transliteration": "miq·qə·ḇōr",
+          "strongs_number": "6912",
+          "part_of_speech": "Preposition-m | Verb - Qal - Infinitive construct",
+          "definition": "To inter",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "your dead.”",
+          "word": "מֵתֶֽךָ׃",
+          "transliteration": "mê·ṯe·ḵā",
+          "strongs_number": "4191",
+          "part_of_speech": "Verb - Qal - Participle - masculine singular construct | second person masculine singular",
+          "definition": "To die, to kill",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 13:2",
@@ -547,7 +1057,62 @@
           "text": "Then Abraham stood up and bowed himself to the people of the land, the sons of Heth."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Then Abraham",
+          "word": "אַבְרָהָ֛ם",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "rose",
+          "word": "וַיָּ֧קָם",
+          "transliteration": "way·yā·qām",
+          "strongs_number": "6965",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To arise, stand up, stand",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and bowed down",
+          "word": "וַיִּשְׁתַּ֥חוּ",
+          "transliteration": "way·yiš·ta·ḥū",
+          "strongs_number": "7812",
+          "part_of_speech": "Conjunctive waw | Verb - Hitpael - Consecutive imperfect - third person masculine singular",
+          "definition": "To depress, prostrate",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "before the people",
+          "word": "לְעַם־",
+          "transliteration": "lə·‘am-",
+          "strongs_number": "5971",
+          "part_of_speech": "Preposition-l | Noun - masculine singular construct",
+          "definition": "A people, a tribe, troops, attendants, a flock",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the land,",
+          "word": "הָאָ֖רֶץ",
+          "transliteration": "hā·’ā·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Hittites.",
+          "word": "לִבְנֵי־",
+          "transliteration": "liḇ·nê-",
+          "strongs_number": "1121",
+          "part_of_speech": "Preposition-l | Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 18:2",
@@ -634,7 +1199,116 @@
           "text": "And he spoke with them, saying, “If it is your wish that I bury my dead out of my sight, hear me, and meet with Ephron the son of Zohar for me,"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "“If",
+          "word": "אִם־",
+          "transliteration": "’im-",
+          "strongs_number": "518",
+          "part_of_speech": "Conjunction",
+          "definition": "Lo!, whether?, if, although, Oh that!, when, not",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "you are willing",
+          "word": "נַפְשְׁכֶ֗ם",
+          "transliteration": "nap̄·šə·ḵem",
+          "strongs_number": "5315",
+          "part_of_speech": "Noun - feminine singular construct | second person masculine plural",
+          "definition": "A soul, living being, life, self, person, desire, passion, appetite, emotion",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "for me to bury",
+          "word": "לִקְבֹּ֤ר",
+          "transliteration": "liq·bōr",
+          "strongs_number": "6912",
+          "part_of_speech": "Preposition-l | Verb - Qal - Infinitive construct",
+          "definition": "To inter",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "my dead,”",
+          "word": "מֵתִי֙",
+          "transliteration": "mê·ṯî",
+          "strongs_number": "4191",
+          "part_of_speech": "Verb - Qal - Participle - masculine singular construct | first person common singular",
+          "definition": "To die, to kill",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he said",
+          "word": "וַיְדַבֵּ֥ר",
+          "transliteration": "way·ḏab·bêr",
+          "strongs_number": "1696",
+          "part_of_speech": "Conjunctive waw | Verb - Piel - Consecutive imperfect - third person masculine singular",
+          "definition": "To arrange, to speak, to subdue",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to them,",
+          "word": "אִתָּ֖ם",
+          "transliteration": "’it·tām",
+          "strongs_number": "854",
+          "part_of_speech": "Preposition | third person masculine plural",
+          "definition": "Nearness, near, with, by, at, among",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "“listen to me,",
+          "word": "שְׁמָע֕וּנִי",
+          "transliteration": "šə·mā·‘ū·nî",
+          "strongs_number": "8085",
+          "part_of_speech": "Verb - Qal - Imperative - masculine plural | first person common singular",
+          "definition": "To hear intelligently",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and approach",
+          "word": "וּפִגְעוּ־",
+          "transliteration": "ū·p̄iḡ·‘ū-",
+          "strongs_number": "6293",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Imperative - masculine plural",
+          "definition": "To impinge, by accident, violence, by importunity",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Ephron",
+          "word": "בְּעֶפְר֥וֹן",
+          "transliteration": "bə·‘ep̄·rō·wn",
+          "strongs_number": "6085",
+          "part_of_speech": "Preposition-b | Noun - proper - masculine singular",
+          "definition": "Ephron -- a Hittite, also a mountain and a place in Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "son",
+          "word": "בֶּן־",
+          "transliteration": "ben-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Zohar",
+          "word": "צֹֽחַר׃",
+          "transliteration": "ṣō·ḥar",
+          "strongs_number": "6714",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Zohar -- a Hittite, also two Israelites",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "on my behalf",
+          "word": "לִ֖י",
+          "transliteration": "lî",
+          "strongs_number": "",
+          "part_of_speech": "Preposition | first person common singular",
+          "definition": "",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 50:5-6",
@@ -721,7 +1395,143 @@
           "text": "that he may give me the cave of Machpelah which he has, which is at the end of his field. Let him give it to me at the full price, as property for a burial place among you.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "to sell",
+          "word": "וְיִתֶּן־",
+          "transliteration": "wə·yit·ten-",
+          "strongs_number": "5414",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Conjunctive imperfect Jussive - third person masculine singular",
+          "definition": "To give, put, set",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "me",
+          "word": "לִ֗י",
+          "transliteration": "lî",
+          "strongs_number": "",
+          "part_of_speech": "Preposition | first person common singular",
+          "definition": "",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the cave",
+          "word": "מְעָרַ֤ת",
+          "transliteration": "mə·‘ā·raṯ",
+          "strongs_number": "4631",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "A cavern",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Machpelah",
+          "word": "הַמַּכְפֵּלָה֙",
+          "transliteration": "ham·maḵ·pê·lāh",
+          "strongs_number": "4375",
+          "part_of_speech": "Article | Noun - proper - feminine singular",
+          "definition": "Machpelah -- a place near Hebron",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that belongs to him;",
+          "word": "אֲשֶׁר־",
+          "transliteration": "’ă·šer-",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "it",
+          "word": "אֲשֶׁ֖ר",
+          "transliteration": "’ă·šer",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "is at the end",
+          "word": "בִּקְצֵ֣ה",
+          "transliteration": "biq·ṣêh",
+          "strongs_number": "7097",
+          "part_of_speech": "Preposition-b | Noun - masculine singular construct",
+          "definition": "End, extremity",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of his field.",
+          "word": "שָׂדֵ֑הוּ",
+          "transliteration": "śā·ḏê·hū",
+          "strongs_number": "7704",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine singular",
+          "definition": "Field, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Let him sell it",
+          "word": "יִתְּנֶ֥נָּה",
+          "transliteration": "yit·tə·nen·nāh",
+          "strongs_number": "5414",
+          "part_of_speech": "Verb - Qal - Imperfect - third person masculine singular | third person feminine singular",
+          "definition": "To give, put, set",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to me",
+          "word": "לִ֛י",
+          "transliteration": "lî",
+          "strongs_number": "",
+          "part_of_speech": "Preposition | first person common singular",
+          "definition": "",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in your presence",
+          "word": "בְּתוֹכְכֶ֖ם",
+          "transliteration": "bə·ṯō·wḵ·ḵem",
+          "strongs_number": "8432",
+          "part_of_speech": "Preposition-b | Noun - masculine singular construct | second person masculine plural",
+          "definition": "A bisection, the centre",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "for full",
+          "word": "מָלֵ֜א",
+          "transliteration": "mā·lê",
+          "strongs_number": "4392",
+          "part_of_speech": "Adjective - masculine singular",
+          "definition": "Full, filling, fulness, fully",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "price,",
+          "word": "בְּכֶ֨סֶף",
+          "transliteration": "bə·ḵe·sep̄",
+          "strongs_number": "3701",
+          "part_of_speech": "Preposition-b | Noun - masculine singular",
+          "definition": "Silver, money",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "so that [I may have] a burial",
+          "word": "קָֽבֶר׃",
+          "transliteration": "qā·ḇer",
+          "strongs_number": "6913",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "A grave, sepulcher",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "site.”",
+          "word": "לַאֲחֻזַּת־",
+          "transliteration": "la·’ă·ḥuz·zaṯ-",
+          "strongs_number": "272",
+          "part_of_speech": "Preposition-l | Noun - feminine singular construct",
+          "definition": "Something seized, a possession",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 49:29-32",
@@ -808,7 +1618,143 @@
           "text": "Now Ephron dwelt among the sons of Heth; and Ephron the Hittite answered Abraham in the presence of the sons of Heth, all who entered at the gate of his city, saying,"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Now Ephron",
+          "word": "וְעֶפְר֥וֹן",
+          "transliteration": "wə·‘ep̄·rō·wn",
+          "strongs_number": "6085",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Ephron -- a Hittite, also a mountain and a place in Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was sitting",
+          "word": "יֹשֵׁ֖ב",
+          "transliteration": "yō·šêḇ",
+          "strongs_number": "3427",
+          "part_of_speech": "Verb - Qal - Participle - masculine singular",
+          "definition": "To sit down, to dwell, to remain, to settle, to marry",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "among",
+          "word": "בְּת֣וֹךְ",
+          "transliteration": "bə·ṯō·wḵ",
+          "strongs_number": "8432",
+          "part_of_speech": "Preposition-b | Noun - masculine singular construct",
+          "definition": "A bisection, the centre",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the sons",
+          "word": "בְּנֵי־",
+          "transliteration": "bə·nê-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Heth.",
+          "word": "חֵ֑ת",
+          "transliteration": "ḥêṯ",
+          "strongs_number": "2845",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Heth -- a son of Canaan and probably ancestor of the Hittites",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "So in the presence",
+          "word": "בְּאָזְנֵ֣י",
+          "transliteration": "bə·’ā·zə·nê",
+          "strongs_number": "241",
+          "part_of_speech": "Preposition-b | Noun - fdc",
+          "definition": "Broadness, the ear",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of all",
+          "word": "לְכֹ֛ל",
+          "transliteration": "lə·ḵōl",
+          "strongs_number": "3605",
+          "part_of_speech": "Preposition-l | Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Hittites",
+          "word": "בְנֵי־",
+          "transliteration": "ḇə·nê-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "who had come",
+          "word": "בָּאֵ֥י",
+          "transliteration": "bā·’ê",
+          "strongs_number": "935",
+          "part_of_speech": "Verb - Qal - Participle - masculine plural construct",
+          "definition": "To come in, come, go in, go",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to the gate",
+          "word": "שַֽׁעַר־",
+          "transliteration": "ša·‘ar-",
+          "strongs_number": "8179",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "An opening, door, gate",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of his city,",
+          "word": "עִיר֖וֹ",
+          "transliteration": "‘î·rōw",
+          "strongs_number": "5892",
+          "part_of_speech": "Noun - feminine singular construct | third person masculine singular",
+          "definition": "Excitement",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Ephron",
+          "word": "עֶפְר֨וֹן",
+          "transliteration": "‘ep̄·rō·wn",
+          "strongs_number": "6085",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Ephron -- a Hittite, also a mountain and a place in Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Hittite",
+          "word": "הַחִתִּ֤י",
+          "transliteration": "ha·ḥit·tî",
+          "strongs_number": "2850",
+          "part_of_speech": "Article | Noun - proper - masculine singular",
+          "definition": "Hittite -- a Chittite",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "answered",
+          "word": "וַיַּעַן֩",
+          "transliteration": "way·ya·‘an",
+          "strongs_number": "6030",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To answer, respond",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Abraham,",
+          "word": "אַבְרָהָם֙",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 34:20-24",
@@ -895,7 +1841,134 @@
           "text": "“No, my lord, hear me: I give you the field and the cave that is in it; I give it to you in the presence of the sons of my people. I give it to you. Bury your dead!”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "“No,",
+          "word": "לֹֽא־",
+          "transliteration": "lō-",
+          "strongs_number": "3808",
+          "part_of_speech": "Adverb - Negative particle",
+          "definition": "Not, no",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "my lord.",
+          "word": "אֲדֹנִ֣י",
+          "transliteration": "’ă·ḏō·nî",
+          "strongs_number": "113",
+          "part_of_speech": "Noun - masculine singular construct | first person common singular",
+          "definition": "Sovereign, controller",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Listen to me.",
+          "word": "שְׁמָעֵ֔נִי",
+          "transliteration": "šə·mā·‘ê·nî",
+          "strongs_number": "8085",
+          "part_of_speech": "Verb - Qal - Imperative - masculine singular | first person common singular",
+          "definition": "To hear intelligently",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "I give",
+          "word": "נָתַ֣תִּי",
+          "transliteration": "nā·ṯat·tî",
+          "strongs_number": "5414",
+          "part_of_speech": "Verb - Qal - Perfect - first person common singular",
+          "definition": "To give, put, set",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "you the field,",
+          "word": "הַשָּׂדֶה֙",
+          "transliteration": "haś·śā·ḏeh",
+          "strongs_number": "7704",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Field, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and I give",
+          "word": "נְתַתִּ֑יהָ",
+          "transliteration": "nə·ṯat·tî·hā",
+          "strongs_number": "5414",
+          "part_of_speech": "Verb - Qal - Perfect - first person common singular | third person feminine singular",
+          "definition": "To give, put, set",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "you the cave",
+          "word": "וְהַמְּעָרָ֥ה",
+          "transliteration": "wə·ham·mə·‘ā·rāh",
+          "strongs_number": "4631",
+          "part_of_speech": "Conjunctive waw, Article | Noun - feminine singular",
+          "definition": "A cavern",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that is in it.",
+          "word": "אֲשֶׁר־",
+          "transliteration": "’ă·šer-",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "I give it",
+          "word": "נְתַתִּ֥יהָ",
+          "transliteration": "nə·ṯat·tî·hā",
+          "strongs_number": "5414",
+          "part_of_speech": "Verb - Qal - Perfect - first person common singular | third person feminine singular",
+          "definition": "To give, put, set",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to you",
+          "word": "לְךָ֣",
+          "transliteration": "lə·ḵā",
+          "strongs_number": "",
+          "part_of_speech": "Preposition | second person masculine singular",
+          "definition": "",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in the presence",
+          "word": "לְעֵינֵ֧י",
+          "transliteration": "lə·‘ê·nê",
+          "strongs_number": "5869",
+          "part_of_speech": "Preposition-l | Noun - cdc",
+          "definition": "An eye, a fountain",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of my people.",
+          "word": "בְנֵי־",
+          "transliteration": "ḇə·nê-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Bury",
+          "word": "קְבֹ֥ר",
+          "transliteration": "qə·ḇōr",
+          "strongs_number": "6912",
+          "part_of_speech": "Verb - Qal - Imperative - masculine singular",
+          "definition": "To inter",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "your dead.”",
+          "word": "מֵתֶֽךָ׃",
+          "transliteration": "mê·ṯe·ḵā",
+          "strongs_number": "4191",
+          "part_of_speech": "Verb - Qal - Participle - masculine singular construct | second person masculine singular",
+          "definition": "To die, to kill",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Ruth 4:9-10",
@@ -982,7 +2055,53 @@
           "text": "Then Abraham bowed himself down before the people of the land;"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Again Abraham",
+          "word": "אַבְרָהָ֔ם",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "bowed down",
+          "word": "וַיִּשְׁתַּ֙חוּ֙",
+          "transliteration": "way·yiš·ta·ḥū",
+          "strongs_number": "7812",
+          "part_of_speech": "Conjunctive waw | Verb - Hitpael - Consecutive imperfect - third person masculine singular",
+          "definition": "To depress, prostrate",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "before",
+          "word": "לִפְנֵ֖י",
+          "transliteration": "lip̄·nê",
+          "strongs_number": "6440",
+          "part_of_speech": "Preposition-l | Noun - common plural construct",
+          "definition": "The face",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the people",
+          "word": "עַ֥ם",
+          "transliteration": "‘am",
+          "strongs_number": "5971",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A people, a tribe, troops, attendants, a flock",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the land",
+          "word": "הָאָֽרֶץ׃",
+          "transliteration": "hā·’ā·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 18:2",
@@ -1069,7 +2188,152 @@
           "text": "and he spoke to Ephron in the hearing of the people of the land, saying, “If you will give it, please hear me. I will give you money for the field; take it from me and I will bury my dead there.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "and said",
+          "word": "וַיְדַבֵּ֨ר",
+          "transliteration": "way·ḏab·bêr",
+          "strongs_number": "1696",
+          "part_of_speech": "Conjunctive waw | Verb - Piel - Consecutive imperfect - third person masculine singular",
+          "definition": "To arrange, to speak, to subdue",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to",
+          "word": "אֶל־",
+          "transliteration": "’el-",
+          "strongs_number": "413",
+          "part_of_speech": "Preposition",
+          "definition": "Near, with, among, to",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Ephron",
+          "word": "עֶפְר֜וֹן",
+          "transliteration": "‘ep̄·rō·wn",
+          "strongs_number": "6085",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Ephron -- a Hittite, also a mountain and a place in Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in their presence,",
+          "word": "בְּאָזְנֵ֤י",
+          "transliteration": "bə·’ā·zə·nê",
+          "strongs_number": "241",
+          "part_of_speech": "Preposition-b | Noun - fdc",
+          "definition": "Broadness, the ear",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "“If",
+          "word": "אִם־",
+          "transliteration": "’im-",
+          "strongs_number": "518",
+          "part_of_speech": "Conjunction",
+          "definition": "Lo!, whether?, if, although, Oh that!, when, not",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "you",
+          "word": "אַתָּ֥ה",
+          "transliteration": "’at·tāh",
+          "strongs_number": "859",
+          "part_of_speech": "Pronoun - second person masculine singular",
+          "definition": "Thou and thee, ye and you",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "will please",
+          "word": "ל֖וּ",
+          "transliteration": "lū",
+          "strongs_number": "3863",
+          "part_of_speech": "Preposition",
+          "definition": "If, would that!",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "listen to me,",
+          "word": "שְׁמָעֵ֑נִי",
+          "transliteration": "šə·mā·‘ê·nî",
+          "strongs_number": "8085",
+          "part_of_speech": "Verb - Qal - Imperative - masculine singular | first person common singular",
+          "definition": "To hear intelligently",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "I will pay you",
+          "word": "נָתַ֜תִּי",
+          "transliteration": "nā·ṯat·tî",
+          "strongs_number": "5414",
+          "part_of_speech": "Verb - Qal - Perfect - first person common singular",
+          "definition": "To give, put, set",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the price",
+          "word": "כֶּ֤סֶף",
+          "transliteration": "ke·sep̄",
+          "strongs_number": "3701",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "Silver, money",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the field.",
+          "word": "הַשָּׂדֶה֙",
+          "transliteration": "haś·śā·ḏeh",
+          "strongs_number": "7704",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Field, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Accept",
+          "word": "קַ֣ח",
+          "transliteration": "qaḥ",
+          "strongs_number": "3947",
+          "part_of_speech": "Verb - Qal - Imperative - masculine singular",
+          "definition": "To take",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "it from me,",
+          "word": "מִמֶּ֔נִּי",
+          "transliteration": "mim·men·nî",
+          "strongs_number": "4480",
+          "part_of_speech": "Preposition | first person common singular",
+          "definition": "A part of, from, out of",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "so that I may bury",
+          "word": "וְאֶקְבְּרָ֥ה",
+          "transliteration": "wə·’eq·bə·rāh",
+          "strongs_number": "6912",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Conjunctive imperfect Cohortative - first person common singular",
+          "definition": "To inter",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "my dead",
+          "word": "מֵתִ֖י",
+          "transliteration": "mê·ṯî",
+          "strongs_number": "4191",
+          "part_of_speech": "Verb - Qal - Participle - masculine singular construct | first person common singular",
+          "definition": "To die, to kill",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "there.”",
+          "word": "שָֽׁמָּה׃",
+          "transliteration": "šām·māh",
+          "strongs_number": "8033",
+          "part_of_speech": "Adverb | third person feminine singular",
+          "definition": "There, then, thither",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 49:30-32",
@@ -1156,7 +2420,35 @@
           "text": "And Ephron answered Abraham, saying to him,"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Ephron",
+          "word": "עֶפְר֛וֹן",
+          "transliteration": "‘ep̄·rō·wn",
+          "strongs_number": "6085",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Ephron -- a Hittite, also a mountain and a place in Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "answered",
+          "word": "וַיַּ֧עַן",
+          "transliteration": "way·ya·‘an",
+          "strongs_number": "6030",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To answer, respond",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Abraham,",
+          "word": "אַבְרָהָ֖ם",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 50:13",
@@ -1243,7 +2535,116 @@
           "text": "“My lord, listen to me; the land is worth four hundred shekels of silver. What is that between you and me? So bury your dead.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "“Listen to me,",
+          "word": "שְׁמָעֵ֔נִי",
+          "transliteration": "šə·mā·‘ê·nî",
+          "strongs_number": "8085",
+          "part_of_speech": "Verb - Qal - Imperative - masculine singular | first person common singular",
+          "definition": "To hear intelligently",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "my lord.",
+          "word": "אֲדֹנִ֣י",
+          "transliteration": "’ă·ḏō·nî",
+          "strongs_number": "113",
+          "part_of_speech": "Noun - masculine singular construct | first person common singular",
+          "definition": "Sovereign, controller",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "The land",
+          "word": "אֶרֶץ֩",
+          "transliteration": "’e·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[is worth] four",
+          "word": "אַרְבַּ֨ע",
+          "transliteration": "’ar·ba‘",
+          "strongs_number": "702",
+          "part_of_speech": "Number - feminine singular construct",
+          "definition": "Four",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "hundred",
+          "word": "מֵאֹ֧ת",
+          "transliteration": "mê·’ōṯ",
+          "strongs_number": "3967",
+          "part_of_speech": "Number - feminine plural construct",
+          "definition": "A hundred",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "shekels",
+          "word": "שֶֽׁקֶל־",
+          "transliteration": "še·qel-",
+          "strongs_number": "8255",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A weight, a commercial standard",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of silver,",
+          "word": "כֶּ֛סֶף",
+          "transliteration": "ke·sep̄",
+          "strongs_number": "3701",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Silver, money",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "but what",
+          "word": "מַה־",
+          "transliteration": "mah-",
+          "strongs_number": "4100",
+          "part_of_speech": "Interrogative",
+          "definition": "What?, what!, indefinitely what",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "is that",
+          "word": "הִ֑וא",
+          "transliteration": "hî",
+          "strongs_number": "1931",
+          "part_of_speech": "Pronoun - third person feminine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "between you and me?",
+          "word": "בֵּינִ֥י",
+          "transliteration": "bê·nî",
+          "strongs_number": "996",
+          "part_of_speech": "Preposition | first person common singular",
+          "definition": "An interval, space between",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Bury",
+          "word": "קְבֹֽר׃",
+          "transliteration": "qə·ḇōr",
+          "strongs_number": "6912",
+          "part_of_speech": "Verb - Qal - Imperative - masculine singular",
+          "definition": "To inter",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "your dead.”",
+          "word": "מֵתְךָ֖",
+          "transliteration": "mê·ṯə·ḵā",
+          "strongs_number": "4191",
+          "part_of_speech": "Verb - Qal - Participle - masculine singular construct | second person masculine singular",
+          "definition": "To die, to kill",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 13:2",
@@ -1330,7 +2731,161 @@
           "text": "And Abraham listened to Ephron; and Abraham weighed out the silver for Ephron which he had named in the hearing of the sons of Heth, four hundred shekels of silver, currency of the merchants."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Abraham",
+          "word": "אַבְרָהָם֮",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "agreed",
+          "word": "וַיִּשְׁמַ֣ע",
+          "transliteration": "way·yiš·ma‘",
+          "strongs_number": "8085",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To hear intelligently",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to",
+          "word": "אֶל־",
+          "transliteration": "’el-",
+          "strongs_number": "413",
+          "part_of_speech": "Preposition",
+          "definition": "Near, with, among, to",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Ephron’s terms",
+          "word": "עֶפְרוֹן֒",
+          "transliteration": "‘ep̄·rō·wn",
+          "strongs_number": "6085",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Ephron -- a Hittite, also a mountain and a place in Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and",
+          "word": "אַבְרָהָם֙",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "weighed out",
+          "word": "וַיִּשְׁקֹ֤ל",
+          "transliteration": "way·yiš·qōl",
+          "strongs_number": "8254",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To suspend, poise",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[for him]",
+          "word": "לְעֶפְרֹ֔ן",
+          "transliteration": "lə·‘ep̄·rōn",
+          "strongs_number": "6085",
+          "part_of_speech": "Preposition-l | Noun - proper - masculine singular",
+          "definition": "Ephron -- a Hittite, also a mountain and a place in Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the price",
+          "word": "הַכֶּ֕סֶף",
+          "transliteration": "hak·ke·sep̄",
+          "strongs_number": "3701",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Silver, money",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he had named",
+          "word": "דִּבֶּ֖ר",
+          "transliteration": "dib·ber",
+          "strongs_number": "1696",
+          "part_of_speech": "Verb - Piel - Perfect - third person masculine singular",
+          "definition": "To arrange, to speak, to subdue",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in the hearing",
+          "word": "בְּאָזְנֵ֣י",
+          "transliteration": "bə·’ā·zə·nê",
+          "strongs_number": "241",
+          "part_of_speech": "Preposition-b | Noun - fdc",
+          "definition": "Broadness, the ear",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the Hittites:",
+          "word": "בְנֵי־",
+          "transliteration": "ḇə·nê-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "four",
+          "word": "אַרְבַּ֤ע",
+          "transliteration": "’ar·ba‘",
+          "strongs_number": "702",
+          "part_of_speech": "Number - feminine singular construct",
+          "definition": "Four",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "hundred",
+          "word": "מֵאוֹת֙",
+          "transliteration": "mê·’ō·wṯ",
+          "strongs_number": "3967",
+          "part_of_speech": "Number - feminine plural",
+          "definition": "A hundred",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "shekels",
+          "word": "שֶׁ֣קֶל",
+          "transliteration": "še·qel",
+          "strongs_number": "8255",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A weight, a commercial standard",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of silver,",
+          "word": "כֶּ֔סֶף",
+          "transliteration": "ke·sep̄",
+          "strongs_number": "3701",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Silver, money",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "according to the standard",
+          "word": "עֹבֵ֖ר",
+          "transliteration": "‘ō·ḇêr",
+          "strongs_number": "5674",
+          "part_of_speech": "Verb - Qal - Participle - masculine singular",
+          "definition": "To pass over, through, or by, pass on",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the merchants.",
+          "word": "לַסֹּחֵֽר׃",
+          "transliteration": "las·sō·ḥêr",
+          "strongs_number": "5503",
+          "part_of_speech": "Preposition-l, Article | Verb - Qal - Participle - masculine singular",
+          "definition": "To go around or about, travel about",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Jeremiah 32:9-10",
@@ -1417,7 +2972,134 @@
           "text": "So the field of Ephron which was in Machpelah, which was before Mamre, the field and the cave which was in it, and all the trees that were in the field, which were within all the surrounding borders, were deeded"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "So Ephron’s",
+          "word": "עֶפְר֗וֹן",
+          "transliteration": "‘ep̄·rō·wn",
+          "strongs_number": "6085",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Ephron -- a Hittite, also a mountain and a place in Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "field",
+          "word": "שְׂדֵ֣ה",
+          "transliteration": "śə·ḏêh",
+          "strongs_number": "7704",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "Field, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "at Machpelah",
+          "word": "בַּמַּכְפֵּלָ֔ה",
+          "transliteration": "bam·maḵ·pê·lāh",
+          "strongs_number": "4375",
+          "part_of_speech": "Preposition-b, Article | Noun - proper - feminine singular",
+          "definition": "Machpelah -- a place near Hebron",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "near",
+          "word": "לִפְנֵ֣י",
+          "transliteration": "lip̄·nê",
+          "strongs_number": "6440",
+          "part_of_speech": "Preposition-l | Noun - common plural construct",
+          "definition": "The face",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Mamre,",
+          "word": "מַמְרֵ֑א",
+          "transliteration": "mam·rê",
+          "strongs_number": "4471",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Mamre -- a place in Palestine, also an ally of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the cave",
+          "word": "וְהַמְּעָרָ֣ה",
+          "transliteration": "wə·ham·mə·‘ā·rāh",
+          "strongs_number": "4631",
+          "part_of_speech": "Conjunctive waw, Article | Noun - feminine singular",
+          "definition": "A cavern",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that was",
+          "word": "אֲשֶׁר־",
+          "transliteration": "’ă·šer-",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in it,",
+          "word": "בּ֔וֹ",
+          "transliteration": "bōw",
+          "strongs_number": "",
+          "part_of_speech": "Preposition | third person masculine singular",
+          "definition": "",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and all",
+          "word": "וְכָל־",
+          "transliteration": "wə·ḵāl",
+          "strongs_number": "3605",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the trees",
+          "word": "הָעֵץ֙",
+          "transliteration": "hā·‘êṣ",
+          "strongs_number": "6086",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Tree, trees, wood",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "within",
+          "word": "בְּכָל־",
+          "transliteration": "bə·ḵāl",
+          "strongs_number": "3605",
+          "part_of_speech": "Preposition-b | Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the boundaries",
+          "word": "גְּבֻל֖וֹ",
+          "transliteration": "gə·ḇu·lōw",
+          "strongs_number": "1366",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine singular",
+          "definition": "A cord, a boundary, the territory inclosed",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the field,",
+          "word": "בַּשָּׂדֶ֔ה",
+          "transliteration": "baś·śā·ḏeh",
+          "strongs_number": "7704",
+          "part_of_speech": "Preposition-b, Article | Noun - masculine singular",
+          "definition": "Field, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "were deeded over",
+          "word": "וַיָּ֣קָם ׀",
+          "transliteration": "way·yā·qām",
+          "strongs_number": "6965",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To arise, stand up, stand",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 49:30-32",
@@ -1504,7 +3186,80 @@
           "text": "to Abraham as a possession in the presence of the sons of Heth, before all who went in at the gate of his city."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "to Abraham’s",
+          "word": "לְאַבְרָהָ֥ם",
+          "transliteration": "lə·’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Preposition-l | Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "possession",
+          "word": "לְמִקְנָ֖ה",
+          "transliteration": "lə·miq·nāh",
+          "strongs_number": "4736",
+          "part_of_speech": "Preposition-l | Noun - feminine singular",
+          "definition": "A buying, acquisition, a piece of property, the sum paid",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in the presence",
+          "word": "לְעֵינֵ֣י",
+          "transliteration": "lə·‘ê·nê",
+          "strongs_number": "5869",
+          "part_of_speech": "Preposition-l | Noun - cdc",
+          "definition": "An eye, a fountain",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of all",
+          "word": "בְּכֹ֖ל",
+          "transliteration": "bə·ḵōl",
+          "strongs_number": "3605",
+          "part_of_speech": "Preposition-b | Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Hittites",
+          "word": "בְנֵי־",
+          "transliteration": "ḇə·nê-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "who had come",
+          "word": "בָּאֵ֥י",
+          "transliteration": "bā·’ê",
+          "strongs_number": "935",
+          "part_of_speech": "Verb - Qal - Participle - masculine plural construct",
+          "definition": "To come in, come, go in, go",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to the gate",
+          "word": "שַֽׁעַר־",
+          "transliteration": "ša·‘ar-",
+          "strongs_number": "8179",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "An opening, door, gate",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of his city.",
+          "word": "עִירֽוֹ׃",
+          "transliteration": "‘î·rōw",
+          "strongs_number": "5892",
+          "part_of_speech": "Noun - feminine singular construct | third person masculine singular",
+          "definition": "Excitement",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 49:30-32",
@@ -1591,7 +3346,152 @@
           "text": "And after this, Abraham buried Sarah his wife in the cave of the field of Machpelah, before Mamre (that is, Hebron) in the land of Canaan."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "After",
+          "word": "וְאַחֲרֵי־",
+          "transliteration": "wə·’a·ḥă·rê-",
+          "strongs_number": "310",
+          "part_of_speech": "Conjunctive waw | Preposition",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "this,",
+          "word": "כֵן֩",
+          "transliteration": "ḵên",
+          "strongs_number": "3651",
+          "part_of_speech": "Adverb",
+          "definition": "So -- thus",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Abraham",
+          "word": "אַבְרָהָ֜ם",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "buried",
+          "word": "קָבַ֨ר",
+          "transliteration": "qā·ḇar",
+          "strongs_number": "6912",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To inter",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "his wife",
+          "word": "אִשְׁתּ֗וֹ",
+          "transliteration": "’iš·tōw",
+          "strongs_number": "802",
+          "part_of_speech": "Noun - feminine singular construct | third person masculine singular",
+          "definition": "Woman, wife, female",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Sarah",
+          "word": "שָׂרָ֣ה",
+          "transliteration": "śā·rāh",
+          "strongs_number": "8283",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Sarah -- 'princess', a wife of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in",
+          "word": "אֶל־",
+          "transliteration": "’el-",
+          "strongs_number": "413",
+          "part_of_speech": "Preposition",
+          "definition": "Near, with, among, to",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the cave",
+          "word": "מְעָרַ֞ת",
+          "transliteration": "mə·‘ā·raṯ",
+          "strongs_number": "4631",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "A cavern",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the field",
+          "word": "שְׂדֵ֧ה",
+          "transliteration": "śə·ḏêh",
+          "strongs_number": "7704",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "Field, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "at Machpelah",
+          "word": "הַמַּכְפֵּלָ֛ה",
+          "transliteration": "ham·maḵ·pê·lāh",
+          "strongs_number": "4375",
+          "part_of_speech": "Article | Noun - proper - feminine singular",
+          "definition": "Machpelah -- a place near Hebron",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "near",
+          "word": "עַל־",
+          "transliteration": "‘al-",
+          "strongs_number": "5921",
+          "part_of_speech": "Preposition",
+          "definition": "Above, over, upon, against",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Mamre",
+          "word": "מַמְרֵ֖א",
+          "transliteration": "mam·rê",
+          "strongs_number": "4471",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Mamre -- a place in Palestine, also an ally of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "(that is,",
+          "word": "הִ֣וא",
+          "transliteration": "hî",
+          "strongs_number": "1931",
+          "part_of_speech": "Pronoun - third person feminine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Hebron)",
+          "word": "חֶבְר֑וֹן",
+          "transliteration": "ḥeḇ·rō·wn",
+          "strongs_number": "2275",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Hebron -- 'association, league', a city in southern Judah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in the land",
+          "word": "בְּאֶ֖רֶץ",
+          "transliteration": "bə·’e·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Preposition-b | Noun - feminine singular construct",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Canaan.",
+          "word": "כְּנָֽעַן׃",
+          "transliteration": "kə·nā·‘an",
+          "strongs_number": "3667",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Canaan -- a son of Ham, also his descendants and their land West of the Jordan",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 25:9-10",
@@ -1678,7 +3578,80 @@
           "text": "So the field and the cave that is in it were deeded to Abraham by the sons of Heth as property for a burial place."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "So the field",
+          "word": "הַשָּׂדֶ֜ה",
+          "transliteration": "haś·śā·ḏeh",
+          "strongs_number": "7704",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Field, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and its",
+          "word": "אֲשֶׁר־",
+          "transliteration": "’ă·šer-",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "cave",
+          "word": "וְהַמְּעָרָ֧ה",
+          "transliteration": "wə·ham·mə·‘ā·rāh",
+          "strongs_number": "4631",
+          "part_of_speech": "Conjunctive waw, Article | Noun - feminine singular",
+          "definition": "A cavern",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "were deeded",
+          "word": "וַיָּ֨קָם",
+          "transliteration": "way·yā·qām",
+          "strongs_number": "6965",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To arise, stand up, stand",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "by the Hittites",
+          "word": "בְּנֵי־",
+          "transliteration": "bə·nê-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to Abraham",
+          "word": "לְאַבְרָהָ֖ם",
+          "transliteration": "lə·’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Preposition-l | Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "as a burial",
+          "word": "קָ֑בֶר",
+          "transliteration": "qā·ḇer",
+          "strongs_number": "6913",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "A grave, sepulcher",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "site.",
+          "word": "לַאֲחֻזַּת־",
+          "transliteration": "la·’ă·ḥuz·zaṯ-",
+          "strongs_number": "272",
+          "part_of_speech": "Preposition-l | Noun - feminine singular construct",
+          "definition": "Something seized, a possession",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 49:29-32",

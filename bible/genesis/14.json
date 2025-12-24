@@ -25,7 +25,125 @@
           "text": "And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations,"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "In those days",
+          "word": "בִּימֵי֙",
+          "transliteration": "bî·mê",
+          "strongs_number": "3117",
+          "part_of_speech": "Preposition-b | Noun - masculine plural construct",
+          "definition": "A day",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Amraphel",
+          "word": "אַמְרָפֶ֣ל",
+          "transliteration": "’am·rā·p̄el",
+          "strongs_number": "569",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Amraphel -- king of Shinar",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "king",
+          "word": "מֶֽלֶךְ־",
+          "transliteration": "me·leḵ-",
+          "strongs_number": "4428",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Shinar,",
+          "word": "שִׁנְעָ֔ר",
+          "transliteration": "šin·‘ār",
+          "strongs_number": "8152",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Shinar -- another name for Babylon",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Arioch",
+          "word": "אַרְי֖וֹךְ",
+          "transliteration": "’ar·yō·wḵ",
+          "strongs_number": "746",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Arioch -- king of Ellasar",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "king",
+          "word": "מֶ֣לֶךְ",
+          "transliteration": "me·leḵ",
+          "strongs_number": "4428",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Ellasar,",
+          "word": "אֶלָּסָ֑ר",
+          "transliteration": "’el·lā·sār",
+          "strongs_number": "495",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Ellasar -- a country of unknown location",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Chedorlaomer",
+          "word": "כְּדָרְלָעֹ֙מֶר֙",
+          "transliteration": "kə·ḏā·rə·lā·‘ō·mer",
+          "strongs_number": "3540",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Chedorlaomer -- a king of Elam",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "king",
+          "word": "מֶ֣לֶךְ",
+          "transliteration": "me·leḵ",
+          "strongs_number": "4428",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Elam,",
+          "word": "עֵילָ֔ם",
+          "transliteration": "‘ê·lām",
+          "strongs_number": "5867",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Elam -- a son of Shem, also his descendants and their country",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Tidal",
+          "word": "וְתִדְעָ֖ל",
+          "transliteration": "wə·ṯiḏ·‘āl",
+          "strongs_number": "8413",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Tidal -- perhaps a Canaanite king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "king",
+          "word": "מֶ֥לֶךְ",
+          "transliteration": "me·leḵ",
+          "strongs_number": "4428",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Goiim",
+          "word": "גּוֹיִֽם׃",
+          "transliteration": "gō·w·yim",
+          "strongs_number": "1471",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A foreign nation, a Gentile, a troop of animals, a flight of locusts",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Hebrews 7:1-2",
@@ -112,7 +230,179 @@
           "text": "that they made war with Bera king of Sodom, Birsha king of Gomorrah, Shinab king of Admah, Shemeber king of Zeboiim, and the king of Bela (that is, Zoar)."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "went to",
+          "word": "עָשׂ֣וּ",
+          "transliteration": "‘ā·śū",
+          "strongs_number": "6213",
+          "part_of_speech": "Verb - Qal - Perfect - third person common plural",
+          "definition": "To do, make",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "war",
+          "word": "מִלְחָמָ֗ה",
+          "transliteration": "mil·ḥā·māh",
+          "strongs_number": "4421",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A battle, war",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "against",
+          "word": "אֶת־",
+          "transliteration": "’eṯ-",
+          "strongs_number": "854",
+          "part_of_speech": "Preposition",
+          "definition": "Nearness, near, with, by, at, among",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Bera",
+          "word": "בֶּ֙רַע֙",
+          "transliteration": "be·ra‘",
+          "strongs_number": "1298",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Bera -- a king of Sodom",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "king",
+          "word": "מֶ֣לֶךְ",
+          "transliteration": "me·leḵ",
+          "strongs_number": "4428",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Sodom,",
+          "word": "סְדֹ֔ם",
+          "transliteration": "sə·ḏōm",
+          "strongs_number": "5467",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Sodom -- a Canaanite city near the Dead Sea",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Birsha",
+          "word": "בִּרְשַׁ֖ע",
+          "transliteration": "bir·ša‘",
+          "strongs_number": "1306",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Birsha -- a king of Gomorrah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "king",
+          "word": "מֶ֣לֶךְ",
+          "transliteration": "me·leḵ",
+          "strongs_number": "4428",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Gomorrah,",
+          "word": "עֲמֹרָ֑ה",
+          "transliteration": "‘ă·mō·rāh",
+          "strongs_number": "6017",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Gomorrah -- a city in the Jordan Valley",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Shinab",
+          "word": "שִׁנְאָ֣ב ׀",
+          "transliteration": "šin·’āḇ",
+          "strongs_number": "8134",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Shinab -- a king of Admah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "king",
+          "word": "מֶ֣לֶךְ",
+          "transliteration": "me·leḵ",
+          "strongs_number": "4428",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Admah,",
+          "word": "אַדְמָ֗ה",
+          "transliteration": "’aḏ·māh",
+          "strongs_number": "126",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Admah -- a city near Sodom and Gomorrah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Shemeber",
+          "word": "וְשֶׁמְאֵ֙בֶר֙",
+          "transliteration": "wə·šem·’ê·ḇer",
+          "strongs_number": "8038",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Shemeber -- 'name of pinion', king of Zeboiim",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "king",
+          "word": "מֶ֣לֶךְ",
+          "transliteration": "me·leḵ",
+          "strongs_number": "4428",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Zeboiim,",
+          "word": "צְבוֹיִ֔ים‪‬",
+          "transliteration": "ṣə·ḇō·w·yîm",
+          "strongs_number": "6636",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Zeboiim -- a place near Sodom",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and the king",
+          "word": "וּמֶ֥לֶךְ",
+          "transliteration": "ū·me·leḵ",
+          "strongs_number": "4428",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Bela",
+          "word": "בֶּ֖לַע",
+          "transliteration": "be·la‘",
+          "strongs_number": "1106",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Bela -- an Edomite, also two Israelites",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "(that is,",
+          "word": "הִיא־",
+          "transliteration": "hî-",
+          "strongs_number": "1931",
+          "part_of_speech": "Pronoun - third person feminine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Zoar).",
+          "word": "צֹֽעַר׃",
+          "transliteration": "ṣō·‘ar",
+          "strongs_number": "6820",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Zoar -- 'insignificance', a city at the southeastern end of the Dead Sea",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Hebrews 7:1-2",
@@ -199,7 +489,89 @@
           "text": "All these joined together in the Valley of Siddim (that is, the Salt Sea)."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "The latter",
+          "word": "אֵ֙לֶּה֙",
+          "transliteration": "’êl·leh",
+          "strongs_number": "428",
+          "part_of_speech": "Pronoun - common plural",
+          "definition": "These, those",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[five]",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "came as allies",
+          "word": "חָֽבְר֔וּ",
+          "transliteration": "ḥā·ḇə·rū",
+          "strongs_number": "2266",
+          "part_of_speech": "Verb - Qal - Perfect - third person common plural",
+          "definition": "To unite, be joined, to tie a magic knot or spell, to charm",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to",
+          "word": "אֶל־",
+          "transliteration": "’el-",
+          "strongs_number": "413",
+          "part_of_speech": "Preposition",
+          "definition": "Near, with, among, to",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Valley",
+          "word": "עֵ֖מֶק",
+          "transliteration": "‘ê·meq",
+          "strongs_number": "6010",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A vale",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Siddim",
+          "word": "הַשִּׂדִּ֑ים",
+          "transliteration": "haś·śid·dîm",
+          "strongs_number": "7708",
+          "part_of_speech": "Article | Noun - proper - feminine singular",
+          "definition": "Siddim -- a valley near the Dead Sea",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "(that is,",
+          "word": "ה֖וּא",
+          "transliteration": "hū",
+          "strongs_number": "1931",
+          "part_of_speech": "Pronoun - third person masculine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Salt",
+          "word": "הַמֶּֽלַח׃",
+          "transliteration": "ham·me·laḥ",
+          "strongs_number": "4417",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Powder, salt",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Sea).",
+          "word": "יָ֥ם",
+          "transliteration": "yām",
+          "strongs_number": "3220",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A sea, the Mediterranean Sea, large river, an artifical basin",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Joshua 11:5",
@@ -286,7 +658,71 @@
           "text": "Twelve years they served Chedorlaomer, and in the thirteenth year they rebelled."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "For twelve",
+          "word": "שְׁתֵּ֤ים",
+          "transliteration": "šə·têm",
+          "strongs_number": "8147",
+          "part_of_speech": "Number - fd",
+          "definition": "Two (a cardinal number)",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years",
+          "word": "שָׁנָ֔ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "they had been subject",
+          "word": "עָבְד֖וּ",
+          "transliteration": "‘ā·ḇə·ḏū",
+          "strongs_number": "5647",
+          "part_of_speech": "Verb - Qal - Perfect - third person common plural",
+          "definition": "To work, to serve, till, enslave",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to Chedorlaomer,",
+          "word": "כְּדָרְלָעֹ֑מֶר",
+          "transliteration": "kə·ḏā·rə·lā·‘ō·mer",
+          "strongs_number": "3540",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Chedorlaomer -- a king of Elam",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "but in the thirteenth",
+          "word": "וּשְׁלֹשׁ־",
+          "transliteration": "ū·šə·lōš-",
+          "strongs_number": "7969",
+          "part_of_speech": "Conjunctive waw | Number - feminine singular construct",
+          "definition": "Three, third, thrice",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "year",
+          "word": "שָׁנָ֖ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "they rebelled.",
+          "word": "מָרָֽדוּ׃",
+          "transliteration": "mā·rā·ḏū",
+          "strongs_number": "4775",
+          "part_of_speech": "Verb - Qal - Perfect - third person common plural",
+          "definition": "To rebel",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Exodus 1:11-14",
@@ -373,7 +809,134 @@
           "text": "In the fourteenth year Chedorlaomer and the kings that were with him came and attacked the Rephaim in Ashteroth Karnaim, the Zuzim in Ham, the Emim in Shaveh Kiriathaim,"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "In the fourteenth",
+          "word": "וּבְאַרְבַּע֩",
+          "transliteration": "ū·ḇə·’ar·ba‘",
+          "strongs_number": "702",
+          "part_of_speech": "Conjunctive waw, Preposition-b | Number - feminine singular construct",
+          "definition": "Four",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "year,",
+          "word": "שָׁנָ֜ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Chedorlaomer",
+          "word": "כְדָרְלָעֹ֗מֶר",
+          "transliteration": "ḵə·ḏā·rə·lā·‘ō·mer",
+          "strongs_number": "3540",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Chedorlaomer -- a king of Elam",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and the kings",
+          "word": "וְהַמְּלָכִים֙",
+          "transliteration": "wə·ham·mə·lā·ḵîm",
+          "strongs_number": "4428",
+          "part_of_speech": "Conjunctive waw, Article | Noun - masculine plural",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "who were",
+          "word": "אֲשֶׁ֣ר",
+          "transliteration": "’ă·šer",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "allied with him",
+          "word": "אִתּ֔וֹ",
+          "transliteration": "’it·tōw",
+          "strongs_number": "854",
+          "part_of_speech": "Preposition | third person masculine singular",
+          "definition": "Nearness, near, with, by, at, among",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "went out",
+          "word": "בָּ֣א",
+          "transliteration": "bā",
+          "strongs_number": "935",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To come in, come, go in, go",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and defeated",
+          "word": "וַיַּכּ֤וּ",
+          "transliteration": "way·yak·kū",
+          "strongs_number": "5221",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine plural",
+          "definition": "To strike",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Rephaites",
+          "word": "רְפָאִים֙",
+          "transliteration": "rə·p̄ā·’îm",
+          "strongs_number": "7497",
+          "part_of_speech": "Noun - proper - masculine plural",
+          "definition": "Rephaim -- inhabitants of an area East of the Jordan",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in Ashteroth-karnaim,",
+          "word": "קַרְנַ֔יִם",
+          "transliteration": "qar·na·yim",
+          "strongs_number": "6255",
+          "part_of_speech": "Preposition | Noun - proper - feminine singular",
+          "definition": "Ashteroth-karnaim -- 'Ashtaroth of the double horns', a place East of the Jordan",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Zuzites",
+          "word": "הַזּוּזִ֖ים",
+          "transliteration": "haz·zū·zîm",
+          "strongs_number": "2104",
+          "part_of_speech": "Article | Noun - proper - masculine plural",
+          "definition": "Zuzim -- a people East of the Jordan",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in Ham,",
+          "word": "בְּהָ֑ם",
+          "transliteration": "bə·hām",
+          "strongs_number": "1990",
+          "part_of_speech": "Preposition-b | Noun - proper - feminine singular",
+          "definition": "Ham -- a place in Palestine",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Emites",
+          "word": "הָֽאֵימִ֔ים",
+          "transliteration": "hā·’ê·mîm",
+          "strongs_number": "368",
+          "part_of_speech": "Article | Noun - proper - masculine plural",
+          "definition": "terrors', an inhabitant of Moab",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in Shaveh-kiriathaim,",
+          "word": "בְּשָׁוֵ֖ה",
+          "transliteration": "bə·šā·wêh",
+          "strongs_number": "7740",
+          "part_of_speech": "Preposition-b | Noun - masculine singular construct",
+          "definition": "Shaveh -- a valley near Salem",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Deuteronomy 2:10-12",
@@ -460,7 +1023,80 @@
           "text": "and the Horites in their mountain of Seir, as far as El Paran, which is by the wilderness."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "and the Horites",
+          "word": "הַחֹרִ֖י",
+          "transliteration": "ha·ḥō·rî",
+          "strongs_number": "2752",
+          "part_of_speech": "Article | Noun - proper - masculine singular",
+          "definition": "Horites -- a Chorite, aboriginal Idumaean",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in the hill country",
+          "word": "בְּהַרְרָ֣ם",
+          "transliteration": "bə·har·rām",
+          "strongs_number": "2022",
+          "part_of_speech": "Preposition-b | Noun - masculine singular construct | third person masculine plural",
+          "definition": "Mountain, hill, hill country",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Seir,",
+          "word": "שֵׂעִ֑יר",
+          "transliteration": "śê·‘îr",
+          "strongs_number": "8165",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Seir -- a mountain range in Edom, also its inhabitants, also a mountain in Judah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "as",
+          "word": "עַ֚ד",
+          "transliteration": "‘aḏ",
+          "strongs_number": "5704",
+          "part_of_speech": "Preposition",
+          "definition": "As far as, even to, up to, until, while",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "far as El-paran,",
+          "word": "פָּארָ֔ן",
+          "transliteration": "pā·rān",
+          "strongs_number": "364",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "El-paran -- 'terebinth of Paran', a city and harbor on the Red Sea",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "which [is]",
+          "word": "אֲשֶׁ֖ר",
+          "transliteration": "’ă·šer",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "near",
+          "word": "עַל־",
+          "transliteration": "‘al-",
+          "strongs_number": "5921",
+          "part_of_speech": "Preposition",
+          "definition": "Above, over, upon, against",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the desert.",
+          "word": "הַמִּדְבָּֽר׃",
+          "transliteration": "ham·miḏ·bār",
+          "strongs_number": "4057",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "A pasture, a desert, speech",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Deuteronomy 2:10-12",
@@ -547,7 +1183,125 @@
           "text": "Then they turned back and came to En Mishpat (that is, Kadesh), and attacked all the country of the Amalekites, and also the Amorites who dwelt in Hazezon Tamar."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Then they turned back",
+          "word": "וַ֠יָּשֻׁבוּ",
+          "transliteration": "way·yā·šu·ḇū",
+          "strongs_number": "7725",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To turn back, in, to retreat, again",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to invade",
+          "word": "וַיָּבֹ֜אוּ",
+          "transliteration": "way·yā·ḇō·’ū",
+          "strongs_number": "935",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To come in, come, go in, go",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "En-mishpat",
+          "word": "מִשְׁפָּט֙",
+          "transliteration": "miš·pāṭ",
+          "strongs_number": "5880",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "En-mishpat -- 'spring of judgment', another name for a place called Kadesh",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "(that is,",
+          "word": "הִ֣וא",
+          "transliteration": "hî",
+          "strongs_number": "1931",
+          "part_of_speech": "Pronoun - third person feminine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Kadesh),",
+          "word": "קָדֵ֔שׁ",
+          "transliteration": "qā·ḏêš",
+          "strongs_number": "6946",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Kadesh -- 'sacred', a place in the desert",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and they conquered",
+          "word": "וַיַּכּ֕וּ",
+          "transliteration": "way·yak·kū",
+          "strongs_number": "5221",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine plural",
+          "definition": "To strike",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the whole",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "territory",
+          "word": "שְׂדֵ֖ה",
+          "transliteration": "śə·ḏêh",
+          "strongs_number": "7704",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "Field, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the Amalekites,",
+          "word": "הָעֲמָלֵקִ֑י",
+          "transliteration": "hā·‘ă·mā·lê·qî",
+          "strongs_number": "6003",
+          "part_of_speech": "Article | Noun - proper - masculine singular",
+          "definition": "Amalekites -- descendants of Amalek",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "as",
+          "word": "וְגַם֙",
+          "transliteration": "wə·ḡam",
+          "strongs_number": "1571",
+          "part_of_speech": "Conjunctive waw | Conjunction",
+          "definition": "Assemblage, also, even, yea, though, both, and",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "well as the Amorites",
+          "word": "הָ֣אֱמֹרִ֔י",
+          "transliteration": "hā·’ĕ·mō·rî",
+          "strongs_number": "567",
+          "part_of_speech": "Article | Noun - proper - masculine singular",
+          "definition": "Amorites -- perhaps 'mountain dwellers', a Canaanite tribe",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "who lived",
+          "word": "הַיֹּשֵׁ֖ב",
+          "transliteration": "hay·yō·šêḇ",
+          "strongs_number": "3427",
+          "part_of_speech": "Article | Verb - Qal - Participle - masculine singular",
+          "definition": "To sit down, to dwell, to remain, to settle, to marry",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in Hazazon-tamar.",
+          "word": "תָּמָֽר׃",
+          "transliteration": "tā·mār",
+          "strongs_number": "2688",
+          "part_of_speech": "Preposition | Noun - proper - feminine singular",
+          "definition": "Hazazon-tamar -- a place on the west side of the Dead Sea",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Deuteronomy 2:10-12",
@@ -634,7 +1388,161 @@
           "text": "And the king of Sodom, the king of Gomorrah, the king of Admah, the king of Zeboiim, and the king of Bela (that is, Zoar) went out and joined together in battle in the Valley of Siddim"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Then the king",
+          "word": "מֶֽלֶךְ־",
+          "transliteration": "me·leḵ-",
+          "strongs_number": "4428",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Sodom,",
+          "word": "סְדֹ֜ם",
+          "transliteration": "sə·ḏōm",
+          "strongs_number": "5467",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Sodom -- a Canaanite city near the Dead Sea",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the king",
+          "word": "וּמֶ֣לֶךְ",
+          "transliteration": "ū·me·leḵ",
+          "strongs_number": "4428",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Gomorrah,",
+          "word": "עֲמֹרָ֗ה",
+          "transliteration": "‘ă·mō·rāh",
+          "strongs_number": "6017",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Gomorrah -- a city in the Jordan Valley",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the king",
+          "word": "וּמֶ֤לֶךְ",
+          "transliteration": "ū·me·leḵ",
+          "strongs_number": "4428",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Admah,",
+          "word": "אַדְמָה֙",
+          "transliteration": "’aḏ·māh",
+          "strongs_number": "126",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Admah -- a city near Sodom and Gomorrah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the king",
+          "word": "וּמֶ֣לֶךְ",
+          "transliteration": "ū·me·leḵ",
+          "strongs_number": "4428",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Zeboiim,",
+          "word": "צְבוֹיִ֔ם",
+          "transliteration": "ṣə·ḇō·w·yim",
+          "strongs_number": "6636",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Zeboiim -- a place near Sodom",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and the king",
+          "word": "וּמֶ֥לֶךְ",
+          "transliteration": "ū·me·leḵ",
+          "strongs_number": "4428",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Bela",
+          "word": "בֶּ֖לַע",
+          "transliteration": "be·la‘",
+          "strongs_number": "1106",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Bela -- an Edomite, also two Israelites",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "(that is,",
+          "word": "הִוא־",
+          "transliteration": "hî",
+          "strongs_number": "1931",
+          "part_of_speech": "Pronoun - third person feminine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Zoar)",
+          "word": "צֹ֑עַר",
+          "transliteration": "ṣō·‘ar",
+          "strongs_number": "6820",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Zoar -- 'insignificance', a city at the southeastern end of the Dead Sea",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "marched out",
+          "word": "וַיֵּצֵ֨א",
+          "transliteration": "way·yê·ṣê",
+          "strongs_number": "3318",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To go, bring, out, direct and proxim",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and arrayed",
+          "word": "וַיַּֽעַרְכ֤וּ",
+          "transliteration": "way·ya·‘ar·ḵū",
+          "strongs_number": "6186",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To set in a, row, arrange, put in order",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "for battle",
+          "word": "מִלְחָמָ֔ה",
+          "transliteration": "mil·ḥā·māh",
+          "strongs_number": "4421",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A battle, war",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in the Valley",
+          "word": "בְּעֵ֖מֶק",
+          "transliteration": "bə·‘ê·meq",
+          "strongs_number": "6010",
+          "part_of_speech": "Preposition-b | Noun - masculine singular construct",
+          "definition": "A vale",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Siddim",
+          "word": "הַשִּׂדִּֽים׃",
+          "transliteration": "haś·śid·dîm",
+          "strongs_number": "7708",
+          "part_of_speech": "Article | Noun - proper - feminine singular",
+          "definition": "Siddim -- a valley near the Dead Sea",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Hebrews 7:1-2",
@@ -721,7 +1629,161 @@
           "text": "against Chedorlaomer king of Elam, Tidal king of nations, Amraphel king of Shinar, and Arioch king of Ellasar—four kings against five."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "against",
+          "word": "אֵ֣ת",
+          "transliteration": "’êṯ",
+          "strongs_number": "854",
+          "part_of_speech": "Preposition",
+          "definition": "Nearness, near, with, by, at, among",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Chedorlaomer",
+          "word": "כְּדָרְלָעֹ֜מֶר",
+          "transliteration": "kə·ḏā·rə·lā·‘ō·mer",
+          "strongs_number": "3540",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Chedorlaomer -- a king of Elam",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "king",
+          "word": "מֶ֣לֶךְ",
+          "transliteration": "me·leḵ",
+          "strongs_number": "4428",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Elam,",
+          "word": "עֵילָ֗ם",
+          "transliteration": "‘ê·lām",
+          "strongs_number": "5867",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Elam -- a son of Shem, also his descendants and their country",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Tidal",
+          "word": "וְתִדְעָל֙",
+          "transliteration": "wə·ṯiḏ·‘āl",
+          "strongs_number": "8413",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Tidal -- perhaps a Canaanite king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "king",
+          "word": "מֶ֣לֶךְ",
+          "transliteration": "me·leḵ",
+          "strongs_number": "4428",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Goiim,",
+          "word": "גּוֹיִ֔ם",
+          "transliteration": "gō·w·yim",
+          "strongs_number": "1471",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A foreign nation, a Gentile, a troop of animals, a flight of locusts",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Amraphel",
+          "word": "וְאַמְרָפֶל֙",
+          "transliteration": "wə·’am·rā·p̄el",
+          "strongs_number": "569",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Amraphel -- king of Shinar",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "king",
+          "word": "מֶ֣לֶךְ",
+          "transliteration": "me·leḵ",
+          "strongs_number": "4428",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Shinar,",
+          "word": "שִׁנְעָ֔ר",
+          "transliteration": "šin·‘ār",
+          "strongs_number": "8152",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Shinar -- another name for Babylon",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Arioch",
+          "word": "וְאַרְי֖וֹךְ",
+          "transliteration": "wə·’ar·yō·wḵ",
+          "strongs_number": "746",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Arioch -- king of Ellasar",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "king",
+          "word": "מֶ֣לֶךְ",
+          "transliteration": "me·leḵ",
+          "strongs_number": "4428",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Ellasar—",
+          "word": "אֶלָּסָ֑ר",
+          "transliteration": "’el·lā·sār",
+          "strongs_number": "495",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Ellasar -- a country of unknown location",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "four",
+          "word": "אַרְבָּעָ֥ה",
+          "transliteration": "’ar·bā·‘āh",
+          "strongs_number": "702",
+          "part_of_speech": "Number - masculine singular",
+          "definition": "Four",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "kings",
+          "word": "מְלָכִ֖ים",
+          "transliteration": "mə·lā·ḵîm",
+          "strongs_number": "4428",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "against",
+          "word": "אֶת־",
+          "transliteration": "’eṯ-",
+          "strongs_number": "854",
+          "part_of_speech": "Preposition",
+          "definition": "Nearness, near, with, by, at, among",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "five.",
+          "word": "הַחֲמִשָּֽׁה׃",
+          "transliteration": "ha·ḥă·miš·šāh",
+          "strongs_number": "2568",
+          "part_of_speech": "Article | Number - masculine singular",
+          "definition": "Five",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Hebrews 7:1-2",
@@ -808,7 +1870,125 @@
           "text": "Now the Valley of Siddim was full of asphalt pits; and the kings of Sodom and Gomorrah fled; some fell there, and the remainder fled to the mountains."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Now the Valley",
+          "word": "וְעֵ֣מֶק",
+          "transliteration": "wə·‘ê·meq",
+          "strongs_number": "6010",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular construct",
+          "definition": "A vale",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Siddim",
+          "word": "הַשִׂדִּ֗ים‪‬",
+          "transliteration": "ha·śid·dîm",
+          "strongs_number": "7708",
+          "part_of_speech": "Article | Noun - proper - feminine singular",
+          "definition": "Siddim -- a valley near the Dead Sea",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was full of tar",
+          "word": "חֵמָ֔ר",
+          "transliteration": "ḥê·mār",
+          "strongs_number": "2564",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Bitumen, asphalt",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "pits,",
+          "word": "בֶּֽאֱרֹ֤ת",
+          "transliteration": "be·’ĕ·rōṯ",
+          "strongs_number": "875",
+          "part_of_speech": "Noun - feminine plural construct",
+          "definition": "A pit, a well",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and as the kings",
+          "word": "מֶֽלֶךְ־",
+          "transliteration": "me·leḵ-",
+          "strongs_number": "4428",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Sodom",
+          "word": "סְדֹ֥ם",
+          "transliteration": "sə·ḏōm",
+          "strongs_number": "5467",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Sodom -- a Canaanite city near the Dead Sea",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Gomorrah",
+          "word": "וַעֲמֹרָ֖ה",
+          "transliteration": "wa·‘ă·mō·rāh",
+          "strongs_number": "6017",
+          "part_of_speech": "Conjunctive waw | Noun - proper - feminine singular",
+          "definition": "Gomorrah -- a city in the Jordan Valley",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "fled,",
+          "word": "וַיָּנֻ֛סוּ",
+          "transliteration": "way·yā·nu·sū",
+          "strongs_number": "5127",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To flit, vanish away",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "some men fell",
+          "word": "וַיִּפְּלוּ־",
+          "transliteration": "way·yip·pə·lū-",
+          "strongs_number": "5307",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To fall, lie",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "into [the pits],",
+          "word": "שָׁ֑מָּה",
+          "transliteration": "šām·māh",
+          "strongs_number": "8033",
+          "part_of_speech": "Adverb | third person feminine singular",
+          "definition": "There, then, thither",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "but the survivors",
+          "word": "וְהַנִּשְׁאָרִ֖ים",
+          "transliteration": "wə·han·niš·’ā·rîm",
+          "strongs_number": "7604",
+          "part_of_speech": "Conjunctive waw, Article | Verb - Nifal - Participle - masculine plural",
+          "definition": "To swell up, be, redundant",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "fled",
+          "word": "נָּֽסוּ׃",
+          "transliteration": "nā·sū",
+          "strongs_number": "5127",
+          "part_of_speech": "Verb - Qal - Perfect - third person common plural",
+          "definition": "To flit, vanish away",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to the hill country.",
+          "word": "הֶ֥רָה",
+          "transliteration": "he·rāh",
+          "strongs_number": "2022",
+          "part_of_speech": "Noun - masculine singular | third person feminine singular",
+          "definition": "Mountain, hill, hill country",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "2 Kings 3:9",
@@ -895,7 +2075,80 @@
           "text": "Then they took all the goods of Sodom and Gomorrah, and all their provisions, and went their way."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "The [four kings] seized",
+          "word": "וַ֠יִּקְחוּ",
+          "transliteration": "way·yiq·ḥū",
+          "strongs_number": "3947",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To take",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "all",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the goods",
+          "word": "רְכֻ֨שׁ",
+          "transliteration": "rə·ḵuš",
+          "strongs_number": "7399",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "Property, goods",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Sodom",
+          "word": "סְדֹ֧ם",
+          "transliteration": "sə·ḏōm",
+          "strongs_number": "5467",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Sodom -- a Canaanite city near the Dead Sea",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Gomorrah",
+          "word": "וַעֲמֹרָ֛ה",
+          "transliteration": "wa·‘ă·mō·rāh",
+          "strongs_number": "6017",
+          "part_of_speech": "Conjunctive waw | Noun - proper - feminine singular",
+          "definition": "Gomorrah -- a city in the Jordan Valley",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and all",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "their food,",
+          "word": "אָכְלָ֖ם",
+          "transliteration": "’ā·ḵə·lām",
+          "strongs_number": "400",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine plural",
+          "definition": "Food",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and they went on their way.",
+          "word": "וַיֵּלֵֽכוּ׃",
+          "transliteration": "way·yê·lê·ḵū",
+          "strongs_number": "1980",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To go, come, walk",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 19:29",
@@ -982,7 +2235,80 @@
           "text": "They also took Lot, Abram’s brother’s son who dwelt in Sodom, and his goods, and departed."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "They also carried off",
+          "word": "וַיִּקְח֨וּ",
+          "transliteration": "way·yiq·ḥū",
+          "strongs_number": "3947",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To take",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Abram’s",
+          "word": "אַבְרָ֖ם",
+          "transliteration": "’aḇ·rām",
+          "strongs_number": "87",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abram -- 'exalted father', the original name of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "nephew",
+          "word": "בֶּן־",
+          "transliteration": "ben-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Lot",
+          "word": "ל֧וֹט",
+          "transliteration": "lō·wṭ",
+          "strongs_number": "3876",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Lot -- Abraham's nephew",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and his possessions,",
+          "word": "רְכֻשׁ֛וֹ",
+          "transliteration": "rə·ḵu·šōw",
+          "strongs_number": "7399",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine singular",
+          "definition": "Property, goods",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "since he",
+          "word": "וְה֥וּא",
+          "transliteration": "wə·hū",
+          "strongs_number": "1931",
+          "part_of_speech": "Conjunctive waw | Pronoun - third person masculine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was living",
+          "word": "יֹשֵׁ֖ב",
+          "transliteration": "yō·šêḇ",
+          "strongs_number": "3427",
+          "part_of_speech": "Verb - Qal - Participle - masculine singular",
+          "definition": "To sit down, to dwell, to remain, to settle, to marry",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in Sodom.",
+          "word": "בִּסְדֹֽם׃",
+          "transliteration": "bis·ḏōm",
+          "strongs_number": "5467",
+          "part_of_speech": "Preposition-b | Noun - proper - feminine singular",
+          "definition": "Sodom -- a Canaanite city near the Dead Sea",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 13:12",
@@ -1069,7 +2395,170 @@
           "text": "Then one who had escaped came and told Abram the Hebrew, for he dwelt by the terebinth trees of Mamre the Amorite, brother of Eshcol and brother of Aner; and they were allies with Abram."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Then an escapee",
+          "word": "הַפָּלִ֔יט",
+          "transliteration": "hap·pā·lîṭ",
+          "strongs_number": "6412",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Escaped one, fugitive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "came",
+          "word": "וַיָּבֹא֙",
+          "transliteration": "way·yā·ḇō",
+          "strongs_number": "935",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To come in, come, go in, go",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and reported [this]",
+          "word": "וַיַּגֵּ֖ד",
+          "transliteration": "way·yag·gêḏ",
+          "strongs_number": "5046",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To be conspicuous",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to Abram",
+          "word": "לְאַבְרָ֣ם",
+          "transliteration": "lə·’aḇ·rām",
+          "strongs_number": "87",
+          "part_of_speech": "Preposition-l | Noun - proper - masculine singular",
+          "definition": "Abram -- 'exalted father', the original name of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Hebrew.",
+          "word": "הָעִבְרִ֑י",
+          "transliteration": "hā·‘iḇ·rî",
+          "strongs_number": "5680",
+          "part_of_speech": "Article | Noun - proper - masculine singular",
+          "definition": "Hebrews -- perhaps descendant of Eber, also another name for an Israelite",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Now [Abram]",
+          "word": "וְהוּא֩",
+          "transliteration": "wə·hū",
+          "strongs_number": "1931",
+          "part_of_speech": "Conjunctive waw | Pronoun - third person masculine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was living",
+          "word": "שֹׁכֵ֨ן",
+          "transliteration": "šō·ḵên",
+          "strongs_number": "7931",
+          "part_of_speech": "Verb - Qal - Participle - masculine singular",
+          "definition": "To settle down, abide, dwell",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "near the oaks",
+          "word": "בְּאֵֽלֹנֵ֜י",
+          "transliteration": "bə·’ê·lō·nê",
+          "strongs_number": "436",
+          "part_of_speech": "Preposition-b | Noun - masculine plural construct",
+          "definition": "An oak, other strong tree",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Mamre",
+          "word": "מַמְרֵ֣א",
+          "transliteration": "mam·rê",
+          "strongs_number": "4471",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Mamre -- a place in Palestine, also an ally of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Amorite,",
+          "word": "הָאֱמֹרִ֗י",
+          "transliteration": "hā·’ĕ·mō·rî",
+          "strongs_number": "567",
+          "part_of_speech": "Article | Noun - proper - masculine singular",
+          "definition": "Amorites -- perhaps 'mountain dwellers', a Canaanite tribe",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a brother",
+          "word": "אֲחִ֤י",
+          "transliteration": "’ă·ḥî",
+          "strongs_number": "251",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A brother, )",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Eshcol",
+          "word": "אֶשְׁכֹּל֙",
+          "transliteration": "’eš·kōl",
+          "strongs_number": "812",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Eshcol -- an Amorite, also a region of Hebron",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[and]",
+          "word": "וַאֲחִ֣י",
+          "transliteration": "wa·’ă·ḥî",
+          "strongs_number": "251",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular construct",
+          "definition": "A brother, )",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Aner,",
+          "word": "עָנֵ֔ר",
+          "transliteration": "‘ā·nêr",
+          "strongs_number": "6063",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Aner -- an ally of Abram, also a place in Manasseh",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "all of whom",
+          "word": "וְהֵ֖ם",
+          "transliteration": "wə·hêm",
+          "strongs_number": "1992",
+          "part_of_speech": "Conjunctive waw | Pronoun - third person masculine plural",
+          "definition": "They",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "were bound",
+          "word": "בַּעֲלֵ֥י",
+          "transliteration": "ba·‘ă·lê",
+          "strongs_number": "1167",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "A master, a husband, owner",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "by treaty",
+          "word": "בְרִית־",
+          "transliteration": "ḇə·rîṯ-",
+          "strongs_number": "1285",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "A covenant",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to Abram.",
+          "word": "אַבְרָֽם׃",
+          "transliteration": "’aḇ·rām",
+          "strongs_number": "87",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abram -- 'exalted father', the original name of Abraham",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Hebrews 7:1-2",
@@ -1156,7 +2645,125 @@
           "text": "Now when Abram heard that his brother was taken captive, he armed his three hundred and eighteen trained servants who were born in his own house, and went in pursuit as far as Dan."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And when Abram",
+          "word": "אַבְרָ֔ם",
+          "transliteration": "’aḇ·rām",
+          "strongs_number": "87",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abram -- 'exalted father', the original name of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "heard",
+          "word": "וַיִּשְׁמַ֣ע",
+          "transliteration": "way·yiš·ma‘",
+          "strongs_number": "8085",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To hear intelligently",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that",
+          "word": "כִּ֥י",
+          "transliteration": "kî",
+          "strongs_number": "3588",
+          "part_of_speech": "Conjunction",
+          "definition": "A relative conjunction",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "his relative",
+          "word": "אָחִ֑יו",
+          "transliteration": "’ā·ḥîw",
+          "strongs_number": "251",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine singular",
+          "definition": "A brother, )",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "had been captured,",
+          "word": "נִשְׁבָּ֖ה",
+          "transliteration": "niš·bāh",
+          "strongs_number": "7617",
+          "part_of_speech": "Verb - Nifal - Perfect - third person masculine singular",
+          "definition": "To transport into captivity",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he assembled",
+          "word": "וַיָּ֨רֶק",
+          "transliteration": "way·yā·req",
+          "strongs_number": "7324",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "Arm, cast out, draw out, make empty, pour forth out",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the 318",
+          "word": "שְׁמֹנָ֤ה",
+          "transliteration": "šə·mō·nāh",
+          "strongs_number": "8083",
+          "part_of_speech": "Number - masculine singular",
+          "definition": "A cardinal number, eight, eighth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "trained men",
+          "word": "חֲנִיכָ֜יו",
+          "transliteration": "ḥă·nî·ḵāw",
+          "strongs_number": "2593",
+          "part_of_speech": "Noun - masculine plural construct | third person masculine singular",
+          "definition": "Trained, tried, experienced",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "born",
+          "word": "יְלִידֵ֣י",
+          "transliteration": "yə·lî·ḏê",
+          "strongs_number": "3211",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "Born",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in his household,",
+          "word": "בֵית֗וֹ",
+          "transliteration": "ḇê·ṯōw",
+          "strongs_number": "1004",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine singular",
+          "definition": "A house",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and they set out in pursuit",
+          "word": "וַיִּרְדֹּ֖ף",
+          "transliteration": "way·yir·dōp̄",
+          "strongs_number": "7291",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To pursue, chase, persecute",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "as",
+          "word": "עַד־",
+          "transliteration": "‘aḏ-",
+          "strongs_number": "5704",
+          "part_of_speech": "Preposition",
+          "definition": "As far as, even to, up to, until, while",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "far as Dan.",
+          "word": "דָּֽן׃",
+          "transliteration": "dān",
+          "strongs_number": "1835",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Dan -- 'judge', a son of Jacob, also a place in Northern Israel",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Hebrews 7:1-2",
@@ -1243,7 +2850,98 @@
           "text": "He divided his forces against them by night, and he and his servants attacked them and pursued them as far as Hobah, which is north of Damascus."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "During the night,",
+          "word": "לַ֛יְלָה",
+          "transliteration": "lay·lāh",
+          "strongs_number": "3915",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "A twist, night, adversity",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[Abram]",
+          "word": "ה֥וּא",
+          "transliteration": "hū",
+          "strongs_number": "1931",
+          "part_of_speech": "Pronoun - third person masculine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "divided",
+          "word": "וַיֵּחָלֵ֨ק",
+          "transliteration": "way·yê·ḥā·lêq",
+          "strongs_number": "2505",
+          "part_of_speech": "Conjunctive waw | Verb - Nifal - Consecutive imperfect - third person masculine singular",
+          "definition": "To be smooth, to apportion, separate",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "his forces",
+          "word": "וַעֲבָדָ֖יו",
+          "transliteration": "wa·‘ă·ḇā·ḏāw",
+          "strongs_number": "5650",
+          "part_of_speech": "Conjunctive waw | Noun - masculine plural construct | third person masculine singular",
+          "definition": "Slave, servant",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and routed [Chedorlaomer’s army],",
+          "word": "וַיַּכֵּ֑ם",
+          "transliteration": "way·yak·kêm",
+          "strongs_number": "5221",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular | third person masculine plural",
+          "definition": "To strike",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "pursuing",
+          "word": "וַֽיִּרְדְּפֵם֙",
+          "transliteration": "way·yir·də·p̄êm",
+          "strongs_number": "7291",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular | third person masculine plural",
+          "definition": "To pursue, chase, persecute",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "them as",
+          "word": "עַד־",
+          "transliteration": "‘aḏ-",
+          "strongs_number": "5704",
+          "part_of_speech": "Preposition",
+          "definition": "As far as, even to, up to, until, while",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "far as Hobah,",
+          "word": "חוֹבָ֔ה",
+          "transliteration": "ḥō·w·ḇāh",
+          "strongs_number": "2327",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Hobah -- a place North of Damascus",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "north",
+          "word": "מִשְּׂמֹ֖אל",
+          "transliteration": "miś·śə·mōl",
+          "strongs_number": "8040",
+          "part_of_speech": "Preposition-m | Noun - masculine singular",
+          "definition": "Dark, the north, the left hand",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Damascus.",
+          "word": "לְדַמָּֽשֶׂק׃",
+          "transliteration": "lə·ḏam·mā·śeq",
+          "strongs_number": "1834",
+          "part_of_speech": "Preposition-l | Noun - proper - feminine singular",
+          "definition": "Damascus -- a city in Aram (Syria)",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Hebrews 7:1-2",
@@ -1330,7 +3028,98 @@
           "text": "So he brought back all the goods, and also brought back his brother Lot and his goods, as well as the women and the people."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "He retrieved",
+          "word": "וַיָּ֕שֶׁב",
+          "transliteration": "way·yā·šeḇ",
+          "strongs_number": "7725",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To turn back, in, to retreat, again",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "all",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the goods,",
+          "word": "הָרְכֻ֑שׁ",
+          "transliteration": "hā·rə·ḵuš",
+          "strongs_number": "7399",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Property, goods",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "as well as",
+          "word": "וְגַם֩",
+          "transliteration": "wə·ḡam",
+          "strongs_number": "1571",
+          "part_of_speech": "Conjunctive waw | Conjunction",
+          "definition": "Assemblage, also, even, yea, though, both, and",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "his relative",
+          "word": "אָחִ֤יו",
+          "transliteration": "’ā·ḥîw",
+          "strongs_number": "251",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine singular",
+          "definition": "A brother, )",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Lot",
+          "word": "ל֨וֹט",
+          "transliteration": "lō·wṭ",
+          "strongs_number": "3876",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Lot -- Abraham's nephew",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and his possessions,",
+          "word": "וּרְכֻשׁוֹ֙",
+          "transliteration": "ū·rə·ḵu·šōw",
+          "strongs_number": "7399",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular construct | third person masculine singular",
+          "definition": "Property, goods",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "together with",
+          "word": "וְגַ֥ם",
+          "transliteration": "wə·ḡam",
+          "strongs_number": "1571",
+          "part_of_speech": "Conjunctive waw | Conjunction",
+          "definition": "Assemblage, also, even, yea, though, both, and",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the women",
+          "word": "הַנָּשִׁ֖ים",
+          "transliteration": "han·nā·šîm",
+          "strongs_number": "802",
+          "part_of_speech": "Article | Noun - feminine plural",
+          "definition": "Woman, wife, female",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and the rest of the people.",
+          "word": "הָעָֽם׃",
+          "transliteration": "hā·‘ām",
+          "strongs_number": "5971",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "A people, a tribe, troops, attendants, a flock",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Hebrews 7:1-2",
@@ -1417,7 +3206,152 @@
           "text": "And the king of Sodom went out to meet him at the Valley of Shaveh (that is, the King’s Valley), after his return from the defeat of Chedorlaomer and the kings who were with him."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "After",
+          "word": "אַחֲרֵ֣י",
+          "transliteration": "’a·ḥă·rê",
+          "strongs_number": "310",
+          "part_of_speech": "Preposition",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Abram returned",
+          "word": "שׁוּב֗וֹ",
+          "transliteration": "šū·ḇōw",
+          "strongs_number": "7725",
+          "part_of_speech": "Verb - Qal - Infinitive construct | third person masculine singular",
+          "definition": "To turn back, in, to retreat, again",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "from defeating",
+          "word": "מֵֽהַכּוֹת֙",
+          "transliteration": "mê·hak·kō·wṯ",
+          "strongs_number": "5221",
+          "part_of_speech": "Preposition-m | Verb - Hifil - Infinitive construct",
+          "definition": "To strike",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Chedorlaomer",
+          "word": "כְּדָרלָעֹ֔מֶר‪‬",
+          "transliteration": "lā·‘ō·mer",
+          "strongs_number": "3540",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Chedorlaomer -- a king of Elam",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and the kings",
+          "word": "מֶֽלֶךְ־",
+          "transliteration": "me·leḵ-",
+          "strongs_number": "4428",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "allied with him,",
+          "word": "אִתּ֑וֹ",
+          "transliteration": "’it·tōw",
+          "strongs_number": "854",
+          "part_of_speech": "Preposition | third person masculine singular",
+          "definition": "Nearness, near, with, by, at, among",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the king",
+          "word": "הַמְּלָכִ֖ים",
+          "transliteration": "ham·mə·lā·ḵîm",
+          "strongs_number": "4428",
+          "part_of_speech": "Article | Noun - masculine plural",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Sodom",
+          "word": "סְדֹם֮",
+          "transliteration": "sə·ḏōm",
+          "strongs_number": "5467",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Sodom -- a Canaanite city near the Dead Sea",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "went out",
+          "word": "וַיֵּצֵ֣א",
+          "transliteration": "way·yê·ṣê",
+          "strongs_number": "3318",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To go, bring, out, direct and proxim",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to meet",
+          "word": "לִקְרָאתוֹ֒",
+          "transliteration": "liq·rā·ṯōw",
+          "strongs_number": "7125",
+          "part_of_speech": "Preposition-l | Verb - Qal - Infinitive construct | third person masculine singular",
+          "definition": "Against he come, help, meet, seek, to, in the way",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "him in",
+          "word": "אֶל־",
+          "transliteration": "’el-",
+          "strongs_number": "413",
+          "part_of_speech": "Preposition",
+          "definition": "Near, with, among, to",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Valley",
+          "word": "עֵ֣מֶק",
+          "transliteration": "‘ê·meq",
+          "strongs_number": "6010",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A vale",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Shaveh",
+          "word": "שָׁוֵ֔ה",
+          "transliteration": "šā·wêh",
+          "strongs_number": "7740",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Shaveh -- a valley near Salem",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "(that is,",
+          "word": "ה֖וּא",
+          "transliteration": "hū",
+          "strongs_number": "1931",
+          "part_of_speech": "Pronoun - third person masculine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the King’s",
+          "word": "הַמֶּֽלֶךְ׃",
+          "transliteration": "ham·me·leḵ",
+          "strongs_number": "4428",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Valley).",
+          "word": "עֵ֥מֶק",
+          "transliteration": "‘ê·meq",
+          "strongs_number": "6010",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A vale",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Hebrews 7:1-2",
@@ -1504,7 +3438,98 @@
           "text": "Then Melchizedek king of Salem brought out bread and wine; he was the priest of God Most High."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Then Melchizedek",
+          "word": "צֶ֙דֶק֙",
+          "transliteration": "ṣe·ḏeq",
+          "strongs_number": "4442",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Melchizedek -- 'my king is right', an early king of Salem",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "king",
+          "word": "מֶ֣לֶךְ",
+          "transliteration": "me·leḵ",
+          "strongs_number": "4428",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Salem",
+          "word": "שָׁלֵ֔ם",
+          "transliteration": "šā·lêm",
+          "strongs_number": "8004",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Salem -- 'peaceful', an early name of Jerusalem",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "brought out",
+          "word": "הוֹצִ֖יא",
+          "transliteration": "hō·w·ṣî",
+          "strongs_number": "3318",
+          "part_of_speech": "Verb - Hifil - Perfect - third person masculine singular",
+          "definition": "To go, bring, out, direct and proxim",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "bread",
+          "word": "לֶ֣חֶם",
+          "transliteration": "le·ḥem",
+          "strongs_number": "3899",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Food, bread, grain",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and wine—",
+          "word": "וָיָ֑יִן",
+          "transliteration": "wā·yā·yin",
+          "strongs_number": "3196",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular",
+          "definition": "Wine, intoxication",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "since he",
+          "word": "וְה֥וּא",
+          "transliteration": "wə·hū",
+          "strongs_number": "1931",
+          "part_of_speech": "Conjunctive waw | Pronoun - third person masculine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was priest",
+          "word": "כֹהֵ֖ן",
+          "transliteration": "ḵō·hên",
+          "strongs_number": "3548",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Priest",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of God",
+          "word": "לְאֵ֥ל",
+          "transliteration": "lə·’êl",
+          "strongs_number": "410",
+          "part_of_speech": "Preposition-l | Noun - masculine singular",
+          "definition": "Strength -- as adjective, mighty, the Almighty",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Most High—",
+          "word": "עֶלְיֽוֹן׃",
+          "transliteration": "‘el·yō·wn",
+          "strongs_number": "5945",
+          "part_of_speech": "Adjective - masculine singular",
+          "definition": "An elevation, lofty, as title, the Supreme",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Hebrews 7:1-3",
@@ -1591,7 +3616,7 @@
           "text": "And he blessed him and said: “Blessed be Abram of God Most High, Possessor of heaven and earth;"
         }
       ],
-      "greek_words": [],
+      "original_words": [],
       "cross_references": []
     },
     {
@@ -1617,7 +3642,98 @@
           "text": "And blessed be God Most High, Who has delivered your enemies into your hand.” And he gave him a tithe of all."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "and blessed be",
+          "word": "וּבָרוּךְ֙",
+          "transliteration": "ū·ḇā·rūḵ",
+          "strongs_number": "1288",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - QalPassParticiple - masculine singular",
+          "definition": "To kneel, to bless God, man, to curse",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God",
+          "word": "אֵ֣ל",
+          "transliteration": "’êl",
+          "strongs_number": "410",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Strength -- as adjective, mighty, the Almighty",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Most High,",
+          "word": "עֶלְי֔וֹן",
+          "transliteration": "‘el·yō·wn",
+          "strongs_number": "5945",
+          "part_of_speech": "Adjective - masculine singular",
+          "definition": "An elevation, lofty, as title, the Supreme",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "who",
+          "word": "אֲשֶׁר־",
+          "transliteration": "’ă·šer-",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "has delivered",
+          "word": "מִגֵּ֥ן",
+          "transliteration": "mig·gên",
+          "strongs_number": "4042",
+          "part_of_speech": "Verb - Piel - Perfect - third person masculine singular",
+          "definition": "To shield, encompass with, to rescue, to hand safely over",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "your enemies",
+          "word": "צָרֶ֖יךָ",
+          "transliteration": "ṣā·re·ḵā",
+          "strongs_number": "6862",
+          "part_of_speech": "Noun - masculine plural construct | second person masculine singular",
+          "definition": "Narrow, a tight place, a pebble, an opponent",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "into your hand.”",
+          "word": "בְּיָדֶ֑ךָ",
+          "transliteration": "bə·yā·ḏe·ḵā",
+          "strongs_number": "3027",
+          "part_of_speech": "Preposition-b | Noun - feminine singular construct | second person masculine singular",
+          "definition": "A hand",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Then Abram gave",
+          "word": "וַיִּתֶּן־",
+          "transliteration": "way·yit·ten-",
+          "strongs_number": "5414",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To give, put, set",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[Melchizedek] a tenth",
+          "word": "מַעֲשֵׂ֖ר",
+          "transliteration": "ma·‘ă·śêr",
+          "strongs_number": "4643",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Tenth part, tithe",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of everything.",
+          "word": "מִכֹּֽל׃",
+          "transliteration": "mik·kōl",
+          "strongs_number": "3605",
+          "part_of_speech": "Preposition-m | Noun - masculine singular",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Hebrews 7:1-10",
@@ -1704,7 +3820,89 @@
           "text": "Now the king of Sodom said to Abram, “Give me the persons, and take the goods for yourself.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "The king",
+          "word": "מֶֽלֶךְ־",
+          "transliteration": "me·leḵ-",
+          "strongs_number": "4428",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Sodom",
+          "word": "סְדֹ֖ם",
+          "transliteration": "sə·ḏōm",
+          "strongs_number": "5467",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Sodom -- a Canaanite city near the Dead Sea",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "said",
+          "word": "וַיֹּ֥אמֶר",
+          "transliteration": "way·yō·mer",
+          "strongs_number": "559",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To utter, say",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to",
+          "word": "אֶל־",
+          "transliteration": "’el-",
+          "strongs_number": "413",
+          "part_of_speech": "Preposition",
+          "definition": "Near, with, among, to",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Abram,",
+          "word": "אַבְרָ֑ם",
+          "transliteration": "’aḇ·rām",
+          "strongs_number": "87",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abram -- 'exalted father', the original name of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "“Give",
+          "word": "תֶּן־",
+          "transliteration": "ten-",
+          "strongs_number": "5414",
+          "part_of_speech": "Verb - Qal - Imperative - masculine singular",
+          "definition": "To give, put, set",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "me the people,",
+          "word": "הַנֶּ֔פֶשׁ",
+          "transliteration": "han·ne·p̄eš",
+          "strongs_number": "5315",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "A soul, living being, life, self, person, desire, passion, appetite, emotion",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "but take",
+          "word": "קַֽח־",
+          "transliteration": "qaḥ-",
+          "strongs_number": "3947",
+          "part_of_speech": "Verb - Qal - Imperative - masculine singular",
+          "definition": "To take",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the goods for yourself.”",
+          "word": "וְהָרְכֻ֖שׁ",
+          "transliteration": "wə·hā·rə·ḵuš",
+          "strongs_number": "7399",
+          "part_of_speech": "Conjunctive waw, Article | Noun - masculine singular",
+          "definition": "Property, goods",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Hebrews 7:1-2",
@@ -1791,7 +3989,134 @@
           "text": "But Abram said to the king of Sodom, “I have raised my hand to the LORD, God Most High, the Possessor of heaven and earth,"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "But Abram",
+          "word": "אַבְרָ֖ם",
+          "transliteration": "’aḇ·rām",
+          "strongs_number": "87",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abram -- 'exalted father', the original name of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "replied",
+          "word": "וַיֹּ֥אמֶר",
+          "transliteration": "way·yō·mer",
+          "strongs_number": "559",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To utter, say",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to",
+          "word": "אֶל־",
+          "transliteration": "’el-",
+          "strongs_number": "413",
+          "part_of_speech": "Preposition",
+          "definition": "Near, with, among, to",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the king",
+          "word": "מֶ֣לֶךְ",
+          "transliteration": "me·leḵ",
+          "strongs_number": "4428",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A king",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Sodom,",
+          "word": "סְדֹ֑ם",
+          "transliteration": "sə·ḏōm",
+          "strongs_number": "5467",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Sodom -- a Canaanite city near the Dead Sea",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "“I have raised",
+          "word": "הֲרִימֹ֨תִי",
+          "transliteration": "hă·rî·mō·ṯî",
+          "strongs_number": "7311",
+          "part_of_speech": "Verb - Hifil - Perfect - first person common singular",
+          "definition": "To be high actively, to rise, raise",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "my hand",
+          "word": "יָדִ֤י",
+          "transliteration": "yā·ḏî",
+          "strongs_number": "3027",
+          "part_of_speech": "Noun - feminine singular construct | first person common singular",
+          "definition": "A hand",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to",
+          "word": "אֶל־",
+          "transliteration": "’el-",
+          "strongs_number": "413",
+          "part_of_speech": "Preposition",
+          "definition": "Near, with, among, to",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the LORD",
+          "word": "יְהוָה֙",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God",
+          "word": "אֵ֣ל",
+          "transliteration": "’êl",
+          "strongs_number": "410",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Strength -- as adjective, mighty, the Almighty",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Most High,",
+          "word": "עֶלְי֔וֹן",
+          "transliteration": "‘el·yō·wn",
+          "strongs_number": "5945",
+          "part_of_speech": "Adjective - masculine singular",
+          "definition": "An elevation, lofty, as title, the Supreme",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Creator",
+          "word": "קֹנֵ֖ה",
+          "transliteration": "qō·nêh",
+          "strongs_number": "7069",
+          "part_of_speech": "Verb - Qal - Participle - masculine singular construct",
+          "definition": "To erect, create, to procure, by purchase, to own",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of heaven",
+          "word": "שָׁמַ֥יִם",
+          "transliteration": "šā·ma·yim",
+          "strongs_number": "8064",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "Heaven, sky",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and earth,",
+          "word": "וָאָֽרֶץ׃",
+          "transliteration": "wā·’ā·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Conjunctive waw | Noun - feminine singular",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Hebrews 6:13-14",
@@ -1878,7 +4203,134 @@
           "text": "that I will take nothing, from a thread to a sandal strap, and that I will not take anything that is yours, lest you should say, ‘I have made Abram rich’—"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "that",
+          "word": "אִם־",
+          "transliteration": "’im-",
+          "strongs_number": "518",
+          "part_of_speech": "Conjunction",
+          "definition": "Lo!, whether?, if, although, Oh that!, when, not",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "I will not",
+          "word": "וְאִם־",
+          "transliteration": "wə·’im-",
+          "strongs_number": "518",
+          "part_of_speech": "Conjunctive waw | Conjunction",
+          "definition": "Lo!, whether?, if, although, Oh that!, when, not",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "accept",
+          "word": "אֶקַּ֖ח",
+          "transliteration": "’eq·qaḥ",
+          "strongs_number": "3947",
+          "part_of_speech": "Verb - Qal - Imperfect - first person common singular",
+          "definition": "To take",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "even",
+          "word": "וְעַ֣ד",
+          "transliteration": "wə·‘aḏ",
+          "strongs_number": "5704",
+          "part_of_speech": "Conjunctive waw | Preposition",
+          "definition": "As far as, even to, up to, until, while",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a thread,",
+          "word": "מִחוּט֙",
+          "transliteration": "mi·ḥūṭ",
+          "strongs_number": "2339",
+          "part_of_speech": "Preposition-m | Noun - masculine singular",
+          "definition": "A string, a measuring tape",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "or a strap",
+          "word": "שְׂרֽוֹךְ־",
+          "transliteration": "śə·rō·wḵ-",
+          "strongs_number": "8288",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "(sandal) thong",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of a sandal,",
+          "word": "נַ֔עַל",
+          "transliteration": "na·‘al",
+          "strongs_number": "5275",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A sandal tongue, a sandal, slipper",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "or anything",
+          "word": "מִכָּל־",
+          "transliteration": "mik·kāl",
+          "strongs_number": "3605",
+          "part_of_speech": "Preposition-m | Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that belongs to you,",
+          "word": "אֲשֶׁר־",
+          "transliteration": "’ă·šer-",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lest",
+          "word": "וְלֹ֣א",
+          "transliteration": "wə·lō",
+          "strongs_number": "3808",
+          "part_of_speech": "Conjunctive waw | Adverb - Negative particle",
+          "definition": "Not, no",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "you should say,",
+          "word": "תֹאמַ֔ר",
+          "transliteration": "ṯō·mar",
+          "strongs_number": "559",
+          "part_of_speech": "Verb - Qal - Imperfect - second person masculine singular",
+          "definition": "To utter, say",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "‘I {have made}",
+          "word": "אֲנִ֖י",
+          "transliteration": "’ă·nî",
+          "strongs_number": "589",
+          "part_of_speech": "Pronoun - first person common singular",
+          "definition": "I",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Abram",
+          "word": "אַבְרָֽם׃",
+          "transliteration": "’aḇ·rām",
+          "strongs_number": "87",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abram -- 'exalted father', the original name of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "rich.’",
+          "word": "הֶעֱשַׁ֥רְתִּי",
+          "transliteration": "he·‘ĕ·šar·tî",
+          "strongs_number": "6238",
+          "part_of_speech": "Verb - Hifil - Perfect - first person common singular",
+          "definition": "To accumulate, chiefly, to grow, rich",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Hebrews 7:1-2",
@@ -1965,7 +4417,152 @@
           "text": "except only what the young men have eaten, and the portion of the men who went with me: Aner, Eshcol, and Mamre; let them take their portion.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "I will accept nothing",
+          "word": "בִּלְעָדַ֗י",
+          "transliteration": "bil·‘ā·ḏay",
+          "strongs_number": "1107",
+          "part_of_speech": "Preposition | first person common singular",
+          "definition": "Apart from, except, without",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "but",
+          "word": "רַ֚ק",
+          "transliteration": "raq",
+          "strongs_number": "7535",
+          "part_of_speech": "Adverb",
+          "definition": "But, even, except, howbeit howsoever, at the least, nevertheless",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "what",
+          "word": "אֲשֶׁ֣ר",
+          "transliteration": "’ă·šer",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "my men",
+          "word": "הַנְּעָרִ֔ים",
+          "transliteration": "han·nə·‘ā·rîm",
+          "strongs_number": "5288",
+          "part_of_speech": "Article | Noun - masculine plural",
+          "definition": "A boy, lad, youth, retainer",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "have eaten",
+          "word": "אָֽכְל֣וּ",
+          "transliteration": "’ā·ḵə·lū",
+          "strongs_number": "398",
+          "part_of_speech": "Verb - Qal - Perfect - third person common plural",
+          "definition": "To eat",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and the share",
+          "word": "וְחֵ֙לֶק֙",
+          "transliteration": "wə·ḥê·leq",
+          "strongs_number": "2506",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular construct",
+          "definition": "Portion, tract, territory",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "for the men",
+          "word": "הָֽאֲנָשִׁ֔ים",
+          "transliteration": "hā·’ă·nā·šîm",
+          "strongs_number": "376",
+          "part_of_speech": "Article | Noun - masculine plural",
+          "definition": "A man as an individual, a male person",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "who",
+          "word": "אֲשֶׁ֥ר",
+          "transliteration": "’ă·šer",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "went",
+          "word": "הָלְכ֖וּ",
+          "transliteration": "hā·lə·ḵū",
+          "strongs_number": "1980",
+          "part_of_speech": "Verb - Qal - Perfect - third person common plural",
+          "definition": "To go, come, walk",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "with me—",
+          "word": "אִתִּ֑י",
+          "transliteration": "’it·tî",
+          "strongs_number": "854",
+          "part_of_speech": "Preposition | first person common singular",
+          "definition": "Nearness, near, with, by, at, among",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Aner,",
+          "word": "עָנֵר֙",
+          "transliteration": "‘ā·nêr",
+          "strongs_number": "6063",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Aner -- an ally of Abram, also a place in Manasseh",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Eshcol,",
+          "word": "אֶשְׁכֹּ֣ל",
+          "transliteration": "’eš·kōl",
+          "strongs_number": "812",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Eshcol -- an Amorite, also a region of Hebron",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Mamre.",
+          "word": "וּמַמְרֵ֔א",
+          "transliteration": "ū·mam·rê",
+          "strongs_number": "4471",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Mamre -- a place in Palestine, also an ally of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "They",
+          "word": "הֵ֖ם",
+          "transliteration": "hêm",
+          "strongs_number": "1992",
+          "part_of_speech": "Pronoun - third person masculine plural",
+          "definition": "They",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "may take",
+          "word": "יִקְח֥וּ",
+          "transliteration": "yiq·ḥū",
+          "strongs_number": "3947",
+          "part_of_speech": "Verb - Qal - Imperfect - third person masculine plural",
+          "definition": "To take",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "their portion.”",
+          "word": "חֶלְקָֽם׃",
+          "transliteration": "ḥel·qām",
+          "strongs_number": "2506",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine plural",
+          "definition": "Portion, tract, territory",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 14:22-23",

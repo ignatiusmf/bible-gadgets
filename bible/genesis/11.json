@@ -25,7 +25,71 @@
           "text": "Now the whole earth had one language and one speech."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Now the whole",
+          "word": "כָל־",
+          "transliteration": "ḵāl",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "world",
+          "word": "הָאָ֖רֶץ",
+          "transliteration": "hā·’ā·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "had",
+          "word": "וַֽיְהִ֥י",
+          "transliteration": "way·hî",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "one",
+          "word": "אֶחָ֑ת",
+          "transliteration": "’e·ḥāṯ",
+          "strongs_number": "259",
+          "part_of_speech": "Number - feminine singular",
+          "definition": "United, one, first",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "language",
+          "word": "שָׂפָ֣ה",
+          "transliteration": "śā·p̄āh",
+          "strongs_number": "8193",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "The lip, language, a margin",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and a common",
+          "word": "אֲחָדִֽים׃",
+          "transliteration": "’ă·ḥā·ḏîm",
+          "strongs_number": "259",
+          "part_of_speech": "Number - masculine plural",
+          "definition": "United, one, first",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "form of speech.",
+          "word": "וּדְבָרִ֖ים",
+          "transliteration": "ū·ḏə·ḇā·rîm",
+          "strongs_number": "1697",
+          "part_of_speech": "Conjunctive waw | Noun - masculine plural",
+          "definition": "A word, a matter, thing, a cause",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Acts 2:4-11",
@@ -112,7 +176,89 @@
           "text": "And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar, and they dwelt there."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And",
+          "word": "וַֽיְהִ֖י",
+          "transliteration": "way·hî",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "as people journeyed",
+          "word": "בְּנָסְעָ֣ם",
+          "transliteration": "bə·nā·sə·‘ām",
+          "strongs_number": "5265",
+          "part_of_speech": "Preposition-b | Verb - Qal - Infinitive construct | third person masculine plural",
+          "definition": "To pull up, the tent-pins, start on a, journey",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "eastward,",
+          "word": "מִקֶּ֑דֶם",
+          "transliteration": "miq·qe·ḏem",
+          "strongs_number": "6924",
+          "part_of_speech": "Preposition-m | Noun - masculine singular",
+          "definition": "The front, of place, time",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "they found",
+          "word": "וַֽיִּמְצְא֥וּ",
+          "transliteration": "way·yim·ṣə·’ū",
+          "strongs_number": "4672",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a plain",
+          "word": "בִקְעָ֛ה",
+          "transliteration": "ḇiq·‘āh",
+          "strongs_number": "1237",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A split, a wide level valley between mountains",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in the land",
+          "word": "בְּאֶ֥רֶץ",
+          "transliteration": "bə·’e·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Preposition-b | Noun - feminine singular construct",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Shinar",
+          "word": "שִׁנְעָ֖ר",
+          "transliteration": "šin·‘ār",
+          "strongs_number": "8152",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Shinar -- another name for Babylon",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and settled",
+          "word": "וַיֵּ֥שְׁבוּ",
+          "transliteration": "way·yê·šə·ḇū",
+          "strongs_number": "3427",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To sit down, to dwell, to remain, to settle, to marry",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "there.",
+          "word": "שָֽׁם׃",
+          "transliteration": "šām",
+          "strongs_number": "8033",
+          "part_of_speech": "Adverb",
+          "definition": "There, then, thither",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 10:8-10",
@@ -199,7 +345,7 @@
           "text": "Then they said to one another, “Come, let us make bricks and bake them thoroughly.” They had brick for stone, and they had asphalt for mortar."
         }
       ],
-      "greek_words": [],
+      "original_words": [],
       "cross_references": []
     },
     {
@@ -225,7 +371,7 @@
           "text": "And they said, “Come, let us build ourselves a city, and a tower whose top is in the heavens; let us make a name for ourselves, lest we be scattered abroad over the face of the whole earth.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [],
       "cross_references": []
     },
     {
@@ -251,7 +397,89 @@
           "text": "But the LORD came down to see the city and the tower which the sons of men had built."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Then the LORD",
+          "word": "יְהוָ֔ה",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "came down",
+          "word": "וַיֵּ֣רֶד",
+          "transliteration": "way·yê·reḏ",
+          "strongs_number": "3381",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To come or go down, descend",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to see",
+          "word": "לִרְאֹ֥ת",
+          "transliteration": "lir·’ōṯ",
+          "strongs_number": "7200",
+          "part_of_speech": "Preposition-l | Verb - Qal - Infinitive construct",
+          "definition": "To see",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the city",
+          "word": "הָעִ֖יר",
+          "transliteration": "hā·‘îr",
+          "strongs_number": "5892",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "Excitement",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and the tower",
+          "word": "הַמִּגְדָּ֑ל",
+          "transliteration": "ham·miḡ·dāl",
+          "strongs_number": "4026",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "A tower, a rostrum, a, bed of flowers",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that",
+          "word": "אֲשֶׁ֥ר",
+          "transliteration": "’ă·šer",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the sons",
+          "word": "בְּנֵ֥י",
+          "transliteration": "bə·nê",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of men",
+          "word": "הָאָדָֽם׃",
+          "transliteration": "hā·’ā·ḏām",
+          "strongs_number": "120",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Ruddy, a human being",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "were building.",
+          "word": "בָּנ֖וּ",
+          "transliteration": "bā·nū",
+          "strongs_number": "1129",
+          "part_of_speech": "Verb - Qal - Perfect - third person common plural",
+          "definition": "To build",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Psalm 33:13-14",
@@ -338,7 +566,143 @@
           "text": "And the LORD said, “Indeed the people are one and they all have one language, and this is what they begin to do; now nothing that they propose to do will be withheld from them."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And the LORD",
+          "word": "יְהוָ֗ה",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "said,",
+          "word": "וַיֹּ֣אמֶר",
+          "transliteration": "way·yō·mer",
+          "strongs_number": "559",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To utter, say",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "“If",
+          "word": "הֵ֣ן",
+          "transliteration": "hên",
+          "strongs_number": "2005",
+          "part_of_speech": "Interjection",
+          "definition": "Lo! behold!",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "they have begun",
+          "word": "הַחִלָּ֣ם",
+          "transliteration": "ha·ḥil·lām",
+          "strongs_number": "2490",
+          "part_of_speech": "Verb - Hifil - Infinitive construct | third person masculine plural",
+          "definition": "To bore, to wound, to dissolve, to profane, to break, to begin, to play",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to do",
+          "word": "לַעֲשׂ֑וֹת",
+          "transliteration": "la·‘ă·śō·wṯ",
+          "strongs_number": "6213",
+          "part_of_speech": "Preposition-l | Verb - Qal - Infinitive construct",
+          "definition": "To do, make",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "this",
+          "word": "וְזֶ֖ה",
+          "transliteration": "wə·zeh",
+          "strongs_number": "2088",
+          "part_of_speech": "Conjunctive waw | Pronoun - masculine singular",
+          "definition": "This, that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "as one",
+          "word": "אֶחָד֙",
+          "transliteration": "’e·ḥāḏ",
+          "strongs_number": "259",
+          "part_of_speech": "Number - masculine singular",
+          "definition": "United, one, first",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "people",
+          "word": "עַ֤ם",
+          "transliteration": "‘am",
+          "strongs_number": "5971",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "A people, a tribe, troops, attendants, a flock",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "speaking the same",
+          "word": "לְכֻלָּ֔ם",
+          "transliteration": "lə·ḵul·lām",
+          "strongs_number": "3605",
+          "part_of_speech": "Preposition-l | Noun - masculine singular construct | third person masculine plural",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "language,",
+          "word": "וְשָׂפָ֤ה",
+          "transliteration": "wə·śā·p̄āh",
+          "strongs_number": "8193",
+          "part_of_speech": "Conjunctive waw | Noun - feminine singular",
+          "definition": "The lip, language, a margin",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "then",
+          "word": "וְעַתָּה֙",
+          "transliteration": "wə·‘at·tāh",
+          "strongs_number": "6258",
+          "part_of_speech": "Conjunctive waw | Adverb",
+          "definition": "At this time",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "nothing",
+          "word": "לֹֽא־",
+          "transliteration": "lō-",
+          "strongs_number": "3808",
+          "part_of_speech": "Adverb - Negative particle",
+          "definition": "Not, no",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "they devise",
+          "word": "יָזְמ֖וּ",
+          "transliteration": "yā·zə·mū",
+          "strongs_number": "2161",
+          "part_of_speech": "Verb - Qal - Imperfect - third person masculine plural",
+          "definition": "To consider, purpose, devise",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "will be beyond",
+          "word": "יִבָּצֵ֣ר",
+          "transliteration": "yib·bā·ṣêr",
+          "strongs_number": "1219",
+          "part_of_speech": "Verb - Nifal - Imperfect - third person masculine singular",
+          "definition": "To cut off, make inaccessible, enclose",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "them.",
+          "word": "מֵהֶ֔ם",
+          "transliteration": "mê·hem",
+          "strongs_number": "1992",
+          "part_of_speech": "Preposition-m | Pronoun - third person masculine plural",
+          "definition": "They",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 1:26",
@@ -425,7 +789,98 @@
           "text": "Come, let Us go down and there confuse their language, that they may not understand one another’s speech.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Come,",
+          "word": "הָ֚בָה",
+          "transliteration": "hā·ḇāh",
+          "strongs_number": "3051",
+          "part_of_speech": "Verb - Qal - Imperative - masculine singular | third person feminine singular",
+          "definition": "To give, to put, imperatively, come",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "let Us go down",
+          "word": "נֵֽרְדָ֔ה",
+          "transliteration": "nê·rə·ḏāh",
+          "strongs_number": "3381",
+          "part_of_speech": "Verb - Qal - Imperfect Cohortative - first person common plural",
+          "definition": "To come or go down, descend",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and confuse",
+          "word": "וְנָבְלָ֥ה",
+          "transliteration": "wə·nā·ḇə·lāh",
+          "strongs_number": "1101",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Conjunctive imperfect Cohortative - first person common plural",
+          "definition": "To mingle, mix, confuse, confound",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "their language,",
+          "word": "שְׂפָתָ֑ם",
+          "transliteration": "śə·p̄ā·ṯām",
+          "strongs_number": "8193",
+          "part_of_speech": "Noun - feminine singular construct | third person masculine plural",
+          "definition": "The lip, language, a margin",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "so that",
+          "word": "אֲשֶׁר֙",
+          "transliteration": "’ă·šer",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "they will not",
+          "word": "לֹ֣א",
+          "transliteration": "lō",
+          "strongs_number": "3808",
+          "part_of_speech": "Adverb - Negative particle",
+          "definition": "Not, no",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "understand",
+          "word": "יִשְׁמְע֔וּ",
+          "transliteration": "yiš·mə·‘ū",
+          "strongs_number": "8085",
+          "part_of_speech": "Verb - Qal - Imperfect - third person masculine plural",
+          "definition": "To hear intelligently",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "one",
+          "word": "אִ֖ישׁ",
+          "transliteration": "’îš",
+          "strongs_number": "582",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Man, mankind",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "another’s",
+          "word": "רֵעֵֽהוּ׃",
+          "transliteration": "rê·‘ê·hū",
+          "strongs_number": "7453",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine singular",
+          "definition": "Friend, companion, fellow",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "speech.”",
+          "word": "שְׂפַ֥ת",
+          "transliteration": "śə·p̄aṯ",
+          "strongs_number": "8193",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "The lip, language, a margin",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Acts 2:4-11",
@@ -512,7 +967,98 @@
           "text": "So the LORD scattered them abroad from there over the face of all the earth, and they ceased building the city."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "So the LORD",
+          "word": "יְהוָ֥ה",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "scattered them",
+          "word": "וַיָּ֨פֶץ",
+          "transliteration": "way·yā·p̄eṣ",
+          "strongs_number": "6327",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To be dispersed or scattered",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "from there",
+          "word": "מִשָּׁ֖ם",
+          "transliteration": "miš·šām",
+          "strongs_number": "8033",
+          "part_of_speech": "Preposition-m | Adverb",
+          "definition": "There, then, thither",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "over",
+          "word": "עַל־",
+          "transliteration": "‘al-",
+          "strongs_number": "5921",
+          "part_of_speech": "Preposition",
+          "definition": "Above, over, upon, against",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the face",
+          "word": "פְּנֵ֣י",
+          "transliteration": "pə·nê",
+          "strongs_number": "6440",
+          "part_of_speech": "Noun - common plural construct",
+          "definition": "The face",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the whole",
+          "word": "כָל־",
+          "transliteration": "ḵāl",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "earth,",
+          "word": "הָאָ֑רֶץ",
+          "transliteration": "hā·’ā·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and they stopped",
+          "word": "וַֽיַּחְדְּל֖וּ",
+          "transliteration": "way·yaḥ·də·lū",
+          "strongs_number": "2308",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To be flabby, desist, be lacking, idle",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "building",
+          "word": "לִבְנֹ֥ת",
+          "transliteration": "liḇ·nōṯ",
+          "strongs_number": "1129",
+          "part_of_speech": "Preposition-l | Verb - Qal - Infinitive construct",
+          "definition": "To build",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the city.",
+          "word": "הָעִֽיר׃",
+          "transliteration": "hā·‘îr",
+          "strongs_number": "5892",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "Excitement",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Acts 17:26",
@@ -599,7 +1145,170 @@
           "text": "Therefore its name is called Babel, because there the LORD confused the language of all the earth; and from there the LORD scattered them abroad over the face of all the earth."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "That is why",
+          "word": "עַל־",
+          "transliteration": "‘al-",
+          "strongs_number": "5921",
+          "part_of_speech": "Preposition",
+          "definition": "Above, over, upon, against",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "it",
+          "word": "שְׁמָהּ֙",
+          "transliteration": "šə·māh",
+          "strongs_number": "8034",
+          "part_of_speech": "Noun - masculine singular construct | third person feminine singular",
+          "definition": "A name",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "is called",
+          "word": "קָרָ֤א",
+          "transliteration": "qā·rā",
+          "strongs_number": "7121",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To call, proclaim, read",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Babel,",
+          "word": "בָּבֶ֔ל",
+          "transliteration": "bā·ḇel",
+          "strongs_number": "894",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Babylon -- an eastern Mediterranean empire and its capital city",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "for",
+          "word": "כִּי־",
+          "transliteration": "kî-",
+          "strongs_number": "3588",
+          "part_of_speech": "Conjunction",
+          "definition": "A relative conjunction",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "there",
+          "word": "שָׁ֛ם",
+          "transliteration": "šām",
+          "strongs_number": "8033",
+          "part_of_speech": "Adverb",
+          "definition": "There, then, thither",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the LORD",
+          "word": "יְהוָ֖ה",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "confused",
+          "word": "בָּלַ֥ל",
+          "transliteration": "bā·lal",
+          "strongs_number": "1101",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To mingle, mix, confuse, confound",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the language",
+          "word": "שְׂפַ֣ת",
+          "transliteration": "śə·p̄aṯ",
+          "strongs_number": "8193",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "The lip, language, a margin",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the whole",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "world,",
+          "word": "הָאָ֑רֶץ",
+          "transliteration": "hā·’ā·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and from that place",
+          "word": "וּמִשָּׁם֙",
+          "transliteration": "ū·miš·šām",
+          "strongs_number": "8033",
+          "part_of_speech": "Conjunctive waw, Preposition-m | Adverb",
+          "definition": "There, then, thither",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the LORD",
+          "word": "יְהוָ֔ה",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "scattered",
+          "word": "הֱפִיצָ֣ם",
+          "transliteration": "hĕ·p̄î·ṣām",
+          "strongs_number": "6327",
+          "part_of_speech": "Verb - Hifil - Perfect - third person masculine singular | third person masculine plural",
+          "definition": "To be dispersed or scattered",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "them over",
+          "word": "עַל־",
+          "transliteration": "‘al-",
+          "strongs_number": "5921",
+          "part_of_speech": "Preposition",
+          "definition": "Above, over, upon, against",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the face",
+          "word": "פְּנֵ֖י",
+          "transliteration": "pə·nê",
+          "strongs_number": "6440",
+          "part_of_speech": "Noun - common plural construct",
+          "definition": "The face",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the whole",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "earth.",
+          "word": "הָאָֽרֶץ׃",
+          "transliteration": "hā·’ā·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Acts 2:6-11",
@@ -686,7 +1395,116 @@
           "text": "This is the genealogy of Shem: Shem was one hundred years old, and begot Arphaxad two years after the flood."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "This",
+          "word": "אֵ֚לֶּה",
+          "transliteration": "’êl·leh",
+          "strongs_number": "428",
+          "part_of_speech": "Pronoun - common plural",
+          "definition": "These, those",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "is the account",
+          "word": "תּוֹלְדֹ֣ת",
+          "transliteration": "tō·wl·ḏōṯ",
+          "strongs_number": "8435",
+          "part_of_speech": "Noun - feminine plural construct",
+          "definition": "Descent, family, history",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Shem.",
+          "word": "שֵׁ֔ם",
+          "transliteration": "šêm",
+          "strongs_number": "8035",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Shem -- 'name', oldest son of Noah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Two years",
+          "word": "שְׁנָתַ֖יִם",
+          "transliteration": "šə·nā·ṯa·yim",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - fd",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "after",
+          "word": "אַחַ֥ר",
+          "transliteration": "’a·ḥar",
+          "strongs_number": "310",
+          "part_of_speech": "Adverb",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the flood,",
+          "word": "הַמַּבּֽוּל׃",
+          "transliteration": "ham·mab·būl",
+          "strongs_number": "3999",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Flood -- a deluge",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "when Shem",
+          "word": "שֵׁ֚ם",
+          "transliteration": "m",
+          "strongs_number": "8035",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Shem -- 'name', oldest son of Noah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was 100",
+          "word": "מְאַ֣ת",
+          "transliteration": "mə·’aṯ",
+          "strongs_number": "3967",
+          "part_of_speech": "Number - feminine singular construct",
+          "definition": "A hundred",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years",
+          "word": "שָׁנָ֔ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "old,",
+          "word": "בֶּן־",
+          "transliteration": "ben-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he became the father of",
+          "word": "וַיּ֖וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Arphaxad.",
+          "word": "אַרְפַּכְשָׁ֑ד",
+          "transliteration": "’ar·paḵ·šāḏ",
+          "strongs_number": "775",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Arpachshad -- third son of Shem, also the region settled by him",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 5:32",
@@ -773,7 +1591,98 @@
           "text": "After he begot Arphaxad, Shem lived five hundred years, and begot sons and daughters."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And after",
+          "word": "אַֽחֲרֵי֙",
+          "transliteration": "’a·ḥă·rê",
+          "strongs_number": "310",
+          "part_of_speech": "Preposition",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he had become the father of",
+          "word": "הוֹלִיד֣וֹ",
+          "transliteration": "hō·w·lî·ḏōw",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Hifil - Infinitive construct | third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Arphaxad,",
+          "word": "אַרְפַּכְשָׁ֔ד",
+          "transliteration": "’ar·paḵ·šāḏ",
+          "strongs_number": "775",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Arpachshad -- third son of Shem, also the region settled by him",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Shem",
+          "word": "שֵׁ֗ם",
+          "transliteration": "šêm",
+          "strongs_number": "8035",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Shem -- 'name', oldest son of Noah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַֽיְחִי־",
+          "transliteration": "way·ḥî-",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "500",
+          "word": "חֲמֵ֥שׁ",
+          "transliteration": "ḥă·mêš",
+          "strongs_number": "2568",
+          "part_of_speech": "Number - feminine singular construct",
+          "definition": "Five",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and had",
+          "word": "וַיּ֥וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "other sons",
+          "word": "בָּנִ֖ים",
+          "transliteration": "bā·nîm",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and daughters.",
+          "word": "וּבָנֽוֹת׃",
+          "transliteration": "ū·ḇā·nō·wṯ",
+          "strongs_number": "1323",
+          "part_of_speech": "Conjunctive waw | Noun - feminine plural",
+          "definition": "A daughter",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 5:32",
@@ -860,7 +1769,62 @@
           "text": "Arphaxad lived thirty-five years, and begot Salah."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "When Arphaxad",
+          "word": "וְאַרְפַּכְשַׁ֣ד",
+          "transliteration": "wə·’ar·paḵ·šaḏ",
+          "strongs_number": "775",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Arpachshad -- third son of Shem, also the region settled by him",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was",
+          "word": "חַ֔י",
+          "transliteration": "ḥay",
+          "strongs_number": "2421",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "35",
+          "word": "חָמֵ֥שׁ",
+          "transliteration": "ḥā·mêš",
+          "strongs_number": "2568",
+          "part_of_speech": "Number - feminine singular",
+          "definition": "Five",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years old,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he became the father of",
+          "word": "וַיּ֖וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Shelah.",
+          "word": "שָֽׁלַח׃",
+          "transliteration": "šā·laḥ",
+          "strongs_number": "7974",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Shelah -- a descendant of Shem",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Luke 3:35-36",
@@ -947,7 +1911,98 @@
           "text": "After he begot Salah, Arphaxad lived four hundred and three years, and begot sons and daughters."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And after",
+          "word": "אַֽחֲרֵי֙",
+          "transliteration": "’a·ḥă·rê",
+          "strongs_number": "310",
+          "part_of_speech": "Preposition",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he had become the father of",
+          "word": "הוֹלִיד֣וֹ",
+          "transliteration": "hō·w·lî·ḏōw",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Hifil - Infinitive construct | third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Shelah,",
+          "word": "שֶׁ֔לַח",
+          "transliteration": "še·laḥ",
+          "strongs_number": "7974",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Shelah -- a descendant of Shem",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Arphaxad",
+          "word": "אַרְפַּכְשַׁ֗ד",
+          "transliteration": "’ar·paḵ·šaḏ",
+          "strongs_number": "775",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Arpachshad -- third son of Shem, also the region settled by him",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַֽיְחִ֣י",
+          "transliteration": "way·ḥî",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "403",
+          "word": "שָׁלֹ֣שׁ",
+          "transliteration": "šā·lōš",
+          "strongs_number": "7969",
+          "part_of_speech": "Number - feminine singular",
+          "definition": "Three, third, thrice",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years",
+          "word": "שָׁנִ֔ים",
+          "transliteration": "šā·nîm",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine plural",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and had",
+          "word": "וַיּ֥וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "other sons",
+          "word": "בָּנִ֖ים",
+          "transliteration": "bā·nîm",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and daughters.",
+          "word": "וּבָנֽוֹת׃",
+          "transliteration": "ū·ḇā·nō·wṯ",
+          "strongs_number": "1323",
+          "part_of_speech": "Conjunctive waw | Noun - feminine plural",
+          "definition": "A daughter",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 10:22-25",
@@ -1034,7 +2089,62 @@
           "text": "Salah lived thirty years, and begot Eber."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "When Shelah",
+          "word": "וְשֶׁ֥לַח",
+          "transliteration": "wə·še·laḥ",
+          "strongs_number": "7974",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Shelah -- a descendant of Shem",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was",
+          "word": "חַ֖י",
+          "transliteration": "ḥay",
+          "strongs_number": "2421",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "30",
+          "word": "שְׁלֹשִׁ֣ים",
+          "transliteration": "šə·lō·šîm",
+          "strongs_number": "7970",
+          "part_of_speech": "Number - common plural",
+          "definition": "Thirty, thirtieth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years old,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he became the father of",
+          "word": "וַיּ֖וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Eber.",
+          "word": "עֵֽבֶר׃",
+          "transliteration": "‘ê·ḇer",
+          "strongs_number": "5677",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Eber -- 'region beyond', a descendant of Shem, also the name of several Israelites",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 10:22-25",
@@ -1121,7 +2231,98 @@
           "text": "After he begot Eber, Salah lived four hundred and three years, and begot sons and daughters."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And after",
+          "word": "אַחֲרֵי֙",
+          "transliteration": "’a·ḥă·rê",
+          "strongs_number": "310",
+          "part_of_speech": "Preposition",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he had become the father of",
+          "word": "הוֹלִיד֣וֹ",
+          "transliteration": "hō·w·lî·ḏōw",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Hifil - Infinitive construct | third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Eber,",
+          "word": "עֵ֔בֶר",
+          "transliteration": "‘ê·ḇer",
+          "strongs_number": "5677",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Eber -- 'region beyond', a descendant of Shem, also the name of several Israelites",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Shelah",
+          "word": "שֶׁ֗לַח",
+          "transliteration": "še·laḥ",
+          "strongs_number": "7974",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Shelah -- a descendant of Shem",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַֽיְחִי־",
+          "transliteration": "way·ḥî-",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "403",
+          "word": "שָׁלֹ֣שׁ",
+          "transliteration": "šā·lōš",
+          "strongs_number": "7969",
+          "part_of_speech": "Number - feminine singular",
+          "definition": "Three, third, thrice",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years",
+          "word": "שָׁנִ֔ים",
+          "transliteration": "šā·nîm",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine plural",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and had",
+          "word": "וַיּ֥וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "other sons",
+          "word": "בָּנִ֖ים",
+          "transliteration": "bā·nîm",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and daughters.",
+          "word": "וּבָנֽוֹת׃",
+          "transliteration": "ū·ḇā·nō·wṯ",
+          "strongs_number": "1323",
+          "part_of_speech": "Conjunctive waw | Noun - feminine plural",
+          "definition": "A daughter",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 10:22-25",
@@ -1208,7 +2409,62 @@
           "text": "Eber lived thirty-four years, and begot Peleg."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "When Eber",
+          "word": "עֵ֕בֶר",
+          "transliteration": "‘ê·ḇer",
+          "strongs_number": "5677",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Eber -- 'region beyond', a descendant of Shem, also the name of several Israelites",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was",
+          "word": "וַֽיְחִי־",
+          "transliteration": "way·ḥî-",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "34",
+          "word": "אַרְבַּ֥ע",
+          "transliteration": "’ar·ba‘",
+          "strongs_number": "702",
+          "part_of_speech": "Number - feminine singular",
+          "definition": "Four",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years old,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he became the father of",
+          "word": "וַיּ֖וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Peleg.",
+          "word": "פָּֽלֶג׃",
+          "transliteration": "pā·leḡ",
+          "strongs_number": "6389",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Peleg -- a son of Eber",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 10:22-25",
@@ -1295,7 +2551,98 @@
           "text": "After he begot Peleg, Eber lived four hundred and thirty years, and begot sons and daughters."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And after",
+          "word": "אַחֲרֵי֙",
+          "transliteration": "’a·ḥă·rê",
+          "strongs_number": "310",
+          "part_of_speech": "Preposition",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he had become the father of",
+          "word": "הוֹלִיד֣וֹ",
+          "transliteration": "hō·w·lî·ḏōw",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Hifil - Infinitive construct | third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Peleg,",
+          "word": "פֶּ֔לֶג",
+          "transliteration": "pe·leḡ",
+          "strongs_number": "6389",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Peleg -- a son of Eber",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Eber",
+          "word": "עֵ֗בֶר",
+          "transliteration": "‘ê·ḇer",
+          "strongs_number": "5677",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Eber -- 'region beyond', a descendant of Shem, also the name of several Israelites",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַֽיְחִי־",
+          "transliteration": "way·ḥî-",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "430",
+          "word": "שְׁלֹשִׁ֣ים",
+          "transliteration": "šə·lō·šîm",
+          "strongs_number": "7970",
+          "part_of_speech": "Number - common plural",
+          "definition": "Thirty, thirtieth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years",
+          "word": "שָׁנָ֔ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and had",
+          "word": "וַיּ֥וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "other sons",
+          "word": "בָּנִ֖ים",
+          "transliteration": "bā·nîm",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and daughters.",
+          "word": "וּבָנֽוֹת׃",
+          "transliteration": "ū·ḇā·nō·wṯ",
+          "strongs_number": "1323",
+          "part_of_speech": "Conjunctive waw | Noun - feminine plural",
+          "definition": "A daughter",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 5:6-8",
@@ -1382,7 +2729,62 @@
           "text": "Peleg lived thirty years, and begot Reu."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "When Peleg",
+          "word": "פֶ֖לֶג",
+          "transliteration": "p̄e·leḡ",
+          "strongs_number": "6389",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Peleg -- a son of Eber",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was",
+          "word": "וַֽיְחִי־",
+          "transliteration": "way·ḥî-",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "30",
+          "word": "שְׁלֹשִׁ֣ים",
+          "transliteration": "šə·lō·šîm",
+          "strongs_number": "7970",
+          "part_of_speech": "Number - common plural",
+          "definition": "Thirty, thirtieth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years old,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he became the father of",
+          "word": "וַיּ֖וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Reu.",
+          "word": "רְעֽוּ׃",
+          "transliteration": "rə·‘ū",
+          "strongs_number": "7466",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Reu -- son of Peleg",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 5:12-13",
@@ -1469,7 +2871,98 @@
           "text": "After he begot Reu, Peleg lived two hundred and nine years, and begot sons and daughters."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And after",
+          "word": "אַחֲרֵי֙",
+          "transliteration": "’a·ḥă·rê",
+          "strongs_number": "310",
+          "part_of_speech": "Preposition",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he had become the father of",
+          "word": "הוֹלִיד֣וֹ",
+          "transliteration": "hō·w·lî·ḏōw",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Hifil - Infinitive construct | third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Reu,",
+          "word": "רְע֔וּ",
+          "transliteration": "rə·‘ū",
+          "strongs_number": "7466",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Reu -- son of Peleg",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Peleg",
+          "word": "פֶ֗לֶג",
+          "transliteration": "p̄e·leḡ",
+          "strongs_number": "6389",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Peleg -- a son of Eber",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַֽיְחִי־",
+          "transliteration": "way·ḥî-",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "209",
+          "word": "תֵּ֥שַׁע",
+          "transliteration": "tê·ša‘",
+          "strongs_number": "8672",
+          "part_of_speech": "Number - feminine singular",
+          "definition": "Nine, ninth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years",
+          "word": "שָׁנִ֖ים",
+          "transliteration": "šā·nîm",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine plural",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and had",
+          "word": "וַיּ֥וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "other sons",
+          "word": "בָּנִ֖ים",
+          "transliteration": "bā·nîm",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and daughters.",
+          "word": "וּבָנֽוֹת׃",
+          "transliteration": "ū·ḇā·nō·wṯ",
+          "strongs_number": "1323",
+          "part_of_speech": "Conjunctive waw | Noun - feminine plural",
+          "definition": "A daughter",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 10:25",
@@ -1556,7 +3049,62 @@
           "text": "Reu lived thirty-two years, and begot Serug."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "When Reu",
+          "word": "רְע֔וּ",
+          "transliteration": "rə·‘ū",
+          "strongs_number": "7466",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Reu -- son of Peleg",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was",
+          "word": "וַיְחִ֣י",
+          "transliteration": "way·ḥî",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "32",
+          "word": "שְׁתַּ֥יִם",
+          "transliteration": "šə·ta·yim",
+          "strongs_number": "8147",
+          "part_of_speech": "Number - fd",
+          "definition": "Two (a cardinal number)",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years old,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he became the father of",
+          "word": "וַיּ֖וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Serug.",
+          "word": "שְׂרֽוּג׃",
+          "transliteration": "śə·rūḡ",
+          "strongs_number": "8286",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Serug -- a descendant of Peleg",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 10:22",
@@ -1643,7 +3191,98 @@
           "text": "After he begot Serug, Reu lived two hundred and seven years, and begot sons and daughters."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And after",
+          "word": "אַחֲרֵי֙",
+          "transliteration": "’a·ḥă·rê",
+          "strongs_number": "310",
+          "part_of_speech": "Preposition",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he had become the father of",
+          "word": "הוֹלִיד֣וֹ",
+          "transliteration": "hō·w·lî·ḏōw",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Hifil - Infinitive construct | third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Serug,",
+          "word": "שְׂר֔וּג",
+          "transliteration": "śə·rūḡ",
+          "strongs_number": "8286",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Serug -- a descendant of Peleg",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Reu",
+          "word": "רְע֗וּ",
+          "transliteration": "rə·‘ū",
+          "strongs_number": "7466",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Reu -- son of Peleg",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַיְחִ֣י",
+          "transliteration": "way·ḥî",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "207",
+          "word": "שֶׁ֥בַע",
+          "transliteration": "še·ḇa‘",
+          "strongs_number": "7651",
+          "part_of_speech": "Number - feminine singular",
+          "definition": "Seven, seven times, a week, an indefinite number",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years",
+          "word": "שָׁנִ֖ים",
+          "transliteration": "šā·nîm",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine plural",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and had",
+          "word": "וַיּ֥וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "other sons",
+          "word": "בָּנִ֖ים",
+          "transliteration": "bā·nîm",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and daughters.",
+          "word": "וּבָנֽוֹת׃",
+          "transliteration": "ū·ḇā·nō·wṯ",
+          "strongs_number": "1323",
+          "part_of_speech": "Conjunctive waw | Noun - feminine plural",
+          "definition": "A daughter",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 5:6-8",
@@ -1730,7 +3369,62 @@
           "text": "Serug lived thirty years, and begot Nahor."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "When Serug",
+          "word": "שְׂר֖וּג",
+          "transliteration": "śə·rūḡ",
+          "strongs_number": "8286",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Serug -- a descendant of Peleg",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was",
+          "word": "וַיְחִ֥י",
+          "transliteration": "way·ḥî",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "30",
+          "word": "שְׁלֹשִׁ֣ים",
+          "transliteration": "šə·lō·šîm",
+          "strongs_number": "7970",
+          "part_of_speech": "Number - common plural",
+          "definition": "Thirty, thirtieth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years old,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he became the father of",
+          "word": "וַיּ֖וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Nahor.",
+          "word": "נָחֽוֹר׃",
+          "transliteration": "nā·ḥō·wr",
+          "strongs_number": "5152",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Nochor",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 10:22",
@@ -1817,7 +3511,98 @@
           "text": "After he begot Nahor, Serug lived two hundred years, and begot sons and daughters."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And after",
+          "word": "אַחֲרֵ֛י",
+          "transliteration": "’a·ḥă·rê",
+          "strongs_number": "310",
+          "part_of_speech": "Preposition",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he had become the father of",
+          "word": "הוֹלִיד֥וֹ",
+          "transliteration": "hō·w·lî·ḏōw",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Hifil - Infinitive construct | third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Nahor,",
+          "word": "נָח֖וֹר",
+          "transliteration": "nā·ḥō·wr",
+          "strongs_number": "5152",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Nochor",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Serug",
+          "word": "שְׂר֗וּג",
+          "transliteration": "śə·rūḡ",
+          "strongs_number": "8286",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Serug -- a descendant of Peleg",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַיְחִ֣י",
+          "transliteration": "way·ḥî",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "200",
+          "word": "מָאתַ֣יִם",
+          "transliteration": "mā·ṯa·yim",
+          "strongs_number": "3967",
+          "part_of_speech": "Number - fd",
+          "definition": "A hundred",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and had",
+          "word": "וַיּ֥וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "other sons",
+          "word": "בָּנִ֖ים",
+          "transliteration": "bā·nîm",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and daughters.",
+          "word": "וּבָנֽוֹת׃",
+          "transliteration": "ū·ḇā·nō·wṯ",
+          "strongs_number": "1323",
+          "part_of_speech": "Conjunctive waw | Noun - feminine plural",
+          "definition": "A daughter",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 5:32",
@@ -1904,7 +3689,62 @@
           "text": "Nahor lived twenty-nine years, and begot Terah."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "When Nahor",
+          "word": "נָח֔וֹר",
+          "transliteration": "nā·ḥō·wr",
+          "strongs_number": "5152",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Nochor",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was",
+          "word": "וַיְחִ֣י",
+          "transliteration": "way·ḥî",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "29",
+          "word": "תֵּ֥שַׁע",
+          "transliteration": "tê·ša‘",
+          "strongs_number": "8672",
+          "part_of_speech": "Number - feminine singular",
+          "definition": "Nine, ninth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years old,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he became the father of",
+          "word": "וַיּ֖וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Terah.",
+          "word": "תָּֽרַח׃",
+          "transliteration": "tā·raḥ",
+          "strongs_number": "8646",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Terah -- Abraham's father, also a place in the desert",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 5:32",
@@ -1991,7 +3831,98 @@
           "text": "After he begot Terah, Nahor lived one hundred and nineteen years, and begot sons and daughters."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And after",
+          "word": "אַחֲרֵי֙",
+          "transliteration": "’a·ḥă·rê",
+          "strongs_number": "310",
+          "part_of_speech": "Preposition",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he had become the father of",
+          "word": "הוֹלִיד֣וֹ",
+          "transliteration": "hō·w·lî·ḏōw",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Hifil - Infinitive construct | third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Terah,",
+          "word": "תֶּ֔רַח",
+          "transliteration": "te·raḥ",
+          "strongs_number": "8646",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Terah -- Abraham's father, also a place in the desert",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Nahor",
+          "word": "נָח֗וֹר",
+          "transliteration": "nā·ḥō·wr",
+          "strongs_number": "5152",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Nochor",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַיְחִ֣י",
+          "transliteration": "way·ḥî",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "119",
+          "word": "תְּשַֽׁע־",
+          "transliteration": "tə·ša‘-",
+          "strongs_number": "8672",
+          "part_of_speech": "Number - feminine singular construct",
+          "definition": "Nine, ninth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years",
+          "word": "שָׁנָ֖ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and had",
+          "word": "וַיּ֥וֹלֶד",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "other sons",
+          "word": "בָּנִ֖ים",
+          "transliteration": "bā·nîm",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and daughters.",
+          "word": "וּבָנֽוֹת׃",
+          "transliteration": "ū·ḇā·nō·wṯ",
+          "strongs_number": "1323",
+          "part_of_speech": "Conjunctive waw | Noun - feminine plural",
+          "definition": "A daughter",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 5:32",
@@ -2078,7 +4009,80 @@
           "text": "Now Terah lived seventy years, and begot Abram, Nahor, and Haran."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "When Terah",
+          "word": "תֶ֖רַח",
+          "transliteration": "ṯe·raḥ",
+          "strongs_number": "8646",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Terah -- Abraham's father, also a place in the desert",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was",
+          "word": "וַֽיְחִי־",
+          "transliteration": "way·ḥî-",
+          "strongs_number": "2421",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To live, to revive",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "70",
+          "word": "שִׁבְעִ֣ים",
+          "transliteration": "šiḇ·‘îm",
+          "strongs_number": "7657",
+          "part_of_speech": "Number - common plural",
+          "definition": "Seventy (a cardinal number)",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years old,",
+          "word": "שָׁנָ֑ה",
+          "transliteration": "šā·nāh",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he became the father of",
+          "word": "וַיּ֙וֹלֶד֙",
+          "transliteration": "way·yō·w·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Abram,",
+          "word": "אַבְרָ֔ם",
+          "transliteration": "’aḇ·rām",
+          "strongs_number": "87",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abram -- 'exalted father', the original name of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Nahor,",
+          "word": "נָח֖וֹר",
+          "transliteration": "nā·ḥō·wr",
+          "strongs_number": "5152",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Nochor",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Haran.",
+          "word": "הָרָֽן׃",
+          "transliteration": "hā·rān",
+          "strongs_number": "2039",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Haran -- 'mountaineer', a brother of Abram, also an Israelite",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 12:1-3",
@@ -2165,7 +4169,107 @@
           "text": "This is the genealogy of Terah: Terah begot Abram, Nahor, and Haran. Haran begot Lot."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "This",
+          "word": "וְאֵ֙לֶּה֙",
+          "transliteration": "wə·’êl·leh",
+          "strongs_number": "428",
+          "part_of_speech": "Conjunctive waw | Pronoun - common plural",
+          "definition": "These, those",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "is the account",
+          "word": "תּוֹלְדֹ֣ת",
+          "transliteration": "tō·wl·ḏōṯ",
+          "strongs_number": "8435",
+          "part_of_speech": "Noun - feminine plural construct",
+          "definition": "Descent, family, history",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Terah.",
+          "word": "תֶּ֔רַח",
+          "transliteration": "te·raḥ",
+          "strongs_number": "8646",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Terah -- Abraham's father, also a place in the desert",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Terah",
+          "word": "תֶּ֚רַח",
+          "transliteration": "te·raḥ",
+          "strongs_number": "8646",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Terah -- Abraham's father, also a place in the desert",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "became the father of",
+          "word": "הוֹלִ֣יד",
+          "transliteration": "hō·w·lîḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Hifil - Perfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Abram,",
+          "word": "אַבְרָ֔ם",
+          "transliteration": "’aḇ·rām",
+          "strongs_number": "87",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abram -- 'exalted father', the original name of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Nahor,",
+          "word": "נָח֖וֹר",
+          "transliteration": "nā·ḥō·wr",
+          "strongs_number": "5152",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Nochor",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Haran.",
+          "word": "הָרָ֑ן",
+          "transliteration": "hā·rān",
+          "strongs_number": "2039",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Haran -- 'mountaineer', a brother of Abram, also an Israelite",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "And Haran",
+          "word": "וְהָרָ֖ן",
+          "transliteration": "wə·hā·rān",
+          "strongs_number": "2039",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Haran -- 'mountaineer', a brother of Abram, also an Israelite",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "became the father of",
+          "word": "הוֹלִ֥יד",
+          "transliteration": "hō·w·lîḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Hifil - Perfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Lot.",
+          "word": "לֽוֹט׃",
+          "transliteration": "lō·wṭ",
+          "strongs_number": "3876",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Lot -- Abraham's nephew",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 12:1-4",
@@ -2252,7 +4356,89 @@
           "text": "And Haran died before his father Terah in his native land, in Ur of the Chaldeans."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "During",
+          "word": "עַל־",
+          "transliteration": "‘al-",
+          "strongs_number": "5921",
+          "part_of_speech": "Preposition",
+          "definition": "Above, over, upon, against",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "his father",
+          "word": "אָבִ֑יו",
+          "transliteration": "’ā·ḇîw",
+          "strongs_number": "1",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine singular",
+          "definition": "Father",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Terah’s lifetime,",
+          "word": "תֶּ֣רַח",
+          "transliteration": "te·raḥ",
+          "strongs_number": "8646",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Terah -- Abraham's father, also a place in the desert",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Haran",
+          "word": "הָרָ֔ן",
+          "transliteration": "hā·rān",
+          "strongs_number": "2039",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Haran -- 'mountaineer', a brother of Abram, also an Israelite",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "died",
+          "word": "וַיָּ֣מָת",
+          "transliteration": "way·yā·māṯ",
+          "strongs_number": "4191",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To die, to kill",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in his native",
+          "word": "מוֹלַדְתּ֖וֹ",
+          "transliteration": "mō·w·laḏ·tōw",
+          "strongs_number": "4138",
+          "part_of_speech": "Noun - feminine singular construct | third person masculine singular",
+          "definition": "Nativity, lineage, native country, offspring, family",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "land,",
+          "word": "בְּאֶ֥רֶץ",
+          "transliteration": "bə·’e·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Preposition-b | Noun - feminine singular construct",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in Ur",
+          "word": "בְּא֥וּר",
+          "transliteration": "bə·’ūr",
+          "strongs_number": "218",
+          "part_of_speech": "Preposition-b | Noun - proper - feminine singular",
+          "definition": "Ur -- a city in southern Babylon",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the Chaldeans.",
+          "word": "כַּשְׂדִּֽים׃",
+          "transliteration": "kaś·dîm",
+          "strongs_number": "3778",
+          "part_of_speech": "Noun - proper - masculine plural",
+          "definition": "Chaldeans -- a region of southern Babylon and its inhab",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 15:7",
@@ -2339,7 +4525,161 @@
           "text": "Then Abram and Nahor took wives: the name of Abram’s wife was Sarai, and the name of Nahor’s wife, Milcah, the daughter of Haran the father of Milcah and the father of Iscah."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And Abram",
+          "word": "אַבְרָ֧ם",
+          "transliteration": "’aḇ·rām",
+          "strongs_number": "87",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abram -- 'exalted father', the original name of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Nahor",
+          "word": "וְנָח֛וֹר",
+          "transliteration": "wə·nā·ḥō·wr",
+          "strongs_number": "5152",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Nochor",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "took",
+          "word": "וַיִּקַּ֨ח",
+          "transliteration": "way·yiq·qaḥ",
+          "strongs_number": "3947",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To take",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "wives {for themselves}.",
+          "word": "נָשִׁ֑ים",
+          "transliteration": "nā·šîm",
+          "strongs_number": "802",
+          "part_of_speech": "Noun - feminine plural",
+          "definition": "Woman, wife, female",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Abram’s",
+          "word": "אַבְרָם֙",
+          "transliteration": "’aḇ·rām",
+          "strongs_number": "87",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abram -- 'exalted father', the original name of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "wife",
+          "word": "אֵֽשֶׁת־",
+          "transliteration": "’ê·šeṯ-",
+          "strongs_number": "802",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "Woman, wife, female",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was named",
+          "word": "שֵׁ֤ם",
+          "transliteration": "šêm",
+          "strongs_number": "8034",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A name",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Sarai,",
+          "word": "שָׂרָ֔י",
+          "transliteration": "śā·rāy",
+          "strongs_number": "8297",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Sarai -- a wife of Abram",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Nahor’s",
+          "word": "נָחוֹר֙",
+          "transliteration": "nā·ḥō·wr",
+          "strongs_number": "5152",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Nochor",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "wife",
+          "word": "אֵֽשֶׁת־",
+          "transliteration": "’ê·šeṯ-",
+          "strongs_number": "802",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "Woman, wife, female",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was named",
+          "word": "וְשֵׁ֤ם",
+          "transliteration": "wə·šêm",
+          "strongs_number": "8034",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular construct",
+          "definition": "A name",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Milcah;",
+          "word": "מִלְכָּ֔ה",
+          "transliteration": "mil·kāh",
+          "strongs_number": "4435",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Milcah -- two Israelite women",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "she was the daughter",
+          "word": "בַּת־",
+          "transliteration": "baṯ-",
+          "strongs_number": "1323",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "A daughter",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Haran,",
+          "word": "הָרָ֥ן",
+          "transliteration": "hā·rān",
+          "strongs_number": "2039",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Haran -- 'mountaineer', a brother of Abram, also an Israelite",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the father",
+          "word": "אֲבִֽי־",
+          "transliteration": "’ă·ḇî-",
+          "strongs_number": "1",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "Father",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of both Milcah",
+          "word": "מִלְכָּ֖ה",
+          "transliteration": "mil·kāh",
+          "strongs_number": "4435",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Milcah -- two Israelite women",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Iscah.",
+          "word": "יִסְכָּֽה׃",
+          "transliteration": "yis·kāh",
+          "strongs_number": "3252",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Iscah -- a daughter of Haran",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 17:15-16",
@@ -2426,7 +4766,53 @@
           "text": "But Sarai was barren; she had no child."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "But Sarai",
+          "word": "שָׂרַ֖י",
+          "transliteration": "śā·ray",
+          "strongs_number": "8297",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Sarai -- a wife of Abram",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was",
+          "word": "וַתְּהִ֥י",
+          "transliteration": "wat·tə·hî",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "barren;",
+          "word": "עֲקָרָ֑ה",
+          "transliteration": "‘ă·qā·rāh",
+          "strongs_number": "6135",
+          "part_of_speech": "Adjective - feminine singular",
+          "definition": "Sterile",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "she had no",
+          "word": "אֵ֥ין",
+          "transliteration": "’ên",
+          "strongs_number": "369",
+          "part_of_speech": "Adverb",
+          "definition": "A non-entity, a negative particle",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "children.",
+          "word": "וָלָֽד׃",
+          "transliteration": "wā·lāḏ",
+          "strongs_number": "2056",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Offspring, child",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 16:1-2",
@@ -2513,7 +4899,224 @@
           "text": "And Terah took his son Abram and his grandson Lot, the son of Haran, and his daughter-in-law Sarai, his son Abram’s wife, and they went out with them from Ur of the Chaldeans to go to the land of Canaan; and they came to Haran and dwelt there."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And Terah",
+          "word": "תֶּ֜רַח",
+          "transliteration": "te·raḥ",
+          "strongs_number": "8646",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Terah -- Abraham's father, also a place in the desert",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "took",
+          "word": "וַיִּקַּ֨ח",
+          "transliteration": "way·yiq·qaḥ",
+          "strongs_number": "3947",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To take",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "his son",
+          "word": "בְּנ֗וֹ",
+          "transliteration": "bə·nōw",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine singular",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Abram,",
+          "word": "אַבְרָ֣ם",
+          "transliteration": "’aḇ·rām",
+          "strongs_number": "87",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abram -- 'exalted father', the original name of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "his grandson",
+          "word": "בֶּן־",
+          "transliteration": "ben-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Lot",
+          "word": "ל֤וֹט",
+          "transliteration": "lō·wṭ",
+          "strongs_number": "3876",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Lot -- Abraham's nephew",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "son",
+          "word": "בְּנ֔וֹ",
+          "transliteration": "bə·nōw",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine singular",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Haran,",
+          "word": "הָרָן֙",
+          "transliteration": "hā·rān",
+          "strongs_number": "2039",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Haran -- 'mountaineer', a brother of Abram, also an Israelite",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and",
+          "word": "וְאֵת֙",
+          "transliteration": "wə·’êṯ",
+          "strongs_number": "853",
+          "part_of_speech": "Conjunctive waw | Direct object marker",
+          "definition": "Untranslatable mark of the accusative case",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "his daughter-in-law",
+          "word": "כַּלָּת֔וֹ",
+          "transliteration": "kal·lā·ṯōw",
+          "strongs_number": "3618",
+          "part_of_speech": "Noun - feminine singular construct | third person masculine singular",
+          "definition": "Daughter-in-law, bride",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Sarai",
+          "word": "שָׂרַ֣י",
+          "transliteration": "śā·ray",
+          "strongs_number": "8297",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Sarai -- a wife of Abram",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the wife",
+          "word": "אֵ֖שֶׁת",
+          "transliteration": "’ê·šeṯ",
+          "strongs_number": "802",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "Woman, wife, female",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Abram,",
+          "word": "אַבְרָ֣ם",
+          "transliteration": "’aḇ·rām",
+          "strongs_number": "87",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abram -- 'exalted father', the original name of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and they set out",
+          "word": "וַיֵּצְא֨וּ",
+          "transliteration": "way·yê·ṣə·’ū",
+          "strongs_number": "3318",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To go, bring, out, direct and proxim",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "from Ur",
+          "word": "מֵא֣וּר",
+          "transliteration": "mê·’ūr",
+          "strongs_number": "218",
+          "part_of_speech": "Preposition-m | Noun - proper - feminine singular",
+          "definition": "Ur -- a city in southern Babylon",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the Chaldeans",
+          "word": "כַּשְׂדִּ֗ים",
+          "transliteration": "kaś·dîm",
+          "strongs_number": "3778",
+          "part_of_speech": "Noun - proper - masculine plural",
+          "definition": "Chaldeans -- a region of southern Babylon and its inhab",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "for",
+          "word": "לָלֶ֙כֶת֙",
+          "transliteration": "lā·le·ḵeṯ",
+          "strongs_number": "1980",
+          "part_of_speech": "Preposition-l | Verb - Qal - Infinitive construct",
+          "definition": "To go, come, walk",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the land",
+          "word": "אַ֣רְצָה",
+          "transliteration": "’ar·ṣāh",
+          "strongs_number": "776",
+          "part_of_speech": "Noun - feminine singular | third person feminine singular",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Canaan.",
+          "word": "כְּנַ֔עַן",
+          "transliteration": "kə·na·‘an",
+          "strongs_number": "3667",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Canaan -- a son of Ham, also his descendants and their land West of the Jordan",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "But when they arrived",
+          "word": "וַיָּבֹ֥אוּ",
+          "transliteration": "way·yā·ḇō·’ū",
+          "strongs_number": "935",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To come in, come, go in, go",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in",
+          "word": "עַד־",
+          "transliteration": "‘aḏ-",
+          "strongs_number": "5704",
+          "part_of_speech": "Preposition",
+          "definition": "As far as, even to, up to, until, while",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Haran,",
+          "word": "חָרָ֖ן",
+          "transliteration": "ḥā·rān",
+          "strongs_number": "2771",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Haran -- 'crossroads', a city in northern Mesopotamia",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "they settled",
+          "word": "וַיֵּ֥שְׁבוּ",
+          "transliteration": "way·yê·šə·ḇū",
+          "strongs_number": "3427",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To sit down, to dwell, to remain, to settle, to marry",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "there.",
+          "word": "שָֽׁם׃",
+          "transliteration": "šām",
+          "strongs_number": "8033",
+          "part_of_speech": "Adverb",
+          "definition": "There, then, thither",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 12:1-5",
@@ -2600,7 +5203,62 @@
           "text": "So the days of Terah were two hundred and five years, and Terah died in Haran."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Terah",
+          "word": "תֶ֔רַח",
+          "transliteration": "ṯe·raḥ",
+          "strongs_number": "8646",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Terah -- Abraham's father, also a place in the desert",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lived",
+          "word": "וַיִּהְי֣וּ",
+          "transliteration": "way·yih·yū",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "205",
+          "word": "חָמֵ֥שׁ",
+          "transliteration": "ḥā·mêš",
+          "strongs_number": "2568",
+          "part_of_speech": "Number - feminine singular",
+          "definition": "Five",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years,",
+          "word": "שָׁנִ֖ים",
+          "transliteration": "šā·nîm",
+          "strongs_number": "8141",
+          "part_of_speech": "Noun - feminine plural",
+          "definition": "A year",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and he died",
+          "word": "וַיָּ֥מָת",
+          "transliteration": "way·yā·māṯ",
+          "strongs_number": "4191",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To die, to kill",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in Haran.",
+          "word": "בְּחָרָֽן׃",
+          "transliteration": "bə·ḥā·rān",
+          "strongs_number": "2771",
+          "part_of_speech": "Preposition-b | Noun - proper - feminine singular",
+          "definition": "Haran -- 'crossroads', a city in northern Mesopotamia",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 12:1-3",

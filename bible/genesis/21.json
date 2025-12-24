@@ -25,7 +25,98 @@
           "text": "And the LORD visited Sarah as He had said, and the LORD did for Sarah as He had spoken."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Now the LORD",
+          "word": "וַֽיהוָ֛ה",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "attended",
+          "word": "פָּקַ֥ד",
+          "transliteration": "pā·qaḏ",
+          "strongs_number": "6485",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To visit, to oversee, muster, charge, care for, miss, deposit",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to Sarah",
+          "word": "שָׂרָ֖ה",
+          "transliteration": "śā·rāh",
+          "strongs_number": "8283",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Sarah -- 'princess', a wife of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "as",
+          "word": "כַּאֲשֶׁ֣ר",
+          "transliteration": "ka·’ă·šer",
+          "strongs_number": "834",
+          "part_of_speech": "Preposition-k | Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "He had said,",
+          "word": "אָמָ֑ר",
+          "transliteration": "’ā·mār",
+          "strongs_number": "559",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To utter, say",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and the LORD",
+          "word": "יְהוָ֛ה",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "did",
+          "word": "וַיַּ֧עַשׂ",
+          "transliteration": "way·ya·‘aś",
+          "strongs_number": "6213",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To do, make",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "for Sarah",
+          "word": "לְשָׂרָ֖ה",
+          "transliteration": "lə·śā·rāh",
+          "strongs_number": "8283",
+          "part_of_speech": "Preposition-l | Noun - proper - feminine singular",
+          "definition": "Sarah -- 'princess', a wife of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "what",
+          "word": "כַּאֲשֶׁ֥ר",
+          "transliteration": "ka·’ă·šer",
+          "strongs_number": "834",
+          "part_of_speech": "Preposition-k | Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "He had promised.",
+          "word": "דִּבֵּֽר׃",
+          "transliteration": "dib·bêr",
+          "strongs_number": "1696",
+          "part_of_speech": "Verb - Piel - Perfect - third person masculine singular",
+          "definition": "To arrange, to speak, to subdue",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 18:10",
@@ -112,7 +203,89 @@
           "text": "For Sarah conceived and bore Abraham a son in his old age, at the set time of which God had spoken to him."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "So Sarah",
+          "word": "שָׂרָ֧ה",
+          "transliteration": "śā·rāh",
+          "strongs_number": "8283",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Sarah -- 'princess', a wife of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "conceived",
+          "word": "וַתַּהַר֩",
+          "transliteration": "wat·ta·har",
+          "strongs_number": "2029",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
+          "definition": "To conceive, become pregnant",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and bore",
+          "word": "וַתֵּ֨לֶד",
+          "transliteration": "wat·tê·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a son",
+          "word": "בֵּ֖ן",
+          "transliteration": "bên",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to Abraham",
+          "word": "לְאַבְרָהָ֛ם",
+          "transliteration": "lə·’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Preposition-l | Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in his old age,",
+          "word": "לִזְקֻנָ֑יו",
+          "transliteration": "liz·qu·nāw",
+          "strongs_number": "2208",
+          "part_of_speech": "Preposition-l | Noun - masculine plural construct | third person masculine singular",
+          "definition": "Old age",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "at the very time",
+          "word": "לַמּוֹעֵ֕ד",
+          "transliteration": "lam·mō·w·‘êḏ",
+          "strongs_number": "4150",
+          "part_of_speech": "Preposition-l, Article | Noun - masculine singular",
+          "definition": "Appointed time, place, or meeting",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God",
+          "word": "אֱלֹהִֽים׃",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "had promised him.",
+          "word": "דִּבֶּ֥ר",
+          "transliteration": "dib·ber",
+          "strongs_number": "1696",
+          "part_of_speech": "Verb - Piel - Perfect - third person masculine singular",
+          "definition": "To arrange, to speak, to subdue",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 17:19",
@@ -199,7 +372,80 @@
           "text": "And Abraham called the name of his son who was born to him—whom Sarah bore to him—Isaac."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And Abraham",
+          "word": "אַבְרָהָ֜ם",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "gave",
+          "word": "וַיִּקְרָ֨א",
+          "transliteration": "way·yiq·rā",
+          "strongs_number": "7121",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To call, proclaim, read",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the name",
+          "word": "שֶׁם־",
+          "transliteration": "šem-",
+          "strongs_number": "8034",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A name",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Isaac",
+          "word": "יִצְחָֽק׃",
+          "transliteration": "yiṣ·ḥāq",
+          "strongs_number": "3327",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Isaac -- 'he laughs', son of Abraham and Sarah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to the son",
+          "word": "בְּנ֧וֹ",
+          "transliteration": "bə·nōw",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine singular",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Sarah",
+          "word": "שָׂרָ֖ה",
+          "transliteration": "śā·rāh",
+          "strongs_number": "8283",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Sarah -- 'princess', a wife of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "bore",
+          "word": "יָלְדָה־",
+          "transliteration": "yā·lə·ḏāh-",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Qal - Perfect - third person feminine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to him.",
+          "word": "לּ֥וֹ",
+          "transliteration": "lōw",
+          "strongs_number": "",
+          "part_of_speech": "Preposition | third person masculine singular",
+          "definition": "",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 17:19",
@@ -286,7 +532,89 @@
           "text": "Then Abraham circumcised his son Isaac when he was eight days old, as God had commanded him."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "When his son",
+          "word": "בְּנ֔וֹ",
+          "transliteration": "bə·nōw",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine singular",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Isaac",
+          "word": "יִצְחָ֣ק",
+          "transliteration": "yiṣ·ḥāq",
+          "strongs_number": "3327",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Isaac -- 'he laughs', son of Abraham and Sarah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was eight",
+          "word": "שְׁמֹנַ֖ת",
+          "transliteration": "šə·mō·naṯ",
+          "strongs_number": "8083",
+          "part_of_speech": "Number - masculine singular construct",
+          "definition": "A cardinal number, eight, eighth",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "days old,",
+          "word": "יָמִ֑ים",
+          "transliteration": "yā·mîm",
+          "strongs_number": "3117",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A day",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Abraham",
+          "word": "אַבְרָהָם֙",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "circumcised him,",
+          "word": "וַיָּ֤מָל",
+          "transliteration": "way·yā·māl",
+          "strongs_number": "4135",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To cut short, curtail, to blunt, to destroy",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "as",
+          "word": "כַּאֲשֶׁ֛ר",
+          "transliteration": "ka·’ă·šer",
+          "strongs_number": "834",
+          "part_of_speech": "Preposition-k | Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God",
+          "word": "אֱלֹהִֽים׃",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "had commanded him.",
+          "word": "צִוָּ֥ה",
+          "transliteration": "ṣiw·wāh",
+          "strongs_number": "6680",
+          "part_of_speech": "Verb - Piel - Perfect - third person masculine singular",
+          "definition": "To lay charge (upon), give charge (to), command, order",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 17:10-12",
@@ -373,7 +701,71 @@
           "text": "Now Abraham was one hundred years old when his son Isaac was born to him."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Abraham",
+          "word": "וְאַבְרָהָ֖ם",
+          "transliteration": "wə·’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was a hundred",
+          "word": "מְאַ֣ת",
+          "transliteration": "mə·’aṯ",
+          "strongs_number": "3967",
+          "part_of_speech": "Number - feminine singular construct",
+          "definition": "A hundred",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "years old",
+          "word": "בֶּן־",
+          "transliteration": "ben-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "when his son",
+          "word": "בְּנֽוֹ׃",
+          "transliteration": "bə·nōw",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine singular",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Isaac",
+          "word": "יִצְחָ֥ק",
+          "transliteration": "yiṣ·ḥāq",
+          "strongs_number": "3327",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Isaac -- 'he laughs', son of Abraham and Sarah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was born",
+          "word": "בְּהִוָּ֣לֶד",
+          "transliteration": "bə·hiw·wā·leḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Preposition-b | Verb - Nifal - Infinitive construct",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to him.",
+          "word": "ל֔וֹ",
+          "transliteration": "lōw",
+          "strongs_number": "",
+          "part_of_speech": "Preposition | third person masculine singular",
+          "definition": "",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Romans 4:19",
@@ -460,7 +852,89 @@
           "text": "And Sarah said, “God has made me laugh, and all who hear will laugh with me.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Then Sarah",
+          "word": "שָׂרָ֔ה",
+          "transliteration": "śā·rāh",
+          "strongs_number": "8283",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Sarah -- 'princess', a wife of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "said,",
+          "word": "וַתֹּ֣אמֶר",
+          "transliteration": "wat·tō·mer",
+          "strongs_number": "559",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
+          "definition": "To utter, say",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "“God",
+          "word": "אֱלֹהִ֑ים",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "has made",
+          "word": "עָ֥שָׂה",
+          "transliteration": "‘ā·śāh",
+          "strongs_number": "6213",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To do, make",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "me",
+          "word": "לִ֖י",
+          "transliteration": "lî",
+          "strongs_number": "",
+          "part_of_speech": "Preposition | first person common singular",
+          "definition": "",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "laugh,",
+          "word": "צְחֹ֕ק",
+          "transliteration": "ṣə·ḥōq",
+          "strongs_number": "6712",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Laughter",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and everyone",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "who hears of this",
+          "word": "הַשֹּׁמֵ֖עַ",
+          "transliteration": "haš·šō·mê·a‘",
+          "strongs_number": "8085",
+          "part_of_speech": "Article | Verb - Qal - Participle - masculine singular",
+          "definition": "To hear intelligently",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "will laugh with me.”",
+          "word": "יִֽצְחַק־",
+          "transliteration": "yiṣ·ḥaq-",
+          "strongs_number": "6711",
+          "part_of_speech": "Verb - Qal - Imperfect - third person masculine singular",
+          "definition": "To laugh outright, to sport",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 18:12-15",
@@ -547,7 +1021,107 @@
           "text": "She also said, “Who would have said to Abraham that Sarah would nurse children? For I have borne him a son in his old age.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "She added,",
+          "word": "וַתֹּ֗אמֶר",
+          "transliteration": "wat·tō·mer",
+          "strongs_number": "559",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
+          "definition": "To utter, say",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "“Who",
+          "word": "מִ֤י",
+          "transliteration": "mî",
+          "strongs_number": "4310",
+          "part_of_speech": "Interrogative",
+          "definition": "Who?, whoever, in oblique construction with prefix, suffix",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "would have told",
+          "word": "מִלֵּל֙",
+          "transliteration": "mil·lêl",
+          "strongs_number": "4448",
+          "part_of_speech": "Verb - Piel - Perfect - third person masculine singular",
+          "definition": "To speak, utter, say",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Abraham",
+          "word": "לְאַבְרָהָ֔ם",
+          "transliteration": "lə·’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Preposition-l | Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that Sarah",
+          "word": "שָׂרָ֑ה",
+          "transliteration": "śā·rāh",
+          "strongs_number": "8283",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Sarah -- 'princess', a wife of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "would nurse",
+          "word": "הֵינִ֥יקָה",
+          "transliteration": "hê·nî·qāh",
+          "strongs_number": "3243",
+          "part_of_speech": "Verb - Hifil - Perfect - third person feminine singular",
+          "definition": "To suck, to give milk",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "children?",
+          "word": "בָנִ֖ים",
+          "transliteration": "ḇā·nîm",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Yet",
+          "word": "כִּֽי־",
+          "transliteration": "kî-",
+          "strongs_number": "3588",
+          "part_of_speech": "Conjunction",
+          "definition": "A relative conjunction",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "I have borne him",
+          "word": "יָלַ֥דְתִּי",
+          "transliteration": "yā·laḏ·tî",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Qal - Perfect - first person common singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a son",
+          "word": "בֵ֖ן",
+          "transliteration": "ḇên",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in his old age.”",
+          "word": "לִזְקֻנָֽיו׃",
+          "transliteration": "liz·qu·nāw",
+          "strongs_number": "2208",
+          "part_of_speech": "Preposition-l | Noun - masculine plural construct | third person masculine singular",
+          "definition": "Old age",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 18:12-14",
@@ -634,7 +1208,98 @@
           "text": "So the child grew and was weaned. And Abraham made a great feast on the same day that Isaac was weaned."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "So the child",
+          "word": "הַיֶּ֖לֶד",
+          "transliteration": "hay·ye·leḏ",
+          "strongs_number": "3206",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Something born, a lad, offspring",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "grew",
+          "word": "וַיִּגְדַּ֥ל",
+          "transliteration": "way·yiḡ·dal",
+          "strongs_number": "1431",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To grow up, become great",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and was weaned,",
+          "word": "וַיִּגָּמַ֑ל",
+          "transliteration": "way·yig·gā·mal",
+          "strongs_number": "1580",
+          "part_of_speech": "Conjunctive waw | Verb - Nifal - Consecutive imperfect - third person masculine singular",
+          "definition": "To deal fully or adequately with, deal out to, wean, ripen",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Abraham",
+          "word": "אַבְרָהָם֙",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "held",
+          "word": "וַיַּ֤עַשׂ",
+          "transliteration": "way·ya·‘aś",
+          "strongs_number": "6213",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To do, make",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a great",
+          "word": "גָד֔וֹל",
+          "transliteration": "ḡā·ḏō·wl",
+          "strongs_number": "1419",
+          "part_of_speech": "Adjective - masculine singular",
+          "definition": "Great, older, insolent",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "feast",
+          "word": "מִשְׁתֶּ֣ה",
+          "transliteration": "miš·teh",
+          "strongs_number": "4960",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Drink, drinking, a banquet, feast",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "on the day",
+          "word": "בְּי֖וֹם",
+          "transliteration": "bə·yō·wm",
+          "strongs_number": "3117",
+          "part_of_speech": "Preposition-b | Noun - masculine singular construct",
+          "definition": "A day",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Isaac",
+          "word": "יִצְחָֽק׃",
+          "transliteration": "yiṣ·ḥāq",
+          "strongs_number": "3327",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Isaac -- 'he laughs', son of Abraham and Sarah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was weaned.",
+          "word": "הִגָּמֵ֥ל",
+          "transliteration": "hig·gā·mêl",
+          "strongs_number": "1580",
+          "part_of_speech": "Verb - Nifal - Infinitive construct",
+          "definition": "To deal fully or adequately with, deal out to, wean, ripen",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Galatians 4:28-31",
@@ -721,7 +1386,89 @@
           "text": "And Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham, scoffing."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "But Sarah",
+          "word": "שָׂרָ֜ה",
+          "transliteration": "śā·rāh",
+          "strongs_number": "8283",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Sarah -- 'princess', a wife of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "saw that",
+          "word": "וַתֵּ֨רֶא",
+          "transliteration": "wat·tê·re",
+          "strongs_number": "7200",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
+          "definition": "To see",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the son",
+          "word": "בֶּן־",
+          "transliteration": "ben-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "whom",
+          "word": "אֲשֶׁר־",
+          "transliteration": "’ă·šer-",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Hagar",
+          "word": "הָגָ֧ר",
+          "transliteration": "hā·ḡār",
+          "strongs_number": "1904",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Hagar",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Egyptian",
+          "word": "הַמִּצְרִ֛ית",
+          "transliteration": "ham·miṣ·rîṯ",
+          "strongs_number": "4713",
+          "part_of_speech": "Article | Noun - proper - feminine singular",
+          "definition": "Egyptian -- inhabitant of Egypt",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "had borne",
+          "word": "יָלְדָ֥ה",
+          "transliteration": "yā·lə·ḏāh",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Qal - Perfect - third person feminine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to Abraham",
+          "word": "לְאַבְרָהָ֖ם",
+          "transliteration": "lə·’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Preposition-l | Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was mocking [her son],",
+          "word": "מְצַחֵֽק׃",
+          "transliteration": "mə·ṣa·ḥêq",
+          "strongs_number": "6711",
+          "part_of_speech": "Verb - Piel - Participle - masculine singular",
+          "definition": "To laugh outright, to sport",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Galatians 4:29",
@@ -808,7 +1555,7 @@
           "text": "Therefore she said to Abraham, “Cast out this bondwoman and her son; for the son of this bondwoman shall not be heir with my son, namely with Isaac.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [],
       "cross_references": []
     },
     {
@@ -834,7 +1581,62 @@
           "text": "And the matter was very displeasing in Abraham’s sight because of his son."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Now this matter",
+          "word": "הַדָּבָ֛ר",
+          "transliteration": "had·dā·ḇār",
+          "strongs_number": "1697",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "A word, a matter, thing, a cause",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "distressed",
+          "word": "וַיֵּ֧רַע",
+          "transliteration": "way·yê·ra‘",
+          "strongs_number": "7489",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To spoil, to make, good for, nothing, bad",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Abraham",
+          "word": "אַבְרָהָ֑ם",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "greatly",
+          "word": "מְאֹ֖ד",
+          "transliteration": "mə·’ōḏ",
+          "strongs_number": "3966",
+          "part_of_speech": "Adverb",
+          "definition": "Vehemence, vehemently, wholly, speedily",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "because it concerned",
+          "word": "אוֹדֹ֥ת",
+          "transliteration": "’ō·w·ḏōṯ",
+          "strongs_number": "182",
+          "part_of_speech": "Noun - feminine plural construct",
+          "definition": "Turnings, on account of",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "his son [Ishmael].",
+          "word": "בְּנֽוֹ׃",
+          "transliteration": "bə·nōw",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine singular",
+          "definition": "A son",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 17:18-20",
@@ -921,7 +1723,7 @@
           "text": "But God said to Abraham, “Do not let it be displeasing in your sight because of the lad or because of your bondwoman. Whatever Sarah has said to you, listen to her voice; for in Isaac your seed shall be called."
         }
       ],
-      "greek_words": [],
+      "original_words": [],
       "cross_references": []
     },
     {
@@ -947,7 +1749,80 @@
           "text": "Yet I will also make a nation of the son of the bondwoman, because he is your seed.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "But I will also",
+          "word": "וְגַ֥ם",
+          "transliteration": "wə·ḡam",
+          "strongs_number": "1571",
+          "part_of_speech": "Conjunctive waw | Conjunction",
+          "definition": "Assemblage, also, even, yea, though, both, and",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "make",
+          "word": "אֲשִׂימֶ֑נּוּ",
+          "transliteration": "’ă·śî·men·nū",
+          "strongs_number": "7760",
+          "part_of_speech": "Verb - Qal - Imperfect - first person common singular | third person masculine singular",
+          "definition": "Put -- to put, place, set",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a nation",
+          "word": "לְג֣וֹי",
+          "transliteration": "lə·ḡō·w",
+          "strongs_number": "1471",
+          "part_of_speech": "Preposition-l | Noun - masculine singular",
+          "definition": "A foreign nation, a Gentile, a troop of animals, a flight of locusts",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the slave woman’s",
+          "word": "הָאָמָ֖ה",
+          "transliteration": "hā·’ā·māh",
+          "strongs_number": "519",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "A maidservant, female slave",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "son,",
+          "word": "בֶּן־",
+          "transliteration": "ben-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "because",
+          "word": "כִּ֥י",
+          "transliteration": "kî",
+          "strongs_number": "3588",
+          "part_of_speech": "Conjunction",
+          "definition": "A relative conjunction",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he",
+          "word": "הֽוּא׃",
+          "transliteration": "hū",
+          "strongs_number": "1931",
+          "part_of_speech": "Pronoun - third person masculine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "is your offspring.”",
+          "word": "זַרְעֲךָ֖",
+          "transliteration": "zar·‘ă·ḵā",
+          "strongs_number": "2233",
+          "part_of_speech": "Noun - masculine singular construct | second person masculine singular",
+          "definition": "Seed, fruit, plant, sowing-time, posterity",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 17:20",
@@ -1034,7 +1909,152 @@
           "text": "So Abraham rose early in the morning, and took bread and a skin of water; and putting it on her shoulder, he gave it and the boy to Hagar, and sent her away. Then she departed and wandered in the Wilderness of Beersheba."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Early in the morning,",
+          "word": "בַּבֹּ֡קֶר",
+          "transliteration": "bab·bō·qer",
+          "strongs_number": "1242",
+          "part_of_speech": "Preposition-b, Article | Noun - masculine singular",
+          "definition": "Dawn, morning",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Abraham",
+          "word": "אַבְרָהָ֣ם ׀",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "got up,",
+          "word": "וַיַּשְׁכֵּ֣ם",
+          "transliteration": "way·yaš·kêm",
+          "strongs_number": "7925",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To load up, to start early in the morning",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "took",
+          "word": "וַיִּֽקַּֽח־",
+          "transliteration": "way·yiq·qaḥ-",
+          "strongs_number": "3947",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To take",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "bread",
+          "word": "לֶחֶם֩",
+          "transliteration": "le·ḥem",
+          "strongs_number": "3899",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Food, bread, grain",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and a skin of water,",
+          "word": "וְחֵ֨מַת",
+          "transliteration": "wə·ḥê·maṯ",
+          "strongs_number": "2573",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular construct",
+          "definition": "A skin bottle",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "put",
+          "word": "שָׂ֧ם",
+          "transliteration": "śām",
+          "strongs_number": "7760",
+          "part_of_speech": "Verb - Qal - Participle - masculine singular",
+          "definition": "Put -- to put, place, set",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "them on",
+          "word": "עַל־",
+          "transliteration": "‘al-",
+          "strongs_number": "5921",
+          "part_of_speech": "Preposition",
+          "definition": "Above, over, upon, against",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Hagar’s",
+          "word": "הָ֠גָר",
+          "transliteration": "hā·ḡār",
+          "strongs_number": "1904",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Hagar",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "shoulders,",
+          "word": "שִׁכְמָ֛הּ",
+          "transliteration": "šiḵ·māh",
+          "strongs_number": "7926",
+          "part_of_speech": "Noun - masculine singular construct | third person feminine singular",
+          "definition": "The neck, as the place of burdens, the spur of a, hill",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and sent her away with the boy.",
+          "word": "הַיֶּ֖לֶד",
+          "transliteration": "hay·ye·leḏ",
+          "strongs_number": "3206",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Something born, a lad, offspring",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "She left",
+          "word": "וַתֵּ֣לֶךְ",
+          "transliteration": "wat·tê·leḵ",
+          "strongs_number": "1980",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
+          "definition": "To go, come, walk",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and wandered",
+          "word": "וַתֵּ֔תַע",
+          "transliteration": "wat·tê·ṯa‘",
+          "strongs_number": "8582",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
+          "definition": "To vacillate, reel, stray",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in the wilderness",
+          "word": "בְּמִדְבַּ֖ר",
+          "transliteration": "bə·miḏ·bar",
+          "strongs_number": "4057",
+          "part_of_speech": "Preposition-b | Noun - masculine singular construct",
+          "definition": "A pasture, a desert, speech",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of",
+          "word": "בְּאֵ֥ר",
+          "transliteration": "bə·’êr",
+          "strongs_number": "",
+          "part_of_speech": "Preposition",
+          "definition": "",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Beersheba.",
+          "word": "שָֽׁבַע׃",
+          "transliteration": "šā·ḇa‘",
+          "strongs_number": "884",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Beersheba -- 'well of seven', a place in the Negev",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 16:6-10",
@@ -1121,7 +2141,89 @@
           "text": "And the water in the skin was used up, and she placed the boy under one of the shrubs."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "When the water",
+          "word": "הַמַּ֖יִם",
+          "transliteration": "ham·ma·yim",
+          "strongs_number": "4325",
+          "part_of_speech": "Article | Noun - masculine plural",
+          "definition": "Water, juice, urine, semen",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in",
+          "word": "מִן־",
+          "transliteration": "min-",
+          "strongs_number": "4480",
+          "part_of_speech": "Preposition",
+          "definition": "A part of, from, out of",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the skin",
+          "word": "הַחֵ֑מֶת",
+          "transliteration": "ha·ḥê·meṯ",
+          "strongs_number": "2573",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "A skin bottle",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was gone,",
+          "word": "וַיִּכְל֥וּ",
+          "transliteration": "way·yiḵ·lū",
+          "strongs_number": "3615",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To be complete, at an end, finished, accomplished, or spent",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "she left",
+          "word": "וַתַּשְׁלֵ֣ךְ",
+          "transliteration": "wat·taš·lêḵ",
+          "strongs_number": "7993",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person feminine singular",
+          "definition": "To throw out, down, away",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the boy",
+          "word": "הַיֶּ֔לֶד",
+          "transliteration": "hay·ye·leḏ",
+          "strongs_number": "3206",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Something born, a lad, offspring",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "under",
+          "word": "תַּ֖חַת",
+          "transliteration": "ta·ḥaṯ",
+          "strongs_number": "8478",
+          "part_of_speech": "Preposition",
+          "definition": "The bottom, below, in lieu of",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "one",
+          "word": "אַחַ֥ד",
+          "transliteration": "’a·ḥaḏ",
+          "strongs_number": "259",
+          "part_of_speech": "Number - masculine singular construct",
+          "definition": "United, one, first",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the bushes.",
+          "word": "הַשִּׂיחִֽם׃",
+          "transliteration": "haś·śî·ḥim",
+          "strongs_number": "7880",
+          "part_of_speech": "Article | Noun - masculine plural",
+          "definition": "A bush, shrub, plant",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Exodus 17:3",
@@ -1208,7 +2310,152 @@
           "text": "Then she went and sat down across from him at a distance of about a bowshot; for she said to herself, “Let me not see the death of the boy.” So she sat opposite him, and lifted her voice and wept."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Then she went off",
+          "word": "וַתֵּלֶךְ֩",
+          "transliteration": "wat·tê·leḵ",
+          "strongs_number": "1980",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
+          "definition": "To go, come, walk",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and sat down",
+          "word": "וַתֵּ֨שֶׁב",
+          "transliteration": "wat·tê·šeḇ",
+          "strongs_number": "3427",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
+          "definition": "To sit down, to dwell, to remain, to settle, to marry",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "nearby,",
+          "word": "מִנֶּ֗גֶד",
+          "transliteration": "min·ne·ḡeḏ",
+          "strongs_number": "5048",
+          "part_of_speech": "Preposition-m",
+          "definition": "A front, part opposite, a counterpart, mate, over against, before",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "about a bowshot",
+          "word": "כִּמְטַחֲוֵ֣י",
+          "transliteration": "kim·ṭa·ḥă·wê",
+          "strongs_number": "2909",
+          "part_of_speech": "Preposition-k | Verb - Piel - Participle - masculine plural construct",
+          "definition": "To stretch a, bow, as an archer",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "away,",
+          "word": "הַרְחֵק֙",
+          "transliteration": "har·ḥêq",
+          "strongs_number": "7368",
+          "part_of_speech": "Verb - Hifil - Infinitive absolute",
+          "definition": "To be or become far or distant",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "for",
+          "word": "כִּ֣י",
+          "transliteration": "kî",
+          "strongs_number": "3588",
+          "part_of_speech": "Conjunction",
+          "definition": "A relative conjunction",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "she said,",
+          "word": "אָֽמְרָ֔ה",
+          "transliteration": "’ā·mə·rāh",
+          "strongs_number": "559",
+          "part_of_speech": "Verb - Qal - Perfect - third person feminine singular",
+          "definition": "To utter, say",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "“I cannot",
+          "word": "אַל־",
+          "transliteration": "’al-",
+          "strongs_number": "408",
+          "part_of_speech": "Adverb",
+          "definition": "Not",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "bear to watch",
+          "word": "אֶרְאֶ֖ה",
+          "transliteration": "’er·’eh",
+          "strongs_number": "7200",
+          "part_of_speech": "Verb - Qal - Imperfect Cohortative if contextual - first person common singular",
+          "definition": "To see",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the boy",
+          "word": "הַיָּ֑לֶד",
+          "transliteration": "hay·yā·leḏ",
+          "strongs_number": "3206",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Something born, a lad, offspring",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "die!”",
+          "word": "בְּמ֣וֹת",
+          "transliteration": "bə·mō·wṯ",
+          "strongs_number": "4194",
+          "part_of_speech": "Preposition-b | Noun - masculine singular construct",
+          "definition": "Death, the dead, their place, state, pestilence, ruin",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "And as she sat",
+          "word": "וַתֵּ֣שֶׁב",
+          "transliteration": "wat·tê·šeḇ",
+          "strongs_number": "3427",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
+          "definition": "To sit down, to dwell, to remain, to settle, to marry",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "nearby,",
+          "word": "מִנֶּ֔גֶד",
+          "transliteration": "min·ne·ḡeḏ",
+          "strongs_number": "5048",
+          "part_of_speech": "Preposition-m",
+          "definition": "A front, part opposite, a counterpart, mate, over against, before",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "she lifted up",
+          "word": "וַתִּשָּׂ֥א",
+          "transliteration": "wat·tiś·śā",
+          "strongs_number": "5375",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
+          "definition": "To lift, carry, take",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "her voice",
+          "word": "קֹלָ֖הּ",
+          "transliteration": "qō·lāh",
+          "strongs_number": "6963",
+          "part_of_speech": "Noun - masculine singular construct | third person feminine singular",
+          "definition": "A voice, sound",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and wept.",
+          "word": "וַתֵּֽבְךְּ׃",
+          "transliteration": "wat·tê·ḇək",
+          "strongs_number": "1058",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
+          "definition": "To weep, to bemoan",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Exodus 2:3-6",
@@ -1295,7 +2542,215 @@
           "text": "And God heard the voice of the lad. Then the angel of God called to Hagar out of heaven, and said to her, “What ails you, Hagar? Fear not, for God has heard the voice of the lad where he is."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Then God",
+          "word": "אֱלֹהִים֮",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "heard",
+          "word": "וַיִּשְׁמַ֣ע",
+          "transliteration": "way·yiš·ma‘",
+          "strongs_number": "8085",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To hear intelligently",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the voice",
+          "word": "ק֣וֹל",
+          "transliteration": "qō·wl",
+          "strongs_number": "6963",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A voice, sound",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the boy,",
+          "word": "הַנַּעַר֒",
+          "transliteration": "han·na·‘ar",
+          "strongs_number": "5288",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "A boy, lad, youth, retainer",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and the angel",
+          "word": "מַלְאַ֨ךְ",
+          "transliteration": "mal·’aḵ",
+          "strongs_number": "4397",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A messenger, of God, an angel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of God",
+          "word": "אֱלֹהִ֤ים ׀",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "called",
+          "word": "וַיִּקְרָא֩",
+          "transliteration": "way·yiq·rā",
+          "strongs_number": "7121",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To call, proclaim, read",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to",
+          "word": "אֶל־",
+          "transliteration": "’el-",
+          "strongs_number": "413",
+          "part_of_speech": "Preposition",
+          "definition": "Near, with, among, to",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Hagar",
+          "word": "הָגָר֙",
+          "transliteration": "hā·ḡār",
+          "strongs_number": "1904",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Hagar",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "from",
+          "word": "מִן־",
+          "transliteration": "min-",
+          "strongs_number": "4480",
+          "part_of_speech": "Preposition",
+          "definition": "A part of, from, out of",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "heaven,",
+          "word": "הַשָּׁמַ֔יִם",
+          "transliteration": "haš·šā·ma·yim",
+          "strongs_number": "8064",
+          "part_of_speech": "Article | Noun - masculine plural",
+          "definition": "Heaven, sky",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "“What is wrong,",
+          "word": "מַה־",
+          "transliteration": "mah-",
+          "strongs_number": "4100",
+          "part_of_speech": "Interrogative",
+          "definition": "What?, what!, indefinitely what",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Hagar?",
+          "word": "הָגָ֑ר",
+          "transliteration": "hā·ḡār",
+          "strongs_number": "1904",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Hagar",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Do not",
+          "word": "אַל־",
+          "transliteration": "’al-",
+          "strongs_number": "408",
+          "part_of_speech": "Adverb",
+          "definition": "Not",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "be afraid,",
+          "word": "תִּ֣ירְאִ֔י",
+          "transliteration": "tî·rə·’î",
+          "strongs_number": "3372",
+          "part_of_speech": "Verb - Qal - Imperfect - second person feminine singular",
+          "definition": "To fear, to revere, caus, to frighten",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "for",
+          "word": "כִּֽי־",
+          "transliteration": "kî-",
+          "strongs_number": "3588",
+          "part_of_speech": "Conjunction",
+          "definition": "A relative conjunction",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God",
+          "word": "אֱלֹהִ֛ים",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "has heard",
+          "word": "שָׁמַ֧ע",
+          "transliteration": "šā·ma‘",
+          "strongs_number": "8085",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To hear intelligently",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the voice",
+          "word": "ק֥וֹל",
+          "transliteration": "qō·wl",
+          "strongs_number": "6963",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A voice, sound",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the boy",
+          "word": "הַנַּ֖עַר",
+          "transliteration": "han·na·‘ar",
+          "strongs_number": "5288",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "A boy, lad, youth, retainer",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "where",
+          "word": "בַּאֲשֶׁ֥ר",
+          "transliteration": "ba·’ă·šer",
+          "strongs_number": "834",
+          "part_of_speech": "Preposition-b | Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he",
+          "word": "הוּא־",
+          "transliteration": "hū-",
+          "strongs_number": "1931",
+          "part_of_speech": "Pronoun - third person masculine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lies.",
+          "word": "שָֽׁם׃",
+          "transliteration": "šām",
+          "strongs_number": "8033",
+          "part_of_speech": "Adverb",
+          "definition": "There, then, thither",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Exodus 3:7",
@@ -1382,7 +2837,89 @@
           "text": "Arise, lift up the lad and hold him with your hand, for I will make him a great nation.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Arise,",
+          "word": "ק֚וּמִי",
+          "transliteration": "qū·mî",
+          "strongs_number": "6965",
+          "part_of_speech": "Verb - Qal - Imperative - feminine singular",
+          "definition": "To arise, stand up, stand",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lift up",
+          "word": "שְׂאִ֣י",
+          "transliteration": "śə·’î",
+          "strongs_number": "5375",
+          "part_of_speech": "Verb - Qal - Imperative - feminine singular",
+          "definition": "To lift, carry, take",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the boy",
+          "word": "הַנַּ֔עַר",
+          "transliteration": "han·na·‘ar",
+          "strongs_number": "5288",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "A boy, lad, youth, retainer",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and take him",
+          "word": "וְהַחֲזִ֥יקִי",
+          "transliteration": "wə·ha·ḥă·zî·qî",
+          "strongs_number": "2388",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Imperative - feminine singular",
+          "definition": "To fasten upon, to seize, be strong, obstinate, to bind, restrain, conquer",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "by the hand,",
+          "word": "יָדֵ֖ךְ",
+          "transliteration": "yā·ḏêḵ",
+          "strongs_number": "3027",
+          "part_of_speech": "Noun - feminine singular construct | second person feminine singular",
+          "definition": "A hand",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "for",
+          "word": "כִּֽי־",
+          "transliteration": "kî-",
+          "strongs_number": "3588",
+          "part_of_speech": "Conjunction",
+          "definition": "A relative conjunction",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "I will make him",
+          "word": "אֲשִׂימֶֽנּוּ׃",
+          "transliteration": "’ă·śî·men·nū",
+          "strongs_number": "7760",
+          "part_of_speech": "Verb - Qal - Imperfect - first person common singular | third person masculine singular",
+          "definition": "Put -- to put, place, set",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "into a great",
+          "word": "גָּד֖וֹל",
+          "transliteration": "gā·ḏō·wl",
+          "strongs_number": "1419",
+          "part_of_speech": "Adjective - masculine singular",
+          "definition": "Great, older, insolent",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "nation.”",
+          "word": "לְג֥וֹי",
+          "transliteration": "lə·ḡō·w",
+          "strongs_number": "1471",
+          "part_of_speech": "Preposition-l | Noun - masculine singular",
+          "definition": "A foreign nation, a Gentile, a troop of animals, a flight of locusts",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 16:10",
@@ -1469,7 +3006,107 @@
           "text": "Then God opened her eyes, and she saw a well of water. And she went and filled the skin with water, and gave the lad a drink."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Then God",
+          "word": "אֱלֹהִים֙",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "opened",
+          "word": "וַיִּפְקַ֤ח",
+          "transliteration": "way·yip̄·qaḥ",
+          "strongs_number": "6491",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To open, to be observant",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "her eyes,",
+          "word": "עֵינֶ֔יהָ",
+          "transliteration": "‘ê·ne·hā",
+          "strongs_number": "5869",
+          "part_of_speech": "Noun - cdc | third person feminine singular",
+          "definition": "An eye, a fountain",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and she saw",
+          "word": "וַתֵּ֖רֶא",
+          "transliteration": "wat·tê·re",
+          "strongs_number": "7200",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
+          "definition": "To see",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a well",
+          "word": "בְּאֵ֣ר",
+          "transliteration": "bə·’êr",
+          "strongs_number": "875",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "A pit, a well",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of water.",
+          "word": "מָ֑יִם",
+          "transliteration": "mā·yim",
+          "strongs_number": "4325",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "Water, juice, urine, semen",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "So she went",
+          "word": "וַתֵּ֜לֶךְ",
+          "transliteration": "wat·tê·leḵ",
+          "strongs_number": "1980",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
+          "definition": "To go, come, walk",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and filled",
+          "word": "וַתְּמַלֵּ֤א",
+          "transliteration": "wat·tə·mal·lê",
+          "strongs_number": "4390",
+          "part_of_speech": "Conjunctive waw | Verb - Piel - Consecutive imperfect - third person feminine singular",
+          "definition": "To fill, be full of",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the skin with water",
+          "word": "הַחֵ֙מֶת֙",
+          "transliteration": "ha·ḥê·meṯ",
+          "strongs_number": "2573",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "A skin bottle",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and gave the boy",
+          "word": "הַנָּֽעַר׃",
+          "transliteration": "han·nā·‘ar",
+          "strongs_number": "5288",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "A boy, lad, youth, retainer",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a drink.",
+          "word": "וַתַּ֖שְׁקְ",
+          "transliteration": "wat·tašq",
+          "strongs_number": "8248",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person feminine singular",
+          "definition": "To quaff, to irrigate, furnish a, potion to",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Exodus 17:6",
@@ -1556,7 +3193,98 @@
           "text": "So God was with the lad; and he grew and dwelt in the wilderness, and became an archer."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And God",
+          "word": "אֱלֹהִ֛ים",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was",
+          "word": "וַיְהִ֧י",
+          "transliteration": "way·hî",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "with",
+          "word": "אֶת־",
+          "transliteration": "’eṯ-",
+          "strongs_number": "854",
+          "part_of_speech": "Preposition",
+          "definition": "Nearness, near, with, by, at, among",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the boy,",
+          "word": "הַנַּ֖עַר",
+          "transliteration": "han·na·‘ar",
+          "strongs_number": "5288",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "A boy, lad, youth, retainer",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and he grew up",
+          "word": "וַיִּגְדָּ֑ל",
+          "transliteration": "way·yiḡ·dāl",
+          "strongs_number": "1431",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To grow up, become great",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and settled",
+          "word": "וַיֵּ֙שֶׁב֙",
+          "transliteration": "way·yê·šeḇ",
+          "strongs_number": "3427",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To sit down, to dwell, to remain, to settle, to marry",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in the wilderness",
+          "word": "בַּמִּדְבָּ֔ר",
+          "transliteration": "bam·miḏ·bār",
+          "strongs_number": "4057",
+          "part_of_speech": "Preposition-b, Article | Noun - masculine singular",
+          "definition": "A pasture, a desert, speech",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and became",
+          "word": "וַיְהִ֖י",
+          "transliteration": "way·hî",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a great",
+          "word": "רֹבֶ֥ה",
+          "transliteration": "rō·ḇeh",
+          "strongs_number": "7235",
+          "part_of_speech": "Verb - Qal - Participle - masculine singular",
+          "definition": "To be or become much, many or great",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "archer.",
+          "word": "קַשָּֽׁת׃",
+          "transliteration": "qaš·šāṯ",
+          "strongs_number": "7199",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "A bowman",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 16:10-12",
@@ -1643,7 +3371,89 @@
           "text": "He dwelt in the Wilderness of Paran; and his mother took a wife for him from the land of Egypt."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And while he was dwelling",
+          "word": "וַיֵּ֖שֶׁב",
+          "transliteration": "way·yê·šeḇ",
+          "strongs_number": "3427",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To sit down, to dwell, to remain, to settle, to marry",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in the wilderness",
+          "word": "בְּמִדְבַּ֣ר",
+          "transliteration": "bə·miḏ·bar",
+          "strongs_number": "4057",
+          "part_of_speech": "Preposition-b | Noun - masculine singular construct",
+          "definition": "A pasture, a desert, speech",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Paran,",
+          "word": "פָּארָ֑ן",
+          "transliteration": "pā·rān",
+          "strongs_number": "6290",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Paran -- a place in Sinai",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "his mother",
+          "word": "אִמּ֛וֹ",
+          "transliteration": "’im·mōw",
+          "strongs_number": "517",
+          "part_of_speech": "Noun - feminine singular construct | third person masculine singular",
+          "definition": "A mother, )",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "got",
+          "word": "וַתִּֽקַּֽח־",
+          "transliteration": "wat·tiq·qaḥ-",
+          "strongs_number": "3947",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
+          "definition": "To take",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a wife",
+          "word": "אִשָּׁ֖ה",
+          "transliteration": "’iš·šāh",
+          "strongs_number": "802",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "Woman, wife, female",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "for him",
+          "word": "ל֥וֹ",
+          "transliteration": "lōw",
+          "strongs_number": "",
+          "part_of_speech": "Preposition | third person masculine singular",
+          "definition": "",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "from the land",
+          "word": "מֵאֶ֥רֶץ",
+          "transliteration": "mê·’e·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Preposition-m | Noun - feminine singular construct",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Egypt.",
+          "word": "מִצְרָֽיִם׃",
+          "transliteration": "miṣ·rā·yim",
+          "strongs_number": "4714",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 16:10-12",
@@ -1730,7 +3540,143 @@
           "text": "And it came to pass at that time that Abimelech and Phichol, the commander of his army, spoke to Abraham, saying, “God is with you in all that you do."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "At that",
+          "word": "הַהִ֔וא",
+          "transliteration": "ha·hi·w",
+          "strongs_number": "1931",
+          "part_of_speech": "Article | Pronoun - third person feminine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "time",
+          "word": "בָּעֵ֣ת",
+          "transliteration": "bā·‘êṯ",
+          "strongs_number": "6256",
+          "part_of_speech": "Preposition-b, Article | Noun - common singular",
+          "definition": "Time, now, when",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Abimelech",
+          "word": "אֲבִימֶ֗לֶךְ",
+          "transliteration": "’ă·ḇî·me·leḵ",
+          "strongs_number": "40",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abimelech -- 'father is king', a Philistine name, also an Israelite name",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Phicol",
+          "word": "וּפִיכֹל֙",
+          "transliteration": "ū·p̄î·ḵōl",
+          "strongs_number": "6369",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Phicol -- commander of Abimelech's army",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the commander",
+          "word": "שַׂר־",
+          "transliteration": "śar-",
+          "strongs_number": "8269",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "Chieftain, chief, ruler, official, captain, prince",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of his army",
+          "word": "צְבָא֔וֹ",
+          "transliteration": "ṣə·ḇā·’ōw",
+          "strongs_number": "6635",
+          "part_of_speech": "Noun - common singular construct | third person masculine singular",
+          "definition": "A mass of persons, reg, organized for, war, a campaign",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "said",
+          "word": "וַיֹּ֣אמֶר",
+          "transliteration": "way·yō·mer",
+          "strongs_number": "559",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To utter, say",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to",
+          "word": "אֶל־",
+          "transliteration": "’el-",
+          "strongs_number": "413",
+          "part_of_speech": "Preposition",
+          "definition": "Near, with, among, to",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Abraham,",
+          "word": "אַבְרָהָ֖ם",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "“God",
+          "word": "אֱלֹהִ֣ים",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "is with you",
+          "word": "עִמְּךָ֔",
+          "transliteration": "‘im·mə·ḵā",
+          "strongs_number": "5973",
+          "part_of_speech": "Preposition | second person masculine singular",
+          "definition": "With, equally with",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in all",
+          "word": "בְּכֹ֥ל",
+          "transliteration": "bə·ḵōl",
+          "strongs_number": "3605",
+          "part_of_speech": "Preposition-b | Noun - masculine singular",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that",
+          "word": "אֲשֶׁר־",
+          "transliteration": "’ă·šer-",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "you",
+          "word": "אַתָּ֖ה",
+          "transliteration": "’at·tāh",
+          "strongs_number": "859",
+          "part_of_speech": "Pronoun - second person masculine singular",
+          "definition": "Thou and thee, ye and you",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "do.",
+          "word": "עֹשֶֽׂה׃",
+          "transliteration": "‘ō·śeh",
+          "strongs_number": "6213",
+          "part_of_speech": "Verb - Qal - Participle - masculine singular",
+          "definition": "To do, make",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 26:26-31",
@@ -1817,7 +3763,188 @@
           "text": "Now therefore, swear to me by God that you will not deal falsely with me, with my offspring, or with my posterity; but that according to the kindness that I have done to you, you will do to me and to the land in which you have dwelt.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Now, therefore,",
+          "word": "וְעַתָּ֗ה",
+          "transliteration": "wə·‘at·tāh",
+          "strongs_number": "6258",
+          "part_of_speech": "Conjunctive waw | Adverb",
+          "definition": "At this time",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "swear",
+          "word": "הִשָּׁ֨בְעָה",
+          "transliteration": "hiš·šā·ḇə·‘āh",
+          "strongs_number": "7650",
+          "part_of_speech": "Verb - Nifal - Imperative - masculine singular | third person feminine singular",
+          "definition": "To seven oneself, swear",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to me",
+          "word": "לִּ֤י",
+          "transliteration": "lî",
+          "strongs_number": "",
+          "part_of_speech": "Preposition | first person common singular",
+          "definition": "",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "here",
+          "word": "הֵ֔נָּה",
+          "transliteration": "hên·nāh",
+          "strongs_number": "2008",
+          "part_of_speech": "Adverb",
+          "definition": "Hither, thither",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "before God",
+          "word": "בֵֽאלֹהִים֙",
+          "transliteration": "ḇê·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Preposition-b | Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that you will not",
+          "word": "אִם־",
+          "transliteration": "’im-",
+          "strongs_number": "518",
+          "part_of_speech": "Conjunction",
+          "definition": "Lo!, whether?, if, although, Oh that!, when, not",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "deal falsely",
+          "word": "תִּשְׁקֹ֣ר",
+          "transliteration": "tiš·qōr",
+          "strongs_number": "8266",
+          "part_of_speech": "Verb - Qal - Imperfect - second person masculine singular",
+          "definition": "To do or deal falsely",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "with me",
+          "word": "לִ֔י",
+          "transliteration": "lî",
+          "strongs_number": "",
+          "part_of_speech": "Preposition | first person common singular",
+          "definition": "",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "or my children",
+          "word": "וּלְנִינִ֖י",
+          "transliteration": "ū·lə·nî·nî",
+          "strongs_number": "5209",
+          "part_of_speech": "Conjunctive waw, Preposition-l | Noun - masculine singular construct | first person common singular",
+          "definition": "Offspring, posterity",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "or descendants.",
+          "word": "וּלְנֶכְדִּ֑י",
+          "transliteration": "ū·lə·neḵ·dî",
+          "strongs_number": "5220",
+          "part_of_speech": "Conjunctive waw, Preposition-l | Noun - masculine singular construct | first person common singular",
+          "definition": "Progeny, posterity",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Show",
+          "word": "תַּעֲשֶׂ֣ה",
+          "transliteration": "ta·‘ă·śeh",
+          "strongs_number": "6213",
+          "part_of_speech": "Verb - Qal - Imperfect - second person masculine singular",
+          "definition": "To do, make",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to me",
+          "word": "עִמָּדִ֔י",
+          "transliteration": "‘im·mā·ḏî",
+          "strongs_number": "5978",
+          "part_of_speech": "Preposition | first person common singular",
+          "definition": "Against, by, from, me, mine, of, that I take, unto,",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and",
+          "word": "וְעִם־",
+          "transliteration": "wə·‘im-",
+          "strongs_number": "5973",
+          "part_of_speech": "Conjunctive waw | Preposition",
+          "definition": "With, equally with",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to the country",
+          "word": "הָאָ֖רֶץ",
+          "transliteration": "hā·’ā·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in which",
+          "word": "אֲשֶׁר־",
+          "transliteration": "’ă·šer-",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "you reside",
+          "word": "גַּ֥רְתָּה",
+          "transliteration": "gar·tāh",
+          "strongs_number": "1481",
+          "part_of_speech": "Verb - Qal - Perfect - second person masculine singular",
+          "definition": "To turn aside from the road, sojourn, to shrink, fear, to gather for, hostility",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the same kindness",
+          "word": "כַּחֶ֜סֶד",
+          "transliteration": "ka·ḥe·seḏ",
+          "strongs_number": "2617",
+          "part_of_speech": "Preposition-k, Article | Noun - masculine singular",
+          "definition": "Kindness, piety, reproof, beauty",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that",
+          "word": "אֲשֶׁר־",
+          "transliteration": "’ă·šer-",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "I have shown",
+          "word": "עָשִׂ֤יתִי",
+          "transliteration": "‘ā·śî·ṯî",
+          "strongs_number": "6213",
+          "part_of_speech": "Verb - Qal - Perfect - first person common singular",
+          "definition": "To do, make",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to you.”",
+          "word": "עִמְּךָ֙",
+          "transliteration": "‘im·mə·ḵā",
+          "strongs_number": "5973",
+          "part_of_speech": "Preposition | second person masculine singular",
+          "definition": "With, equally with",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 26:28-31",
@@ -1904,7 +4031,44 @@
           "text": "And Abraham said, “I will swear.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And Abraham",
+          "word": "אַבְרָהָ֔ם",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "replied,",
+          "word": "וַיֹּ֙אמֶר֙",
+          "transliteration": "way·yō·mer",
+          "strongs_number": "559",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To utter, say",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "“I",
+          "word": "אָנֹכִ֖י",
+          "transliteration": "’ā·nō·ḵî",
+          "strongs_number": "595",
+          "part_of_speech": "Pronoun - first person common singular",
+          "definition": "I",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "swear it.”",
+          "word": "אִשָּׁבֵֽעַ׃",
+          "transliteration": "’iš·šā·ḇê·a‘",
+          "strongs_number": "7650",
+          "part_of_speech": "Verb - Nifal - Imperfect - first person common singular",
+          "definition": "To seven oneself, swear",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 26:31",
@@ -1991,7 +4155,89 @@
           "text": "Then Abraham rebuked Abimelech because of a well of water which Abimelech’s servants had seized."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "But when Abraham",
+          "word": "אַבְרָהָ֖ם",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "complained",
+          "word": "וְהוֹכִ֥חַ",
+          "transliteration": "wə·hō·w·ḵi·aḥ",
+          "strongs_number": "3198",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Conjunctive perfect - third person masculine singular",
+          "definition": "To be right, reciprocal, to argue, to decide, justify, convict",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to Abimelech",
+          "word": "אֲבִימֶ֑לֶךְ",
+          "transliteration": "’ă·ḇî·me·leḵ",
+          "strongs_number": "40",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abimelech -- 'father is king', a Philistine name, also an Israelite name",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "about",
+          "word": "עַל־",
+          "transliteration": "‘al-",
+          "strongs_number": "5921",
+          "part_of_speech": "Preposition",
+          "definition": "Above, over, upon, against",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a well",
+          "word": "בְּאֵ֣ר",
+          "transliteration": "bə·’êr",
+          "strongs_number": "875",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "A pit, a well",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that",
+          "word": "אֲשֶׁ֥ר",
+          "transliteration": "’ă·šer",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Abimelech’s",
+          "word": "אֲבִימֶֽלֶךְ׃",
+          "transliteration": "’ă·ḇî·me·leḵ",
+          "strongs_number": "40",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abimelech -- 'father is king', a Philistine name, also an Israelite name",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "servants",
+          "word": "עַבְדֵ֥י",
+          "transliteration": "‘aḇ·ḏê",
+          "strongs_number": "5650",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "Slave, servant",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "had seized,",
+          "word": "גָּזְל֖וּ",
+          "transliteration": "gā·zə·lū",
+          "strongs_number": "1497",
+          "part_of_speech": "Verb - Qal - Perfect - third person common plural",
+          "definition": "To pluck off, to flay, strip, rob",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 26:15-22",
@@ -2078,7 +4324,143 @@
           "text": "And Abimelech said, “I do not know who has done this thing; you did not tell me, nor had I heard of it until today.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Abimelech",
+          "word": "אֲבִימֶ֔לֶךְ",
+          "transliteration": "’ă·ḇî·me·leḵ",
+          "strongs_number": "40",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abimelech -- 'father is king', a Philistine name, also an Israelite name",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "replied,",
+          "word": "וַיֹּ֣אמֶר",
+          "transliteration": "way·yō·mer",
+          "strongs_number": "559",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To utter, say",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "“I do not",
+          "word": "לֹ֣א",
+          "transliteration": "lō",
+          "strongs_number": "3808",
+          "part_of_speech": "Adverb - Negative particle",
+          "definition": "Not, no",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "know",
+          "word": "יָדַ֔עְתִּי",
+          "transliteration": "yā·ḏa‘·tî",
+          "strongs_number": "3045",
+          "part_of_speech": "Verb - Qal - Perfect - first person common singular",
+          "definition": "To know",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "who",
+          "word": "מִ֥י",
+          "transliteration": "mî",
+          "strongs_number": "4310",
+          "part_of_speech": "Interrogative",
+          "definition": "Who?, whoever, in oblique construction with prefix, suffix",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "has done",
+          "word": "עָשָׂ֖ה",
+          "transliteration": "‘ā·śāh",
+          "strongs_number": "6213",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To do, make",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "this.",
+          "word": "הַזֶּ֑ה",
+          "transliteration": "haz·zeh",
+          "strongs_number": "2088",
+          "part_of_speech": "Article | Pronoun - masculine singular",
+          "definition": "This, that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "You",
+          "word": "אַתָּ֞ה",
+          "transliteration": "’at·tāh",
+          "strongs_number": "859",
+          "part_of_speech": "Pronoun - second person masculine singular",
+          "definition": "Thou and thee, ye and you",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "did not",
+          "word": "לֹא־",
+          "transliteration": "lō-",
+          "strongs_number": "3808",
+          "part_of_speech": "Adverb - Negative particle",
+          "definition": "Not, no",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "tell",
+          "word": "הִגַּ֣דְתָּ",
+          "transliteration": "hig·gaḏ·tā",
+          "strongs_number": "5046",
+          "part_of_speech": "Verb - Hifil - Perfect - second person masculine singular",
+          "definition": "To be conspicuous",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "me,",
+          "word": "לִּ֗י",
+          "transliteration": "lî",
+          "strongs_number": "",
+          "part_of_speech": "Preposition | first person common singular",
+          "definition": "",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "so I",
+          "word": "אָנֹכִ֛י",
+          "transliteration": "’ā·nō·ḵî",
+          "strongs_number": "595",
+          "part_of_speech": "Pronoun - first person common singular",
+          "definition": "I",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "have not",
+          "word": "לֹ֥א",
+          "transliteration": "lō",
+          "strongs_number": "3808",
+          "part_of_speech": "Adverb - Negative particle",
+          "definition": "Not, no",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "heard",
+          "word": "שָׁמַ֖עְתִּי",
+          "transliteration": "šā·ma‘·tî",
+          "strongs_number": "8085",
+          "part_of_speech": "Verb - Qal - Perfect - first person common singular",
+          "definition": "To hear intelligently",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "about it until today.”",
+          "word": "בִּלְתִּ֥י",
+          "transliteration": "bil·tî",
+          "strongs_number": "1115",
+          "part_of_speech": "Preposition",
+          "definition": "A failure of, not, except, without, unless, besides, because not, until",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 20:9-10",
@@ -2165,7 +4547,89 @@
           "text": "So Abraham took sheep and oxen and gave them to Abimelech, and the two of them made a covenant."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "So Abraham",
+          "word": "אַבְרָהָם֙",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "brought",
+          "word": "וַיִּקַּ֤ח",
+          "transliteration": "way·yiq·qaḥ",
+          "strongs_number": "3947",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To take",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "sheep",
+          "word": "צֹ֣אן",
+          "transliteration": "ṣōn",
+          "strongs_number": "6629",
+          "part_of_speech": "Noun - common singular",
+          "definition": "Small cattle, sheep and goats, flock",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and cattle",
+          "word": "וּבָקָ֔ר",
+          "transliteration": "ū·ḇā·qār",
+          "strongs_number": "1241",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular",
+          "definition": "Beef cattle, ox, a herd",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and gave",
+          "word": "וַיִּתֵּ֖ן",
+          "transliteration": "way·yit·tên",
+          "strongs_number": "5414",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To give, put, set",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "them to Abimelech,",
+          "word": "לַאֲבִימֶ֑לֶךְ",
+          "transliteration": "la·’ă·ḇî·me·leḵ",
+          "strongs_number": "40",
+          "part_of_speech": "Preposition-l | Noun - proper - masculine singular",
+          "definition": "Abimelech -- 'father is king', a Philistine name, also an Israelite name",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and the two men",
+          "word": "שְׁנֵיהֶ֖ם",
+          "transliteration": "šə·nê·hem",
+          "strongs_number": "8147",
+          "part_of_speech": "Number - mdc | third person masculine plural",
+          "definition": "Two (a cardinal number)",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "made",
+          "word": "וַיִּכְרְת֥וּ",
+          "transliteration": "way·yiḵ·rə·ṯū",
+          "strongs_number": "3772",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To cut, to destroy, consume, to covenant",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a covenant.",
+          "word": "בְּרִֽית׃",
+          "transliteration": "bə·rîṯ",
+          "strongs_number": "1285",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A covenant",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 26:28-31",
@@ -2252,7 +4716,53 @@
           "text": "And Abraham set seven ewe lambs of the flock by themselves."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Abraham",
+          "word": "אַבְרָהָ֗ם",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "separated",
+          "word": "וַיַּצֵּ֣ב",
+          "transliteration": "way·yaṣ·ṣêḇ",
+          "strongs_number": "5324",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
+          "definition": "To take one's stand, stand",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "seven",
+          "word": "שֶׁ֛בַע",
+          "transliteration": "še·ḇa‘",
+          "strongs_number": "7651",
+          "part_of_speech": "Number - feminine singular",
+          "definition": "Seven, seven times, a week, an indefinite number",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "ewe lambs",
+          "word": "כִּבְשֹׂ֥ת",
+          "transliteration": "kiḇ·śōṯ",
+          "strongs_number": "3535",
+          "part_of_speech": "Noun - feminine plural construct",
+          "definition": "Ewe lamb",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "from the flock,",
+          "word": "הַצֹּ֖אן",
+          "transliteration": "haṣ·ṣōn",
+          "strongs_number": "6629",
+          "part_of_speech": "Article | Noun - common singular",
+          "definition": "Small cattle, sheep and goats, flock",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 15:9-10",
@@ -2339,7 +4849,80 @@
           "text": "Then Abimelech asked Abraham, “What is the meaning of these seven ewe lambs which you have set by themselves?”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "and Abimelech",
+          "word": "אֲבִימֶ֖לֶךְ",
+          "transliteration": "’ă·ḇî·me·leḵ",
+          "strongs_number": "40",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abimelech -- 'father is king', a Philistine name, also an Israelite name",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "asked",
+          "word": "וַיֹּ֥אמֶר",
+          "transliteration": "way·yō·mer",
+          "strongs_number": "559",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To utter, say",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[him],",
+          "word": "אַבְרָהָ֑ם",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "“Why",
+          "word": "מָ֣ה",
+          "transliteration": "māh",
+          "strongs_number": "4100",
+          "part_of_speech": "Interrogative",
+          "definition": "What?, what!, indefinitely what",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "have you set apart",
+          "word": "הִצַּ֖בְתָּ",
+          "transliteration": "hiṣ·ṣaḇ·tā",
+          "strongs_number": "5324",
+          "part_of_speech": "Verb - Hifil - Perfect - second person masculine singular",
+          "definition": "To take one's stand, stand",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "these",
+          "word": "הָאֵ֔לֶּה",
+          "transliteration": "hā·’êl·leh",
+          "strongs_number": "428",
+          "part_of_speech": "Article | Pronoun - common plural",
+          "definition": "These, those",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "seven",
+          "word": "שֶׁ֤בַע",
+          "transliteration": "še·ḇa‘",
+          "strongs_number": "7651",
+          "part_of_speech": "Number - feminine singular",
+          "definition": "Seven, seven times, a week, an indefinite number",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "ewe lambs?”",
+          "word": "כְּבָשֹׂת֙",
+          "transliteration": "kə·ḇā·śōṯ",
+          "strongs_number": "3535",
+          "part_of_speech": "Noun - feminine plural",
+          "definition": "Ewe lamb",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 26:15-18",
@@ -2426,7 +5009,98 @@
           "text": "And he said, “You will take these seven ewe lambs from my hand, that they may be my witness that I have dug this well.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "He replied,",
+          "word": "וַיֹּ֕אמֶר",
+          "transliteration": "way·yō·mer",
+          "strongs_number": "559",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To utter, say",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "“You are to accept",
+          "word": "תִּקַּ֖ח",
+          "transliteration": "tiq·qaḥ",
+          "strongs_number": "3947",
+          "part_of_speech": "Verb - Qal - Imperfect - second person masculine singular",
+          "definition": "To take",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the seven",
+          "word": "שֶׁ֣בַע",
+          "transliteration": "še·ḇa‘",
+          "strongs_number": "7651",
+          "part_of_speech": "Number - feminine singular",
+          "definition": "Seven, seven times, a week, an indefinite number",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "ewe lambs",
+          "word": "כְּבָשֹׂ֔ת",
+          "transliteration": "kə·ḇā·śōṯ",
+          "strongs_number": "3535",
+          "part_of_speech": "Noun - feminine plural",
+          "definition": "Ewe lamb",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "from my hand",
+          "word": "מִיָּדִ֑י",
+          "transliteration": "mî·yā·ḏî",
+          "strongs_number": "3027",
+          "part_of_speech": "Preposition-m | Noun - feminine singular construct | first person common singular",
+          "definition": "A hand",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "as my witness",
+          "word": "לְעֵדָ֔ה",
+          "transliteration": "lə·‘ê·ḏāh",
+          "strongs_number": "5713",
+          "part_of_speech": "Preposition-l | Noun - feminine singular",
+          "definition": "Testimony, witness",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that",
+          "word": "כִּ֚י",
+          "transliteration": "kî",
+          "strongs_number": "3588",
+          "part_of_speech": "Conjunction",
+          "definition": "A relative conjunction",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "I dug",
+          "word": "חָפַ֖רְתִּי",
+          "transliteration": "ḥā·p̄ar·tî",
+          "strongs_number": "2658",
+          "part_of_speech": "Verb - Qal - Perfect - first person common singular",
+          "definition": "To pry into, to delve, to explore",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "this",
+          "word": "הַזֹּֽאת׃",
+          "transliteration": "haz·zōṯ",
+          "strongs_number": "2063",
+          "part_of_speech": "Article | Pronoun - feminine singular",
+          "definition": "Hereby in it, likewise, the one other, same, she, so much, such deed, that,",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "well.”",
+          "word": "הַבְּאֵ֥ר",
+          "transliteration": "hab·bə·’êr",
+          "strongs_number": "875",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "A pit, a well",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 26:28-31",
@@ -2513,7 +5187,89 @@
           "text": "Therefore he called that place Beersheba, because the two of them swore an oath there."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "So",
+          "word": "עַל־",
+          "transliteration": "‘al-",
+          "strongs_number": "5921",
+          "part_of_speech": "Preposition",
+          "definition": "Above, over, upon, against",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that",
+          "word": "הַה֖וּא",
+          "transliteration": "ha·hū",
+          "strongs_number": "1931",
+          "part_of_speech": "Article | Pronoun - third person masculine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "place",
+          "word": "לַמָּק֥וֹם",
+          "transliteration": "lam·mā·qō·wm",
+          "strongs_number": "4725",
+          "part_of_speech": "Preposition-l, Article | Noun - masculine singular",
+          "definition": "A standing, a spot, a condition",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was called",
+          "word": "קָרָ֛א",
+          "transliteration": "qā·rā",
+          "strongs_number": "7121",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To call, proclaim, read",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Beersheba,",
+          "word": "שָׁ֑בַע",
+          "transliteration": "šā·ḇa‘",
+          "strongs_number": "884",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Beersheba -- 'well of seven', a place in the Negev",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "because",
+          "word": "כִּ֛י",
+          "transliteration": "kî",
+          "strongs_number": "3588",
+          "part_of_speech": "Conjunction",
+          "definition": "A relative conjunction",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "it was there",
+          "word": "שָׁ֥ם",
+          "transliteration": "šām",
+          "strongs_number": "8033",
+          "part_of_speech": "Adverb",
+          "definition": "There, then, thither",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that the two",
+          "word": "שְׁנֵיהֶֽם׃",
+          "transliteration": "šə·nê·hem",
+          "strongs_number": "8147",
+          "part_of_speech": "Number - mdc | third person masculine plural",
+          "definition": "Two (a cardinal number)",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of them swore an oath.",
+          "word": "נִשְׁבְּע֖וּ",
+          "transliteration": "niš·bə·‘ū",
+          "strongs_number": "7650",
+          "part_of_speech": "Verb - Nifal - Perfect - third person common plural",
+          "definition": "To seven oneself, swear",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 26:33",
@@ -2600,7 +5356,116 @@
           "text": "Thus they made a covenant at Beersheba. So Abimelech rose with Phichol, the commander of his army, and they returned to the land of the Philistines."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "After they had made",
+          "word": "וַיִּכְרְת֥וּ",
+          "transliteration": "way·yiḵ·rə·ṯū",
+          "strongs_number": "3772",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To cut, to destroy, consume, to covenant",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the covenant",
+          "word": "בְרִ֖ית",
+          "transliteration": "ḇə·rîṯ",
+          "strongs_number": "1285",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "A covenant",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "at Beersheba,",
+          "word": "שָׁ֑בַע",
+          "transliteration": "šā·ḇa‘",
+          "strongs_number": "884",
+          "part_of_speech": "Preposition | Noun - proper - feminine singular",
+          "definition": "Beersheba -- 'well of seven', a place in the Negev",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Abimelech",
+          "word": "אֲבִימֶ֗לֶךְ",
+          "transliteration": "’ă·ḇî·me·leḵ",
+          "strongs_number": "40",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abimelech -- 'father is king', a Philistine name, also an Israelite name",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Phicol",
+          "word": "וּפִיכֹל֙",
+          "transliteration": "ū·p̄î·ḵōl",
+          "strongs_number": "6369",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Phicol -- commander of Abimelech's army",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the commander",
+          "word": "שַׂר־",
+          "transliteration": "śar-",
+          "strongs_number": "8269",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "Chieftain, chief, ruler, official, captain, prince",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of his army",
+          "word": "צְבָא֔וֹ",
+          "transliteration": "ṣə·ḇā·’ōw",
+          "strongs_number": "6635",
+          "part_of_speech": "Noun - common singular construct | third person masculine singular",
+          "definition": "A mass of persons, reg, organized for, war, a campaign",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "got up",
+          "word": "וַיָּ֣קָם",
+          "transliteration": "way·yā·qām",
+          "strongs_number": "6965",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To arise, stand up, stand",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and returned",
+          "word": "וַיָּשֻׁ֖בוּ",
+          "transliteration": "way·yā·šu·ḇū",
+          "strongs_number": "7725",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
+          "definition": "To turn back, in, to retreat, again",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to",
+          "word": "אֶל־",
+          "transliteration": "’el-",
+          "strongs_number": "413",
+          "part_of_speech": "Preposition",
+          "definition": "Near, with, among, to",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the land",
+          "word": "אֶ֥רֶץ",
+          "transliteration": "’e·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the Philistines.",
+          "word": "פְּלִשְׁתִּֽים׃",
+          "transliteration": "pə·liš·tîm",
+          "strongs_number": "6430",
+          "part_of_speech": "Noun - proper - masculine plural",
+          "definition": "Philistines -- inhabitants of Philistia",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 26:26-31",
@@ -2687,7 +5552,89 @@
           "text": "Then Abraham planted a tamarisk tree in Beersheba, and there called on the name of the LORD, the Everlasting God."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And [Abraham] planted",
+          "word": "וַיִּטַּ֥ע",
+          "transliteration": "way·yiṭ·ṭa‘",
+          "strongs_number": "5193",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To strike in, fix, to plant",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a tamarisk tree",
+          "word": "אֶ֖שֶׁל",
+          "transliteration": "’e·šel",
+          "strongs_number": "815",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "A tamarisk tree, a grove of any kind",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in Beersheba,",
+          "word": "שָׁ֑בַע",
+          "transliteration": "šā·ḇa‘",
+          "strongs_number": "884",
+          "part_of_speech": "Preposition | Noun - proper - feminine singular",
+          "definition": "Beersheba -- 'well of seven', a place in the Negev",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and there",
+          "word": "שָׁ֔ם",
+          "transliteration": "šām",
+          "strongs_number": "8033",
+          "part_of_speech": "Adverb",
+          "definition": "There, then, thither",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he called",
+          "word": "וַיִּ֨קְרָא־",
+          "transliteration": "way·yiq·rā-",
+          "strongs_number": "7121",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To call, proclaim, read",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "upon the name",
+          "word": "בְּשֵׁ֥ם",
+          "transliteration": "bə·šêm",
+          "strongs_number": "8034",
+          "part_of_speech": "Preposition-b | Noun - masculine singular construct",
+          "definition": "A name",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the LORD,",
+          "word": "יְהוָ֖ה",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Eternal",
+          "word": "עוֹלָֽם׃",
+          "transliteration": "‘ō·w·lām",
+          "strongs_number": "5769",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "Concealed, eternity, frequentatively, always",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God.",
+          "word": "אֵ֥ל",
+          "transliteration": "’êl",
+          "strongs_number": "410",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "Strength -- as adjective, mighty, the Almighty",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Isaiah 40:28",
@@ -2774,7 +5721,62 @@
           "text": "And Abraham stayed in the land of the Philistines many days."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And Abraham",
+          "word": "אַבְרָהָ֛ם",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "resided",
+          "word": "וַיָּ֧גָר",
+          "transliteration": "way·yā·ḡār",
+          "strongs_number": "1481",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To turn aside from the road, sojourn, to shrink, fear, to gather for, hostility",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in the land",
+          "word": "בְּאֶ֥רֶץ",
+          "transliteration": "bə·’e·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Preposition-b | Noun - feminine singular construct",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the Philistines",
+          "word": "פְּלִשְׁתִּ֖ים",
+          "transliteration": "pə·liš·tîm",
+          "strongs_number": "6430",
+          "part_of_speech": "Noun - proper - masculine plural",
+          "definition": "Philistines -- inhabitants of Philistia",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "for a long",
+          "word": "רַבִּֽים׃",
+          "transliteration": "rab·bîm",
+          "strongs_number": "7227",
+          "part_of_speech": "Adjective - masculine plural",
+          "definition": "Much, many, great",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "time.",
+          "word": "יָמִ֥ים",
+          "transliteration": "yā·mîm",
+          "strongs_number": "3117",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A day",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 26:3",

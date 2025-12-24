@@ -11,14 +11,19 @@ import re
 # =============================================================================
 
 @dataclass
-class GreekWord:
-    """Represents a Greek word with its Strong's number and definition."""
-    english_word: str  # The English word/phrase this Greek word translates to
-    word: str  # Greek word
+class OriginalWord:
+    """Represents an original language word (Hebrew or Greek) with its Strong's number and definition."""
+    english_word: str  # The English word/phrase this word translates to
+    word: str  # Hebrew or Greek word
     transliteration: str  # Romanized form
     strongs_number: str  # Strong's reference number
     part_of_speech: str  # e.g., "Noun - Nominative Masculine Singular"
     definition: str  # English definition/meaning
+    language: str  # "hebrew" or "greek"
+
+
+# Keep GreekWord as alias for backward compatibility
+GreekWord = OriginalWord
 
 
 @dataclass
@@ -43,8 +48,14 @@ class VerseData:
     chapter: int
     verse: int
     translations: list[Translation] = field(default_factory=list)
-    greek_words: list[GreekWord] = field(default_factory=list)
+    original_words: list[OriginalWord] = field(default_factory=list)  # Hebrew (OT) or Greek (NT)
     cross_references: list[CrossReference] = field(default_factory=list)
+
+    # Backward compatibility property
+    @property
+    def greek_words(self) -> list[OriginalWord]:
+        """Deprecated: use original_words instead."""
+        return self.original_words
 
     def to_dict(self):
         return asdict(self)
@@ -151,25 +162,35 @@ def extract_translations(soup: BeautifulSoup, target_versions: set[str] = TARGET
     return translations
 
 
-def extract_greek_words(soup: BeautifulSoup) -> list[GreekWord]:
-    """Extract Greek lexicon information from the page."""
-    greek_words = []
+def extract_original_words(soup: BeautifulSoup) -> list[OriginalWord]:
+    """Extract original language (Hebrew or Greek) lexicon information from the page."""
+    original_words = []
 
-    # Find the Greek section by its heading
-    greek_heading = None
+    # Find the lexicon section by its heading - could be "Hebrew" or "Greek"
+    lexicon_heading = None
+    language = None
     for h in soup.find_all("div", class_="vheading"):
-        if "Greek" in h.get_text():
-            greek_heading = h
+        heading_text = h.get_text()
+        if "Hebrew" in heading_text:
+            lexicon_heading = h
+            language = "hebrew"
+            break
+        elif "Greek" in heading_text:
+            lexicon_heading = h
+            language = "greek"
             break
 
-    if not greek_heading:
-        return greek_words
+    if not lexicon_heading or not language:
+        return original_words
 
-    # Get the parent container and find all Greek word entries
-    # Each entry has: span.word (English), span.grk (Greek), span.translit, span.parse, span.str (Strong's), span.str2 (definition)
-    parent = greek_heading.parent
+    # Get the parent container and find all word entries
+    # Each entry has: span.word (English), span.heb/grk (original), span.translit, span.parse, span.str (Strong's), span.str2 (definition)
+    parent = lexicon_heading.parent
     if not parent:
-        return greek_words
+        return original_words
+
+    # Determine the class for original language text
+    original_class = "heb" if language == "hebrew" else "grk"
 
     # Find all English word spans - these mark the start of each entry
     word_spans = parent.find_all("span", class_="word")
@@ -177,11 +198,11 @@ def extract_greek_words(soup: BeautifulSoup) -> list[GreekWord]:
     for word_span in word_spans:
         english_word = word_span.get_text(strip=True)
 
-        # Find the Greek word (next span with class 'grk')
-        grk_span = word_span.find_next("span", class_="grk")
-        greek_word = ""
-        if grk_span:
-            greek_word = grk_span.get_text(strip=True)
+        # Find the original language word (next span with class 'heb' or 'grk')
+        original_span = word_span.find_next("span", class_=original_class)
+        original_word = ""
+        if original_span:
+            original_word = original_span.get_text(strip=True)
 
         # Find the transliteration
         translit_span = word_span.find_next("span", class_="translit")
@@ -212,15 +233,24 @@ def extract_greek_words(soup: BeautifulSoup) -> list[GreekWord]:
         if str2_span:
             definition = str2_span.get_text(strip=True)
 
-        if greek_word:
-            greek_words.append(GreekWord(
+        if original_word:
+            original_words.append(OriginalWord(
                 english_word=english_word,
-                word=greek_word,
+                word=original_word,
                 transliteration=transliteration,
                 strongs_number=strongs_number,
                 part_of_speech=part_of_speech,
-                definition=definition
+                definition=definition,
+                language=language
             ))
+
+    return original_words
+
+
+# Keep old function name for backward compatibility
+def extract_greek_words(soup: BeautifulSoup) -> list[OriginalWord]:
+    """Extract Greek lexicon information from the page. Deprecated: use extract_original_words instead."""
+    return extract_original_words(soup)
 
     return greek_words
 
@@ -326,7 +356,7 @@ def scrape_verse_safe(book: str, chapter: int, verse: int) -> Optional[VerseData
 
         # Extract all the data
         translations = extract_translations(soup)
-        greek_words = extract_greek_words(soup)
+        original_words = extract_original_words(soup)
         cross_refs = extract_cross_references(soup)
 
         return VerseData(
@@ -335,7 +365,7 @@ def scrape_verse_safe(book: str, chapter: int, verse: int) -> Optional[VerseData
             chapter=chapter,
             verse=verse,
             translations=translations,
-            greek_words=greek_words,
+            original_words=original_words,
             cross_references=cross_refs
         )
     except requests.RequestException:

@@ -25,7 +25,107 @@
           "text": "Now this is the genealogy of the sons of Noah: Shem, Ham, and Japheth. And sons were born to them after the flood."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "This",
+          "word": "וְאֵ֙לֶּה֙",
+          "transliteration": "wə·’êl·leh",
+          "strongs_number": "428",
+          "part_of_speech": "Conjunctive waw | Pronoun - common plural",
+          "definition": "These, those",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "is the account",
+          "word": "תּוֹלְדֹ֣ת",
+          "transliteration": "tō·wl·ḏōṯ",
+          "strongs_number": "8435",
+          "part_of_speech": "Noun - feminine plural construct",
+          "definition": "Descent, family, history",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Noah’s",
+          "word": "נֹ֔חַ",
+          "transliteration": "nō·aḥ",
+          "strongs_number": "5146",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Noah -- 'rest', patriarch who survived the flood",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "sons",
+          "word": "בְּנֵי־",
+          "transliteration": "bə·nê-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Shem,",
+          "word": "שֵׁ֖ם",
+          "transliteration": "šêm",
+          "strongs_number": "8035",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Shem -- 'name', oldest son of Noah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Ham,",
+          "word": "חָ֣ם",
+          "transliteration": "ḥām",
+          "strongs_number": "2526",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Ham -- a son of Noah, also his descendants, also a name for Egyptians",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Japheth,",
+          "word": "וָיָ֑פֶת",
+          "transliteration": "wā·yā·p̄eṯ",
+          "strongs_number": "3315",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Japheth -- a son of Noah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "who also",
+          "word": "לָהֶ֛ם",
+          "transliteration": "lā·hem",
+          "strongs_number": "",
+          "part_of_speech": "Preposition | third person masculine plural",
+          "definition": "",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "had sons",
+          "word": "בָּנִ֖ים",
+          "transliteration": "bā·nîm",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "after",
+          "word": "אַחַ֥ר",
+          "transliteration": "’a·ḥar",
+          "strongs_number": "310",
+          "part_of_speech": "Adverb",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the flood.",
+          "word": "הַמַּבּֽוּל׃",
+          "transliteration": "ham·mab·būl",
+          "strongs_number": "3999",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Flood -- a deluge",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "1 Chronicles 1:4-28",
@@ -112,7 +212,89 @@
           "text": "The sons of Japheth were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "The sons",
+          "word": "בְּנֵ֣י",
+          "transliteration": "bə·nê",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Japheth:",
+          "word": "יֶ֔פֶת",
+          "transliteration": "ye·p̄eṯ",
+          "strongs_number": "3315",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Japheth -- a son of Noah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Gomer,",
+          "word": "גֹּ֣מֶר",
+          "transliteration": "gō·mer",
+          "strongs_number": "1586",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Gomer -- a son of Japheth, also his descendants, also the wife of Hosea",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Magog,",
+          "word": "וּמָג֔וֹג",
+          "transliteration": "ū·mā·ḡō·wḡ",
+          "strongs_number": "4031",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Magog -- perhaps 'land of Gog', a son of Japheth, also his descendants and their land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Madai,",
+          "word": "וּמָדַ֖י",
+          "transliteration": "ū·mā·ḏay",
+          "strongs_number": "4074",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Media -- a son of Japheth, also his descendants and their land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Javan,",
+          "word": "וְיָוָ֣ן",
+          "transliteration": "wə·yā·wān",
+          "strongs_number": "3120",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Javan -- a son of Japheth, also his descendants and their land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Tubal,",
+          "word": "וְתֻבָ֑ל",
+          "transliteration": "wə·ṯu·ḇāl",
+          "strongs_number": "8422",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Tubal -- a son of Japheth, also his descendants and their land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Meshech,",
+          "word": "וּמֶ֖שֶׁךְ",
+          "transliteration": "ū·me·šeḵ",
+          "strongs_number": "4902",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Meshech -- a son of Japheth, also his descendants and their land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Tiras.",
+          "word": "וְתִירָֽס׃",
+          "transliteration": "wə·ṯî·rās",
+          "strongs_number": "8494",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Tiras -- a son of Japheth and his desc",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "1 Chronicles 1:5-7",
@@ -199,7 +381,53 @@
           "text": "The sons of Gomer were Ashkenaz, Riphath, and Togarmah."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "The sons",
+          "word": "וּבְנֵ֖י",
+          "transliteration": "ū·ḇə·nê",
+          "strongs_number": "1121",
+          "part_of_speech": "Conjunctive waw | Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Gomer:",
+          "word": "גֹּ֑מֶר",
+          "transliteration": "gō·mer",
+          "strongs_number": "1586",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Gomer -- a son of Japheth, also his descendants, also the wife of Hosea",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Ashkenaz,",
+          "word": "אַשְׁכֲּנַ֥ז",
+          "transliteration": "’aš·kă·naz",
+          "strongs_number": "813",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Ashkenaz -- a son of Gomer, also his descendants and their land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Riphath,",
+          "word": "וְרִיפַ֖ת",
+          "transliteration": "wə·rî·p̄aṯ",
+          "strongs_number": "7384",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Riphath -- a son of Gomer, also his desc",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Togarmah.",
+          "word": "וְתֹגַרְמָֽה׃",
+          "transliteration": "wə·ṯō·ḡar·māh",
+          "strongs_number": "8425",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Beth-togarmah -- a son of Gomer, also his descendants and their land",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "1 Chronicles 1:6",
@@ -286,7 +514,62 @@
           "text": "The sons of Javan were Elishah, Tarshish, Kittim, and Dodanim."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And the sons",
+          "word": "וּבְנֵ֥י",
+          "transliteration": "ū·ḇə·nê",
+          "strongs_number": "1121",
+          "part_of_speech": "Conjunctive waw | Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Javan:",
+          "word": "יָוָ֖ן",
+          "transliteration": "yā·wān",
+          "strongs_number": "3120",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Javan -- a son of Japheth, also his descendants and their land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Elishah,",
+          "word": "אֱלִישָׁ֣ה",
+          "transliteration": "’ĕ·lî·šāh",
+          "strongs_number": "473",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Elishah -- a son of Javan, also his descendants and their land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Tarshish,",
+          "word": "וְתַרְשִׁ֑ישׁ",
+          "transliteration": "wə·ṯar·šîš",
+          "strongs_number": "8659",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Tarshish -- a son of Javan, also a port on the Mediterranean, also a Benjamite",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Kittim,",
+          "word": "כִּתִּ֖ים",
+          "transliteration": "kit·tîm",
+          "strongs_number": "3794",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Kittim -- a son of Javan, also his descendants and their land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Dodanim.",
+          "word": "וְדֹדָנִֽים׃",
+          "transliteration": "wə·ḏō·ḏā·nîm",
+          "strongs_number": "1721",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine plural",
+          "definition": "Dodanim -- a son of Javan, also his desc",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "1 Chronicles 1:7",
@@ -373,7 +656,80 @@
           "text": "From these the coastland peoples of the Gentiles were separated into their lands, everyone according to his language, according to their families, into their nations."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "From these,",
+          "word": "מֵ֠אֵלֶּה",
+          "transliteration": "mê·’êl·leh",
+          "strongs_number": "428",
+          "part_of_speech": "Preposition-m | Pronoun - common plural",
+          "definition": "These, those",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the maritime",
+          "word": "אִיֵּ֤י",
+          "transliteration": "’î·yê",
+          "strongs_number": "339",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "A habitable spot, dry land, a coast, an island",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "peoples",
+          "word": "הַגּוֹיִם֙",
+          "transliteration": "hag·gō·w·yim",
+          "strongs_number": "1471",
+          "part_of_speech": "Article | Noun - masculine plural",
+          "definition": "A foreign nation, a Gentile, a troop of animals, a flight of locusts",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "separated",
+          "word": "נִפְרְד֞וּ",
+          "transliteration": "nip̄·rə·ḏū",
+          "strongs_number": "6504",
+          "part_of_speech": "Verb - Nifal - Perfect - third person common plural",
+          "definition": "To break through, spread, separate",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "into their territories,",
+          "word": "בְּאַרְצֹתָ֔ם",
+          "transliteration": "bə·’ar·ṣō·ṯām",
+          "strongs_number": "776",
+          "part_of_speech": "Preposition-b | Noun - feminine plural construct | third person masculine plural",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "according to their languages,",
+          "word": "לִלְשֹׁנ֑וֹ",
+          "transliteration": "lil·šō·nōw",
+          "strongs_number": "3956",
+          "part_of_speech": "Preposition-l | Noun - common singular construct | third person masculine singular",
+          "definition": "The tongue",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "by clans",
+          "word": "לְמִשְׁפְּחֹתָ֖ם",
+          "transliteration": "lə·miš·pə·ḥō·ṯām",
+          "strongs_number": "4940",
+          "part_of_speech": "Preposition-l | Noun - feminine plural construct | third person masculine plural",
+          "definition": "A family, circle of relatives, a class, a species, sort, a tribe, people",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "within their nations.",
+          "word": "בְּגוֹיֵהֶֽם׃",
+          "transliteration": "bə·ḡō·w·yê·hem",
+          "strongs_number": "1471",
+          "part_of_speech": "Preposition-b | Noun - masculine plural construct | third person masculine plural",
+          "definition": "A foreign nation, a Gentile, a troop of animals, a flight of locusts",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Acts 17:26",
@@ -460,7 +816,62 @@
           "text": "The sons of Ham were Cush, Mizraim, Put, and Canaan."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "The sons",
+          "word": "וּבְנֵ֖י",
+          "transliteration": "ū·ḇə·nê",
+          "strongs_number": "1121",
+          "part_of_speech": "Conjunctive waw | Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Ham:",
+          "word": "חָ֑ם",
+          "transliteration": "ḥām",
+          "strongs_number": "2526",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Ham -- a son of Noah, also his descendants, also a name for Egyptians",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Cush,",
+          "word": "כּ֥וּשׁ",
+          "transliteration": "kūš",
+          "strongs_number": "3568",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "A son of Ham, also his descendants, also a land in the southern Nile Valley",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Mizraim,",
+          "word": "וּמִצְרַ֖יִם",
+          "transliteration": "ū·miṣ·ra·yim",
+          "strongs_number": "4714",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Put,",
+          "word": "וּפ֥וּט",
+          "transliteration": "ū·p̄ūṭ",
+          "strongs_number": "6316",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Put -- a son of Ham, also his descendants and their land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Canaan.",
+          "word": "וּכְנָֽעַן׃",
+          "transliteration": "ū·ḵə·nā·‘an",
+          "strongs_number": "3667",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Canaan -- a son of Ham, also his descendants and their land West of the Jordan",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "1 Chronicles 1:8-10",
@@ -547,7 +958,107 @@
           "text": "The sons of Cush were Seba, Havilah, Sabtah, Raamah, and Sabtechah; and the sons of Raamah were Sheba and Dedan."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "The sons",
+          "word": "וּבְנֵ֣י",
+          "transliteration": "ū·ḇə·nê",
+          "strongs_number": "1121",
+          "part_of_speech": "Conjunctive waw | Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Cush:",
+          "word": "כ֔וּשׁ",
+          "transliteration": "ḵūš",
+          "strongs_number": "3568",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "A son of Ham, also his descendants, also a land in the southern Nile Valley",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Seba,",
+          "word": "סְבָא֙",
+          "transliteration": "sə·ḇā",
+          "strongs_number": "5434",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Seba -- son of Cush, also his descendants and their land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Havilah,",
+          "word": "וַֽחֲוִילָ֔ה",
+          "transliteration": "wa·ḥă·wî·lāh",
+          "strongs_number": "2341",
+          "part_of_speech": "Conjunctive waw | Noun - proper - feminine singular",
+          "definition": "Havilah -- a son of Cush, also a son of Joktan, also territories of uncertain location",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Sabtah,",
+          "word": "וְסַבְתָּ֥ה",
+          "transliteration": "wə·saḇ·tāh",
+          "strongs_number": "5454",
+          "part_of_speech": "Conjunctive waw | Noun - proper - feminine singular",
+          "definition": "Sabta -- a son of Cush, also the territory settled by his desc",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Raamah,",
+          "word": "וְרַעְמָ֖ה",
+          "transliteration": "wə·ra‘·māh",
+          "strongs_number": "7484",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Raamah -- 'trembling', son of Cush, also a trading people",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Sabteca.",
+          "word": "וְסַבְתְּכָ֑א",
+          "transliteration": "wə·saḇ·tə·ḵā",
+          "strongs_number": "5455",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Sabteca -- a son of Cush, also the territory settled by his desc",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "And the sons",
+          "word": "וּבְנֵ֥י",
+          "transliteration": "ū·ḇə·nê",
+          "strongs_number": "1121",
+          "part_of_speech": "Conjunctive waw | Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Raamah:",
+          "word": "רַעְמָ֖ה",
+          "transliteration": "ra‘·māh",
+          "strongs_number": "7484",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Raamah -- 'trembling', son of Cush, also a trading people",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Sheba",
+          "word": "שְׁבָ֥א",
+          "transliteration": "šə·ḇā",
+          "strongs_number": "7614",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Sheba -- a territory in soutwest Arabia, also the name of one or more descendant of Noah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Dedan.",
+          "word": "וּדְדָֽן׃",
+          "transliteration": "ū·ḏə·ḏān",
+          "strongs_number": "1719",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Dedan -- a descendant of Ham, also a descendant of Abraham",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "1 Chronicles 1:9",
@@ -634,7 +1145,80 @@
           "text": "Cush begot Nimrod; he began to be a mighty one on the earth."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And Cush",
+          "word": "וְכ֖וּשׁ",
+          "transliteration": "wə·ḵūš",
+          "strongs_number": "3568",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "A son of Ham, also his descendants, also a land in the southern Nile Valley",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was the father of",
+          "word": "יָלַ֣ד",
+          "transliteration": "yā·laḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Nimrod,",
+          "word": "נִמְרֹ֑ד",
+          "transliteration": "nim·rōḏ",
+          "strongs_number": "5248",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Nimrod -- a son of Cush and founder of the Babylonian kingdom",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "who",
+          "word": "ה֣וּא",
+          "transliteration": "hū",
+          "strongs_number": "1931",
+          "part_of_speech": "Pronoun - third person masculine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "grew",
+          "word": "הֵחֵ֔ל",
+          "transliteration": "hê·ḥêl",
+          "strongs_number": "2490",
+          "part_of_speech": "Verb - Hifil - Perfect - third person masculine singular",
+          "definition": "To bore, to wound, to dissolve, to profane, to break, to begin, to play",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to be",
+          "word": "לִֽהְי֥וֹת",
+          "transliteration": "lih·yō·wṯ",
+          "strongs_number": "1961",
+          "part_of_speech": "Preposition-l | Verb - Qal - Infinitive construct",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a mighty warrior",
+          "word": "גִּבֹּ֖ר",
+          "transliteration": "gib·bōr",
+          "strongs_number": "1368",
+          "part_of_speech": "Adjective - masculine singular",
+          "definition": "Powerful, warrior, tyrant",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "on the earth.",
+          "word": "בָּאָֽרֶץ׃",
+          "transliteration": "bā·’ā·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Preposition-b, Article | Noun - feminine singular",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 11:1-9",
@@ -721,7 +1305,125 @@
           "text": "He was a mighty hunter before the LORD; therefore it is said, “Like Nimrod the mighty hunter before the LORD.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "He",
+          "word": "הֽוּא־",
+          "transliteration": "hū-",
+          "strongs_number": "1931",
+          "part_of_speech": "Pronoun - third person masculine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was",
+          "word": "הָיָ֥ה",
+          "transliteration": "hā·yāh",
+          "strongs_number": "1961",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a mighty",
+          "word": "גִבֹּֽר־",
+          "transliteration": "ḡib·bōr-",
+          "strongs_number": "1368",
+          "part_of_speech": "Adjective - masculine singular construct",
+          "definition": "Powerful, warrior, tyrant",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "hunter",
+          "word": "צַ֖יִד",
+          "transliteration": "ṣa·yiḏ",
+          "strongs_number": "6718",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "The chase, game, lunch",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "before",
+          "word": "לִפְנֵ֣י",
+          "transliteration": "lip̄·nê",
+          "strongs_number": "6440",
+          "part_of_speech": "Preposition-l | Noun - common plural construct",
+          "definition": "The face",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the LORD;",
+          "word": "יְהוָ֑ה",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "so",
+          "word": "עַל־",
+          "transliteration": "‘al-",
+          "strongs_number": "5921",
+          "part_of_speech": "Preposition",
+          "definition": "Above, over, upon, against",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "it is said,",
+          "word": "יֵֽאָמַ֔ר",
+          "transliteration": "yê·’ā·mar",
+          "strongs_number": "559",
+          "part_of_speech": "Verb - Nifal - Imperfect - third person masculine singular",
+          "definition": "To utter, say",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "“Like Nimrod,",
+          "word": "כְּנִמְרֹ֛ד",
+          "transliteration": "kə·nim·rōḏ",
+          "strongs_number": "5248",
+          "part_of_speech": "Preposition-k | Noun - proper - masculine singular",
+          "definition": "Nimrod -- a son of Cush and founder of the Babylonian kingdom",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a mighty",
+          "word": "גִּבּ֥וֹר",
+          "transliteration": "gib·bō·wr",
+          "strongs_number": "1368",
+          "part_of_speech": "Adjective - masculine singular construct",
+          "definition": "Powerful, warrior, tyrant",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "hunter",
+          "word": "צַ֖יִד",
+          "transliteration": "ṣa·yiḏ",
+          "strongs_number": "6718",
+          "part_of_speech": "Noun - masculine singular",
+          "definition": "The chase, game, lunch",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "before",
+          "word": "לִפְנֵ֥י",
+          "transliteration": "lip̄·nê",
+          "strongs_number": "6440",
+          "part_of_speech": "Preposition-l | Noun - common plural construct",
+          "definition": "The face",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the LORD.”",
+          "word": "יְהוָֽה׃",
+          "transliteration": "Yah·weh",
+          "strongs_number": "3068",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "LORD -- the proper name of the God of Israel",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 10:8",
@@ -808,7 +1510,80 @@
           "text": "And the beginning of his kingdom was Babel, Erech, Accad, and Calneh, in the land of Shinar."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "His kingdom",
+          "word": "מַמְלַכְתּוֹ֙",
+          "transliteration": "mam·laḵ·tōw",
+          "strongs_number": "4467",
+          "part_of_speech": "Noun - feminine singular construct | third person masculine singular",
+          "definition": "Kingdom, sovereignty, dominion, reign",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "began",
+          "word": "רֵאשִׁ֤ית",
+          "transliteration": "rê·šîṯ",
+          "strongs_number": "7225",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "The first, in place, time, order, rank",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in Babylon,",
+          "word": "בָּבֶ֔ל",
+          "transliteration": "bā·ḇel",
+          "strongs_number": "894",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Babylon -- an eastern Mediterranean empire and its capital city",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Erech,",
+          "word": "וְאֶ֖רֶךְ",
+          "transliteration": "wə·’e·reḵ",
+          "strongs_number": "751",
+          "part_of_speech": "Conjunctive waw | Noun - proper - feminine singular",
+          "definition": "Erech -- a city in Babylon",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Accad,",
+          "word": "וְאַכַּ֣ד",
+          "transliteration": "wə·’ak·kaḏ",
+          "strongs_number": "390",
+          "part_of_speech": "Conjunctive waw | Noun - proper - feminine singular",
+          "definition": "Accad -- the name of a city in northern Babylon",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Calneh,",
+          "word": "וְכַלְנֵ֑ה",
+          "transliteration": "wə·ḵal·nêh",
+          "strongs_number": "3641",
+          "part_of_speech": "Conjunctive waw | Noun - proper - feminine singular",
+          "definition": "Calneh -- a place in Babylon",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in the land",
+          "word": "בְּאֶ֖רֶץ",
+          "transliteration": "bə·’e·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Preposition-b | Noun - feminine singular construct",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Shinar.",
+          "word": "שִׁנְעָֽר׃",
+          "transliteration": "šin·‘ār",
+          "strongs_number": "8152",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Shinar -- another name for Babylon",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Revelation 17:5",
@@ -895,7 +1670,89 @@
           "text": "From that land he went to Assyria and built Nineveh, Rehoboth Ir, Calah,"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "From",
+          "word": "מִן־",
+          "transliteration": "min-",
+          "strongs_number": "4480",
+          "part_of_speech": "Preposition",
+          "definition": "A part of, from, out of",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that",
+          "word": "הַהִ֖וא",
+          "transliteration": "ha·hi·w",
+          "strongs_number": "1931",
+          "part_of_speech": "Article | Pronoun - third person feminine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "land",
+          "word": "הָאָ֥רֶץ",
+          "transliteration": "hā·’ā·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "he went forth",
+          "word": "יָצָ֣א",
+          "transliteration": "yā·ṣā",
+          "strongs_number": "3318",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To go, bring, out, direct and proxim",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "into Assyria,",
+          "word": "אַשּׁ֑וּר",
+          "transliteration": "’aš·šūr",
+          "strongs_number": "804",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Ashshur",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "where he built",
+          "word": "וַיִּ֙בֶן֙",
+          "transliteration": "way·yi·ḇen",
+          "strongs_number": "1129",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To build",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Nineveh,",
+          "word": "נִ֣ינְוֵ֔ה",
+          "transliteration": "nî·nə·wêh",
+          "strongs_number": "5210",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Nineveh -- capital of Assyr",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Rehoboth-Ir,",
+          "word": "רְחֹבֹ֥ת",
+          "transliteration": "rə·ḥō·ḇōṯ",
+          "strongs_number": "7344",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Rehoboth -- 'broad places', a well dug by Isaac, also two cities of uncertain location",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Calah,",
+          "word": "כָּֽלַח׃",
+          "transliteration": "kā·laḥ",
+          "strongs_number": "3625",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Calah -- a city in Assyr",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Micah 5:6",
@@ -982,7 +1839,62 @@
           "text": "and Resen between Nineveh and Calah (that is the principal city)."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "and Resen,",
+          "word": "רֶ֔סֶן",
+          "transliteration": "re·sen",
+          "strongs_number": "7449",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Resen -- a city in Assyr",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "which is between",
+          "word": "בֵּ֥ין",
+          "transliteration": "bên",
+          "strongs_number": "996",
+          "part_of_speech": "Preposition",
+          "definition": "An interval, space between",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Nineveh",
+          "word": "נִֽינְוֵ֖ה",
+          "transliteration": "nî·nə·wêh",
+          "strongs_number": "5210",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Nineveh -- capital of Assyr",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and the great",
+          "word": "הַגְּדֹלָֽה׃",
+          "transliteration": "hag·gə·ḏō·lāh",
+          "strongs_number": "1419",
+          "part_of_speech": "Article | Adjective - feminine singular",
+          "definition": "Great, older, insolent",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "city",
+          "word": "הָעִ֥יר",
+          "transliteration": "hā·‘îr",
+          "strongs_number": "5892",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "Excitement",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Calah.",
+          "word": "כָּ֑לַח",
+          "transliteration": "kā·laḥ",
+          "strongs_number": "3625",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Calah -- a city in Assyr",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Micah 5:6",
@@ -1069,7 +1981,62 @@
           "text": "Mizraim begot Ludim, Anamim, Lehabim, Naphtuhim,"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And Mizraim",
+          "word": "וּמִצְרַ֡יִם",
+          "transliteration": "ū·miṣ·ra·yim",
+          "strongs_number": "4714",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was the father of",
+          "word": "יָלַ֞ד",
+          "transliteration": "yā·laḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Ludites,",
+          "word": "לוּדִ֧ים",
+          "transliteration": "lū·ḏîm",
+          "strongs_number": "3866",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Ludim -- a tribe descended from Mizraim",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Anamites,",
+          "word": "עֲנָמִ֛ים",
+          "transliteration": "‘ă·nā·mîm",
+          "strongs_number": "6047",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Anam -- a tribe descended from Mizraim, probably located in or near Eg",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Lehabites,",
+          "word": "לְהָבִ֖ים",
+          "transliteration": "lə·hā·ḇîm",
+          "strongs_number": "3853",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Lehab -- a tribe descended from Mizraim",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Naphtuhites,",
+          "word": "נַפְתֻּחִֽים׃",
+          "transliteration": "nap̄·tu·ḥîm",
+          "strongs_number": "5320",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Naphtuh -- a tribe descended from Mizraim",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Exodus 1:11",
@@ -1156,7 +2123,80 @@
           "text": "Pathrusim, and Casluhim (from whom came the Philistines and Caphtorim)."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "the Pathrusites,",
+          "word": "פַּתְרֻסִ֞ים",
+          "transliteration": "paṯ·ru·sîm",
+          "strongs_number": "6625",
+          "part_of_speech": "Noun - proper - masculine plural",
+          "definition": "Pathrus -- a tribe, descended from Mizraim",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Casluhites,",
+          "word": "כַּסְלֻחִ֗ים",
+          "transliteration": "kas·lu·ḥîm",
+          "strongs_number": "3695",
+          "part_of_speech": "Noun - proper - masculine plural",
+          "definition": "Casluh -- a people descended from Mizraim, probably ancestors of the Philistines",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and",
+          "word": "וְאֶת־",
+          "transliteration": "wə·’eṯ-",
+          "strongs_number": "853",
+          "part_of_speech": "Conjunctive waw | Direct object marker",
+          "definition": "Untranslatable mark of the accusative case",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Caphtorites",
+          "word": "כַּפְתֹּרִֽים׃",
+          "transliteration": "kap̄·tō·rîm",
+          "strongs_number": "3732",
+          "part_of_speech": "Noun - proper - masculine plural",
+          "definition": "Caphtorim -- a Caphtorite",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "(from",
+          "word": "מִשָּׁ֛ם",
+          "transliteration": "miš·šām",
+          "strongs_number": "8033",
+          "part_of_speech": "Preposition-m | Adverb",
+          "definition": "There, then, thither",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "whom",
+          "word": "אֲשֶׁ֨ר",
+          "transliteration": "’ă·šer",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Philistines",
+          "word": "פְּלִשְׁתִּ֖ים",
+          "transliteration": "pə·liš·tîm",
+          "strongs_number": "6430",
+          "part_of_speech": "Noun - proper - masculine plural",
+          "definition": "Philistines -- inhabitants of Philistia",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "came).",
+          "word": "יָצְא֥וּ",
+          "transliteration": "yā·ṣə·’ū",
+          "strongs_number": "3318",
+          "part_of_speech": "Verb - Qal - Perfect - third person common plural",
+          "definition": "To go, bring, out, direct and proxim",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "1 Chronicles 1:12",
@@ -1243,7 +2283,62 @@
           "text": "Canaan begot Sidon his firstborn, and Heth;"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Canaan",
+          "word": "וּכְנַ֗עַן",
+          "transliteration": "ū·ḵə·na·‘an",
+          "strongs_number": "3667",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Canaan -- a son of Ham, also his descendants and their land West of the Jordan",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was the father of",
+          "word": "יָלַ֛ד",
+          "transliteration": "yā·laḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Sidon",
+          "word": "צִידֹ֥ן",
+          "transliteration": "ṣî·ḏōn",
+          "strongs_number": "6721",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Sidon -- a Phoenician city on the Mediterranean coast, also a son of Canaan",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "his firstborn,",
+          "word": "בְּכֹר֖וֹ",
+          "transliteration": "bə·ḵō·rōw",
+          "strongs_number": "1060",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine singular",
+          "definition": "Firstborn, chief",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and of",
+          "word": "וְאֶת־",
+          "transliteration": "wə·’eṯ-",
+          "strongs_number": "853",
+          "part_of_speech": "Conjunctive waw | Direct object marker",
+          "definition": "Untranslatable mark of the accusative case",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Hittites,",
+          "word": "חֵֽת׃",
+          "transliteration": "ḥêṯ",
+          "strongs_number": "2845",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Heth -- a son of Canaan and probably ancestor of the Hittites",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Joshua 11:3",
@@ -1330,7 +2425,35 @@
           "text": "the Jebusite, the Amorite, and the Girgashite;"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "the Jebusites,",
+          "word": "הַיְבוּסִי֙",
+          "transliteration": "hay·ḇū·sî",
+          "strongs_number": "2983",
+          "part_of_speech": "Article | Noun - proper - masculine singular",
+          "definition": "Jebusite -- inhabitant of Jebus",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Amorites,",
+          "word": "הָ֣אֱמֹרִ֔י",
+          "transliteration": "hā·’ĕ·mō·rî",
+          "strongs_number": "567",
+          "part_of_speech": "Article | Noun - proper - masculine singular",
+          "definition": "Amorites -- perhaps 'mountain dwellers', a Canaanite tribe",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Girgashites,",
+          "word": "הַגִּרְגָּשִֽׁי׃",
+          "transliteration": "hag·gir·gā·šî",
+          "strongs_number": "1622",
+          "part_of_speech": "Article | Noun - proper - masculine singular",
+          "definition": "Girgashite -- a native tribe of Canaan",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Deuteronomy 7:1",
@@ -1417,7 +2540,35 @@
           "text": "the Hivite, the Arkite, and the Sinite;"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "the Hivites,",
+          "word": "הַֽחִוִּ֥י",
+          "transliteration": "ha·ḥiw·wî",
+          "strongs_number": "2340",
+          "part_of_speech": "Article | Noun - proper - masculine singular",
+          "definition": "Hivite -- a Chivvite",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Arkites,",
+          "word": "הַֽעַרְקִ֖י",
+          "transliteration": "ha·‘ar·qî",
+          "strongs_number": "6208",
+          "part_of_speech": "Article | Noun - proper - masculine singular",
+          "definition": "Arkite -- descendant of Canaan, inhabitants of the city of Arka",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Sinites,",
+          "word": "הַסִּינִֽי׃",
+          "transliteration": "has·sî·nî",
+          "strongs_number": "5513",
+          "part_of_speech": "Article | Noun - proper - masculine singular",
+          "definition": "Sinite -- a Sinite",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "1 Chronicles 1:15",
@@ -1504,7 +2655,71 @@
           "text": "the Arvadite, the Zemarite, and the Hamathite. Afterward the families of the Canaanites were dispersed."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "the Arvadites,",
+          "word": "הָֽאַרְוָדִ֥י",
+          "transliteration": "hā·’ar·wā·ḏî",
+          "strongs_number": "721",
+          "part_of_speech": "Article | Noun - proper - masculine singular",
+          "definition": "Arvadite -- inhabitant of Arvad",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Zemarites,",
+          "word": "הַצְּמָרִ֖י",
+          "transliteration": "haṣ·ṣə·mā·rî",
+          "strongs_number": "6786",
+          "part_of_speech": "Article | Noun - proper - masculine singular",
+          "definition": "Zemarite -- a Canaanite people",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and the Hamathites.",
+          "word": "הַֽחֲמָתִ֑י",
+          "transliteration": "ha·ḥă·mā·ṯî",
+          "strongs_number": "2577",
+          "part_of_speech": "Article | Noun - proper - masculine singular",
+          "definition": "Hamathite -- a Chamathite",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Later",
+          "word": "וְאַחַ֣ר",
+          "transliteration": "wə·’a·ḥar",
+          "strongs_number": "310",
+          "part_of_speech": "Conjunctive waw | Adverb",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Canaanite",
+          "word": "הַֽכְּנַעֲנִֽי׃",
+          "transliteration": "hak·kə·na·‘ă·nî",
+          "strongs_number": "3669",
+          "part_of_speech": "Article | Noun - proper - masculine singular",
+          "definition": "Canaanite -- inhabitant of Canaan",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "clans",
+          "word": "מִשְׁפְּח֖וֹת",
+          "transliteration": "miš·pə·ḥō·wṯ",
+          "strongs_number": "4940",
+          "part_of_speech": "Noun - feminine plural construct",
+          "definition": "A family, circle of relatives, a class, a species, sort, a tribe, people",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "were scattered",
+          "word": "נָפֹ֔צוּ",
+          "transliteration": "nā·p̄ō·ṣū",
+          "strongs_number": "6327",
+          "part_of_speech": "Verb - Nifal - Perfect - third person common plural",
+          "definition": "To be dispersed or scattered",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Deuteronomy 2:23",
@@ -1591,7 +2806,134 @@
           "text": "And the border of the Canaanites was from Sidon as you go toward Gerar, as far as Gaza; then as you go toward Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "and the borders",
+          "word": "גְּב֤וּל",
+          "transliteration": "gə·ḇūl",
+          "strongs_number": "1366",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A cord, a boundary, the territory inclosed",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Canaan",
+          "word": "הַֽכְּנַעֲנִי֙",
+          "transliteration": "hak·kə·na·‘ă·nî",
+          "strongs_number": "3669",
+          "part_of_speech": "Article | Noun - proper - masculine singular",
+          "definition": "Canaanite -- inhabitant of Canaan",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "extended from",
+          "word": "וַֽיְהִ֞י",
+          "transliteration": "way·hî",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Sidon",
+          "word": "מִצִּידֹ֔ן",
+          "transliteration": "miṣ·ṣî·ḏōn",
+          "strongs_number": "6721",
+          "part_of_speech": "Preposition-m | Noun - proper - feminine singular",
+          "definition": "Sidon -- a Phoenician city on the Mediterranean coast, also a son of Canaan",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "toward Gerar",
+          "word": "גְרָ֖רָה",
+          "transliteration": "ḡə·rā·rāh",
+          "strongs_number": "1642",
+          "part_of_speech": "Noun - proper - feminine singular | third person feminine singular",
+          "definition": "Gerar -- a place South of Gaza",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "as",
+          "word": "עַד־",
+          "transliteration": "‘aḏ-",
+          "strongs_number": "5704",
+          "part_of_speech": "Preposition",
+          "definition": "As far as, even to, up to, until, while",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "far as Gaza,",
+          "word": "עַזָּ֑ה",
+          "transliteration": "‘az·zāh",
+          "strongs_number": "5804",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "A Philistine city",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and then",
+          "word": "בֹּאֲכָ֞ה",
+          "transliteration": "bō·’ă·ḵāh",
+          "strongs_number": "935",
+          "part_of_speech": "Verb - Qal - Infinitive construct | second person masculine singular",
+          "definition": "To come in, come, go in, go",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "toward Sodom,",
+          "word": "סְדֹ֧מָה",
+          "transliteration": "sə·ḏō·māh",
+          "strongs_number": "5467",
+          "part_of_speech": "Noun - proper - feminine singular | third person feminine singular",
+          "definition": "Sodom -- a Canaanite city near the Dead Sea",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Gomorrah,",
+          "word": "וַעֲמֹרָ֛ה",
+          "transliteration": "wa·‘ă·mō·rāh",
+          "strongs_number": "6017",
+          "part_of_speech": "Conjunctive waw | Noun - proper - feminine singular",
+          "definition": "Gomorrah -- a city in the Jordan Valley",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Admah,",
+          "word": "וְאַדְמָ֥ה",
+          "transliteration": "wə·’aḏ·māh",
+          "strongs_number": "126",
+          "part_of_speech": "Conjunctive waw | Noun - proper - feminine singular",
+          "definition": "Admah -- a city near Sodom and Gomorrah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Zeboiim,",
+          "word": "וּצְבֹיִ֖ם",
+          "transliteration": "ū·ṣə·ḇō·yim",
+          "strongs_number": "6636",
+          "part_of_speech": "Conjunctive waw | Noun - proper - feminine singular",
+          "definition": "Zeboiim -- a place near Sodom",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "as",
+          "word": "עַד־",
+          "transliteration": "‘aḏ-",
+          "strongs_number": "5704",
+          "part_of_speech": "Preposition",
+          "definition": "As far as, even to, up to, until, while",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "far as Lasha.",
+          "word": "לָֽשַׁע׃",
+          "transliteration": "lā·ša‘",
+          "strongs_number": "3962",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Lasha -- a place on the boundary of Canaan",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Deuteronomy 2:23",
@@ -1678,7 +3020,71 @@
           "text": "These were the sons of Ham, according to their families, according to their languages, in their lands and in their nations."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "These [are]",
+          "word": "אֵ֣לֶּה",
+          "transliteration": "’êl·leh",
+          "strongs_number": "428",
+          "part_of_speech": "Pronoun - common plural",
+          "definition": "These, those",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the sons",
+          "word": "בְנֵי־",
+          "transliteration": "ḇə·nê-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Ham",
+          "word": "חָ֔ם",
+          "transliteration": "ḥām",
+          "strongs_number": "2526",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Ham -- a son of Noah, also his descendants, also a name for Egyptians",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "according to their clans,",
+          "word": "לְמִשְׁפְּחֹתָ֖ם",
+          "transliteration": "lə·miš·pə·ḥō·ṯām",
+          "strongs_number": "4940",
+          "part_of_speech": "Preposition-l | Noun - feminine plural construct | third person masculine plural",
+          "definition": "A family, circle of relatives, a class, a species, sort, a tribe, people",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "languages,",
+          "word": "לִלְשֹֽׁנֹתָ֑ם",
+          "transliteration": "lil·šō·nō·ṯām",
+          "strongs_number": "3956",
+          "part_of_speech": "Preposition-l | Noun - common plural construct | third person masculine plural",
+          "definition": "The tongue",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lands,",
+          "word": "בְּאַרְצֹתָ֖ם",
+          "transliteration": "bə·’ar·ṣō·ṯām",
+          "strongs_number": "776",
+          "part_of_speech": "Preposition-b | Noun - feminine plural construct | third person masculine plural",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and nations.",
+          "word": "בְּגוֹיֵהֶֽם׃",
+          "transliteration": "bə·ḡō·w·yê·hem",
+          "strongs_number": "1471",
+          "part_of_speech": "Preposition-b | Noun - masculine plural construct | third person masculine plural",
+          "definition": "A foreign nation, a Gentile, a troop of animals, a flight of locusts",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 11:1-9",
@@ -1765,7 +3171,98 @@
           "text": "And children were born also to Shem, the father of all the children of Eber, the brother of Japheth the elder."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And sons were also born",
+          "word": "יֻלַּ֖ד",
+          "transliteration": "yul·laḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - QalPass - Perfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to Shem,",
+          "word": "וּלְשֵׁ֥ם",
+          "transliteration": "ū·lə·šêm",
+          "strongs_number": "8035",
+          "part_of_speech": "Conjunctive waw, Preposition-l | Noun - proper - masculine singular",
+          "definition": "Shem -- 'name', oldest son of Noah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the older",
+          "word": "הַגָּדֽוֹל׃",
+          "transliteration": "hag·gā·ḏō·wl",
+          "strongs_number": "1419",
+          "part_of_speech": "Article | Adjective - masculine singular",
+          "definition": "Great, older, insolent",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "brother",
+          "word": "אֲחִ֖י",
+          "transliteration": "’ă·ḥî",
+          "strongs_number": "251",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A brother, )",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[of] Japheth;",
+          "word": "יֶ֥פֶת",
+          "transliteration": "ye·p̄eṯ",
+          "strongs_number": "3315",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Japheth -- a son of Noah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[Shem]",
+          "word": "ה֑וּא",
+          "transliteration": "hū",
+          "strongs_number": "1931",
+          "part_of_speech": "Pronoun - third person masculine singular",
+          "definition": "He, self, the same, this, that, as, are",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was the forefather",
+          "word": "אֲבִי֙",
+          "transliteration": "’ă·ḇî",
+          "strongs_number": "1",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "Father",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of all",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the sons",
+          "word": "בְּנֵי־",
+          "transliteration": "bə·nê-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Eber.",
+          "word": "עֵ֔בֶר",
+          "transliteration": "‘ê·ḇer",
+          "strongs_number": "5677",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Eber -- 'region beyond', a descendant of Shem, also the name of several Israelites",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Luke 3:35-36",
@@ -1852,7 +3349,71 @@
           "text": "The sons of Shem were Elam, Asshur, Arphaxad, Lud, and Aram."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "The sons",
+          "word": "בְּנֵ֥י",
+          "transliteration": "bə·nê",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Shem:",
+          "word": "שֵׁ֖ם",
+          "transliteration": "šêm",
+          "strongs_number": "8035",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Shem -- 'name', oldest son of Noah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Elam,",
+          "word": "עֵילָ֣ם",
+          "transliteration": "‘ê·lām",
+          "strongs_number": "5867",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Elam -- a son of Shem, also his descendants and their country",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Asshur,",
+          "word": "וְאַשּׁ֑וּר",
+          "transliteration": "wə·’aš·šūr",
+          "strongs_number": "804",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Ashshur",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Arphaxad,",
+          "word": "וְאַרְפַּכְשַׁ֖ד",
+          "transliteration": "wə·’ar·paḵ·šaḏ",
+          "strongs_number": "775",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Arpachshad -- third son of Shem, also the region settled by him",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Lud,",
+          "word": "וְל֥וּד",
+          "transliteration": "wə·lūḏ",
+          "strongs_number": "3865",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Lud -- a son of Shem, also his descendants and their land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Aram.",
+          "word": "וַֽאֲרָֽם׃",
+          "transliteration": "wa·’ă·rām",
+          "strongs_number": "758",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Aram -- Syria",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "1 Chronicles 1:17",
@@ -1939,7 +3500,62 @@
           "text": "The sons of Aram were Uz, Hul, Gether, and Mash."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "The sons",
+          "word": "וּבְנֵ֖י",
+          "transliteration": "ū·ḇə·nê",
+          "strongs_number": "1121",
+          "part_of_speech": "Conjunctive waw | Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Aram:",
+          "word": "אֲרָ֑ם",
+          "transliteration": "’ă·rām",
+          "strongs_number": "758",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Aram -- Syria",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Uz,",
+          "word": "ע֥וּץ",
+          "transliteration": "‘ūṣ",
+          "strongs_number": "5780",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Uz -- a son of Aram, also a son of Nahor, also an Edomite, also perhaps a district East of Palestine",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Hul,",
+          "word": "וְח֖וּל",
+          "transliteration": "wə·ḥūl",
+          "strongs_number": "2343",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Hul -- a son of Aram",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Gether,",
+          "word": "וְגֶ֥תֶר",
+          "transliteration": "wə·ḡe·ṯer",
+          "strongs_number": "1666",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Gether -- a descendant of Shem",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Mash.",
+          "word": "וָמַֽשׁ׃",
+          "transliteration": "wā·maš",
+          "strongs_number": "4851",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Mash -- a son of Aram",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "1 Chronicles 1:17",
@@ -2026,7 +3642,62 @@
           "text": "Arphaxad begot Salah, and Salah begot Eber."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And Arphaxad",
+          "word": "וְאַרְפַּכְשַׁ֖ד",
+          "transliteration": "wə·’ar·paḵ·šaḏ",
+          "strongs_number": "775",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Arpachshad -- third son of Shem, also the region settled by him",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was the father of",
+          "word": "יָלַ֣ד",
+          "transliteration": "yā·laḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Shelah,",
+          "word": "שָׁ֑לַח",
+          "transliteration": "šā·laḥ",
+          "strongs_number": "7974",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Shelah -- a descendant of Shem",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Shelah",
+          "word": "וְשֶׁ֖לַח",
+          "transliteration": "wə·še·laḥ",
+          "strongs_number": "7974",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Shelah -- a descendant of Shem",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was the father of",
+          "word": "יָלַ֥ד",
+          "transliteration": "yā·laḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Eber.",
+          "word": "עֵֽבֶר׃",
+          "transliteration": "‘ê·ḇer",
+          "strongs_number": "5677",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Eber -- 'region beyond', a descendant of Shem, also the name of several Israelites",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Luke 3:35-36",
@@ -2113,7 +3784,134 @@
           "text": "To Eber were born two sons: the name of one was Peleg, for in his days the earth was divided; and his brother’s name was Joktan."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And two",
+          "word": "שְׁנֵ֣י",
+          "transliteration": "šə·nê",
+          "strongs_number": "8147",
+          "part_of_speech": "Number - mdc",
+          "definition": "Two (a cardinal number)",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "sons",
+          "word": "בָנִ֑ים",
+          "transliteration": "ḇā·nîm",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "were born",
+          "word": "יֻלַּ֖ד",
+          "transliteration": "yul·laḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - QalPass - Perfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to Eber:",
+          "word": "וּלְעֵ֥בֶר",
+          "transliteration": "ū·lə·‘ê·ḇer",
+          "strongs_number": "5677",
+          "part_of_speech": "Conjunctive waw, Preposition-l | Noun - proper - masculine singular",
+          "definition": "Eber -- 'region beyond', a descendant of Shem, also the name of several Israelites",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "One",
+          "word": "הָֽאֶחָ֞ד",
+          "transliteration": "hā·’e·ḥāḏ",
+          "strongs_number": "259",
+          "part_of_speech": "Article | Number - masculine singular",
+          "definition": "United, one, first",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was named",
+          "word": "שֵׁ֣ם",
+          "transliteration": "šêm",
+          "strongs_number": "8034",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A name",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Peleg,",
+          "word": "פֶּ֗לֶג",
+          "transliteration": "pe·leḡ",
+          "strongs_number": "6389",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Peleg -- a son of Eber",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "because",
+          "word": "כִּ֤י",
+          "transliteration": "kî",
+          "strongs_number": "3588",
+          "part_of_speech": "Conjunction",
+          "definition": "A relative conjunction",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in his days",
+          "word": "בְיָמָיו֙",
+          "transliteration": "ḇə·yā·māw",
+          "strongs_number": "3117",
+          "part_of_speech": "Preposition-b | Noun - masculine plural construct | third person masculine singular",
+          "definition": "A day",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the earth",
+          "word": "הָאָ֔רֶץ",
+          "transliteration": "hā·’ā·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Article | Noun - feminine singular",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was divided,",
+          "word": "נִפְלְגָ֣ה",
+          "transliteration": "nip̄·lə·ḡāh",
+          "strongs_number": "6385",
+          "part_of_speech": "Verb - Nifal - Perfect - third person feminine singular",
+          "definition": "To split, divide",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and his brother",
+          "word": "אָחִ֖יו",
+          "transliteration": "’ā·ḥîw",
+          "strongs_number": "251",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine singular",
+          "definition": "A brother, )",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was named",
+          "word": "וְשֵׁ֥ם",
+          "transliteration": "wə·šêm",
+          "strongs_number": "8034",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular construct",
+          "definition": "A name",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Joktan.",
+          "word": "יָקְטָֽן׃",
+          "transliteration": "yā·qə·ṭān",
+          "strongs_number": "3355",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Joktan -- a descendant of Shem and ancestor of several Arabian tribes",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "1 Chronicles 1:19",
@@ -2200,7 +3998,62 @@
           "text": "Joktan begot Almodad, Sheleph, Hazarmaveth, Jerah,"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And Joktan",
+          "word": "וְיָקְטָ֣ן",
+          "transliteration": "wə·yā·qə·ṭān",
+          "strongs_number": "3355",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Joktan -- a descendant of Shem and ancestor of several Arabian tribes",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "was the father of",
+          "word": "יָלַ֔ד",
+          "transliteration": "yā·laḏ",
+          "strongs_number": "3205",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To bear young, to beget, medically, to act as midwife, to show lineage",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Almodad,",
+          "word": "אַלְמוֹדָ֖ד",
+          "transliteration": "’al·mō·w·ḏāḏ",
+          "strongs_number": "486",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Almodad -- a son of Joktan, also his desc",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Sheleph,",
+          "word": "שָׁ֑לֶף",
+          "transliteration": "šā·lep̄",
+          "strongs_number": "8026",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Sheleph -- 'drawn out', a son of Joktan and his desc",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Hazarmaveth,",
+          "word": "חֲצַרְמָ֖וֶת",
+          "transliteration": "ḥă·ṣar·mā·weṯ",
+          "strongs_number": "2700",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Hazarmaveth -- a son of Joktan, also his desc",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Jerah,",
+          "word": "יָֽרַח׃",
+          "transliteration": "yā·raḥ",
+          "strongs_number": "3392",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Jerah -- a son of Joktan, also his desc",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "1 Chronicles 1:20-23",
@@ -2287,7 +4140,35 @@
           "text": "Hadoram, Uzal, Diklah,"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Hadoram,",
+          "word": "הֲדוֹרָ֥ם",
+          "transliteration": "hă·ḏō·w·rām",
+          "strongs_number": "1913",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Hadoram -- a son of Joktan, also son of the king of Hamath",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Uzal,",
+          "word": "אוּזָ֖ל",
+          "transliteration": "’ū·zāl",
+          "strongs_number": "187",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Uzal -- a son of Joktan, also his descendants, also a place of uncertain location",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Diklah,",
+          "word": "דִּקְלָֽה׃",
+          "transliteration": "diq·lāh",
+          "strongs_number": "1853",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Diklah -- a son of Joktan, also the southern Arabian tribe descended from him",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "1 Chronicles 1:21",
@@ -2374,7 +4255,35 @@
           "text": "Obal, Abimael, Sheba,"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Obal,",
+          "word": "עוֹבָ֥ל",
+          "transliteration": "‘ō·w·ḇāl",
+          "strongs_number": "5745",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Obal -- a son of Joktan, also his desc",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Abimael,",
+          "word": "אֲבִֽימָאֵ֖ל",
+          "transliteration": "’ă·ḇî·mā·’êl",
+          "strongs_number": "39",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abimael -- 'a father is El', a son of Joktan, also his desc",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Sheba,",
+          "word": "שְׁבָֽא׃",
+          "transliteration": "šə·ḇā",
+          "strongs_number": "7614",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Sheba -- a territory in soutwest Arabia, also the name of one or more descendant of Noah",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "1 Chronicles 1:21",
@@ -2461,7 +4370,71 @@
           "text": "Ophir, Havilah, and Jobab. All these were the sons of Joktan."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Ophir,",
+          "word": "אוֹפִ֥ר",
+          "transliteration": "’ō·w·p̄ir",
+          "strongs_number": "211",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Ophir -- a son of Joktan, also his descendants, also a region from which gold comes",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Havilah,",
+          "word": "חֲוִילָ֖ה",
+          "transliteration": "ḥă·wî·lāh",
+          "strongs_number": "2341",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Havilah -- a son of Cush, also a son of Joktan, also territories of uncertain location",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Jobab.",
+          "word": "יוֹבָ֑ב",
+          "transliteration": "yō·w·ḇāḇ",
+          "strongs_number": "3103",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Jobab -- a son of Joktan, also his descendants, also two non-Israelite kings, also two Benjamites",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "All",
+          "word": "כָּל־",
+          "transliteration": "kāl-",
+          "strongs_number": "3605",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "The whole, all, any, every",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "these",
+          "word": "אֵ֖לֶּה",
+          "transliteration": "’êl·leh",
+          "strongs_number": "428",
+          "part_of_speech": "Pronoun - common plural",
+          "definition": "These, those",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "[were] sons",
+          "word": "בְּנֵ֥י",
+          "transliteration": "bə·nê",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Joktan.",
+          "word": "יָקְטָֽן׃",
+          "transliteration": "yā·qə·ṭān",
+          "strongs_number": "3355",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Joktan -- a descendant of Shem and ancestor of several Arabian tribes",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "1 Chronicles 1:23",
@@ -2548,7 +4521,62 @@
           "text": "And their dwelling place was from Mesha as you go toward Sephar, the mountain of the east."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "Their territory",
+          "word": "מוֹשָׁבָ֖ם",
+          "transliteration": "mō·wō·šā·ḇām",
+          "strongs_number": "4186",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine plural",
+          "definition": "A seat, assembly, dwelling place, dwelling, dwellers",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "extended from",
+          "word": "בֹּאֲכָ֥ה",
+          "transliteration": "bō·’ă·ḵāh",
+          "strongs_number": "935",
+          "part_of_speech": "Verb - Qal - Infinitive construct | second person masculine singular",
+          "definition": "To come in, come, go in, go",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Mesha",
+          "word": "מִמֵּשָׁ֑א",
+          "transliteration": "mim·mê·šā",
+          "strongs_number": "4852",
+          "part_of_speech": "Preposition-m | Noun - proper - feminine singular",
+          "definition": "Mesha -- one extremity of the territory of the Joktanites",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to Sephar,",
+          "word": "סְפָ֖רָה",
+          "transliteration": "sə·p̄ā·rāh",
+          "strongs_number": "5611",
+          "part_of_speech": "Noun - proper - feminine singular | third person feminine singular",
+          "definition": "Sephar -- a place in southern Arabia",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "in the eastern",
+          "word": "הַקֶּֽדֶם׃",
+          "transliteration": "haq·qe·ḏem",
+          "strongs_number": "6924",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "The front, of place, time",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "hill country.",
+          "word": "הַ֥ר",
+          "transliteration": "har",
+          "strongs_number": "2022",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "Mountain, hill, hill country",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 11:2",
@@ -2635,7 +4663,71 @@
           "text": "These were the sons of Shem, according to their families, according to their languages, in their lands, according to their nations."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "These",
+          "word": "אֵ֣לֶּה",
+          "transliteration": "’êl·leh",
+          "strongs_number": "428",
+          "part_of_speech": "Pronoun - common plural",
+          "definition": "These, those",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "are the sons",
+          "word": "בְנֵי־",
+          "transliteration": "ḇə·nê-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Shem,",
+          "word": "שֵׁ֔ם",
+          "transliteration": "šêm",
+          "strongs_number": "8035",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Shem -- 'name', oldest son of Noah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "according to their clans,",
+          "word": "לְמִשְׁפְּחֹתָ֖ם",
+          "transliteration": "lə·miš·pə·ḥō·ṯām",
+          "strongs_number": "4940",
+          "part_of_speech": "Preposition-l | Noun - feminine plural construct | third person masculine plural",
+          "definition": "A family, circle of relatives, a class, a species, sort, a tribe, people",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "languages,",
+          "word": "לִלְשֹׁנֹתָ֑ם",
+          "transliteration": "lil·šō·nō·ṯām",
+          "strongs_number": "3956",
+          "part_of_speech": "Preposition-l | Noun - common plural construct | third person masculine plural",
+          "definition": "The tongue",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "lands,",
+          "word": "בְּאַרְצֹתָ֖ם",
+          "transliteration": "bə·’ar·ṣō·ṯām",
+          "strongs_number": "776",
+          "part_of_speech": "Preposition-b | Noun - feminine plural construct | third person masculine plural",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and nations.",
+          "word": "לְגוֹיֵהֶֽם׃",
+          "transliteration": "lə·ḡō·w·yê·hem",
+          "strongs_number": "1471",
+          "part_of_speech": "Preposition-l | Noun - masculine plural construct | third person masculine plural",
+          "definition": "A foreign nation, a Gentile, a troop of animals, a flight of locusts",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 11:1-9",
@@ -2722,7 +4814,116 @@
           "text": "These were the families of the sons of Noah, according to their generations, in their nations; and from these the nations were divided on the earth after the flood."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "All these",
+          "word": "אֵ֣לֶּה",
+          "transliteration": "’êl·leh",
+          "strongs_number": "428",
+          "part_of_speech": "Pronoun - common plural",
+          "definition": "These, those",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "are the clans",
+          "word": "מִשְׁפְּחֹ֧ת",
+          "transliteration": "miš·pə·ḥōṯ",
+          "strongs_number": "4940",
+          "part_of_speech": "Noun - feminine plural construct",
+          "definition": "A family, circle of relatives, a class, a species, sort, a tribe, people",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Noah’s",
+          "word": "נֹ֛חַ",
+          "transliteration": "nō·aḥ",
+          "strongs_number": "5146",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Noah -- 'rest', patriarch who survived the flood",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "sons,",
+          "word": "בְּנֵי־",
+          "transliteration": "bə·nê-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine plural construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "according to their generations",
+          "word": "לְתוֹלְדֹתָ֖ם",
+          "transliteration": "lə·ṯō·wl·ḏō·ṯām",
+          "strongs_number": "8435",
+          "part_of_speech": "Preposition-l | Noun - feminine plural construct | third person masculine plural",
+          "definition": "Descent, family, history",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and nations.",
+          "word": "בְּגוֹיֵהֶ֑ם",
+          "transliteration": "bə·ḡō·w·yê·hem",
+          "strongs_number": "1471",
+          "part_of_speech": "Preposition-b | Noun - masculine plural construct | third person masculine plural",
+          "definition": "A foreign nation, a Gentile, a troop of animals, a flight of locusts",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "From these",
+          "word": "וּמֵאֵ֜לֶּה",
+          "transliteration": "ū·mê·’êl·leh",
+          "strongs_number": "428",
+          "part_of_speech": "Conjunctive waw, Preposition-m | Pronoun - common plural",
+          "definition": "These, those",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the nations",
+          "word": "הַגּוֹיִ֛ם",
+          "transliteration": "hag·gō·w·yim",
+          "strongs_number": "1471",
+          "part_of_speech": "Article | Noun - masculine plural",
+          "definition": "A foreign nation, a Gentile, a troop of animals, a flight of locusts",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of the earth",
+          "word": "בָּאָ֖רֶץ",
+          "transliteration": "bā·’ā·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Preposition-b, Article | Noun - feminine singular",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "spread out",
+          "word": "נִפְרְד֧וּ",
+          "transliteration": "nip̄·rə·ḏū",
+          "strongs_number": "6504",
+          "part_of_speech": "Verb - Nifal - Perfect - third person common plural",
+          "definition": "To break through, spread, separate",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "after",
+          "word": "אַחַ֥ר",
+          "transliteration": "’a·ḥar",
+          "strongs_number": "310",
+          "part_of_speech": "Adverb",
+          "definition": "The hind or following part",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the flood.",
+          "word": "הַמַּבּֽוּל׃",
+          "transliteration": "ham·mab·būl",
+          "strongs_number": "3999",
+          "part_of_speech": "Article | Noun - masculine singular",
+          "definition": "Flood -- a deluge",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Acts 17:26",

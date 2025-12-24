@@ -25,7 +25,7 @@
           "text": "Then Isaac called Jacob and blessed him, and charged him, and said to him: “You shall not take a wife from the daughters of Canaan."
         }
       ],
-      "greek_words": [],
+      "original_words": [],
       "cross_references": []
     },
     {
@@ -51,7 +51,125 @@
           "text": "Arise, go to Padan Aram, to the house of Bethuel your mother’s father; and take yourself a wife from there of the daughters of Laban your mother’s brother."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "“Go",
+          "word": "לֵךְ֙",
+          "transliteration": "lêḵ",
+          "strongs_number": "1980",
+          "part_of_speech": "Verb - Qal - Imperative - masculine singular",
+          "definition": "To go, come, walk",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "at once",
+          "word": "ק֥וּם",
+          "transliteration": "qūm",
+          "strongs_number": "6965",
+          "part_of_speech": "Verb - Qal - Imperative - masculine singular",
+          "definition": "To arise, stand up, stand",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to Paddan-aram,",
+          "word": "אֲרָ֔ם",
+          "transliteration": "’ă·rām",
+          "strongs_number": "6307",
+          "part_of_speech": "Noun - proper - feminine singular | third person feminine singular",
+          "definition": "Paddan-aram -- the place where Rachel died",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to the house",
+          "word": "בֵּ֥יתָה",
+          "transliteration": "bê·ṯāh",
+          "strongs_number": "1004",
+          "part_of_speech": "Noun - masculine singular | third person feminine singular",
+          "definition": "A house",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of your mother’s",
+          "word": "אִמֶּ֑ךָ",
+          "transliteration": "’im·me·ḵā",
+          "strongs_number": "517",
+          "part_of_speech": "Noun - feminine singular construct | second person masculine singular",
+          "definition": "A mother, )",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "father",
+          "word": "אֲבִ֣י",
+          "transliteration": "’ă·ḇî",
+          "strongs_number": "1",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "Father",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Bethuel,",
+          "word": "בְתוּאֵ֖ל",
+          "transliteration": "ḇə·ṯū·’êl",
+          "strongs_number": "1328",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Bethuel -- perhaps 'man of God', a nephew of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and take",
+          "word": "וְקַח־",
+          "transliteration": "wə·qaḥ-",
+          "strongs_number": "3947",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Imperative - masculine singular",
+          "definition": "To take",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a wife",
+          "word": "אִשָּׁ֔ה",
+          "transliteration": "’iš·šāh",
+          "strongs_number": "802",
+          "part_of_speech": "Noun - feminine singular",
+          "definition": "Woman, wife, female",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "from among the daughters",
+          "word": "מִבְּנ֥וֹת",
+          "transliteration": "mib·bə·nō·wṯ",
+          "strongs_number": "1323",
+          "part_of_speech": "Preposition-m | Noun - feminine plural construct",
+          "definition": "A daughter",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Laban,",
+          "word": "לָבָ֖ן",
+          "transliteration": "lā·ḇān",
+          "strongs_number": "3837",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Laban -- father-in-law of Jacob",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "your mother’s",
+          "word": "אִמֶּֽךָ׃",
+          "transliteration": "’im·me·ḵā",
+          "strongs_number": "517",
+          "part_of_speech": "Noun - feminine singular construct | second person masculine singular",
+          "definition": "A mother, )",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "brother.",
+          "word": "אֲחִ֥י",
+          "transliteration": "’ă·ḥî",
+          "strongs_number": "251",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A brother, )",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 24:3-4",
@@ -138,7 +256,89 @@
           "text": "“May God Almighty bless you, And make you fruitful and multiply you, That you may be an assembly of peoples;"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "May God",
+          "word": "וְאֵ֤ל",
+          "transliteration": "wə·’êl",
+          "strongs_number": "410",
+          "part_of_speech": "Conjunctive waw | Noun - masculine singular",
+          "definition": "Strength -- as adjective, mighty, the Almighty",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Almighty",
+          "word": "שַׁדַּי֙",
+          "transliteration": "šad·day",
+          "strongs_number": "7706",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "The Almighty",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "bless",
+          "word": "יְבָרֵ֣ךְ",
+          "transliteration": "yə·ḇā·rêḵ",
+          "strongs_number": "1288",
+          "part_of_speech": "Verb - Piel - Imperfect - third person masculine singular",
+          "definition": "To kneel, to bless God, man, to curse",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "you",
+          "word": "אֹֽתְךָ֔",
+          "transliteration": "’ō·ṯə·ḵā",
+          "strongs_number": "853",
+          "part_of_speech": "Direct object marker | second person masculine singular",
+          "definition": "Untranslatable mark of the accusative case",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and make you fruitful",
+          "word": "וְיַפְרְךָ֖",
+          "transliteration": "wə·yap̄·rə·ḵā",
+          "strongs_number": "6509",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Conjunctive imperfect - third person masculine singular | second person masculine singular",
+          "definition": "To bear fruit, be fruitful",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and multiply you,",
+          "word": "וְיַרְבֶּ֑ךָ",
+          "transliteration": "wə·yar·be·ḵā",
+          "strongs_number": "7235",
+          "part_of_speech": "Conjunctive waw | Verb - Hifil - Conjunctive imperfect - third person masculine singular | second person masculine singular",
+          "definition": "To be or become much, many or great",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "so that you may become",
+          "word": "וְהָיִ֖יתָ",
+          "transliteration": "wə·hā·yî·ṯā",
+          "strongs_number": "1961",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Conjunctive perfect - second person masculine singular",
+          "definition": "To fall out, come to pass, become, be",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "a company",
+          "word": "לִקְהַ֥ל",
+          "transliteration": "liq·hal",
+          "strongs_number": "6951",
+          "part_of_speech": "Preposition-l | Noun - masculine singular construct",
+          "definition": "Assembly, convocation, congregation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of peoples.",
+          "word": "עַמִּֽים׃",
+          "transliteration": "‘am·mîm",
+          "strongs_number": "5971",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "A people, a tribe, troops, attendants, a flock",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 17:1-8",
@@ -225,7 +425,116 @@
           "text": "And give you the blessing of Abraham, To you and your descendants with you, That you may inherit the land In which you are a stranger, Which God gave to Abraham.”"
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And may He give",
+          "word": "וְיִֽתֶּן־",
+          "transliteration": "wə·yit·ten-",
+          "strongs_number": "5414",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Conjunctive imperfect - third person masculine singular",
+          "definition": "To give, put, set",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the blessing",
+          "word": "בִּרְכַּ֣ת",
+          "transliteration": "bir·kaṯ",
+          "strongs_number": "1293",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "Benediction, prosperity",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Abraham",
+          "word": "אַבְרָהָ֔ם",
+          "transliteration": "’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to",
+          "word": "לְךָ֖",
+          "transliteration": "lə·ḵā",
+          "strongs_number": "",
+          "part_of_speech": "Preposition | second person masculine singular",
+          "definition": "",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "you and your descendants,",
+          "word": "וּלְזַרְעֲךָ֣",
+          "transliteration": "ū·lə·zar·‘ă·ḵā",
+          "strongs_number": "2233",
+          "part_of_speech": "Conjunctive waw, Preposition-l | Noun - masculine singular construct | second person masculine singular",
+          "definition": "Seed, fruit, plant, sowing-time, posterity",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "so that you may possess",
+          "word": "לְרִשְׁתְּךָ֙",
+          "transliteration": "lə·riš·tə·ḵā",
+          "strongs_number": "3423",
+          "part_of_speech": "Preposition-l | Verb - Qal - Infinitive construct | second person masculine singular",
+          "definition": "To occupy, to seize, to rob, to inherit, to expel, to impoverish, to ruin",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the land",
+          "word": "אֶ֣רֶץ",
+          "transliteration": "’e·reṣ",
+          "strongs_number": "776",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "Earth, land",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "where you dwell as a foreigner,",
+          "word": "מְגֻרֶ֔יךָ",
+          "transliteration": "mə·ḡu·re·ḵā",
+          "strongs_number": "4033",
+          "part_of_speech": "Noun - masculine plural construct | second person masculine singular",
+          "definition": "A sojourning place, dwelling place, a sojourning",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the land",
+          "word": "אֲשֶׁר־",
+          "transliteration": "’ă·šer-",
+          "strongs_number": "834",
+          "part_of_speech": "Pronoun - relative",
+          "definition": "Who, which, what, that, when, where, how, because, in order that",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "God",
+          "word": "אֱלֹהִ֖ים",
+          "transliteration": "’ĕ·lō·hîm",
+          "strongs_number": "430",
+          "part_of_speech": "Noun - masculine plural",
+          "definition": "gods -- the supreme God, magistrates, a superlative",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "gave",
+          "word": "נָתַ֥ן",
+          "transliteration": "nā·ṯan",
+          "strongs_number": "5414",
+          "part_of_speech": "Verb - Qal - Perfect - third person masculine singular",
+          "definition": "To give, put, set",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to Abraham.”",
+          "word": "לְאַבְרָהָֽם׃",
+          "transliteration": "lə·’aḇ·rā·hām",
+          "strongs_number": "85",
+          "part_of_speech": "Preposition-l | Noun - proper - masculine singular",
+          "definition": "Abraham -- 'exalted father', the father of the Jewish nation",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 12:2-3",
@@ -312,7 +621,134 @@
           "text": "So Isaac sent Jacob away, and he went to Padan Aram, to Laban the son of Bethuel the Syrian, the brother of Rebekah, the mother of Jacob and Esau."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "So Isaac",
+          "word": "יִצְחָק֙",
+          "transliteration": "yiṣ·ḥāq",
+          "strongs_number": "3327",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Isaac -- 'he laughs', son of Abraham and Sarah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "sent",
+          "word": "וַיִּשְׁלַ֤ח",
+          "transliteration": "way·yiš·laḥ",
+          "strongs_number": "7971",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To send away, for, out",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Jacob",
+          "word": "יַעֲקֹ֔ב",
+          "transliteration": "ya·‘ă·qōḇ",
+          "strongs_number": "3290",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Jacob -- a son of Isaac, also his desc",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to Paddan-aram,",
+          "word": "אֲרָ֑ם",
+          "transliteration": "’ă·rām",
+          "strongs_number": "6307",
+          "part_of_speech": "Noun - proper - feminine singular | third person feminine singular",
+          "definition": "Paddan-aram -- the place where Rachel died",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to",
+          "word": "אֶל־",
+          "transliteration": "’el-",
+          "strongs_number": "413",
+          "part_of_speech": "Preposition",
+          "definition": "Near, with, among, to",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Laban",
+          "word": "לָבָ֤ן",
+          "transliteration": "lā·ḇān",
+          "strongs_number": "3837",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Laban -- father-in-law of Jacob",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "son",
+          "word": "בֶּן־",
+          "transliteration": "ben-",
+          "strongs_number": "1121",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A son",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Bethuel",
+          "word": "בְּתוּאֵל֙",
+          "transliteration": "bə·ṯū·’êl",
+          "strongs_number": "1328",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Bethuel -- perhaps 'man of God', a nephew of Abraham",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Aramean,",
+          "word": "הָֽאֲרַמִּ֔י",
+          "transliteration": "hā·’ă·ram·mî",
+          "strongs_number": "761",
+          "part_of_speech": "Article | Noun - proper - masculine singular",
+          "definition": "Aramean -- an inhabitant of Aram (Syria)",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the brother",
+          "word": "אֲחִ֣י",
+          "transliteration": "’ă·ḥî",
+          "strongs_number": "251",
+          "part_of_speech": "Noun - masculine singular construct",
+          "definition": "A brother, )",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Rebekah,",
+          "word": "רִבְקָ֔ה",
+          "transliteration": "riḇ·qāh",
+          "strongs_number": "7259",
+          "part_of_speech": "Noun - proper - feminine singular",
+          "definition": "Rebekah -- wife of Isaac",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the mother",
+          "word": "אֵ֥ם",
+          "transliteration": "’êm",
+          "strongs_number": "517",
+          "part_of_speech": "Noun - feminine singular construct",
+          "definition": "A mother, )",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "of Jacob",
+          "word": "יַעֲקֹ֖ב",
+          "transliteration": "ya·‘ă·qōḇ",
+          "strongs_number": "3290",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Jacob -- a son of Isaac, also his desc",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and Esau.",
+          "word": "וְעֵשָֽׂו׃",
+          "transliteration": "wə·‘ê·śāw",
+          "strongs_number": "6215",
+          "part_of_speech": "Conjunctive waw | Noun - proper - masculine singular",
+          "definition": "Esau -- oldest son of Isaac",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 27:43-46",
@@ -399,7 +835,7 @@
           "text": "Esau saw that Isaac had blessed Jacob and sent him away to Padan Aram to take himself a wife from there, and that as he blessed him he gave him a charge, saying, “You shall not take a wife from the daughters of Canaan,”"
         }
       ],
-      "greek_words": [],
+      "original_words": [],
       "cross_references": []
     },
     {
@@ -425,7 +861,62 @@
           "text": "and that Jacob had obeyed his father and his mother and had gone to Padan Aram."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "and that Jacob",
+          "word": "יַעֲקֹ֔ב",
+          "transliteration": "ya·‘ă·qōḇ",
+          "strongs_number": "3290",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Jacob -- a son of Isaac, also his desc",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "had obeyed",
+          "word": "וַיִּשְׁמַ֣ע",
+          "transliteration": "way·yiš·ma‘",
+          "strongs_number": "8085",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To hear intelligently",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "his father",
+          "word": "אָבִ֖יו",
+          "transliteration": "’ā·ḇîw",
+          "strongs_number": "1",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine singular",
+          "definition": "Father",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and mother",
+          "word": "אִמּ֑וֹ",
+          "transliteration": "’im·mōw",
+          "strongs_number": "517",
+          "part_of_speech": "Noun - feminine singular construct | third person masculine singular",
+          "definition": "A mother, )",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "and gone",
+          "word": "וַיֵּ֖לֶךְ",
+          "transliteration": "way·yê·leḵ",
+          "strongs_number": "1980",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To go, come, walk",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "to Paddan-aram.",
+          "word": "אֲרָֽם׃",
+          "transliteration": "’ă·rām",
+          "strongs_number": "6307",
+          "part_of_speech": "Noun - proper - feminine singular | third person feminine singular",
+          "definition": "Paddan-aram -- the place where Rachel died",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 27:43-45",
@@ -512,7 +1003,80 @@
           "text": "Also Esau saw that the daughters of Canaan did not please his father Isaac."
         }
       ],
-      "greek_words": [],
+      "original_words": [
+        {
+          "english_word": "And",
+          "word": "עֵשָׂ֔ו",
+          "transliteration": "‘ê·śāw",
+          "strongs_number": "6215",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Esau -- oldest son of Isaac",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "seeing",
+          "word": "וַיַּ֣רְא",
+          "transliteration": "way·yar",
+          "strongs_number": "7200",
+          "part_of_speech": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
+          "definition": "To see",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "that",
+          "word": "כִּ֥י",
+          "transliteration": "kî",
+          "strongs_number": "3588",
+          "part_of_speech": "Conjunction",
+          "definition": "A relative conjunction",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "his father",
+          "word": "אָבִֽיו׃",
+          "transliteration": "’ā·ḇîw",
+          "strongs_number": "1",
+          "part_of_speech": "Noun - masculine singular construct | third person masculine singular",
+          "definition": "Father",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "Isaac",
+          "word": "יִצְחָ֥ק",
+          "transliteration": "yiṣ·ḥāq",
+          "strongs_number": "3327",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Isaac -- 'he laughs', son of Abraham and Sarah",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "disapproved of",
+          "word": "רָע֖וֹת",
+          "transliteration": "rā·‘ō·wṯ",
+          "strongs_number": "7451",
+          "part_of_speech": "Adjective - feminine plural",
+          "definition": "Bad, evil",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "the Canaanite",
+          "word": "כְּנָ֑עַן",
+          "transliteration": "kə·nā·‘an",
+          "strongs_number": "3667",
+          "part_of_speech": "Noun - proper - masculine singular",
+          "definition": "Canaan -- a son of Ham, also his descendants and their land West of the Jordan",
+          "language": "hebrew"
+        },
+        {
+          "english_word": "women,",
+          "word": "בְּנ֣וֹת",
+          "transliteration": "bə·nō·wṯ",
+          "strongs_number": "1323",
+          "part_of_speech": "Noun - feminine plural construct",
+          "definition": "A daughter",
+          "language": "hebrew"
+        }
+      ],
       "cross_references": [
         {
           "reference": "Genesis 26:34-35",
@@ -573,1226 +1137,3 @@
         {
           "reference": "Nehemiah 13:25-27",
           "text": "I rebuked them and called down curses on them. I beat some of these men and pulled out their hair. Then I made them take an oath before God and said, “You must not give your daughters in marriage to their sons or take their daughters as wives for your sons or for yourselves! / Did not King Solomon of Israel sin in matters like this? There was not a king like him among many nations, and he was loved by his God, who made him king over all Israel—yet foreign women drew him into sin. / Must we now hear that you too are doing all this terrible evil and acting unfaithfully against our God by marrying foreign women?”"
-        }
-      ]
-    },
-    {
-      "reference": "Genesis 28:9",
-      "book": "Genesis",
-      "chapter": 28,
-      "verse": 9,
-      "translations": [
-        {
-          "version": "NIV",
-          "text": "so he went to Ishmael and married Mahalath, the sister of Nebaioth and daughter of Ishmael son of Abraham, in addition to the wives he already had."
-        },
-        {
-          "version": "NLT",
-          "text": "So Esau visited his uncle Ishmael’s family and married one of Ishmael’s daughters, in addition to the wives he already had. His new wife’s name was Mahalath. She was the sister of Nebaioth and the daughter of Ishmael, Abraham’s son."
-        },
-        {
-          "version": "ESV",
-          "text": "Esau went to Ishmael and took as his wife, besides the wives he had, Mahalath the daughter of Ishmael, Abraham’s son, the sister of Nebaioth."
-        },
-        {
-          "version": "NKJV",
-          "text": "So Esau went to Ishmael and took Mahalath the daughter of Ishmael, Abraham’s son, the sister of Nebajoth, to be his wife in addition to the wives he had."
-        }
-      ],
-      "greek_words": [],
-      "cross_references": [
-        {
-          "reference": "Genesis 26:34-35",
-          "text": "When Esau was forty years old, he took as his wives Judith daughter of Beeri the Hittite and Basemath daughter of Elon the Hittite. / And they brought grief to Isaac and Rebekah."
-        },
-        {
-          "reference": "Genesis 36:2-3",
-          "text": "Esau took his wives from the daughters of Canaan: Adah daughter of Elon the Hittite, Oholibamah daughter of Anah and granddaughter of Zibeon the Hivite, / and Basemath daughter of Ishmael and sister of Nebaioth."
-        },
-        {
-          "reference": "Genesis 24:3",
-          "text": "and I will have you swear by the LORD, the God of heaven and the God of earth, that you will not take a wife for my son from the daughters of the Canaanites among whom I am dwelling,"
-        },
-        {
-          "reference": "Genesis 27:46",
-          "text": "Then Rebekah said to Isaac, “I am weary of my life because of these Hittite women. If Jacob takes a Hittite wife from among them, what good is my life?”"
-        },
-        {
-          "reference": "Genesis 25:13-16",
-          "text": "These are the names of the sons of Ishmael in the order of their birth: Nebaioth the firstborn of Ishmael, then Kedar, Adbeel, Mibsam, / Mishma, Dumah, Massa, / Hadad, Tema, Jetur, Naphish, and Kedemah. ..."
-        },
-        {
-          "reference": "Genesis 21:21",
-          "text": "And while he was dwelling in the Wilderness of Paran, his mother got a wife for him from the land of Egypt."
-        },
-        {
-          "reference": "Genesis 24:37-38",
-          "text": "My master made me swear an oath and said, ‘You shall not take a wife for my son from the daughters of the Canaanites in whose land I dwell, / but you shall go to my father’s house and to my kindred to take a wife for my son.’"
-        },
-        {
-          "reference": "Genesis 12:1-3",
-          "text": "Then the LORD said to Abram, “Leave your country, your kindred, and your father’s household, and go to the land I will show you. / I will make you into a great nation, and I will bless you; I will make your name great, so that you will be a blessing. / I will bless those who bless you and curse those who curse you; and all the families of the earth will be blessed through you.”"
-        },
-        {
-          "reference": "Genesis 17:19",
-          "text": "But God replied, “Your wife Sarah will indeed bear you a son, and you are to name him Isaac. I will establish My covenant with him as an everlasting covenant for his descendants after him."
-        },
-        {
-          "reference": "Genesis 15:18-21",
-          "text": "On that day the LORD made a covenant with Abram, saying, “To your descendants I have given this land—from the river of Egypt to the great River Euphrates— / the land of the Kenites, Kenizzites, Kadmonites, / Hittites, Perizzites, Rephaites, ..."
-        },
-        {
-          "reference": "Genesis 16:1-3",
-          "text": "Now Abram’s wife Sarai had borne him no children, but she had an Egyptian maidservant named Hagar. / So Sarai said to Abram, “Look now, the LORD has prevented me from bearing children. Please go to my maidservant; perhaps I can build a family by her.” And Abram listened to the voice of Sarai. / So after he had lived in Canaan for ten years, his wife Sarai took her Egyptian maidservant Hagar and gave her to Abram to be his wife."
-        },
-        {
-          "reference": "Genesis 29:1-3",
-          "text": "Jacob resumed his journey and came to the land of the people of the east. / He looked and saw a well in the field, and near it lay three flocks of sheep, because the sheep were watered from this well. And a large stone covered the mouth of the well. / When all the flocks had been gathered there, the shepherds would roll away the stone from the mouth of the well and water the sheep. Then they would return the stone to its place over the mouth of the well."
-        },
-        {
-          "reference": "Genesis 30:1-3",
-          "text": "When Rachel saw that she was not bearing any children for Jacob, she envied her sister. “Give me children, or I will die!” she said to Jacob. / Jacob became angry with Rachel and said, “Am I in the place of God, who has withheld children from you?” / Then she said, “Here is my maidservant Bilhah. Sleep with her, that she may bear children for me, so that through her I too can build a family.”"
-        },
-        {
-          "reference": "Genesis 31:1-3",
-          "text": "Now Jacob heard that Laban’s sons were saying, “Jacob has taken away all that belonged to our father and built all this wealth at our father’s expense.” / And Jacob saw from the countenance of Laban that his attitude toward him had changed. / Then the LORD said to Jacob, “Go back to the land of your fathers and to your kindred, and I will be with you.”"
-        },
-        {
-          "reference": "Genesis 32:1-3",
-          "text": "Jacob also went on his way, and the angels of God met him. / When Jacob saw them, he said, “This is the camp of God.” So he named that place Mahanaim. / Jacob sent messengers ahead of him to his brother Esau in the land of Seir, the country of Edom."
-        }
-      ]
-    },
-    {
-      "reference": "Genesis 28:10",
-      "book": "Genesis",
-      "chapter": 28,
-      "verse": 10,
-      "translations": [
-        {
-          "version": "NIV",
-          "text": "Jacob left Beersheba and set out for Harran."
-        },
-        {
-          "version": "NLT",
-          "text": "Meanwhile, Jacob left Beersheba and traveled toward Haran."
-        },
-        {
-          "version": "ESV",
-          "text": "Jacob left Beersheba and went toward Haran."
-        },
-        {
-          "version": "NKJV",
-          "text": "Now Jacob went out from Beersheba and went toward Haran."
-        }
-      ],
-      "greek_words": [],
-      "cross_references": [
-        {
-          "reference": "Genesis 12:1",
-          "text": "Then the LORD said to Abram, “Leave your country, your kindred, and your father’s household, and go to the land I will show you."
-        },
-        {
-          "reference": "Genesis 26:2-5",
-          "text": "The LORD appeared to Isaac and said, “Do not go down to Egypt. Settle in the land where I tell you. / Stay in this land as a foreigner, and I will be with you and bless you. For I will give all these lands to you and your offspring, and I will confirm the oath that I swore to your father Abraham. / I will make your descendants as numerous as the stars in the sky, and I will give them all these lands, and through your offspring all nations of the earth will be blessed, ..."
-        },
-        {
-          "reference": "Genesis 35:1",
-          "text": "Then God said to Jacob, “Arise, go up to Bethel, and settle there. Build an altar there to the God who appeared to you when you fled from your brother Esau.”"
-        },
-        {
-          "reference": "Genesis 46:1-4",
-          "text": "So Israel set out with all that he had, and when he came to Beersheba, he offered sacrifices to the God of his father Isaac. / And that night God spoke to Israel in a vision: “Jacob, Jacob!” He said. “Here I am,” replied Jacob. / “I am God,” He said, “the God of your father. Do not be afraid to go down to Egypt, for I will make you into a great nation there. ..."
-        },
-        {
-          "reference": "Genesis 31:3",
-          "text": "Then the LORD said to Jacob, “Go back to the land of your fathers and to your kindred, and I will be with you.”"
-        },
-        {
-          "reference": "Genesis 32:9-12",
-          "text": "Then Jacob declared, “O God of my father Abraham, God of my father Isaac, the LORD who told me, ‘Go back to your country and to your kindred, and I will make you prosper,’ / I am unworthy of all the kindness and faithfulness You have shown Your servant. Indeed, with only my staff I came across the Jordan, but now I have become two camps. / Please deliver me from the hand of my brother Esau, for I am afraid that he may come and attack me and the mothers and children with me. ..."
-        },
-        {
-          "reference": "Genesis 48:3-4",
-          "text": "Jacob said to Joseph, “God Almighty appeared to me at Luz in the land of Canaan, and there He blessed me / and told me, ‘Behold, I will make you fruitful and multiply you; I will make you a multitude of peoples, and will give this land to your descendants after you as an everlasting possession.’"
-        },
-        {
-          "reference": "Exodus 3:6",
-          "text": "Then He said, “I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.” At this, Moses hid his face, for he was afraid to look at God."
-        },
-        {
-          "reference": "Hosea 12:4-5",
-          "text": "Yes, he struggled with the angel and prevailed; he wept and sought His favor; he found Him at Bethel and spoke with Him there— / the LORD God of Hosts, the LORD is His name of renown."
-        },
-        {
-          "reference": "John 1:51",
-          "text": "Then He declared, “Truly, truly, I tell you, you will all see heaven open and the angels of God ascending and descending on the Son of Man.”"
-        },
-        {
-          "reference": "Acts 7:2-4",
-          "text": "And Stephen declared: “Brothers and fathers, listen to me! The God of glory appeared to our father Abraham while he was still in Mesopotamia, before he lived in Haran, / and told him, ‘Leave your country and your kindred and go to the land I will show you.’ / So Abraham left the land of the Chaldeans and settled in Haran. After his father died, God brought him out of that place and into this land where you are now living."
-        },
-        {
-          "reference": "Hebrews 11:8-9",
-          "text": "By faith Abraham, when called to go to a place he would later receive as his inheritance, obeyed and went, without knowing where he was going. / By faith he dwelt in the promised land as a stranger in a foreign country. He lived in tents, as did Isaac and Jacob, who were heirs with him of the same promise."
-        },
-        {
-          "reference": "Hebrews 11:13-16",
-          "text": "All these people died in faith, without having received the things they were promised. However, they saw them and welcomed them from afar. And they acknowledged that they were strangers and exiles on the earth. / Now those who say such things show that they are seeking a country of their own. / If they had been thinking of the country they had left, they would have had opportunity to return. ..."
-        },
-        {
-          "reference": "Romans 9:10-13",
-          "text": "Not only that, but Rebecca’s children were conceived by one man, our father Isaac. / Yet before the twins were born or had done anything good or bad, in order that God’s plan of election might stand, / not by works but by Him who calls, she was told, “The older will serve the younger.” ..."
-        },
-        {
-          "reference": "Matthew 22:31-32",
-          "text": "But concerning the resurrection of the dead, have you not read what God said to you: / ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’? He is not the God of the dead, but of the living.”"
-        }
-      ]
-    },
-    {
-      "reference": "Genesis 28:11",
-      "book": "Genesis",
-      "chapter": 28,
-      "verse": 11,
-      "translations": [
-        {
-          "version": "NIV",
-          "text": "When he reached a certain place, he stopped for the night because the sun had set. Taking one of the stones there, he put it under his head and lay down to sleep."
-        },
-        {
-          "version": "NLT",
-          "text": "At sundown he arrived at a good place to set up camp and stopped there for the night. Jacob found a stone to rest his head against and lay down to sleep."
-        },
-        {
-          "version": "ESV",
-          "text": "And he came to a certain place and stayed there that night, because the sun had set. Taking one of the stones of the place, he put it under his head and lay down in that place to sleep."
-        },
-        {
-          "version": "NKJV",
-          "text": "So he came to a certain place and stayed there all night, because the sun had set. And he took one of the stones of that place and put it at his head, and he lay down in that place to sleep."
-        }
-      ],
-      "greek_words": [],
-      "cross_references": [
-        {
-          "reference": "Genesis 35:6-7",
-          "text": "So Jacob and everyone with him arrived in Luz (that is, Bethel) in the land of Canaan. / There Jacob built an altar, and he called that place El-bethel, because it was there that God had revealed Himself to Jacob as he fled from his brother."
-        },
-        {
-          "reference": "Genesis 31:13",
-          "text": "I am the God of Bethel, where you anointed the pillar and made a solemn vow to Me. Now get up, leave this land at once, and return to your native land.’”"
-        },
-        {
-          "reference": "Genesis 32:1-2",
-          "text": "Jacob also went on his way, and the angels of God met him. / When Jacob saw them, he said, “This is the camp of God.” So he named that place Mahanaim."
-        },
-        {
-          "reference": "Genesis 12:7-8",
-          "text": "Then the LORD appeared to Abram and said, “I will give this land to your offspring.” So Abram built an altar there to the LORD, who had appeared to him. / From there Abram moved on to the hill country east of Bethel and pitched his tent, with Bethel to the west and Ai to the east. There he built an altar to the LORD, and he called on the name of the LORD."
-        },
-        {
-          "reference": "Genesis 46:1-2",
-          "text": "So Israel set out with all that he had, and when he came to Beersheba, he offered sacrifices to the God of his father Isaac. / And that night God spoke to Israel in a vision: “Jacob, Jacob!” He said. “Here I am,” replied Jacob."
-        },
-        {
-          "reference": "Exodus 3:1-5",
-          "text": "Meanwhile, Moses was shepherding the flock of his father-in-law Jethro, the priest of Midian. He led the flock to the far side of the wilderness and came to Horeb, the mountain of God. / There the angel of the LORD appeared to him in a blazing fire from within a bush. Moses saw the bush ablaze with fire, but it was not consumed. / So Moses thought, “I must go over and see this marvelous sight. Why is the bush not burning up?” ..."
-        },
-        {
-          "reference": "1 Kings 19:5-8",
-          "text": "Then he lay down under the broom tree and fell asleep. Suddenly an angel touched him and said, “Get up and eat.” / And he looked around, and there by his head was a cake of bread baked over hot coals, and a jar of water. So he ate and drank and lay down again. / A second time the angel of the LORD returned and touched him, saying, “Get up and eat, or the journey will be too much for you.” ..."
-        },
-        {
-          "reference": "Hosea 12:4-5",
-          "text": "Yes, he struggled with the angel and prevailed; he wept and sought His favor; he found Him at Bethel and spoke with Him there— / the LORD God of Hosts, the LORD is His name of renown."
-        },
-        {
-          "reference": "John 1:51",
-          "text": "Then He declared, “Truly, truly, I tell you, you will all see heaven open and the angels of God ascending and descending on the Son of Man.”"
-        },
-        {
-          "reference": "Matthew 3:16-17",
-          "text": "As soon as Jesus was baptized, He went up out of the water. Suddenly the heavens were opened, and He saw the Spirit of God descending like a dove and resting on Him. / And a voice from heaven said, “This is My beloved Son, in whom I am well pleased!”"
-        },
-        {
-          "reference": "Acts 7:30-32",
-          "text": "After forty years had passed, an angel appeared to Moses in the flames of a burning bush in the desert near Mount Sinai. / When Moses saw it, he marveled at the sight. As he approached to look more closely, the voice of the Lord came to him: / ‘I am the God of your fathers, the God of Abraham, Isaac, and Jacob.’ Moses trembled with fear and did not dare to look."
-        },
-        {
-          "reference": "Hebrews 1:14",
-          "text": "Are not the angels ministering spirits sent to serve those who will inherit salvation?"
-        },
-        {
-          "reference": "Revelation 1:17",
-          "text": "When I saw Him, I fell at His feet like a dead man. But He placed His right hand on me and said, “Do not be afraid. I am the First and the Last,"
-        },
-        {
-          "reference": "Psalm 139:7-10",
-          "text": "Where can I go to escape Your Spirit? Where can I flee from Your presence? / If I ascend to the heavens, You are there; if I make my bed in Sheol, You are there. / If I rise on the wings of the dawn, if I settle by the farthest sea, ..."
-        },
-        {
-          "reference": "Psalm 91:11-12",
-          "text": "For He will command His angels concerning you to guard you in all your ways. / They will lift you up in their hands, so that you will not strike your foot against a stone."
-        }
-      ]
-    },
-    {
-      "reference": "Genesis 28:12",
-      "book": "Genesis",
-      "chapter": 28,
-      "verse": 12,
-      "translations": [
-        {
-          "version": "NIV",
-          "text": "He had a dream in which he saw a stairway resting on the earth, with its top reaching to heaven, and the angels of God were ascending and descending on it."
-        },
-        {
-          "version": "NLT",
-          "text": "As he slept, he dreamed of a stairway that reached from the earth up to heaven. And he saw the angels of God going up and down the stairway."
-        },
-        {
-          "version": "ESV",
-          "text": "And he dreamed, and behold, there was a ladder set up on the earth, and the top of it reached to heaven. And behold, the angels of God were ascending and descending on it!"
-        },
-        {
-          "version": "NKJV",
-          "text": "Then he dreamed, and behold, a ladder was set up on the earth, and its top reached to heaven; and there the angels of God were ascending and descending on it."
-        }
-      ],
-      "greek_words": [],
-      "cross_references": [
-        {
-          "reference": "John 1:51",
-          "text": "Then He declared, “Truly, truly, I tell you, you will all see heaven open and the angels of God ascending and descending on the Son of Man.”"
-        },
-        {
-          "reference": "Genesis 32:1-2",
-          "text": "Jacob also went on his way, and the angels of God met him. / When Jacob saw them, he said, “This is the camp of God.” So he named that place Mahanaim."
-        },
-        {
-          "reference": "Genesis 35:1",
-          "text": "Then God said to Jacob, “Arise, go up to Bethel, and settle there. Build an altar there to the God who appeared to you when you fled from your brother Esau.”"
-        },
-        {
-          "reference": "Genesis 46:2",
-          "text": "And that night God spoke to Israel in a vision: “Jacob, Jacob!” He said. “Here I am,” replied Jacob."
-        },
-        {
-          "reference": "John 1:47-50",
-          "text": "When Jesus saw Nathanael approaching, He said of him, “Here is a true Israelite, in whom there is no deceit.” / “How do You know me?” Nathanael asked. Jesus replied, “Before Philip called you, I saw you under the fig tree.” / “Rabbi,” Nathanael answered, “You are the Son of God! You are the King of Israel!” ..."
-        },
-        {
-          "reference": "Hosea 12:4",
-          "text": "Yes, he struggled with the angel and prevailed; he wept and sought His favor; he found Him at Bethel and spoke with Him there—"
-        },
-        {
-          "reference": "Matthew 3:16-17",
-          "text": "As soon as Jesus was baptized, He went up out of the water. Suddenly the heavens were opened, and He saw the Spirit of God descending like a dove and resting on Him. / And a voice from heaven said, “This is My beloved Son, in whom I am well pleased!”"
-        },
-        {
-          "reference": "Acts 7:55-56",
-          "text": "But Stephen, full of the Holy Spirit, looked intently into heaven and saw the glory of God and Jesus standing at the right hand of God. / “Look,” he said, “I see heaven open and the Son of Man standing at the right hand of God.”"
-        },
-        {
-          "reference": "Revelation 4:1",
-          "text": "After this I looked and saw a door standing open in heaven. And the voice I had previously heard speak to me like a trumpet was saying, “Come up here, and I will show you what must happen after these things.”"
-        },
-        {
-          "reference": "Revelation 19:11",
-          "text": "Then I saw heaven standing open, and there before me was a white horse. And its rider is called Faithful and True. With righteousness He judges and wages war."
-        },
-        {
-          "reference": "Daniel 7:13",
-          "text": "In my vision in the night I continued to watch, and I saw One like the Son of Man coming with the clouds of heaven. He approached the Ancient of Days and was led into His presence."
-        },
-        {
-          "reference": "Ezekiel 1:1",
-          "text": "In the thirtieth year, on the fifth day of the fourth month, while I was among the exiles by the River Kebar, the heavens opened and I saw visions of God."
-        },
-        {
-          "reference": "1 Kings 22:19",
-          "text": "Micaiah continued, “Therefore hear the word of the LORD: I saw the LORD sitting on His throne, and all the host of heaven standing by Him on His right and on His left."
-        },
-        {
-          "reference": "Isaiah 6:1",
-          "text": "In the year that King Uzziah died, I saw the Lord seated on a throne, high and exalted; and the train of His robe filled the temple."
-        },
-        {
-          "reference": "Zechariah 1:8",
-          "text": "I looked out into the night and saw a man riding on a red horse. He was standing among the myrtle trees in the hollow, and behind him were red, sorrel, and white horses."
-        }
-      ]
-    },
-    {
-      "reference": "Genesis 28:13",
-      "book": "Genesis",
-      "chapter": 28,
-      "verse": 13,
-      "translations": [
-        {
-          "version": "NIV",
-          "text": "There above it stood the LORD, and he said: “I am the LORD, the God of your father Abraham and the God of Isaac. I will give you and your descendants the land on which you are lying."
-        },
-        {
-          "version": "NLT",
-          "text": "At the top of the stairway stood the LORD, and he said, “I am the LORD, the God of your grandfather Abraham, and the God of your father, Isaac. The ground you are lying on belongs to you. I am giving it to you and your descendants."
-        },
-        {
-          "version": "ESV",
-          "text": "And behold, the LORD stood above it and said, “I am the LORD, the God of Abraham your father and the God of Isaac. The land on which you lie I will give to you and to your offspring."
-        },
-        {
-          "version": "NKJV",
-          "text": "And behold, the LORD stood above it and said: “I am the LORD God of Abraham your father and the God of Isaac; the land on which you lie I will give to you and your descendants."
-        }
-      ],
-      "greek_words": [],
-      "cross_references": [
-        {
-          "reference": "Genesis 12:7",
-          "text": "Then the LORD appeared to Abram and said, “I will give this land to your offspring.” So Abram built an altar there to the LORD, who had appeared to him."
-        },
-        {
-          "reference": "Genesis 26:24",
-          "text": "and that night the LORD appeared to him and said, “I am the God of your father Abraham. Do not be afraid, for I am with you. I will bless you and multiply your descendants for the sake of My servant Abraham.”"
-        },
-        {
-          "reference": "Genesis 35:12",
-          "text": "The land that I gave to Abraham and Isaac I will give to you, and I will give this land to your descendants after you.”"
-        },
-        {
-          "reference": "Exodus 3:6",
-          "text": "Then He said, “I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.” At this, Moses hid his face, for he was afraid to look at God."
-        },
-        {
-          "reference": "Genesis 13:15",
-          "text": "for all the land that you see, I will give to you and your offspring forever."
-        },
-        {
-          "reference": "Genesis 15:18",
-          "text": "On that day the LORD made a covenant with Abram, saying, “To your descendants I have given this land—from the river of Egypt to the great River Euphrates—"
-        },
-        {
-          "reference": "Genesis 17:8",
-          "text": "And to you and your descendants I will give the land where you are residing—all the land of Canaan—as an eternal possession; and I will be their God.”"
-        },
-        {
-          "reference": "Genesis 22:16-18",
-          "text": "saying, “By Myself I have sworn, declares the LORD, that because you have done this and have not withheld your only son, / I will surely bless you, and I will multiply your descendants like the stars in the sky and the sand on the seashore. Your descendants will possess the gates of their enemies. / And through your offspring all nations of the earth will be blessed, because you have obeyed My voice.”"
-        },
-        {
-          "reference": "Genesis 24:7",
-          "text": "The LORD, the God of heaven, who brought me from my father’s house and my native land, who spoke to me and promised me on oath, saying, ‘To your offspring I will give this land’—He will send His angel before you so that you can take a wife for my son from there."
-        },
-        {
-          "reference": "Genesis 50:24",
-          "text": "Then Joseph said to his brothers, “I am about to die, but God will surely visit you and bring you up from this land to the land He promised on oath to Abraham, Isaac, and Jacob.”"
-        },
-        {
-          "reference": "Exodus 6:8",
-          "text": "And I will bring you into the land that I swore to give to Abraham, Isaac, and Jacob. I will give it to you as a possession. I am the LORD!’”"
-        },
-        {
-          "reference": "Leviticus 26:42",
-          "text": "then I will remember My covenant with Jacob and My covenant with Isaac and My covenant with Abraham, and I will remember the land."
-        },
-        {
-          "reference": "Deuteronomy 34:4",
-          "text": "And the LORD said to him, “This is the land that I swore to give Abraham, Isaac, and Jacob when I said, ‘I will give it to your descendants.’ I have let you see it with your own eyes, but you will not cross into it.”"
-        },
-        {
-          "reference": "Acts 7:5",
-          "text": "He gave him no inheritance here, not even a foot of ground. But God promised to give possession of the land to Abraham and his descendants, even though he did not yet have a child."
-        },
-        {
-          "reference": "Acts 7:32",
-          "text": "‘I am the God of your fathers, the God of Abraham, Isaac, and Jacob.’ Moses trembled with fear and did not dare to look."
-        }
-      ]
-    },
-    {
-      "reference": "Genesis 28:14",
-      "book": "Genesis",
-      "chapter": 28,
-      "verse": 14,
-      "translations": [
-        {
-          "version": "NIV",
-          "text": "Your descendants will be like the dust of the earth, and you will spread out to the west and to the east, to the north and to the south. All peoples on earth will be blessed through you and your offspring."
-        },
-        {
-          "version": "NLT",
-          "text": "Your descendants will be as numerous as the dust of the earth! They will spread out in all directions—to the west and the east, to the north and the south. And all the families of the earth will be blessed through you and your descendants."
-        },
-        {
-          "version": "ESV",
-          "text": "Your offspring shall be like the dust of the earth, and you shall spread abroad to the west and to the east and to the north and to the south, and in you and your offspring shall all the families of the earth be blessed."
-        },
-        {
-          "version": "NKJV",
-          "text": "Also your descendants shall be as the dust of the earth; you shall spread abroad to the west and the east, to the north and the south; and in you and in your seed all the families of the earth shall be blessed."
-        }
-      ],
-      "greek_words": [],
-      "cross_references": [
-        {
-          "reference": "Genesis 12:3",
-          "text": "I will bless those who bless you and curse those who curse you; and all the families of the earth will be blessed through you.”"
-        },
-        {
-          "reference": "Genesis 22:17-18",
-          "text": "I will surely bless you, and I will multiply your descendants like the stars in the sky and the sand on the seashore. Your descendants will possess the gates of their enemies. / And through your offspring all nations of the earth will be blessed, because you have obeyed My voice.”"
-        },
-        {
-          "reference": "Genesis 26:4",
-          "text": "I will make your descendants as numerous as the stars in the sky, and I will give them all these lands, and through your offspring all nations of the earth will be blessed,"
-        },
-        {
-          "reference": "Genesis 35:11-12",
-          "text": "And God told him, “I am God Almighty. Be fruitful and multiply. A nation—even a company of nations—shall come from you, and kings shall descend from you. / The land that I gave to Abraham and Isaac I will give to you, and I will give this land to your descendants after you.”"
-        },
-        {
-          "reference": "Genesis 49:10",
-          "text": "The scepter will not depart from Judah, nor the staff from between his feet, until Shiloh comes and the allegiance of the nations is his."
-        },
-        {
-          "reference": "Exodus 32:13",
-          "text": "Remember Your servants Abraham, Isaac, and Israel, to whom You swore by Your very self when You declared, ‘I will make your descendants as numerous as the stars in the sky, and I will give your descendants all this land that I have promised, and it shall be their inheritance forever.’”"
-        },
-        {
-          "reference": "Deuteronomy 1:10",
-          "text": "The LORD your God has multiplied you, so that today you are as numerous as the stars in the sky."
-        },
-        {
-          "reference": "Deuteronomy 28:64",
-          "text": "Then the LORD will scatter you among all the nations, from one end of the earth to the other, and there you will worship other gods, gods of wood and stone, which neither you nor your fathers have known."
-        },
-        {
-          "reference": "1 Kings 4:20",
-          "text": "The people of Judah and Israel were as numerous as the sand on the seashore, and they were eating and drinking and rejoicing."
-        },
-        {
-          "reference": "Psalm 72:17",
-          "text": "May his name endure forever; may his name continue as long as the sun shines. In him may all nations be blessed; may they call him blessed."
-        },
-        {
-          "reference": "Isaiah 2:2-3",
-          "text": "In the last days the mountain of the house of the LORD will be established as the chief of the mountains; it will be raised above the hills, and all nations will stream to it. / And many peoples will come and say: “Come, let us go up to the mountain of the LORD, to the house of the God of Jacob. He will teach us His ways so that we may walk in His paths.” For the law will go forth from Zion, and the word of the LORD from Jerusalem."
-        },
-        {
-          "reference": "Isaiah 49:6",
-          "text": "He says: “It is not enough for You to be My Servant, to raise up the tribes of Jacob, and to restore the protected ones of Israel. I will also make You a light for the nations, to bring My salvation to the ends of the earth.”"
-        },
-        {
-          "reference": "Jeremiah 33:22",
-          "text": "As the hosts of heaven cannot be counted and as the sand on the seashore cannot be measured, so too will I multiply the descendants of My servant David and the Levites who minister before Me.”"
-        },
-        {
-          "reference": "Hosea 1:10",
-          "text": "Yet the number of the Israelites will be like the sand of the sea, which cannot be measured or counted. And it will happen that in the very place where it was said to them, ‘You are not My people,’ they will be called ‘sons of the living God.’"
-        },
-        {
-          "reference": "Zechariah 8:13",
-          "text": "As you have been a curse among the nations, O house of Judah and house of Israel, so I will save you, and you will be a blessing. Do not be afraid; let your hands be strong.”"
-        }
-      ]
-    },
-    {
-      "reference": "Genesis 28:15",
-      "book": "Genesis",
-      "chapter": 28,
-      "verse": 15,
-      "translations": [
-        {
-          "version": "NIV",
-          "text": "I am with you and will watch over you wherever you go, and I will bring you back to this land. I will not leave you until I have done what I have promised you.”"
-        },
-        {
-          "version": "NLT",
-          "text": "What’s more, I am with you, and I will protect you wherever you go. One day I will bring you back to this land. I will not leave you until I have finished giving you everything I have promised you.”"
-        },
-        {
-          "version": "ESV",
-          "text": "Behold, I am with you and will keep you wherever you go, and will bring you back to this land. For I will not leave you until I have done what I have promised you.”"
-        },
-        {
-          "version": "NKJV",
-          "text": "Behold, I am with you and will keep you wherever you go, and will bring you back to this land; for I will not leave you until I have done what I have spoken to you.”"
-        }
-      ],
-      "greek_words": [],
-      "cross_references": [
-        {
-          "reference": "Matthew 28:20",
-          "text": "and teaching them to obey all that I have commanded you. And surely I am with you always, even to the end of the age.”"
-        },
-        {
-          "reference": "Hebrews 13:5",
-          "text": "Keep your lives free from the love of money and be content with what you have, for God has said: “Never will I leave you, never will I forsake you.”"
-        },
-        {
-          "reference": "Isaiah 41:10",
-          "text": "Do not fear, for I am with you; do not be afraid, for I am your God. I will strengthen you; I will surely help you; I will uphold you with My righteous right hand."
-        },
-        {
-          "reference": "Deuteronomy 31:6",
-          "text": "Be strong and courageous; do not be afraid or terrified of them, for it is the LORD your God who goes with you; He will never leave you nor forsake you.”"
-        },
-        {
-          "reference": "Joshua 1:5",
-          "text": "No one shall stand against you all the days of your life. As I was with Moses, so will I be with you; I will never leave you nor forsake you."
-        },
-        {
-          "reference": "Psalm 23:4",
-          "text": "Even though I walk through the valley of the shadow of death, I will fear no evil, for You are with me; Your rod and Your staff, they comfort me."
-        },
-        {
-          "reference": "Psalm 121:3-8",
-          "text": "He will not allow your foot to slip; your Protector will not slumber. / Behold, the Protector of Israel will neither slumber nor sleep. / The LORD is your keeper; the LORD is the shade on your right hand. ..."
-        },
-        {
-          "reference": "Isaiah 43:2",
-          "text": "When you pass through the waters, I will be with you; and when you go through the rivers, they will not overwhelm you. When you walk through the fire, you will not be scorched; the flames will not set you ablaze."
-        },
-        {
-          "reference": "Jeremiah 1:8",
-          "text": "Do not be afraid of them, for I am with you to deliver you,” declares the LORD."
-        },
-        {
-          "reference": "Exodus 3:12",
-          "text": "“I will surely be with you,” God said, “and this will be the sign to you that I have sent you: When you have brought the people out of Egypt, all of you will worship God on this mountain.”"
-        },
-        {
-          "reference": "Philippians 4:9",
-          "text": "Whatever you have learned or received or heard from me, or seen in me, put it into practice. And the God of peace will be with you."
-        },
-        {
-          "reference": "John 14:18",
-          "text": "I will not leave you as orphans; I will come to you."
-        },
-        {
-          "reference": "Romans 8:31",
-          "text": "What then shall we say in response to these things? If God is for us, who can be against us?"
-        },
-        {
-          "reference": "2 Corinthians 1:20",
-          "text": "For all the promises of God are “Yes” in Christ. And so through Him, our “Amen” is spoken to the glory of God."
-        },
-        {
-          "reference": "1 Kings 8:57",
-          "text": "May the LORD our God be with us, as He was with our fathers. May He never leave us or forsake us."
-        }
-      ]
-    },
-    {
-      "reference": "Genesis 28:16",
-      "book": "Genesis",
-      "chapter": 28,
-      "verse": 16,
-      "translations": [
-        {
-          "version": "NIV",
-          "text": "When Jacob awoke from his sleep, he thought, “Surely the LORD is in this place, and I was not aware of it.”"
-        },
-        {
-          "version": "NLT",
-          "text": "Then Jacob awoke from his sleep and said, “Surely the LORD is in this place, and I wasn’t even aware of it!”"
-        },
-        {
-          "version": "ESV",
-          "text": "Then Jacob awoke from his sleep and said, “Surely the LORD is in this place, and I did not know it.”"
-        },
-        {
-          "version": "NKJV",
-          "text": "Then Jacob awoke from his sleep and said, “Surely the LORD is in this place, and I did not know it. ”"
-        }
-      ],
-      "greek_words": [],
-      "cross_references": [
-        {
-          "reference": "Exodus 3:4-6",
-          "text": "When the LORD saw that he had gone over to look, God called out to him from within the bush, “Moses, Moses!” “Here I am,” he answered. / “Do not come any closer,” God said. “Take off your sandals, for the place where you are standing is holy ground.” / Then He said, “I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.” At this, Moses hid his face, for he was afraid to look at God."
-        },
-        {
-          "reference": "Judges 6:12-22",
-          "text": "And the angel of the LORD appeared to Gideon and said, “The LORD is with you, O mighty man of valor.” / “Please, my Lord,” Gideon replied, “if the LORD is with us, why has all this happened to us? And where are all His wonders of which our fathers told us, saying, ‘Has not the LORD brought us up out of Egypt?’ But now the LORD has forsaken us and delivered us into the hand of Midian.” / The LORD turned to him and said, “Go in the strength you have and save Israel from the hand of Midian. Am I not sending you?” ..."
-        },
-        {
-          "reference": "1 Kings 19:11-13",
-          "text": "Then the LORD said, “Go out and stand on the mountain before the LORD. Behold, the LORD is about to pass by.” And a great and mighty wind tore into the mountains and shattered the rocks before the LORD, but the LORD was not in the wind. After the wind there was an earthquake, but the LORD was not in the earthquake. / After the earthquake there was a fire, but the LORD was not in the fire. And after the fire came a still, small voice. / When Elijah heard it, he wrapped his face in his cloak and went out and stood at the mouth of the cave. Suddenly a voice came to him and said, “What are you doing here, Elijah?”"
-        },
-        {
-          "reference": "Isaiah 6:1-5",
-          "text": "In the year that King Uzziah died, I saw the Lord seated on a throne, high and exalted; and the train of His robe filled the temple. / Above Him stood seraphim, each having six wings: With two wings they covered their faces, with two they covered their feet, and with two they were flying. / And they were calling out to one another: “Holy, holy, holy is the LORD of Hosts; all the earth is full of His glory.” ..."
-        },
-        {
-          "reference": "Job 42:5-6",
-          "text": "My ears had heard of You, but now my eyes have seen You. / Therefore I despise myself, and I repent in dust and ashes.”"
-        },
-        {
-          "reference": "Psalm 139:7-10",
-          "text": "Where can I go to escape Your Spirit? Where can I flee from Your presence? / If I ascend to the heavens, You are there; if I make my bed in Sheol, You are there. / If I rise on the wings of the dawn, if I settle by the farthest sea, ..."
-        },
-        {
-          "reference": "Jeremiah 23:23-24",
-          "text": "“Am I only a God nearby,” declares the LORD, “and not a God far away?” / “Can a man hide in secret places where I cannot see him?” declares the LORD. “Do I not fill the heavens and the earth?” declares the LORD."
-        },
-        {
-          "reference": "2 Kings 6:17",
-          "text": "Then Elisha prayed, “O LORD, please open his eyes that he may see.” And the LORD opened the eyes of the young man, and he saw that the hills were full of horses and chariots of fire all around Elisha."
-        },
-        {
-          "reference": "Daniel 10:7-9",
-          "text": "Only I, Daniel, saw the vision; the men with me did not see it, but a great terror fell upon them, and they ran and hid themselves. / So I was left alone, gazing at this great vision. No strength remained in me; my face grew deathly pale, and I was powerless. / I heard the sound of his words, and as I listened, I fell into a deep sleep, with my face to the ground."
-        },
-        {
-          "reference": "Amos 3:7",
-          "text": "Surely the Lord GOD does nothing without revealing His plan to His servants the prophets."
-        },
-        {
-          "reference": "Matthew 28:20",
-          "text": "and teaching them to obey all that I have commanded you. And surely I am with you always, even to the end of the age.”"
-        },
-        {
-          "reference": "John 1:14",
-          "text": "The Word became flesh and made His dwelling among us. We have seen His glory, the glory of the one and only Son from the Father, full of grace and truth."
-        },
-        {
-          "reference": "John 14:21",
-          "text": "Whoever has My commandments and keeps them is the one who loves Me. The one who loves Me will be loved by My Father, and I will love him and reveal Myself to him.”"
-        },
-        {
-          "reference": "John 20:14-16",
-          "text": "When she had said this, she turned around and saw Jesus standing there. But she did not recognize that it was Jesus. / “Woman, why are you weeping?” Jesus asked. “Whom are you seeking?” Thinking He was the gardener, she said, “Sir, if you have carried Him off, tell me where you have put Him, and I will get Him.” / Jesus said to her, “Mary.” She turned and said to Him in Hebrew, “Rabboni!” (which means “Teacher”)."
-        },
-        {
-          "reference": "Acts 9:3-5",
-          "text": "As Saul drew near to Damascus on his journey, suddenly a light from heaven flashed around him. / He fell to the ground and heard a voice say to him, “Saul, Saul, why do you persecute Me?” / “Who are You, Lord?” Saul asked. “I am Jesus, whom you are persecuting,” He replied."
-        }
-      ]
-    },
-    {
-      "reference": "Genesis 28:17",
-      "book": "Genesis",
-      "chapter": 28,
-      "verse": 17,
-      "translations": [
-        {
-          "version": "NIV",
-          "text": "He was afraid and said, “How awesome is this place! This is none other than the house of God; this is the gate of heaven.”"
-        },
-        {
-          "version": "NLT",
-          "text": "But he was also afraid and said, “What an awesome place this is! It is none other than the house of God, the very gateway to heaven!”"
-        },
-        {
-          "version": "ESV",
-          "text": "And he was afraid and said, “How awesome is this place! This is none other than the house of God, and this is the gate of heaven.”"
-        },
-        {
-          "version": "NKJV",
-          "text": "And he was afraid and said, “How awesome is this place! This is none other than the house of God, and this is the gate of heaven!”"
-        }
-      ],
-      "greek_words": [],
-      "cross_references": [
-        {
-          "reference": "John 1:51",
-          "text": "Then He declared, “Truly, truly, I tell you, you will all see heaven open and the angels of God ascending and descending on the Son of Man.”"
-        },
-        {
-          "reference": "Matthew 16:18",
-          "text": "And I tell you that you are Peter, and on this rock I will build My church, and the gates of Hades will not prevail against it."
-        },
-        {
-          "reference": "Revelation 21:2-3",
-          "text": "I saw the holy city, the new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband. / And I heard a loud voice from the throne saying: “Behold, the dwelling place of God is with man, and He will dwell with them. They will be His people, and God Himself will be with them as their God."
-        },
-        {
-          "reference": "Hebrews 12:22-24",
-          "text": "Instead, you have come to Mount Zion, to the city of the living God, the heavenly Jerusalem. You have come to myriads of angels / in joyful assembly, to the congregation of the firstborn, enrolled in heaven. You have come to God the Judge of all, to the spirits of the righteous made perfect, / to Jesus the mediator of a new covenant, and to the sprinkled blood that speaks a better word than the blood of Abel."
-        },
-        {
-          "reference": "Psalm 84:1-2",
-          "text": "For the choirmaster. According to Gittith. A Psalm of the sons of Korah. How lovely is Your dwelling place, O LORD of Hosts! / My soul longs, even faints, for the courts of the LORD; my heart and my flesh cry out for the living God."
-        },
-        {
-          "reference": "Isaiah 66:1",
-          "text": "This is what the LORD says: “Heaven is My throne, and earth is My footstool. What kind of house will you build for Me? Or where will My place of repose be?"
-        },
-        {
-          "reference": "1 Kings 8:27-30",
-          "text": "But will God indeed dwell upon the earth? The heavens, even the highest heavens, cannot contain You, much less this temple I have built. / Yet regard the prayer and plea of Your servant, O LORD my God, so that You may hear the cry and the prayer that Your servant is praying before You today. / May Your eyes be open toward this temple night and day, toward the place of which You said, ‘My Name shall be there,’ so that You may hear the prayer that Your servant prays toward this place. ..."
-        },
-        {
-          "reference": "Exodus 3:5",
-          "text": "“Do not come any closer,” God said. “Take off your sandals, for the place where you are standing is holy ground.”"
-        },
-        {
-          "reference": "1 Timothy 3:15",
-          "text": "in case I am delayed, so that you will know how each one must conduct himself in God’s household, which is the church of the living God, the pillar and foundation of the truth."
-        },
-        {
-          "reference": "Revelation 3:12",
-          "text": "The one who overcomes I will make a pillar in the temple of My God, and he will never again leave it. Upon him I will write the name of My God, and the name of the city of My God (the new Jerusalem that comes down out of heaven from My God), and My new name."
-        },
-        {
-          "reference": "Psalm 24:3-4",
-          "text": "Who may ascend the hill of the LORD? Who may stand in His holy place? / He who has clean hands and a pure heart, who does not lift up his soul to an idol or swear deceitfully."
-        },
-        {
-          "reference": "Isaiah 57:15",
-          "text": "For thus says the One who is high and lifted up, who inhabits eternity, whose name is Holy: “I dwell in a high and holy place, and with the oppressed and humble in spirit, to restore the spirit of the lowly and revive the heart of the contrite."
-        },
-        {
-          "reference": "Ezekiel 43:12",
-          "text": "This is the law of the temple: All its surrounding territory on top of the mountain will be most holy. Yes, this is the law of the temple."
-        },
-        {
-          "reference": "1 Peter 2:5",
-          "text": "you also, like living stones, are being built into a spiritual house to be a holy priesthood, offering spiritual sacrifices acceptable to God through Jesus Christ."
-        },
-        {
-          "reference": "Zechariah 8:3",
-          "text": "This is what the LORD says: “I will return to Zion and dwell in Jerusalem. Then Jerusalem will be called the City of Truth, and the mountain of the LORD of Hosts will be called the Holy Mountain.”"
-        }
-      ]
-    },
-    {
-      "reference": "Genesis 28:18",
-      "book": "Genesis",
-      "chapter": 28,
-      "verse": 18,
-      "translations": [
-        {
-          "version": "NIV",
-          "text": "Early the next morning Jacob took the stone he had placed under his head and set it up as a pillar and poured oil on top of it."
-        },
-        {
-          "version": "NLT",
-          "text": "The next morning Jacob got up very early. He took the stone he had rested his head against, and he set it upright as a memorial pillar. Then he poured olive oil over it."
-        },
-        {
-          "version": "ESV",
-          "text": "So early in the morning Jacob took the stone that he had put under his head and set it up for a pillar and poured oil on the top of it."
-        },
-        {
-          "version": "NKJV",
-          "text": "Then Jacob rose early in the morning, and took the stone that he had put at his head, set it up as a pillar, and poured oil on top of it."
-        }
-      ],
-      "greek_words": [],
-      "cross_references": [
-        {
-          "reference": "Exodus 24:4",
-          "text": "And Moses wrote down all the words of the LORD. Early the next morning he got up and built an altar at the base of the mountain, along with twelve pillars for the twelve tribes of Israel."
-        },
-        {
-          "reference": "1 Samuel 7:12",
-          "text": "Afterward, Samuel took a stone and set it up between Mizpah and Shen. He named it Ebenezer, saying, “Thus far the LORD has helped us.”"
-        },
-        {
-          "reference": "Joshua 4:20-24",
-          "text": "And there at Gilgal Joshua set up the twelve stones they had taken from the Jordan. / Then Joshua said to the Israelites, “In the future, when your children ask their fathers, ‘What is the meaning of these stones?’ / you are to tell them, ‘Israel crossed the Jordan on dry ground.’ ..."
-        },
-        {
-          "reference": "Judges 6:20-24",
-          "text": "And the angel of God said to him, “Take the meat and the unleavened bread, lay them on this rock, and pour out the broth.” And Gideon did so. / Then the angel of the LORD extended the tip of the staff that was in his hand and touched the meat and the unleavened bread. And fire flared from the rock and consumed the meat and the unleavened bread. Then the angel of the LORD vanished from his sight. / When Gideon realized that it was the angel of the LORD, he said, “Oh no, Lord GOD! I have seen the angel of the LORD face to face!” ..."
-        },
-        {
-          "reference": "1 Kings 18:31-32",
-          "text": "And Elijah took twelve stones, one for each tribe of the sons of Jacob, to whom the word of the LORD had come and said, “Israel shall be your name.” / And with the stones, Elijah built an altar in the name of the LORD. Then he dug a trench around the altar large enough to hold two seahs of seed."
-        },
-        {
-          "reference": "2 Samuel 18:18",
-          "text": "During his lifetime, Absalom had set up for himself a pillar in the King’s Valley, for he had said, “I have no son to preserve the memory of my name.” So he gave the pillar his name, and to this day it is called Absalom’s Monument."
-        },
-        {
-          "reference": "2 Kings 23:17",
-          "text": "Then the king asked, “What is this monument I see?” And the men of the city replied, “It is the tomb of the man of God who came from Judah and proclaimed these things that you have done to the altar of Bethel.”"
-        },
-        {
-          "reference": "Hosea 12:4",
-          "text": "Yes, he struggled with the angel and prevailed; he wept and sought His favor; he found Him at Bethel and spoke with Him there—"
-        },
-        {
-          "reference": "Isaiah 19:19",
-          "text": "In that day there will be an altar to the LORD in the center of the land of Egypt, and a pillar to the LORD near her border."
-        },
-        {
-          "reference": "1 Chronicles 16:26",
-          "text": "For all the gods of the nations are idols, but it is the LORD who made the heavens."
-        },
-        {
-          "reference": "Matthew 16:18",
-          "text": "And I tell you that you are Peter, and on this rock I will build My church, and the gates of Hades will not prevail against it."
-        },
-        {
-          "reference": "John 1:51",
-          "text": "Then He declared, “Truly, truly, I tell you, you will all see heaven open and the angels of God ascending and descending on the Son of Man.”"
-        },
-        {
-          "reference": "Acts 7:16",
-          "text": "Their bones were carried back to Shechem and placed in the tomb that Abraham had bought from the sons of Hamor at Shechem for a price he paid in silver."
-        },
-        {
-          "reference": "Romans 9:33",
-          "text": "as it is written: “See, I lay in Zion a stone of stumbling and a rock of offense; and the one who believes in Him will never be put to shame.”"
-        },
-        {
-          "reference": "1 Peter 2:4-8",
-          "text": "As you come to Him, the living stone, rejected by men but chosen and precious in God’s sight, / you also, like living stones, are being built into a spiritual house to be a holy priesthood, offering spiritual sacrifices acceptable to God through Jesus Christ. / For it stands in Scripture: “See, I lay in Zion a stone, a chosen and precious cornerstone; and the one who believes in Him will never be put to shame.” ..."
-        }
-      ]
-    },
-    {
-      "reference": "Genesis 28:19",
-      "book": "Genesis",
-      "chapter": 28,
-      "verse": 19,
-      "translations": [
-        {
-          "version": "NIV",
-          "text": "He called that place Bethel, though the city used to be called Luz."
-        },
-        {
-          "version": "NLT",
-          "text": "He named that place Bethel (which means “house of God”), although it was previously called Luz."
-        },
-        {
-          "version": "ESV",
-          "text": "He called the name of that place Bethel, but the name of the city was Luz at the first."
-        },
-        {
-          "version": "NKJV",
-          "text": "And he called the name of that place Bethel; but the name of that city had been Luz previously."
-        }
-      ],
-      "greek_words": [],
-      "cross_references": [
-        {
-          "reference": "Genesis 35:6-7",
-          "text": "So Jacob and everyone with him arrived in Luz (that is, Bethel) in the land of Canaan. / There Jacob built an altar, and he called that place El-bethel, because it was there that God had revealed Himself to Jacob as he fled from his brother."
-        },
-        {
-          "reference": "Genesis 12:8",
-          "text": "From there Abram moved on to the hill country east of Bethel and pitched his tent, with Bethel to the west and Ai to the east. There he built an altar to the LORD, and he called on the name of the LORD."
-        },
-        {
-          "reference": "Genesis 13:3-4",
-          "text": "From the Negev he journeyed from place to place toward Bethel, until he came to the place between Bethel and Ai where his tent had formerly been pitched, / to the site where he had built the altar. And there Abram called on the name of the LORD."
-        },
-        {
-          "reference": "Genesis 31:13",
-          "text": "I am the God of Bethel, where you anointed the pillar and made a solemn vow to Me. Now get up, leave this land at once, and return to your native land.’”"
-        },
-        {
-          "reference": "Genesis 35:1",
-          "text": "Then God said to Jacob, “Arise, go up to Bethel, and settle there. Build an altar there to the God who appeared to you when you fled from your brother Esau.”"
-        },
-        {
-          "reference": "Judges 20:18",
-          "text": "The Israelites set out, went up to Bethel, and inquired of God, “Who of us shall go up first to fight against the Benjamites?” “Judah will be first,” the LORD replied."
-        },
-        {
-          "reference": "Judges 20:26-28",
-          "text": "Then the Israelites, all the people, went up to Bethel, where they sat weeping before the LORD. That day they fasted until evening and presented burnt offerings and peace offerings to the LORD. / And the Israelites inquired of the LORD. (In those days the ark of the covenant of God was there, / and Phinehas son of Eleazar, the son of Aaron, served before it.) The Israelites asked, “Should we again go out to battle against our brothers the Benjamites, or should we stop?” The LORD answered, “Fight, for tomorrow I will deliver them into your hand.”"
-        },
-        {
-          "reference": "1 Samuel 7:16",
-          "text": "Every year he would go on a circuit from Bethel to Gilgal to Mizpah, judging Israel in all these places."
-        },
-        {
-          "reference": "1 Samuel 10:3",
-          "text": "Then you will go on from there until you come to the Oak of Tabor. Three men going up to God at Bethel will meet you there, one carrying three young goats, another carrying three loaves of bread, and another carrying a skin of wine."
-        },
-        {
-          "reference": "Hosea 12:4",
-          "text": "Yes, he struggled with the angel and prevailed; he wept and sought His favor; he found Him at Bethel and spoke with Him there—"
-        },
-        {
-          "reference": "John 1:51",
-          "text": "Then He declared, “Truly, truly, I tell you, you will all see heaven open and the angels of God ascending and descending on the Son of Man.”"
-        },
-        {
-          "reference": "John 4:5-6",
-          "text": "So He came to a town of Samaria called Sychar, near the plot of ground that Jacob had given to his son Joseph. / Since Jacob’s well was there, Jesus, weary from His journey, sat down by the well. It was about the sixth hour."
-        },
-        {
-          "reference": "Matthew 3:9",
-          "text": "And do not presume to say to yourselves, ‘We have Abraham as our father.’ For I tell you that out of these stones God can raise up children for Abraham."
-        },
-        {
-          "reference": "Matthew 8:20",
-          "text": "Jesus replied, “Foxes have dens and birds of the air have nests, but the Son of Man has no place to lay His head.”"
-        },
-        {
-          "reference": "Matthew 16:18",
-          "text": "And I tell you that you are Peter, and on this rock I will build My church, and the gates of Hades will not prevail against it."
-        }
-      ]
-    },
-    {
-      "reference": "Genesis 28:20",
-      "book": "Genesis",
-      "chapter": 28,
-      "verse": 20,
-      "translations": [
-        {
-          "version": "NIV",
-          "text": "Then Jacob made a vow, saying, “If God will be with me and will watch over me on this journey I am taking and will give me food to eat and clothes to wear"
-        },
-        {
-          "version": "NLT",
-          "text": "Then Jacob made this vow: “If God will indeed be with me and protect me on this journey, and if he will provide me with food and clothing,"
-        },
-        {
-          "version": "ESV",
-          "text": "Then Jacob made a vow, saying, “If God will be with me and will keep me in this way that I go, and will give me bread to eat and clothing to wear,"
-        },
-        {
-          "version": "NKJV",
-          "text": "Then Jacob made a vow, saying, “If God will be with me, and keep me in this way that I am going, and give me bread to eat and clothing to put on,"
-        }
-      ],
-      "greek_words": [],
-      "cross_references": [
-        {
-          "reference": "Genesis 31:13",
-          "text": "I am the God of Bethel, where you anointed the pillar and made a solemn vow to Me. Now get up, leave this land at once, and return to your native land.’”"
-        },
-        {
-          "reference": "Genesis 35:3",
-          "text": "Then let us arise and go to Bethel. I will build an altar there to God, who answered me in my day of distress. He has been with me wherever I have gone.”"
-        },
-        {
-          "reference": "Judges 11:30-31",
-          "text": "Jephthah made this vow to the LORD: “If indeed You will deliver the Ammonites into my hand, / then whatever comes out the door of my house to greet me on my triumphant return from the Ammonites will belong to the LORD, and I will offer it up as a burnt offering.”"
-        },
-        {
-          "reference": "1 Samuel 1:11",
-          "text": "And she made a vow, saying, “O LORD of Hosts, if only You will look upon the affliction of Your maidservant and remember me, not forgetting Your maidservant but giving her a son, then I will dedicate him to the LORD all the days of his life, and no razor shall ever touch his head.”"
-        },
-        {
-          "reference": "2 Samuel 15:8",
-          "text": "For your servant made a vow while dwelling in Geshur of Aram, saying: ‘If indeed the LORD brings me back to Jerusalem, I will worship the LORD in Hebron.’”"
-        },
-        {
-          "reference": "Psalm 66:13-14",
-          "text": "I will enter Your house with burnt offerings; I will fulfill my vows to You— / the vows that my lips promised and my mouth spoke in my distress."
-        },
-        {
-          "reference": "Psalm 116:14",
-          "text": "I will fulfill my vows to the LORD in the presence of all His people."
-        },
-        {
-          "reference": "Ecclesiastes 5:4-5",
-          "text": "When you make a vow to God, do not delay in fulfilling it, because He takes no pleasure in fools. Fulfill your vow. / It is better not to vow than to make a vow and not fulfill it."
-        },
-        {
-          "reference": "Numbers 21:2",
-          "text": "So Israel made a vow to the LORD: “If You will deliver this people into our hands, we will devote their cities to destruction.”"
-        },
-        {
-          "reference": "Deuteronomy 23:21-23",
-          "text": "If you make a vow to the LORD your God, do not be slow to keep it, because He will surely require it of you, and you will be guilty of sin. / But if you refrain from making a vow, you will not be guilty of sin. / Be careful to follow through on what comes from your lips, because you have freely vowed to the LORD your God with your own mouth."
-        },
-        {
-          "reference": "Matthew 5:33",
-          "text": "Again, you have heard that it was said to the ancients, ‘Do not break your oath, but fulfill your vows to the Lord.’"
-        },
-        {
-          "reference": "Matthew 6:31-33",
-          "text": "Therefore do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’ / For the Gentiles strive after all these things, and your heavenly Father knows that you need them. / But seek first the kingdom of God and His righteousness, and all these things will be added unto you."
-        },
-        {
-          "reference": "Matthew 7:7-11",
-          "text": "Ask, and it will be given to you; seek, and you will find; knock, and the door will be opened to you. / For everyone who asks receives; he who seeks finds; and to him who knocks, the door will be opened. / Which of you, if his son asks for bread, will give him a stone? ..."
-        },
-        {
-          "reference": "Luke 12:29-31",
-          "text": "And do not be concerned about what you will eat or drink. Do not worry about it. / For the Gentiles of the world strive after all these things, and your Father knows that you need them. / But seek His kingdom, and these things will be added unto you."
-        },
-        {
-          "reference": "John 14:13-14",
-          "text": "And I will do whatever you ask in My name, so that the Father may be glorified in the Son. / If you ask Me for anything in My name, I will do it."
-        }
-      ]
-    },
-    {
-      "reference": "Genesis 28:21",
-      "book": "Genesis",
-      "chapter": 28,
-      "verse": 21,
-      "translations": [
-        {
-          "version": "NIV",
-          "text": "so that I return safely to my father’s household, then the LORD will be my God"
-        },
-        {
-          "version": "NLT",
-          "text": "and if I return safely to my father’s home, then the LORD will certainly be my God."
-        },
-        {
-          "version": "ESV",
-          "text": "so that I come again to my father’s house in peace, then the LORD shall be my God,"
-        },
-        {
-          "version": "NKJV",
-          "text": "so that I come back to my father’s house in peace, then the LORD shall be my God."
-        }
-      ],
-      "greek_words": [],
-      "cross_references": [
-        {
-          "reference": "Genesis 31:3",
-          "text": "Then the LORD said to Jacob, “Go back to the land of your fathers and to your kindred, and I will be with you.”"
-        },
-        {
-          "reference": "Genesis 32:9-12",
-          "text": "Then Jacob declared, “O God of my father Abraham, God of my father Isaac, the LORD who told me, ‘Go back to your country and to your kindred, and I will make you prosper,’ / I am unworthy of all the kindness and faithfulness You have shown Your servant. Indeed, with only my staff I came across the Jordan, but now I have become two camps. / Please deliver me from the hand of my brother Esau, for I am afraid that he may come and attack me and the mothers and children with me. ..."
-        },
-        {
-          "reference": "Genesis 35:3",
-          "text": "Then let us arise and go to Bethel. I will build an altar there to God, who answered me in my day of distress. He has been with me wherever I have gone.”"
-        },
-        {
-          "reference": "Genesis 48:15-16",
-          "text": "Then he blessed Joseph and said: “May the God before whom my fathers Abraham and Isaac walked, the God who has been my shepherd all my life to this day, / the angel who has redeemed me from all harm—may He bless these boys. And may they be called by my name and the names of my fathers Abraham and Isaac, and may they grow into a multitude upon the earth.”"
-        },
-        {
-          "reference": "Exodus 3:12",
-          "text": "“I will surely be with you,” God said, “and this will be the sign to you that I have sent you: When you have brought the people out of Egypt, all of you will worship God on this mountain.”"
-        },
-        {
-          "reference": "Exodus 13:21-22",
-          "text": "And the LORD went before them in a pillar of cloud to guide their way by day, and in a pillar of fire to give them light by night, so that they could travel by day or night. / Neither the pillar of cloud by day nor the pillar of fire by night left its place before the people."
-        },
-        {
-          "reference": "Deuteronomy 26:17-19",
-          "text": "Today you have proclaimed that the LORD is your God and that you will walk in His ways, keep His statutes and commandments and ordinances, and listen to His voice. / And today the LORD has proclaimed that you are His people and treasured possession as He promised, that you are to keep all His commandments, / that He will set you high in praise and name and honor above all the nations He has made, and that you will be a holy people to the LORD your God, as He has promised."
-        },
-        {
-          "reference": "Joshua 24:17",
-          "text": "For the LORD our God brought us and our fathers out of the land of Egypt, out of the house of slavery, and performed these great signs before our eyes. He also protected us throughout our journey and among all the nations through which we traveled."
-        },
-        {
-          "reference": "1 Samuel 1:11",
-          "text": "And she made a vow, saying, “O LORD of Hosts, if only You will look upon the affliction of Your maidservant and remember me, not forgetting Your maidservant but giving her a son, then I will dedicate him to the LORD all the days of his life, and no razor shall ever touch his head.”"
-        },
-        {
-          "reference": "2 Samuel 15:8",
-          "text": "For your servant made a vow while dwelling in Geshur of Aram, saying: ‘If indeed the LORD brings me back to Jerusalem, I will worship the LORD in Hebron.’”"
-        },
-        {
-          "reference": "Psalm 23:1-6",
-          "text": "A Psalm of David. The LORD is my shepherd; I shall not want. / He makes me lie down in green pastures; He leads me beside quiet waters. / He restores my soul; He guides me in the paths of righteousness for the sake of His name. ..."
-        },
-        {
-          "reference": "Psalm 121:7-8",
-          "text": "The LORD will guard you from all evil; He will preserve your soul. / The LORD will watch over your coming and going, both now and forevermore."
-        },
-        {
-          "reference": "Isaiah 41:10",
-          "text": "Do not fear, for I am with you; do not be afraid, for I am your God. I will strengthen you; I will surely help you; I will uphold you with My righteous right hand."
-        },
-        {
-          "reference": "Isaiah 43:1-2",
-          "text": "But now, this is what the LORD says—He who created you, O Jacob, and He who formed you, O Israel: “Do not fear, for I have redeemed you; I have called you by your name; you are Mine! / When you pass through the waters, I will be with you; and when you go through the rivers, they will not overwhelm you. When you walk through the fire, you will not be scorched; the flames will not set you ablaze."
-        },
-        {
-          "reference": "Jeremiah 31:33",
-          "text": "“But this is the covenant I will make with the house of Israel after those days, declares the LORD. I will put My law in their minds and inscribe it on their hearts. And I will be their God, and they will be My people."
-        }
-      ]
-    },
-    {
-      "reference": "Genesis 28:22",
-      "book": "Genesis",
-      "chapter": 28,
-      "verse": 22,
-      "translations": [
-        {
-          "version": "NIV",
-          "text": "and this stone that I have set up as a pillar will be God’s house, and of all that you give me I will give you a tenth.”"
-        },
-        {
-          "version": "NLT",
-          "text": "And this memorial pillar I have set up will become a place for worshiping God, and I will present to God a tenth of everything he gives me.”"
-        },
-        {
-          "version": "ESV",
-          "text": "and this stone, which I have set up for a pillar, shall be God’s house. And of all that you give me I will give a full tenth to you.”"
-        },
-        {
-          "version": "NKJV",
-          "text": "And this stone which I have set as a pillar shall be God’s house, and of all that You give me I will surely give a tenth to You.”"
-        }
-      ],
-      "greek_words": [],
-      "cross_references": [
-        {
-          "reference": "Malachi 3:10",
-          "text": "Bring the full tithe into the storehouse, so that there may be food in My house. Test Me in this,” says the LORD of Hosts. “See if I will not open the windows of heaven and pour out for you blessing without measure."
-        },
-        {
-          "reference": "Leviticus 27:30",
-          "text": "Thus any tithe from the land, whether from the seed of the land or the fruit of the trees, belongs to the LORD; it is holy to the LORD."
-        },
-        {
-          "reference": "Deuteronomy 14:22-23",
-          "text": "You must be sure to set aside a tenth of all the produce brought forth each year from your fields. / And you are to eat a tenth of your grain, new wine, and oil, and the firstborn of your herds and flocks, in the presence of the LORD your God at the place He will choose as a dwelling for His Name, so that you may learn to fear the LORD your God always."
-        },
-        {
-          "reference": "Numbers 18:21",
-          "text": "Behold, I have given to the Levites all the tithes in Israel as an inheritance in return for the work they do, the service of the Tent of Meeting."
-        },
-        {
-          "reference": "2 Chronicles 31:5-6",
-          "text": "As soon as the order went out, the Israelites generously provided the firstfruits of the grain, new wine, oil, and honey, and of all the produce of the field, and they brought in an abundance—a tithe of everything. / And the Israelites and Judahites who lived in the cities of Judah also brought a tithe of their herds and flocks and a tithe of the holy things consecrated to the LORD their God, and they laid them in large heaps."
-        },
-        {
-          "reference": "Nehemiah 10:37-38",
-          "text": "Moreover, we will bring to the priests at the storerooms of the house of our God the firstfruits of our dough, of our grain offerings, of the fruit of all our trees, and of our new wine and oil. A tenth of our produce belongs to the Levites, so that they shall receive tithes in all the towns where we labor. / A priest of Aaron’s line is to accompany the Levites when they collect the tenth, and the Levites are to bring a tenth of these tithes to the storerooms of the treasury in the house of our God."
-        },
-        {
-          "reference": "Proverbs 3:9-10",
-          "text": "Honor the LORD with your wealth and with the firstfruits of all your crops; / then your barns will be filled with plenty, and your vats will overflow with new wine."
-        },
-        {
-          "reference": "Hebrews 7:1-2",
-          "text": "This Melchizedek was king of Salem and priest of God Most High. He met Abraham returning from the slaughter of the kings and blessed him, / and Abraham apportioned to him a tenth of everything. First, his name means “king of righteousness.” Then also, “king of Salem” means “king of peace.”"
-        },
-        {
-          "reference": "Matthew 23:23",
-          "text": "Woe to you, scribes and Pharisees, you hypocrites! You pay tithes of mint, dill, and cumin. But you have disregarded the weightier matters of the law: justice, mercy, and faithfulness. You should have practiced the latter, without neglecting the former."
-        },
-        {
-          "reference": "Luke 11:42",
-          "text": "Woe to you Pharisees! For you pay tithes of mint, rue, and every herb, but you disregard justice and the love of God. You should have practiced the latter without neglecting the former."
-        },
-        {
-          "reference": "1 Corinthians 16:2",
-          "text": "On the first day of every week, each of you should set aside a portion of his income, saving it up, so that when I come no collections will be needed."
-        },
-        {
-          "reference": "2 Corinthians 9:7",
-          "text": "Each one should give what he has decided in his heart to give, not out of regret or compulsion. For God loves a cheerful giver."
-        },
-        {
-          "reference": "Acts 7:48-50",
-          "text": "However, the Most High does not dwell in houses made by human hands. As the prophet says: / ‘Heaven is My throne and the earth is My footstool. What kind of house will you build for Me, says the Lord, or where will My place of repose be? / Has not My hand made all these things?’"
-        },
-        {
-          "reference": "Exodus 23:19",
-          "text": "Bring the best of the firstfruits of your soil to the house of the LORD your God. You must not cook a young goat in its mother’s milk."
-        },
-        {
-          "reference": "Deuteronomy 26:1-2",
-          "text": "When you enter the land that the LORD your God is giving you as an inheritance, and you take possession of it and settle in it, / you are to take some of the firstfruits of all your produce from the soil of the land that the LORD your God is giving you and put them in a basket. Then go to the place the LORD your God will choose as a dwelling for His Name,"
-        }
-      ]
-    }
-  ]
-}
